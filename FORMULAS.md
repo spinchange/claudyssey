@@ -78,6 +78,13 @@ First-use references are book.line of this translation.
 | ἀμφίαλος Ἰθάκη | sea-circled Ithaca | 1.386 |
 | νῆσος ἀμφιρύτη | sea-ringed island | 1.50 |
 | Ἰθάκη κραναή / παιπαλόεσσα Σάμος | rocky Ithaca / rugged Samos | 1.247 |
+| πτολίπορθος Ὀδυσσεύς | Odysseus, sacker of cities | 8.3 |
+| ἱερὸν μένος Ἀλκινόοιο | the sacred strength of Alcinous | 7.167 |
+| ἐρίηρος ἀοιδός | the trusted singer | 1.346 |
+| περικλυτὸς ἀμφιγυήεις | the famous god of the two strong arms | 8.300 |
+| Ἥφαιστος πολύφρων | Hephaestus of the many designs | 8.297 |
+| φιλομμειδὴς Ἀφροδίτη | laughter-loving Aphrodite | 8.362 |
+| Φαίηκες δολιχήρετμοι, ναυσίκλυτοι ἄνδρες | the Phaeacians of the long oars, men famed for ships | 8.191 |
 
 ## Speech-introduction formulas
 
@@ -115,6 +122,9 @@ First-use references are book.line of this translation.
 | μαῖα | Nurse (to Eurycleia) | 2.349 |
 | νύμφα φίλη | Dear bride (Eurycleia to Penelope) | 4.743 |
 | πάππα φίλε | Papa dear | 6.57 |
+| κέκλυτε, Φαιήκων ἡγήτορες ἠδὲ μέδοντες | Hear me, leaders and counselors of the Phaeacians | 7.186 |
+| Ἀλκίνοε κρεῖον, πάντων ἀριδείκετε λαῶν | Lord Alcinous, most renowned among all peoples | 8.382 (recurs 9.2) |
+| τὸν δʼ ἄρʼ ὑπόδρα ἰδὼν προσέφη … | Then, glaring from under his brows, … replied: | 8.165 |
 
 ## Recurring whole lines and refrains
 
