@@ -241,10 +241,16 @@ First-use references are book.line of this translation.
   21.331–342 clothing promise armed (javelin + sword added); 21.350–353
   (= 1.356–359 with τόξον for μῦθος); 21.354–358 (= 1.360–364, last time);
   21.386 wingless word 4th (= 17.57).
-- 22 fulfills: Antinous first arrow (21.98–100, curse 17.475–476); Eurymachus'
-  gossip-script 21.324–329 comes true; Centaur mutilation parable 21.295–304 →
-  Melanthius 22.474ff; Theoclymenus' vision 20.351–357 clause by clause;
-  Leodes begs 22.310ff per 21.144–147.
+- Done in 22: Antinous first arrow, cup in hand (per 21.98–100 + curse
+  17.475–476); Eurymachus dies over the table (18.384–386 inverted);
+  Amphinomus by Telemachus' spear (= 16.155–156); Ctesippus' ox-hoof receipt
+  22.290 (ξεινήϊον = 20.296); Melanthius mutilated (= Centaur parable
+  21.299–302 + Echetus catalogue 18.86–87); Leodes' plea cites 21.144–147;
+  Athena as swallow on the roof-beam 22.240 (= bowstring 21.411); pale terror
+  22.42 (= 11.43 χλωρὸν δέος); wingless word 5th and last 22.398; "It is
+  unholy to glory over slaughtered men" 22.412; sulfur = "cure of evils."
+- 23: recognition by the BED; Murray omits 23.49 (skip number);
+  23.156–162 beautification = 6.229–235 verbatim; Penelope's test.
 
 ## Word-policy notes
 
