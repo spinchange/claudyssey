@@ -221,7 +221,13 @@ First-use references are book.line of this translation.
   (= 4.625–627); 17.427–441 (= 14.258–272 Egypt tale); 17.565–566 iron sky
   (= 15.328–329); 18.108–110 (= 17.197–198 + 466 pouch/threshold); 18.209–211
   veil entrance (= 1.333–335); 18.235 wish-formula (= 4.341/17.132); 18.362–364
-  (= 17.226–228 person-shifted); 18.390–393 (= 18.330–333 Melantho verbatim).
+  (= 17.226–228 person-shifted); 18.390–393 (= 18.330–333 Melantho verbatim);
+  19.5–13 smoke-speech (= 16.286–294); 19.29 wingless word (= 17.57); 19.54
+  (= 17.37); 19.139–156 web story first-person (= 2.94–110); 19.288–299
+  Thesprotia (= 14.327–335); 19.303–307 oath + moon-dating (= 14.158–162);
+  19.309–311 blessing 3rd time (= 15.536–538); 19.454 boar dies in Irus' line
+  (= 18.98); 19.550 (= 4.340/17.131); 19.558 (= 17.548); 19.595–597 bed of
+  groaning (= 17.102–104); 19.602–604 (= 1.362–364).
 
 ## Word-policy notes
 
