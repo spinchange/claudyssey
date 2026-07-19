@@ -227,7 +227,14 @@ First-use references are book.line of this translation.
   Thesprotia (= 14.327–335); 19.303–307 oath + moon-dating (= 14.158–162);
   19.309–311 blessing 3rd time (= 15.536–538); 19.454 boar dies in Irus' line
   (= 18.98); 19.550 (= 4.340/17.131); 19.558 (= 17.548); 19.595–597 bed of
-  groaning (= 17.102–104); 19.602–604 (= 1.362–364).
+  groaning (= 17.102–104); 19.602–604 (= 1.362–364); 20.120 kledon-joy
+  (= 18.117); 20.199–200 Philoetius greets in Amphinomus' toast (= 18.122–123);
+  20.230–231 oath 3rd swearing (= 14.158–159); 20.268–269 (= 18.410–411);
+  20.284–286 Athena's goad (= 18.346–348); 20.309–310 (= 18.228–229);
+  20.317–319 son repeats father's words (= 16.107–109); 20.322–325
+  (= 18.414–417); 20.45 σχέτλιε "Hard man!" (= 12.116/13.293).
+- 21.308 Echetus again (= 18.85); 22.285ff Ctesippus paid for the ox-hoof;
+  22 fulfills Theoclymenus' vision 20.351–357 clause by clause.
 
 ## Word-policy notes
 
