@@ -26,8 +26,22 @@ repository). Full polytonic ancient Greek with standard vulgate line numbering.
 
 ## Translation
 
-- `translation/book-01.md` … — one file per book, one English line per Greek
-  line, keyed to the same line numbers.
+**Complete: all 24 books, 12,107 lines — every line verified one-to-one
+against the Greek.**
+
+- `translation/book-01.md` … `book-24.md` — one file per book, one English
+  line per Greek line, keyed to the same line numbers. Each book carries a
+  scholarly annotation apparatus (1,260 notes across the poem) as markdown
+  footnotes keyed to line numbers.
+- `FORMULAS.md` — the authoritative register of fixed renderings: Homer's
+  repeated epithets, speech-formulas, and whole-line refrains recur verbatim
+  in the English wherever the Greek repeats, and this file records every
+  fixed choice and cross-book echo.
+
+The voice is a loose five-to-six-beat unrhymed line. Names use familiar
+Latinate spellings. δμώς/δμῳή are rendered "slave/slave-woman" throughout;
+untranslatable puns are shadowed rather than dropped (the name-pun ὀδυσσάμενος
+appears as "Odysseus, Man at Odds").
 
 ## Licensing
 

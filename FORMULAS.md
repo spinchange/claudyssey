@@ -257,10 +257,15 @@ First-use references are book.line of this translation.
   ("the rite of their own old bed" — Alexandrian end-point); δαιμονίη/δαιμόνιε
   traded as "Strange woman!/Strange man!" (166/174); Murray omits 23.49
   (numbering skips).
-- 24: second Nekyia (Achilles+Agamemnon; Amphimedon's shade retells the plot);
-  Laertes — orchard-trees σῆμα + scar's 4th showing 24.331; Eupeithes' revolt
-  (debt from 16.424ff); Dolius' loyal greeting; χλωρὸν δέος twice (24.450,
-  533); Athena's amnesty ends the poem.
+- Done in 24 (POEM COMPLETE): wand lines 24.2–4 (= 5.47–48); web story 3rd
+  telling 24.129–146 (= 2.94–110 + 19.152–153 lines); scar 4th showing 24.331;
+  tokens-recognized couplet 3rd use 24.345–346 (= 19.250 = 23.205–206);
+  identity question last asked 24.298; "if he ever was" 24.289 (= 19.315);
+  wish-formula last fired 24.376 (= 4.341/17.132/18.235); vocative "Father of
+  us all…" 24.473 (= 1.45); Antinous/Eupeithes twin advance obituaries
+  (21.98–100 / 24.469–471); χλωρὸν δέος 24.450+533; the ἄλαστον grief vs
+  ἔκλησις amnesty word-pair; final line = Mentor-disguise formula (= 22.206,
+  24.503).
 
 ## Word-policy notes
 
