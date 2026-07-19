@@ -233,8 +233,18 @@ First-use references are book.line of this translation.
   20.284–286 Athena's goad (= 18.346–348); 20.309–310 (= 18.228–229);
   20.317–319 son repeats father's words (= 16.107–109); 20.322–325
   (= 18.414–417); 20.45 σχέτλιε "Hard man!" (= 12.116/13.293).
-- 21.308 Echetus again (= 18.85); 22.285ff Ctesippus paid for the ox-hoof;
-  22 fulfills Theoclymenus' vision 20.351–357 clause by clause.
+- Done in 21: 21.63–66 veil entrance 4th (= 1.333–335); 21.73–79 contest terms
+  (= 19.577–581); 21.168 tooth-fence (= 1.64/19.492); 21.200–204 loyalist
+  prayers (= 17.243 + 20.236–239); 21.207–208 (= 19.483–484); 21.219–220 scar
+  (= 19.393–394); 21.226 sun-would-have-set (= 16.220); 21.308 Echetus
+  (= 18.85); 21.312–313 Penelope reuses Ctesippus' line (= 20.294–295);
+  21.331–342 clothing promise armed (javelin + sword added); 21.350–353
+  (= 1.356–359 with τόξον for μῦθος); 21.354–358 (= 1.360–364, last time);
+  21.386 wingless word 4th (= 17.57).
+- 22 fulfills: Antinous first arrow (21.98–100, curse 17.475–476); Eurymachus'
+  gossip-script 21.324–329 comes true; Centaur mutilation parable 21.295–304 →
+  Melanthius 22.474ff; Theoclymenus' vision 20.351–357 clause by clause;
+  Leodes begs 22.310ff per 21.144–147.
 
 ## Word-policy notes
 
