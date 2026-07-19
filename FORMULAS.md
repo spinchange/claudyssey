@@ -221,3 +221,14 @@ First-use references are book.line of this translation.
 | all in due order, and set the young under each. | 9.245 |
 | And this, as I turned it over, seemed to me the best plan. | 9.318 |
 | Nobody (Οὖτις) | 9.366 |
+
+## Ithaca-half additions (Books 13–14)
+
+| Greek | English | First |
+|---|---|---|
+| τὸν δʼ ἀπαμειβόμενος προσέφης, Εὔμαιε συβῶτα | And you answered him, Eumaeus the swineherd: | 14.55 |
+| δῖος ὑφορβός | the noble swineherd | 14.3 |
+| συβώτης, ὄρχαμος ἀνδρῶν | the swineherd, a leader of men | 14.22 |
+| ἠθεῖος | "my beloved lord" (Eumaeus of Odysseus) | 14.147 |
+| δούλιον ἦμαρ | day of slavery | 14.340 |
+| ἐπητής, ἀγχίνοος, ἐχέφρων | civil, quick-witted, steady-souled (Odysseus' cited virtues) | 13.332 |
