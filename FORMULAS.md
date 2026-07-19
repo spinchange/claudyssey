@@ -182,17 +182,22 @@ First-use references are book.line of this translation.
 
 ## Known upcoming echoes (honor verbatim when reached)
 
-- 9.175–176 and 13.201–202 — arrival question = 6.120–121.
-- 9.252–255 — Nestor's piracy question (3.71–74) in the Cyclops' mouth.
-- 14.57–58 — Eumaeus repeats the xenia creed = 6.207–208.
 - 17.126–131 — deer-in-lion's-lair simile = 4.335–340.
-- 11.411 — "as a man cuts down an ox at the manger" = 4.535.
 - 19.562–567 — gates of dream (seeded at 4.809 "at the gates of dream").
 - 23.156–162 — gold-over-silver beautification = 6.229–235.
 - 24.36ff — Agamemnon/Achilles necromantic echoes of Book 4 material.
-- 12.184ff — Sirens address Odysseus with the full ceremonial vocative (5.203).
-- Books 9–12 are first-person: speech formulas shift to "So I spoke…" forms
-  (models at 4.464, 4.484, 4.491).
+- 16.78–79 and 21.339 — the clothing promise = 14.515–517 / 15.337–339
+  ("…a cloak and a tunic, / and send you wherever your heart and spirit bid
+  you go").
+- 17.565 — "their arrogance and violence reach the iron sky" (first at 15.329).
+- 19.269ff — Thesprotian tale ≈ 14.316ff wording.
+- 20.351–357 — Theoclymenus' vision fulfills the hawk-and-dove omen of
+  15.525–534.
+- Murray omissions ahead: no line 16.101, no line 23.49 (skip the numbers, as
+  at 10.456).
+- Done: 9.175–176, 13.201–202 (= 6.120–121); 9.252–255 (= 3.71–74); 14.57–58
+  (= 6.207–208); 11.411 (= 4.535); 12.184ff (= 5.203); 15.113–119 (= 4.613–619);
+  15.184–192 (= 3.486–494); 15.31–32 (= 13.427–428).
 
 ## Word-policy notes
 
@@ -222,13 +227,19 @@ First-use references are book.line of this translation.
 | And this, as I turned it over, seemed to me the best plan. | 9.318 |
 | Nobody (Οὖτις) | 9.366 |
 
-## Ithaca-half additions (Books 13–14)
+## Ithaca-half additions (Books 13–15)
 
 | Greek | English | First |
 |---|---|---|
 | τὸν δʼ ἀπαμειβόμενος προσέφης, Εὔμαιε συβῶτα | And you answered him, Eumaeus the swineherd: | 14.55 |
+| τὸν δὲ μέγʼ ὀχθήσας προσέφης, Εὔμαιε συβῶτα | Then, greatly stirred, you answered him, Eumaeus the swineherd: | 15.325 |
 | δῖος ὑφορβός | the noble swineherd | 14.3 |
-| συβώτης, ὄρχαμος ἀνδρῶν | the swineherd, a leader of men | 14.22 |
+| συβώτης, ὄρχαμος ἀνδρῶν | the swineherd, a leader of men; speech-intro "Then the swineherd answered him, a leader of men:" | 14.22 |
 | ἠθεῖος | "my beloved lord" (Eumaeus of Odysseus) | 14.147 |
 | δούλιον ἦμαρ | day of slavery | 14.340 |
 | ἐπητής, ἀγχίνοος, ἐχέφρων | civil, quick-witted, steady-souled (Odysseus' cited virtues) | 13.332 |
+| Θεοκλύμενος θεοειδής | godlike Theoclymenus; speech-intro "Then godlike Theoclymenus said to him:" | 15.271 |
+| Πείραιος δουρικλυτός | Piraeus, famous for the spear | 15.544 |
+| καλή τε μεγάλη τε καὶ ἀγλαὰ ἔργα ἰδυῖα | beautiful and tall, and skilled in glorious handwork | 13.289 (= 15.418) |
+| τρῶκται | gnawers (Phoenician traders) | 14.289 / 15.416 |
+| χρυσόθρονος Ἠώς | Dawn of the golden throne ("So he/she spoke; and at once Dawn of the golden throne came on.") | 10.541 |
