@@ -495,7 +495,7 @@
 
 [^L17]: The first of the book's two great inverted similes: the swineherd welcomes the prince "as a father embraces his son... come from a far country in the tenth year." The real father sits three feet away, unrecognized, listening. Homer gives Eumaeus the father-simile *before* the recognition scene, so that the true reunion must share its tenderness with a slave's.
 
-[^L23]: "You have come, Telemachus — sweet light!" (γλυκερὸν φάος): the exclamation returns verbatim from the nurse Eurycleia at 17.41. The boy is greeted as light itself by the two lowest-ranked loyalists of the house — the swineherd and the slave-nurse — before his own mother can greet him at all.
+[^L23]: "You have come, Telemachus — sweet light!" (γλυκερὸν φάος): Penelope will greet him with the identical exclamation at 17.41. The slave hears the homecoming first and coins its cry; the mother, a book later, repeats the swineherd word for word — one greeting shared out between the two people who feared most.
 
 [^L31]: "Old father" — ἄττα, a child's word for a beloved elder, the nursery address a grown man keeps for the man who part-raised him. Telemachus uses it to Eumaeus here and throughout (57, 130; again in 17); it is the same intimacy in the other direction as the poet's own "you" to the swineherd.
 

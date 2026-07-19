@@ -197,7 +197,11 @@ First-use references are book.line of this translation.
   15.525–534.
 - Murray omissions ahead: no line 23.49 (skip the number, as at 10.456,
   16.101).
-- 17.41 — "You have come, Telemachus — sweet light!" = 16.23 (Eurycleia).
+- 19.29, 21.386, 22.398 — "and for her the word stayed wingless." (ἄπτερος
+  ἔπλετο μῦθος, first at 17.57).
+- 19.54 — "like Artemis, or golden Aphrodite" = 17.37.
+- 20.299 — the ox-hoof: second missile after the footstool (17.462); trials
+  ordered at 16.274–277.
 - 18.209–210, 21.64–65 — veil entrance = 1.333–334 = 16.415–416 ("she stood
   beside the pillar of the close-built roof, / holding her glistening veil
   before her cheeks,").
@@ -212,7 +216,10 @@ First-use references are book.line of this translation.
   (= 6.207–208); 11.411 (= 4.535); 12.184ff (= 5.203); 15.113–119 (= 4.613–619);
   15.184–192 (= 3.486–494); 15.31–32 (= 13.427–428); 16.78–81 clothing promise;
   16.122–128 (= 1.245–251); 16.129 (= 1.267); 16.222–224 (= 1.171–173);
-  16.243 (= 3.226–227).
+  16.243 (= 3.226–227); 17.41 (= 16.23); 17.62–64 (= 2.10–13); 17.124–146
+  (= 4.333–350 + 556–560, deer-in-lion); 17.163–165 (= 15.536–538); 17.167–169
+  (= 4.625–627); 17.427–441 (= 14.258–272 Egypt tale); 17.565–566 iron sky
+  (= 15.328–329).
 
 ## Word-policy notes
 
