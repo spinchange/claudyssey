@@ -123,6 +123,8 @@ First-use references are book.line of this translation.
 | νύμφα φίλη | Dear bride (Eurycleia to Penelope) | 4.743 |
 | πάππα φίλε | Papa dear | 6.57 |
 | κέκλυτε, Φαιήκων ἡγήτορες ἠδὲ μέδοντες | Hear me, leaders and counselors of the Phaeacians | 7.186 |
+| κούρη Ἰκαρίοιο, περίφρον Πηνελόπεια | Daughter of Icarius, watchful-minded Penelope | 16.435 |
+| ἄττα | old father (Telemachus to Eumaeus) | 16.31 |
 | Ἀλκίνοε κρεῖον, πάντων ἀριδείκετε λαῶν | Lord Alcinous, most renowned among all peoples | 8.382 (recurs 9.2) |
 | τὸν δʼ ἄρʼ ὑπόδρα ἰδὼν προσέφη … | Then, glaring from under his brows, … replied: | 8.165 |
 
@@ -193,11 +195,24 @@ First-use references are book.line of this translation.
 - 19.269ff — Thesprotian tale ≈ 14.316ff wording.
 - 20.351–357 — Theoclymenus' vision fulfills the hawk-and-dove omen of
   15.525–534.
-- Murray omissions ahead: no line 16.101, no line 23.49 (skip the numbers, as
-  at 10.456).
+- Murray omissions ahead: no line 23.49 (skip the number, as at 10.456,
+  16.101).
+- 17.41 — "You have come, Telemachus — sweet light!" = 16.23 (Eurycleia).
+- 18.209–210, 21.64–65 — veil entrance = 1.333–334 = 16.415–416 ("she stood
+  beside the pillar of the close-built roof, / holding her glistening veil
+  before her cheeks,").
+- 19.602–604, 21.356–358 — Penelope-weeps refrain = 1.362–364 = 16.449–451
+  ("...and wept there for Odysseus, her dear husband, until / gray-eyed Athena
+  cast sweet sleep upon her eyelids.").
+- 19.5–13 — Telemachus delivers the smoke-speech scripted at 16.288–294.
+- ἱερὴ ἲς Τηλεμάχοιο = "the sacred strength of Telemachus" (16.476; recurs
+  18.405, 21.101, 22.354).
+- 19.427 — "took the gift of sleep" = 16.481.
 - Done: 9.175–176, 13.201–202 (= 6.120–121); 9.252–255 (= 3.71–74); 14.57–58
   (= 6.207–208); 11.411 (= 4.535); 12.184ff (= 5.203); 15.113–119 (= 4.613–619);
-  15.184–192 (= 3.486–494); 15.31–32 (= 13.427–428).
+  15.184–192 (= 3.486–494); 15.31–32 (= 13.427–428); 16.78–81 clothing promise;
+  16.122–128 (= 1.245–251); 16.129 (= 1.267); 16.222–224 (= 1.171–173);
+  16.243 (= 3.226–227).
 
 ## Word-policy notes
 
