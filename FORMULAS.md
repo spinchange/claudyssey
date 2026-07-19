@@ -219,7 +219,9 @@ First-use references are book.line of this translation.
   16.243 (= 3.226–227); 17.41 (= 16.23); 17.62–64 (= 2.10–13); 17.124–146
   (= 4.333–350 + 556–560, deer-in-lion); 17.163–165 (= 15.536–538); 17.167–169
   (= 4.625–627); 17.427–441 (= 14.258–272 Egypt tale); 17.565–566 iron sky
-  (= 15.328–329).
+  (= 15.328–329); 18.108–110 (= 17.197–198 + 466 pouch/threshold); 18.209–211
+  veil entrance (= 1.333–335); 18.235 wish-formula (= 4.341/17.132); 18.362–364
+  (= 17.226–228 person-shifted); 18.390–393 (= 18.330–333 Melantho verbatim).
 
 ## Word-policy notes
 
@@ -261,6 +263,8 @@ First-use references are book.line of this translation.
 | δούλιον ἦμαρ | day of slavery | 14.340 |
 | ἐπητής, ἀγχίνοος, ἐχέφρων | civil, quick-witted, steady-souled (Odysseus' cited virtues) | 13.332 |
 | Θεοκλύμενος θεοειδής | godlike Theoclymenus; speech-intro "Then godlike Theoclymenus said to him:" | 15.271 |
+| ἱερὴ ἲς Τηλεμάχοιο | the sacred strength of Telemachus | 16.476 |
+| εἰς Ἔχετον βασιλῆα, βροτῶν δηλήμονα πάντων | to King Echetus, the maimer of all mankind | 18.85 (= 18.116, 21.308) |
 | Πείραιος δουρικλυτός | Piraeus, famous for the spear | 15.544 |
 | καλή τε μεγάλη τε καὶ ἀγλαὰ ἔργα ἰδυῖα | beautiful and tall, and skilled in glorious handwork | 13.289 (= 15.418) |
 | τρῶκται | gnawers (Phoenician traders) | 14.289 / 15.416 |
