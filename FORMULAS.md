@@ -207,3 +207,17 @@ First-use references are book.line of this translation.
 - Zeus' Αἰγύπτοιο διιπετέος ποταμοῖο → "the river fallen from Zeus" (4.477).
 - The pun at 1.62 (ὠδύσαο/Ὀδυσσεύς) → "at odds with Odysseus"; keep "at odds
   with" for later plays on the name (5.340, 5.423).
+
+## Apologoi refrains (Books 9–12, first-person)
+
+| English (fixed) | First |
+|---|---|
+| From there we sailed on further, grieved at heart, / glad to be out of death, having lost our dear companions. | 9.62–63 |
+| And they came aboard at once and took their places at the oarlocks, / and sitting in order they struck the gray salt water with their oars. | 9.103–104 |
+| And when the sun went down and the dusk came on, / then we lay down to sleep on the surf-line of the sea. | 9.168–169 |
+| So then all day long till the setting of the sun / we sat feasting on meat past counting and sweet wine. | 9.161–162 |
+| So then, groaning, we waited for shining Dawn. | 9.306 |
+| So I spoke, and he answered me at once, with pitiless heart: | 9.272 |
+| all in due order, and set the young under each. | 9.245 |
+| And this, as I turned it over, seemed to me the best plan. | 9.318 |
+| Nobody (Οὖτις) | 9.366 |
