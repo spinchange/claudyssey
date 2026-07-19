@@ -249,8 +249,18 @@ First-use references are book.line of this translation.
   Athena as swallow on the roof-beam 22.240 (= bowstring 21.411); pale terror
   22.42 (= 11.43 χλωρὸν δέος); wingless word 5th and last 22.398; "It is
   unholy to glory over slaughtered men" 22.412; sulfur = "cure of evils."
-- 23: recognition by the BED; Murray omits 23.49 (skip number);
-  23.156–162 beautification = 6.229–235 verbatim; Penelope's test.
+- Done in 23: 23.157–162 beautification (= 6.230–235 verbatim, ledger's oldest
+  echo paid); 23.206 tokens-recognized line (= 19.250 verbatim — clothes-test
+  rhymes with bed-test); 23.168–170 Odysseus repeats Telemachus verbatim
+  (= 23.100–102); 23.269–284 Teiresias' prophecy retold (= 11.122–137);
+  23.19 Evil-Ilium (= 19.260/597); 23.70 tooth-fence; 23.296 the τέλος line
+  ("the rite of their own old bed" — Alexandrian end-point); δαιμονίη/δαιμόνιε
+  traded as "Strange woman!/Strange man!" (166/174); Murray omits 23.49
+  (numbering skips).
+- 24: second Nekyia (Achilles+Agamemnon; Amphimedon's shade retells the plot);
+  Laertes — orchard-trees σῆμα + scar's 4th showing 24.331; Eupeithes' revolt
+  (debt from 16.424ff); Dolius' loyal greeting; χλωρὸν δέος twice (24.450,
+  533); Athena's amnesty ends the poem.
 
 ## Word-policy notes
 
