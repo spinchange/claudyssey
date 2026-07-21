@@ -30,7 +30,33 @@ except (AttributeError, ValueError):
 ROOT = Path(__file__).resolve().parent.parent
 ENTRIES = ROOT / "index" / "entries"
 REG = ROOT / "index" / "registry.json"
+PRON = ROOT / "index" / "pronunciations.tsv"
 OUT = ROOT / "index" / "index.md"
+
+
+def load_pron():
+    """headword -> (say, variant|None) from pronunciations.tsv (see pron-key.md)."""
+    out = {}
+    if not PRON.exists():
+        return out
+    for raw in PRON.read_text(encoding="utf-8").splitlines():
+        if not raw.strip() or raw.lstrip().startswith("#"):
+            continue
+        parts = raw.split("\t")
+        hw = parts[0].strip()
+        say = parts[1].strip() if len(parts) > 1 else ""
+        var = parts[2].strip() if len(parts) > 2 and parts[2].strip() else None
+        if hw and say:
+            out[hw] = (say, var)
+    return out
+
+
+def inject_say(block, say, variant):
+    """Append the *Say:* field to an entry's headword line (its first line)."""
+    lines = block.splitlines()
+    tail = f" — *Say:* {say}" + (f" *or* {variant}" if variant else "")
+    lines[0] = lines[0] + tail
+    return "\n".join(lines)
 
 HEADWORD_LINE = re.compile(r"^###\s+(.+?)\s+·\s+", re.MULTILINE)
 BOOKLINE = re.compile(r"\b(\d{1,2})\.(\d{1,3})\b")
@@ -111,17 +137,27 @@ def main():
         print("\nCoverage not clean — index.md NOT written. Resolve the above, re-run.")
         return 1
 
-    # write merged, alphabetized index
+    # write merged, alphabetized index, injecting pronunciations
+    pron = load_pron()
     body = ["# The Odyssey — index of names and places\n",
-            "Every named person, god, people, and place in the poem, with epithets, "
-            "aliases, kin, and line citations. Generated from `index/entries/` by "
-            "`tools/merge_index.py`; see `index/canon.md` for the editorial method.\n"]
+            "Every named person, god, people, and place in the poem, with pronunciation, "
+            "epithets, aliases, kin, and line citations. Generated from `index/entries/` by "
+            "`tools/merge_index.py`; see `index/canon.md` for the editorial method and "
+            "`index/pron-key.md` for the pronunciation scheme.\n"]
+    said = 0
     for hw in sorted(merged, key=str.lower):
-        body.append(merged[hw])
+        block = merged[hw]
+        if hw in pron:
+            block = inject_say(block, *pron[hw])
+            said += 1
+        body.append(block)
         body.append("\n---\n")
     OUT.write_text("\n".join(body).rstrip() + "\n", encoding="utf-8")
+    unpron = sorted(h for h in merged if h not in pron)
     print(f"\nOK — wrote {OUT} with {len(merged)} entries"
           + (f" ({len(problems)} advisory citation flags to review)" if problems else ""))
+    print(f"pronunciations injected: {said}/{len(merged)}  "
+          f"(no *Say:* for {len(unpron)}: {', '.join(unpron)})")
     return 0
 
 

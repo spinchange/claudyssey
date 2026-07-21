@@ -36,7 +36,7 @@ Every headword is tagged with exactly one:
 Each entry is written to this shape. Fields in *(parentheses)* are omitted when
 they don't apply.
 
-> **Headword** (Greek Ἑλληνικά) · CATEGORY
+> **Headword** (Greek Ἑλληνικά) · CATEGORY — *Say:* pro-NUN-see-AY-shun
 > One to three sentences: who or what this is, the family or place it belongs to,
 > and why it matters to the poem — its decisive action or role. Present tense for
 > events in the narrative.
@@ -49,6 +49,10 @@ they don't apply.
 > **Refs:** curated key citations `book.line` — first appearance and pivotal
 > scenes — then book coverage. Not an exhaustive dump.
 > *(See also:* related entries.*)*
+
+The *Say:* field is not authored per-entry: it is injected at merge time from
+`index/pronunciations.tsv` (house style in `index/pron-key.md`), so writers leave
+the headword line plain and pronunciations stay centralized and reviewable.
 
 Rules for writers:
 
