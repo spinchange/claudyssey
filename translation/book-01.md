@@ -15,7 +15,7 @@
 
 11  By then all the others, all who had escaped sheer ruin,
 12  were home, safely past the war and past the sea.
-13  Him alone, aching for homecoming and his wife,
+13  Him alone — aching for homecoming and his wife —
 14  the queenly nymph Calypso, shining among goddesses, held back[^L14]
 15  in her hollow caves, hungry to make him her husband.
 16  But when the year came, in the wheeling round of seasons,

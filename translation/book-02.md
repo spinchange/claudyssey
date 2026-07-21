@@ -65,9 +65,9 @@
 57  feasting and drinking the fire-bright wine
 58  with no reckoning. And the most of it is wasted. For there is no man here
 59  such as Odysseus was, to beat ruin away from the house.
-60  We are not the men to beat it off — believe me, ever after
+60  We are not the men to beat it back — believe me, ever after
 61  we would be pitiable men, and unschooled in fighting.
-62  Beat it off I would, if only the strength were in me!
+62  Beat it back I would, if only the strength were in me!
 63  For what is done here is past all bearing; past all decency
 64  my house is ruined. Feel the outrage yourselves;
 65  feel shame before the peoples who are our neighbors,
