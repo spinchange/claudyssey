@@ -72,8 +72,11 @@ def check(path):
 
     print(f"spine ({len(spine)}): {spine}")
     print(f"note refs: {noterefs}   back-links: {backlinks}")
-    if noterefs and backlinks != noterefs:
-        issues.append(f"noteref/backlink mismatch: {noterefs} refs vs {backlinks} backlinks")
+    # Each note carries a linked number AND a return arrow, both pointing back
+    # to the marker — so expect two back-links per note. Flag only if there are
+    # fewer back-links than refs (i.e. some note is missing its return path).
+    if noterefs and backlinks < noterefs:
+        issues.append(f"missing back-links: {noterefs} refs vs {backlinks} backlinks")
     if issues:
         print(f"\nFAIL — {len(issues)} issue(s):")
         for i in issues:

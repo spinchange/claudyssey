@@ -123,8 +123,8 @@ section.footnotes::before, div.footnotes::before {
   font-size: 1.1em;
   margin-bottom: 0.8em;
 }
-/* Pandoc inserts a rule before the notes; we replace it with the gold rule
-   drawn by the ::before label, so hide it. */
+/* Pandoc inserts a rule before the notes; the "Notes" ::before label already
+   carries the gold rule, so hide it. */
 section.footnotes > hr, div.footnotes > hr { display: none; }
 section.footnotes ol, div.footnotes ol {
   padding-left: 1.4em;
@@ -132,24 +132,37 @@ section.footnotes ol, div.footnotes ol {
 section.footnotes li, div.footnotes li {
   margin-bottom: 0.7em;
 }
-/* Pandoc's epub3 writer emits each note as an <aside epub:type="footnote">.
-   Number them ourselves so the endnote fallback reads as a list. */
-section.footnotes { counter-reset: fn; }
-aside[epub|type~="footnote"], aside[role="doc-footnote"] {
-  counter-increment: fn;
+
+/* CROSS-PLATFORM NOTE RENDERING.
+   The note's NUMBER and BACK-ARROW are baked into the content by
+   backlinks.lua (as .fn-num and .footnote-back links), NOT drawn with a CSS
+   counter on an epub:type attribute — because Kindle/older engines strip that
+   attribute and the numbers would vanish. So we style the notes without
+   depending on any epub3-only selector. We match each note by whatever the
+   engine kept: the <aside>, or role="doc-footnote", or a plain block.
+   Every selector here degrades gracefully. */
+section.footnotes aside,
+section.footnotes [role="doc-footnote"],
+div.footnotes aside,
+div.footnotes [role="doc-footnote"] {
   margin-bottom: 0.7em;
   padding-left: 1.9em;
   text-indent: -1.9em;
 }
-aside[epub|type~="footnote"]::before, aside[role="doc-footnote"]::before {
-  content: counter(fn) ". ";
-  color: #9a6a1a;
-  font-weight: bold;
-}
-aside[epub|type~="footnote"] > p, aside[role="doc-footnote"] > p {
+/* Collapse a note's inner paragraphs so the number, text, and arrow read as
+   one flowing endnote (works whether or not the aside is a popup). */
+section.footnotes aside > p,
+div.footnotes aside > p,
+section.footnotes [role="doc-footnote"] > p {
   display: inline;
 }
-/* the ↩ back-link Pandoc appends to each note */
+/* The visible, linked note number (baked into content by the Lua filter). */
+.fn-num {
+  color: #9a6a1a;
+  font-weight: bold;
+  text-decoration: none;
+}
+/* the ↩ back-link */
 a.footnote-back, a[role="doc-backlink"] {
   color: #9a6a1a;
   text-decoration: none;

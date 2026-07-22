@@ -1,31 +1,51 @@
--- Add a return-link (↩) to every footnote so navigation is bidirectional
--- even on readers that don't support epub3 popup footnotes.
+-- Make footnotes render CONSISTENTLY across every e-reader, not just the
+-- ones that support epub3 popup footnotes.
 --
 -- Pandoc's epub3 writer emits each note as <aside epub:type="footnote"
--- id="fnN"> and the in-text marker as <a id="fnrefN" ...>, and it RESETS
--- that numbering at every split boundary (here, each level-1 heading = one
--- book). So the back-link target fnref<N> must use the note's index WITHIN
--- its book, not a document-global counter.
+-- id="fnN"> and the marker as <a id="fnrefN" ...>. Two problems that caused
+-- cross-platform inconsistency:
+--   1. The note's visible NUMBER came from CSS: aside::before{content:counter}.
+--      Kindle conversion (and some engines) strip the epub:type attribute the
+--      selector matched, so the notes lost their numbers and read as an
+--      unnumbered run of paragraphs.
+--   2. The return arrow was the only way back on non-popup readers.
+-- Fix: bake BOTH the number and the back-arrow into the note's content as
+-- real inline elements. They survive conversion and render the same whether
+-- the note is shown as a popup or as an end-of-chapter endnote.
 --
--- We therefore walk the document in order ourselves: reset the per-book
--- counter at each level-1 Header, and number notes as we meet them, in the
--- exact top-to-bottom order the epub writer will use. pandoc.walk_block on
--- each top-level block visits its inline Notes in order.
+-- Pandoc RESETS fnref numbering at every split boundary (each level-1 heading
+-- = one book), so we keep a per-book counter, walking the document in order.
 
-local function backlink(n)
+-- The clickable number that opens the note stays the same (Pandoc's noteref).
+-- Inside the note we prepend "N." linking back to the marker, and (belt and
+-- suspenders) also append a return arrow. Both point to #fnref<N>.
+local function num_prefix(n)
+  return string.format(
+    '<a href="#fnref%d" class="fn-num" role="doc-backlink" epub:type="backlink">'
+    .. '%d.</a> ', n, n)
+end
+
+local function back_arrow(n)
   return string.format(
     ' <a href="#fnref%d" class="footnote-back" role="doc-backlink"'
     .. ' epub:type="backlink">\u{21A9}</a>', n)
 end
 
-local function append_backlink(note, n)
+local function decorate(note, n)
   local blocks = note.content
-  local last = blocks[#blocks]
-  local raw = pandoc.RawInline("html", backlink(n))
-  if last and (last.t == "Para" or last.t == "Plain") then
-    table.insert(last.content, raw)
+  -- Prepend the visible, linked number to the first paragraph.
+  local first = blocks[1]
+  if first and (first.t == "Para" or first.t == "Plain") then
+    table.insert(first.content, 1, pandoc.RawInline("html", num_prefix(n)))
   else
-    table.insert(blocks, pandoc.RawBlock("html", "<p>" .. backlink(n) .. "</p>"))
+    table.insert(blocks, 1, pandoc.RawBlock("html", num_prefix(n)))
+  end
+  -- Append the return arrow to the last paragraph.
+  local last = blocks[#blocks]
+  if last and (last.t == "Para" or last.t == "Plain") then
+    table.insert(last.content, pandoc.RawInline("html", back_arrow(n)))
+  else
+    table.insert(blocks, pandoc.RawBlock("html", "<p>" .. back_arrow(n) .. "</p>"))
   end
   return pandoc.Note(blocks)
 end
@@ -34,15 +54,13 @@ function Pandoc(doc)
   local counter = 0
   local new_blocks = {}
   for _, block in ipairs(doc.blocks) do
-    -- A level-1 heading starts a new book -> Pandoc restarts fnref at 1.
     if block.t == "Header" and block.level == 1 then
       counter = 0
     end
-    -- Number every Note inside this top-level block, in order.
     local walked = pandoc.walk_block(block, {
       Note = function(note)
         counter = counter + 1
-        return append_backlink(note, counter)
+        return decorate(note, counter)
       end,
     })
     table.insert(new_blocks, walked)
