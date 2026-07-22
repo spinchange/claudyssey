@@ -1,7 +1,14 @@
 # The Odyssey — a line-for-line translation
 
-A complete line-for-line English translation of Homer's Odyssey, an original
-production by Claude Fable 5.
+A complete line-for-line English translation of Homer's Odyssey.
+
+- **From the Greek of** Homer
+- **Translated by** Claude (Fable 5)
+- **Edited and produced by** Chris Duffy
+
+The EPUB records these as EPUB3 creators with MARC relator roles (`aut`, `trl`,
+`edt`) and states them on the title page. The library-listing author is kept as
+"Homer" by convention.
 
 ## Source text
 
@@ -43,8 +50,92 @@ Latinate spellings. δμώς/δμῳή are rendered "slave/slave-woman" througho
 untranslatable puns are shadowed rather than dropped (the name-pun ὀδυσσάμενος
 appears as "Odysseus, Man at Odds").
 
+## Audiobook pipeline
+
+`audiobook-source/` is a copied working set for generated audio. The original
+`translation/` files should remain untouched.
+
+`tools/build_audiobook.py` builds a single-narrator OpenAI TTS audiobook in
+stages:
+
+```powershell
+python tools\build_audiobook.py prepare
+```
+
+This writes cleaned narration text to `audiobook-build/clean/`, TTS-sized
+chunks to `audiobook-build/chunks/`, and a manifest to
+`audiobook-build/manifest.json`. Cleanup removes verse line numbers, inline
+footnote references, and the `## Notes` apparatus.
+
+After setting `OPENAI_API_KEY`, generate audio chunks:
+
+```powershell
+$env:OPENAI_API_KEY = "..."
+python tools\build_audiobook.py synthesize --voice fable --model gpt-4o-mini-tts
+```
+
+To test one book first:
+
+```powershell
+python tools\build_audiobook.py synthesize --books book-01
+```
+
+If `ffmpeg` is installed, join chunks into per-book audio files:
+
+```powershell
+python tools\build_audiobook.py concat --full
+```
+
+The final outputs are written under `audiobook-build/audio-chunks/` and
+`audiobook-build/books/`. Existing generated chunks are skipped unless
+`--force` is passed, so interrupted runs can be resumed.
+
+## EPUB pipeline
+
+`tools/build_epub.py` builds a high-quality EPUB3 with working bidirectional
+footnote links (tap a note marker to jump to the note; tap the ↩ to return to
+your place in the verse). It leaves `translation/` untouched.
+
+```powershell
+python tools\build_epub.py --books 1     # Book 1 only (proof of concept)
+python tools\build_epub.py               # all 24 books
+```
+
+What the build does:
+
+- **Footnote namespacing.** Every book reuses `[^L1]`, `[^L10]`, …; the script
+  rewrites each book's ids to be book-unique (`[^b01-L1]`) so labels don't
+  collide when Pandoc concatenates all 24 books, then Pandoc generates the
+  forward links. `epub-build/backlinks.lua` injects the ↩ return link into each
+  note so navigation is bidirectional even on readers without epub3 popup
+  footnotes (Apple Books/Kobo also get tap-to-reveal popups for free).
+- **Line-for-line layout.** Each verse keeps its own line (Pandoc hard breaks)
+  with the line number hung in the margin. Every verse also carries an anchor
+  (`#v{book}-{line}`) so it can be linked to.
+- **Linked index.** `index/index.md` (names, pronunciations, epithets, kin,
+  citations) is appended as back matter, and every `book.line` citation is
+  turned into a live link to that verse's anchor (ranges and `ff` link to their
+  first line). ~1,470 citation links across 434 entries.
+- **Theming.** `epub-build/style.css` uses the cover's Geometric-vase palette
+  (wine `#46192b`, bone, gold `#c99b3f`), with the cover art
+  (`art/claudyssey-cover.svg`) rasterized to `epub-build/assets/cover.jpg`.
+- **Greek.** Polytonic Greek is set in Gentium Plus (SIL OFL), subsetted to the
+  used ranges as woff2 (~190 KB) and embedded, so the Greek in the notes renders
+  on every device.
+
+`tools/check_epub.py <file.epub>` is a lightweight structural validator
+(mimetype, OPF manifest/spine, and every internal link — including the
+noteref↔backlink pairing). It is not a substitute for W3C `epubcheck`, but
+catches the build regressions that break readers.
+
+Requires Pandoc (`winget install JohnMacFarlane.Pandoc`) and, for regenerating
+the subsetted font, `fonttools` + `brotli`.
+
 ## Licensing
 
 Murray's 1919 Greek text is in the public domain. The Perseus digitization is
 distributed under CC BY-SA; this repository retains that attribution for the
 `greek/` directory. The English translation is original to this project.
+
+The EPUB embeds Gentium Plus under the SIL Open Font License; the license text
+travels with the font in `epub-build/assets/GentiumPlus-OFL.txt`.

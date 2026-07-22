@@ -1,0 +1,240 @@
+/* ============================================================
+   The Odyssey — a Claudyssey
+   EPUB stylesheet, themed from the cover:
+   wine-dark ground, bone/ivory line, gold accent, meander motif.
+   Palette (from art/claudyssey-cover.svg):
+     wine   #46192b  ink-on-light -> used as heading color
+     deep   #1e0b15
+     bone   #ead9b4
+     gold   #c99b3f
+   Readers control page background/foreground; we tint accents only,
+   so the book stays legible in both light and dark reader themes.
+   ============================================================ */
+
+@namespace epub "http://www.idpf.org/2007/ops";
+
+@font-face {
+  font-family: "Gentium";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Gentium-Regular.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Gentium";
+  font-style: italic;
+  font-weight: normal;
+  src: url("../fonts/Gentium-Italic.woff2") format("woff2");
+}
+
+/* Palette (inlined as literal hex, not CSS custom properties, so the
+   theming survives on readers whose CSS engine lacks var() support):
+     wine #46192b   gold #9a6a1a (darkened for contrast on a light page) */
+
+/* Gentium Plus is the base face: it carries full polytonic Greek, so the
+   Greek that appears untagged inside the notes renders correctly on every
+   device (no tofu on readers whose default serif lacks polytonic glyphs).
+   Georgia/Palatino follow as fallback if the embedded font is unavailable. */
+body {
+  font-family: "Gentium", Georgia, "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  line-height: 1.55;
+  margin: 0 1em;
+  hyphens: none;
+  text-align: left;
+}
+
+/* Explicit Greek hook, same stack (kept for the tagged epigraphs). */
+:lang(grc), :lang(el), .greek {
+  font-family: "Gentium", Georgia, "Palatino Linotype", serif;
+}
+
+/* ---- Book (chapter) titles ---- */
+h1 {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
+  font-weight: normal;
+  letter-spacing: 0.02em;
+  color: #46192b;
+  text-align: center;
+  margin: 1.4em 0 0.2em;
+  line-height: 1.2;
+  page-break-before: always;
+}
+
+/* The italic argument line under each BOOK title is centered. Scoped to
+   real book titles (h1 without .unnumbered) so it never catches the intro
+   paragraphs of the front/back matter (Note on the Text, Index). */
+h1:not(.unnumbered) + p em, h1:not(.unnumbered) + p {
+  display: block;
+  text-align: center;
+  font-style: italic;
+  color: #46192b;
+  opacity: 0.85;
+  margin: 0.2em 0 0.6em;
+}
+h1::after {
+  content: "";
+  display: block;
+  width: 4.5em;
+  margin: 0.45em auto 0;
+  border-bottom: 2px solid #9a6a1a;
+}
+
+/* ---- Verse lines ----
+   Each verse is a paragraph beginning with its line number.
+   We hang the number in the margin and keep long lines from
+   wrapping raggedly. */
+.verse, p {
+  margin: 0 0 0.15em;
+}
+
+/* Verse line-number spans (added in preprocessing). */
+.ln {
+  color: #9a6a1a;
+  font-size: 0.72em;
+  vertical-align: 0.15em;
+  margin-right: 0.55em;
+  font-family: Georgia, serif;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+/* ---- Footnote markers & the Notes section ---- */
+/* Pandoc renders inline refs as <sup><a>…</a></sup> and the notes
+   as an ordered list inside <section class="footnotes">. */
+a.footnote-ref, a[role="doc-noteref"] {
+  color: #9a6a1a;
+  text-decoration: none;
+  font-weight: bold;
+}
+sup { line-height: 0; }
+
+section.footnotes, div.footnotes {
+  margin-top: 2.5em;
+  padding-top: 0.6em;
+  border-top: 2px solid #9a6a1a;
+  font-size: 0.92em;
+}
+section.footnotes::before, div.footnotes::before {
+  content: "Notes";
+  display: block;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
+  font-variant: small-caps;
+  letter-spacing: 0.12em;
+  color: #46192b;
+  font-size: 1.1em;
+  margin-bottom: 0.8em;
+}
+/* Pandoc inserts a rule before the notes; we replace it with the gold rule
+   drawn by the ::before label, so hide it. */
+section.footnotes > hr, div.footnotes > hr { display: none; }
+section.footnotes ol, div.footnotes ol {
+  padding-left: 1.4em;
+}
+section.footnotes li, div.footnotes li {
+  margin-bottom: 0.7em;
+}
+/* Pandoc's epub3 writer emits each note as an <aside epub:type="footnote">.
+   Number them ourselves so the endnote fallback reads as a list. */
+section.footnotes { counter-reset: fn; }
+aside[epub|type~="footnote"], aside[role="doc-footnote"] {
+  counter-increment: fn;
+  margin-bottom: 0.7em;
+  padding-left: 1.9em;
+  text-indent: -1.9em;
+}
+aside[epub|type~="footnote"]::before, aside[role="doc-footnote"]::before {
+  content: counter(fn) ". ";
+  color: #9a6a1a;
+  font-weight: bold;
+}
+aside[epub|type~="footnote"] > p, aside[role="doc-footnote"] > p {
+  display: inline;
+}
+/* the ↩ back-link Pandoc appends to each note */
+a.footnote-back, a[role="doc-backlink"] {
+  color: #9a6a1a;
+  text-decoration: none;
+}
+
+/* ---- Front matter ---- */
+/* Hide the invisible heading we use only to force a chapter split. */
+h1.hidden-title { display: none; }
+
+/* Title page — states each contributor's role. */
+.titlepage { text-align: center; margin-top: 12%; }
+.titlepage .tp-title {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
+  font-size: 2.6em;
+  color: #46192b;
+  letter-spacing: 0.03em;
+  margin: 0 0 0.15em;
+}
+.titlepage .tp-sub {
+  font-style: italic;
+  color: #46192b;
+  opacity: 0.8;
+  margin: 0 0 1.2em;
+}
+.titlepage .tp-rule {
+  border: none;
+  border-top: 1.5px solid #9a6a1a;
+  width: 3.5em;
+  margin: 1.2em auto 1.6em;
+}
+.titlepage .tp-role {
+  font-variant: small-caps;
+  letter-spacing: 0.14em;
+  font-size: 0.8em;
+  color: #9a6a1a;
+  margin: 1.1em 0 0.1em;
+}
+.titlepage .tp-name {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
+  font-size: 1.5em;
+  color: #46192b;
+  margin: 0;
+}
+.titlepage .tp-small { font-size: 0.6em; opacity: 0.7; }
+
+.epigraph-page { margin-top: 25%; }
+.epigraph {
+  text-align: center;
+  font-style: italic;
+  color: #46192b;
+  opacity: 0.9;
+  margin: 2em auto;
+  font-size: 1.15em;
+}
+.epigraph .greek {
+  font-style: italic;
+  display: block;
+  margin-bottom: 0.5em;
+  font-size: 1.1em;
+}
+
+/* ---- Index of names ---- */
+/* Each index entry is one paragraph whose internal lines are hard-broken.
+   Give the whole entry a hanging indent so continuation lines sit under the
+   gloss, and tint the recurring field labels. */
+.name-index p {
+  margin: 0 0 0.9em;
+  padding-left: 1.2em;
+  text-indent: -1.2em;
+  font-size: 0.96em;
+  line-height: 1.5;
+}
+/* The horizontal rules between entries are visual noise once each entry is
+   its own spaced paragraph; soften them to a short gold tick or hide them. */
+.name-index hr {
+  border: none;
+  border-top: 1px solid #9a6a1a;
+  opacity: 0.25;
+  width: 100%;
+  margin: 0.9em 0;
+}
+/* Bold headword already renders bold; color it and its category wine. */
+.name-index strong { color: #46192b; }
+/* Citation links: gold, no underline, so the Refs line reads as a list. */
+.name-index a { color: #9a6a1a; text-decoration: none; }
+/* The *Say:* / *Epithets:* / *See also:* labels are emphasis; keep them
+   readable but quiet. */
+.name-index em { color: inherit; }
