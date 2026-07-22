@@ -8,7 +8,7 @@
 4  many the griefs he suffered at heart on the open sea,
 5  striving to win his own life and his companions' homecoming.
 6  Even so he could not save them, hard though he strove:
-7  they perished by their own blind recklessness,
+7  they perished by their own recklessness,
 8  fools, who ate the cattle of Helios Hyperion,
 9  and the god took from them their day of homecoming.
 10  Begin where you will, goddess, daughter of Zeus — tell us, too, the tale.[^L10]
