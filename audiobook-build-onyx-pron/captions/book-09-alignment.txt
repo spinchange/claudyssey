@@ -1,0 +1,439 @@
+ODYSSEY — BOOK IX full-book caption alignment
+Duration: 1839.506s
+Narration cues: 430
+Source words: 5947
+Directly matched source words: 5645 (94.9%)
+Recognized words: 5919
+Visual lead: 0.16s
+
+Cue | Start | Anchor | Missing prefix | Caption
+  1 |    6.840 | Then               |              0 | Then Odysseus of the many designs answered him:
+  2 |    9.820 | Lord               |              0 | "Lord Alcinous, most renowned among all peoples, / truly it is a fine thing to hear a singer
+  3 |   14.780 | such               |              0 | such as this man is, with a voice like the gods'.
+  4 |   18.340 | For                |              0 | For I say there is no accomplishment more / graceful than when joy holds a whole people,
+  5 |   23.480 | and                |              0 | and feasters up and down the / hall sit listening to a singer,
+  6 |   26.620 | seated             |              0 | seated in order, and beside them the tables are loaded / with bread and meats, and the cupbearer draws wine
+  7 |   32.180 | from               |              0 | from the bowl and carries it round and fills the cups:
+  8 |   35.500 | This               |              0 | this seems to my mind the fairest thing there is.
+  9 |   38.180 | but                |              0 | But your heart has turned to asking after my grievous / cares — so that I may mourn and groan the more.
+ 10 |   44.060 | What               |              0 | What first, then, what last shall I tell through?
+ 11 |   47.140 | For                |              0 | For the gods of heaven have / given me sorrows past counting.
+ 12 |   50.880 | Now                |              0 | Now first I will tell my name, so that you too may know it — / and I hereafter, if I escape the pitiless day,
+ 13 |   57.280 | your               |              2 | may be your guest-friend, though my home is far away.
+ 14 |   60.540 | I                  |              0 | I am Odysseus, son of Laertes — known to all mankind / for my cunning designs; and my fame has reached heaven.
+ 15 |   67.640 | My                 |              0 | My home is Ithaca, clear-skied under its mountain,
+ 16 |   70.460 | tall               |              1 | Neriton, tall in its shivering leaves; and around / it islands lie in a cluster, close to one another —
+ 17 |   76.860 | and                |              1 | Dulichium and Same and wooded Zacynthus.
+ 18 |   79.880 | Ithaca             |              0 | Ithaca itself lies low, farthest out in the sea toward / the dark of sunset — the rest face dawn and the sun —
+ 19 |   86.740 | rough              |              0 | rough ground, but a good nurse of men. I cannot
+ 20 |   89.360 | see                |              0 | see any sweeter sight, for my part, / than a man's own country.
+ 21 |   93.280 | The                |              0 | The queenly goddess Calypso would / have kept me there beside her
+ 22 |   96.080 | in                 |              0 | in her hollow caves, hungry to make me her husband, / and so, in the same way, Circe detained me in her halls,
+ 23 |  102.620 | The                |              0 | the guileful lady of Aeaea, hungry to make me her husband:
+ 24 |  106.000 | but                |              0 | but they never once persuaded the heart in my breast.
+ 25 |  108.880 | so                 |              0 | So true it is that nothing is / sweeter than a man's own country
+ 26 |  112.060 | and                |              0 | and his own parents, even if he lives in a rich house / far away in a strange land, cut off from his parents.
+ 27 |  118.640 | But                |              0 | But come — let me tell you also my / journey home, and all its cares,
+ 28 |  122.480 | which              |              0 | which Zeus laid on me on the way from Troy.
+ 29 |  125.020 | From               |              0 | From Ilium the wind bore me to the Cicones — to Ismarus. / There I sacked the city and destroyed the men;
+ 30 |  131.020 | and                |              0 | and out of the city we took their wives and much substance
+ 31 |  133.480 | and                |              0 | and divided all, so that no man / might go cheated of his share by me.
+ 32 |  137.440 | Then               |              0 | Then, you may be sure, I ordered a quick-footed retreat — / and they, the great fools, would not obey.
+ 33 |  142.280 | There              |              0 | There and then much wine was being drunk, and many sheep
+ 34 |  145.720 | they               |              0 | they slaughtered along the shore, / and shambling crook-horned cattle;
+ 35 |  149.360 | and                |              0 | and meanwhile Cicones went crying to Cicones, / their neighbors inland — more of them, and better men,
+ 36 |  155.440 | skilled            |              0 | skilled at fighting men from chariots and, / where need was, on foot.
+ 37 |  159.440 | They               |              0 | They came, then, thick as leaves / and flowers come in their season,
+ 38 |  163.040 | in                 |              0 | in the morning mist. Then an evil doom of Zeus stood by us, / luckless men, to load us with pains in plenty.
+ 39 |  169.460 | They               |              0 | They set their battle-line and fought by the fast ships,
+ 40 |  172.920 | and                |              0 | and each side pelted each with bronze-tipped spears.
+ 41 |  175.820 | as                 |              0 | As long as it was morning, / and the sacred day still growing,
+ 42 |  179.180 | So                 |              0 | so long we stood them off and held / our ground, though they were more;
+ 43 |  182.760 | but                |              0 | but when the sun turned over toward unyoking-time, / then the Cicones broke the Achaeans, and mastered them.
+ 44 |  188.960 | Six                |              0 | Six from each ship, six strong-greaved companions / were killed; the rest of us fled from death and doom.
+ 45 |  194.840 | From               |              0 | From there we sailed on further, grieved at heart, / glad to be out of death, having lost our dear companions.
+ 46 |  202.280 | But                |              0 | But my curved ships would not go forward before we had / called three times on each of those poor companions
+ 47 |  208.600 | who                |              0 | who died on the plain, cut down by the Cicones.
+ 48 |  212.160 | And                |              0 | And Zeus who gathers the clouds roused / the North Wind against the ships
+ 49 |  215.880 | in                 |              0 | in a howling squall, and covered land and sea / alike with cloud; and night rose up out of heaven.
+ 50 |  222.120 | The                |              0 | The ships were swept along slantwise, their sails
+ 51 |  225.160 | ripped             |              0 | ripped into three and four rags / by the strength of the wind.
+ 52 |  228.840 | We                 |              0 | We lowered them into the hulls, in terror of death, / and rowed the ships hard in toward the shore.
+ 53 |  234.660 | There              |              0 | There for two nights and two days without a break
+ 54 |  236.960 | we                 |              0 | we lay, eating our hearts with / weariness and pain together.
+ 55 |  241.220 | But                |              0 | But when Dawn of the lovely braids / brought the third day round,
+ 56 |  244.060 | we                 |              0 | we set up the masts and hauled the white sails open
+ 57 |  247.400 | and                |              0 | and sat, and the wind and the / steersmen held them on course.
+ 58 |  251.360 | And                |              0 | And now I would have come unharmed to my own country, / but the wave and the current, as I rounded Malea,
+ 59 |  257.700 | and                |              0 | and the North Wind beat me off / course and drove me wide of Cythera.
+ 60 |  262.000 | From               |              0 | From there for nine days I was carried by ruinous winds
+ 61 |  264.860 | across             |              0 | across the fish-filled sea; / and on the tenth we stepped ashore
+ 62 |  268.560 | in                 |              0 | in the land of the Lotus-eaters, / who eat a flower for food.
+ 63 |  272.540 | There              |              0 | There we set foot on the mainland and drew water,
+ 64 |  275.320 | and                |              0 | and the companions quickly took / their meal beside the fast ships.
+ 65 |  278.980 | And                |              0 | And when we had tasted food and drink, / then I sent companions ahead to learn
+ 66 |  283.680 | what               |              0 | what men they were who ate bread upon this earth:
+ 67 |  286.660 | Two                |              0 | two men I chose, and sent a third with them as herald.
+ 68 |  290.160 | They               |              0 | They went their way at once, / and fell in with the Lotus-eater men;
+ 69 |  293.740 | and                |              0 | and the Lotus-eaters had no thought of killing our / companions — but they gave them lotus to taste.
+ 70 |  299.300 | and                |              0 | And whoever of them ate the honey-sweet fruit of the / lotus no longer wished to bring back word or to return:
+ 71 |  305.540 | There              |              0 | there they wanted to stay, among the Lotus-eater men, / browsing the lotus, and to forget their homecoming.
+ 72 |  312.240 | These              |              0 | These men I forced back weeping to the ships,
+ 73 |  314.800 | dragged            |              0 | dragged them under the benches of / the hollow ships and bound them,
+ 74 |  317.740 | and                |              0 | and I ordered the rest of my trusted / companions to hurry and board the fast ships —
+ 75 |  322.240 | For                |              0 | for fear some other might eat of / the lotus and forget his homecoming.
+ 76 |  326.220 | And                |              0 | And they came aboard at once and / took their places at the oarlocks,
+ 77 |  329.600 | and                |              0 | and sitting in order they struck / the gray salt water with their oars.
+ 78 |  333.400 | From               |              0 | From there we sailed on further, grieved at heart.
+ 79 |  336.320 | and                |              0 | And we came to the land of the Cyclopes — the overweening,
+ 80 |  340.020 | the                |              0 | the lawless — who, trusting in the deathless gods, / plant no crop with their hands, and plow nothing:
+ 81 |  345.480 | Everything         |              0 | everything springs up for them unsown, / unplowed, wheat and barley, and vines that carry
+ 82 |  350.780 | wine               |              0 | wine in their heavy clusters, / and Zeus' rain swells it for them.
+ 83 |  354.480 | They               |              0 | They have no counsel-bearing assemblies, no established laws, / but live on the crests of the high mountains
+ 84 |  359.880 | Hollow             |              1 | in hollow caves, and each man lays down the law
+ 85 |  363.280 | to                 |              0 | to his own wives and children — / and they care nothing for one another.
+ 86 |  366.820 | Now                |              0 | Now a scrubby island stretches outside the harbor there, / neither close in to the Cyclopes' land nor far out,
+ 87 |  374.060 | wooded.            |              0 | wooded; and on it goats past counting breed, / wild goats: no tread of men scares them away,
+ 88 |  381.040 | no                 |              0 | no hunters push through to it, men who suffer hard / days in the timber, working the mountain crests;
+ 89 |  386.720 | It                 |              0 | it is held by no flocks and no plowed fields, / but unsown and unplowed all its days
+ 90 |  392.700 | The                |              0 | the island is widowed of men, / and feeds its bleating goats.
+ 91 |  396.600 | For                |              0 | For the Cyclopes have no red-cheeked ships, / and no shipwrights among them who might labor out
+ 92 |  402.020 | well               |              0 | well-benched vessels to accomplish every need, / crossing to the cities of the world, the way men
+ 93 |  407.160 | so                 |              0 | so often traverse the sea in ships to one another:
+ 94 |  410.560 | Such               |              0 | such craftsmen would have made / the island a fair settlement too.
+ 95 |  413.980 | For                |              0 | For it is not a bad island at all: / it would bear every crop in season.
+ 96 |  418.440 | There              |              0 | There are meadows in it along the / shores of the gray salt water,
+ 97 |  421.780 | soft               |              0 | soft, well-watered; vines there would never die; / there is level plowland, and a deep standing harvest always
+ 98 |  428.520 | ready              |              0 | ready for the scythe in season, / for the soil beneath is rich.
+ 99 |  432.380 | And                |              0 | And there is a harbor with safe anchorage, / where there is no need of mooring-line —
+100 |  436.800 | no                 |              0 | no anchor-stones to throw, no stern-cables to make fast:
+101 |  440.740 | you                |              0 | you beach her, and wait until the sailors' / hearts prompt them, and the breezes blow.
+102 |  445.660 | and                |              0 | And at the harbor's head runs shining water, / a spring under a cave, with black poplars growing round it.
+103 |  451.860 | There              |              0 | There we sailed in — and some god was guiding us — / through the dead of night, with nothing to be seen ahead:
+104 |  458.060 | a                  |              0 | a fog lay thick around the ships, and the moon / showed nothing from heaven, shut in by clouds.
+105 |  463.820 | No                 |              0 | No one's eyes made out that island then, nor did we / see the long combers rolling in against the shore
+106 |  469.080 | before             |              0 | before the well-benched ships ran up the beach.
+107 |  471.900 | And                |              0 | And with the ships beached, we took down all the sails
+108 |  475.240 | and                |              0 | and stepped out ourselves onto the surf-line of the sea,
+109 |  478.120 | and                |              0 | and there we dropped asleep, and waited for shining Dawn.
+110 |  481.740 | When               |              0 | When Dawn appeared, the early-born, with fingers of rose, / we walked that island marveling, all through it.
+111 |  488.740 | and                |              0 | And the nymphs, daughters of aegis-bearing Zeus, started
+112 |  491.840 | the                |              0 | the mountain goats, / so my companions might have their meal.
+113 |  495.680 | At                 |              0 | At once we fetched our curved / bows and long-socketed goat-spears
+114 |  499.300 | out                |              0 | out of the ships, and forming in three bands
+115 |  501.800 | we                 |              0 | we shot; and quickly the god gave / us game to our hearts' content.
+116 |  506.340 | Twelve             |              0 | Twelve ships followed with me, and to each nine / goats fell by lot; for me alone they picked out ten.
+117 |  512.660 | So                 |              0 | So then all day long till the setting of the sun we / sat feasting on meat past counting and sweet wine.
+118 |  519.120 | For                |              0 | For the red wine was not from out our ships:
+119 |  521.700 | There              |              0 | there was still some left, / for each crew had drawn off much
+120 |  524.660 | in                 |              0 | in two-handled jars when we / took the Cicones' holy citadel.
+121 |  528.420 | And                |              0 | And we looked across at the land / of the Cyclopes, who were near:
+122 |  532.020 | smoke              |              0 | smoke, and voices — theirs, and their sheep's and goats'.
+123 |  535.400 | And                |              0 | And when the sun went down and the dusk came on, / then we lay down to sleep on the surf-line of the sea.
+124 |  540.980 | When               |              0 | When Dawn appeared, the early-born, with fingers of rose,
+125 |  544.360 | then               |              0 | then I called an assembly, and spoke among them all:
+126 |  547.460 | rest               |              1 | 'The rest of you stay here now, my trusted companions, / while I with my own ship and my own crew
+127 |  552.900 | go                 |              0 | go and make trial of those men over there — what they are:
+128 |  556.280 | whether            |              0 | whether violent, savage, without justice, / or kind to strangers, with hearts that fear the gods.'
+129 |  562.680 | So                 |              0 | So speaking I went aboard, and ordered my companions / to board in their turn and loose the stern-cables.
+130 |  568.880 | And                |              0 | And they came aboard at once and / took their places at the oarlocks,
+131 |  572.320 | and                |              0 | and sitting in order they struck / the gray salt water with their oars.
+132 |  576.000 | But                |              0 | But when we reached the place — it was not far — / there on the land's edge, close by the sea, we saw a cave,
+133 |  582.460 | high,              |              0 | high, overhung with laurels. There many flocks — / sheep and goats — were penned at night; around it a yard
+134 |  588.960 | ran                |              0 | ran high-built, of stones set deep in the earth, / and tall pines, and oaks with lofty crowns.
+135 |  594.960 | And                |              0 | And there a man slept, a monster of a man, who shepherded / his flocks alone and far apart; he kept no company
+136 |  600.960 | with               |              0 | with others, but held aloof, and his heart knew no law.
+137 |  604.680 | For                |              0 | For he was built a monstrous wonder — nothing / like a man who eats bread, but like a wooded crag
+138 |  609.860 | of                 |              0 | of the high mountains, standing clear of all the rest.
+139 |  613.200 | Then               |              0 | Then I ordered the rest of my trusted companions / to stay there by the ship and guard the ship,
+140 |  618.580 | While              |              0 | while I picked the twelve best of my companions / and went. And I took a goatskin of dark wine,
+141 |  624.100 | sweet              |              0 | sweet wine, that Maron gave me, Euanthes' son, / the priest of Apollo, the god who watches over Ismarus —
+142 |  630.780 | because            |              0 | because we had protected him, with his child and his wife,
+143 |  634.040 | out                |              0 | out of reverence: for he lived in the wooded grove / of Phoebus Apollo. And he gave me shining gifts:
+144 |  639.620 | He                 |              0 | he gave me seven talents of well-wrought gold, / and he gave me a mixing-bowl all of silver, and then
+145 |  644.940 | wine,              |              0 | wine, drawn off in two-handled jars, twelve in all, / sweet and unmixed, a drink for gods. Not one
+146 |  651.220 | of                 |              0 | of the slaves or handmaids in his house knew of it —
+147 |  654.280 | only               |              0 | only himself and his dear wife, and one housekeeper only.
+148 |  658.360 | Whenever           |              0 | Whenever they drank that honey-sweet red wine, / he would fill one cup and pour it into twenty measures
+149 |  663.600 | of                 |              0 | of water, and a sweet smell would rise from the bowl, / a marvel: no joy then in holding back.
+150 |  670.120 | Of                 |              0 | Of this I filled a great skin and / brought it, and provisions too
+151 |  673.300 | in                 |              0 | in a sack: for my proud heart had a foreboding, even then,
+152 |  677.040 | that               |              0 | that a man would come against / me clothed in great strength,
+153 |  679.980 | a                  |              0 | a savage, knowing nothing of judgments or of laws.
+154 |  683.480 | Quickly,           |              0 | Quickly we came to the cave, and did not find him within: / he was herding his fat flocks in the pasture.
+155 |  690.020 | We                 |              0 | We went into the cave and stared in wonder at everything:
+156 |  692.920 | sagging            |              1 | crates sagging with cheeses; pens crowded with / lambs and kids — each sort folded separately,
+157 |  700.160 | the                |              0 | the firstlings apart, apart the middle-born, / apart again the newborn; and every vessel swimming with whey,
+158 |  706.940 | the                |              0 | the pails and bowls, all made / by hand, that he milked into.
+159 |  711.000 | first,             |              1 | There first my companions begged me, pleading:
+160 |  714.080 | take               |              0 | take some cheeses and go back; then quickly, / driving the kids and lambs out of their pens
+161 |  719.000 | down               |              0 | down to the fast ship, sail away over the salt water.
+162 |  722.730 | But                |              0 | But I would not listen — it would have been far better —
+163 |  725.910 | not                |              0 | not until I saw him, and whether / he would give me guest-gifts.
+164 |  729.370 | and                |              0 | And his appearing was to be no joy to my companions.
+165 |  732.310 | We                 |              0 | We lit a fire there and made an / offering, and helped ourselves
+166 |  736.390 | to                 |              0 | to cheeses, and ate, and sat inside waiting for him, / until he came back herding. He carried a huge weight
+167 |  743.690 | of                 |              0 | of dry wood, to serve him at supper-time, / and flung it down inside the cave with a crash;
+168 |  749.790 | and                |              0 | and we in terror shrank away into the cave's far corner.
+169 |  753.370 | He                 |              0 | He drove his fat flocks into the wide cavern — / all those he milked; the males he left outside,
+170 |  758.950 | the                |              0 | the rams and he-goats, out in the deep yard.
+171 |  762.290 | Then               |              0 | Then he lifted high and set in place a huge door-stone, / a massive thing: twenty-two carts, good ones,
+172 |  768.270 | four               |              0 | four-wheeled, could not have levered it off the ground —
+173 |  771.310 | such               |              0 | such a towering cliff of rock he set in the doorway.
+174 |  774.430 | Then               |              0 | Then, sitting, he milked the ewes and bleating goats, / all in due order, and set the young under each.
+175 |  781.190 | and                |              0 | And straightway he curdled half the white milk and / gathered it and stored it in the plaited baskets,
+176 |  786.370 | and                |              0 | and half he stood in vessels, so it might be there for / him to take and drink, and serve him at supper-time.
+177 |  791.730 | and                |              0 | And when at last he had hurried through his work, / then he lit the fire — and saw us, and asked:
+178 |  797.610 | who                |              1 | 'Strangers, who are you? / From where do you sail the watery ways?
+179 |  801.410 | Is                 |              0 | Is it on some business — or do you rove at / random, the way sea-raiders do, who wander
+180 |  806.290 | staking            |              0 | staking their own lives, bearing evil to strangers?'
+181 |  810.070 | So                 |              0 | So he spoke, and our own hearts broke within us in / terror of the deep voice and the monster himself.
+182 |  816.790 | Even               |              0 | Even so I answered him, and said:
+183 |  819.130 | are                |              1 | 'We are Achaeans, blown off course from Troy by every / wind there is, across the great gulf of the sea,
+184 |  825.150 | making             |              0 | making for home — but by other routes, other roads / we came: so Zeus, I suppose, chose to devise it.
+185 |  832.070 | We                 |              0 | We declare ourselves the people of Agamemnon, Atreus' son,
+186 |  835.390 | whose              |              0 | whose fame is now the greatest thing under heaven, / so vast the city he sacked, so many the peoples
+187 |  840.310 | he                 |              0 | he destroyed. But we, for our part, / have come to your knees
+188 |  843.850 | hope               |              1 | in hope you may offer guest-friendship — or give besides
+189 |  846.590 | some               |              0 | some gift, as is the right and custom done for strangers.
+190 |  850.470 | Respect            |              0 | Respect the gods, mighty one. We are your suppliants,
+191 |  853.650 | and                |              0 | and Zeus is the avenger of suppliants and of strangers —
+192 |  856.610 | Zeus               |              0 | Zeus of Strangers, who walks beside honored guests.'
+193 |  860.330 | So                 |              0 | So I spoke, and he answered me / at once, with pitiless heart:
+194 |  863.950 | are                |              1 | 'You are a fool, stranger — / or you have come from far away —
+195 |  867.370 | You                |              0 | you who tell me to fear the gods or shun their anger.
+196 |  870.530 | The                |              0 | The Cyclopes pay no heed to Zeus who bears the aegis,
+197 |  873.810 | nor                |              0 | nor to the blessed gods: for we are the better men by far.
+198 |  877.210 | I                  |              0 | I would not spare you or your companions to dodge / the hatred of Zeus — not unless my own heart bade me.
+199 |  883.390 | But                |              0 | But tell me: where did you moor / your well-made ship when you came?
+200 |  886.670 | At                 |              0 | At the far end of the shore, or near? I want to know.'
+201 |  890.590 | So                 |              0 | So he spoke, testing; but I knew too much, and he did / not catch me; I answered him back with words of guile:
+202 |  897.150 | ship,              |              1 | 'My ship — Poseidon the / earth-shaker smashed her to pieces,
+203 |  900.710 | driving            |              0 | driving her on the rocks at the border of your country:
+204 |  903.330 | and                |              0 | and the wind carried her in from the sea.
+205 |  906.270 | But                |              0 | But I, with these men here, escaped sheer destruction.'
+206 |  909.590 | So                 |              0 | So I spoke; and out of his / pitiless heart he answered nothing,
+207 |  913.410 | but                |              0 | but sprang up and reached his hands out at my companions,
+208 |  916.570 | snatched           |              0 | snatched up two together, and dashed them like puppies
+209 |  919.170 | against            |              0 | against the ground: their brains / ran out on the earth, and wetted it.
+210 |  923.370 | He                 |              0 | He tore them limb from limb and made ready his supper,
+211 |  926.230 | and                |              0 | and he ate like a mountain-bred lion, and left nothing —
+212 |  929.490 | the                |              0 | the entrails, the flesh, the bones with their marrow.
+213 |  933.150 | And                |              0 | And we, weeping, lifted up our hands to Zeus at the / horror we watched, helplessness holding our hearts.
+214 |  939.730 | And                |              0 | And when the Cyclops had filled his great belly, / feeding on man-flesh and washing it down with unmixed milk,
+215 |  945.990 | he                 |              0 | he lay stretched out in the cave among his sheep.
+216 |  949.230 | And                |              0 | And I made a plan in my own great heart to steal close, / draw the sharp sword from beside my thigh,
+217 |  956.350 | and                |              0 | and stab him in the chest, / where the midriff holds the liver,
+218 |  959.910 | feeling            |              0 | feeling for the place with my hand. / But a second thought held me:
+219 |  963.990 | There              |              0 | there we too would have perished in sheer destruction, / for we could never have pushed back with our hands
+220 |  969.730 | the                |              0 | the massive stone he had set in the high doorway.
+221 |  973.090 | So                 |              0 | So then, groaning, we waited for shining Dawn.
+222 |  976.430 | when               |              0 | When Dawn appeared, the early-born, with fingers of rose,
+223 |  980.090 | then               |              0 | then he lit the fire, and milked his famous flocks, / all in due order, and set the young under each.
+224 |  987.130 | And                |              0 | And when at last he had hurried through his work,
+225 |  989.350 | he                 |              0 | he snatched up two men together / again, and made his meal ready.
+226 |  993.430 | and                |              0 | And having fed, he drove his fat flocks out of the cave,
+227 |  997.210 | lifting            |              0 | lifting off the great door-stone with ease — and then / set it back, the way a man sets the lid on a quiver.
+228 | 1003.890 | With               |              0 | With a great whistling the Cyclops turned his fat flocks
+229 | 1006.830 | toward             |              0 | toward the mountain; and I was left / brooding evil deep in my heart:
+230 | 1011.230 | If                 |              0 | if somehow I might pay him back, / and Athena grant me the glory.
+231 | 1015.510 | and                |              0 | And this, as I turned it over, seemed to me the best plan.
+232 | 1019.770 | There              |              0 | There lay beside a pen a great club of the Cyclops', / green olive-wood: he had cut it to carry
+233 | 1025.490 | once               |              0 | once it seasoned. Looking it over we judged it / big as the mast of a black twenty-oared ship,
+234 | 1031.470 | a                  |              0 | a broad-beamed freighter, that crosses the great gulf:
+235 | 1035.150 | that               |              0 | that was its length, that its thickness to the eye.
+236 | 1038.470 | Standing           |              0 | Standing to it, I cut off about a fathom's measure
+237 | 1041.890 | and                |              0 | and handed it to my companions, / and told them to dress it down;
+238 | 1045.530 | and                |              0 | and they made it smooth, / while standing by I brought it to a point
+239 | 1048.970 | at                 |              0 | at the tip, and then took it and / hardened it in the blazing fire.
+240 | 1053.310 | and                |              0 | And I laid it carefully by, hiding it under the dung
+241 | 1056.350 | that               |              0 | that was strewn in a great deep litter through the cave.
+242 | 1059.930 | And                |              0 | And I told the others to shake lots among them for / who would dare, together with me, to lift the stake
+243 | 1065.170 | and                |              0 | and grind it in his eye, when sweet sleep came on him.
+244 | 1068.930 | The                |              0 | The lot fell on the very men I would have chosen —
+245 | 1071.610 | four               |              0 | four of them, and I counted / myself in with them, the fifth.
+246 | 1075.810 | At                 |              0 | At evening he came back, herding his fair-fleeced flocks,
+247 | 1079.230 | and                |              0 | and drove those fat flocks straight into the wide cavern,
+248 | 1082.210 | all                |              0 | all of them: he left not one outside in the deep yard,
+249 | 1086.110 | whether            |              0 | whether some foreboding moved him, or a god so ordered it.
+250 | 1089.470 | Then               |              0 | Then he lifted high and set in place the great door-stone,
+251 | 1092.770 | and                |              0 | and sitting, he milked the ewes and bleating goats, / all in due order, and set the young under each.
+252 | 1098.670 | And                |              0 | And when at last he had hurried through his work,
+253 | 1100.970 | he                 |              0 | he snatched up two men together again, / and made his supper ready.
+254 | 1105.210 | And                |              0 | And then I came up close and spoke to the Cyclops, / holding in my hands an ivy-wood bowl of the dark wine:
+255 | 1111.910 | Here               |              1 | 'Cyclops — here, drink wine, / now you have fed on man-flesh:
+256 | 1115.550 | so                 |              0 | so you may know what kind of drink our ship
+257 | 1117.450 | carried            |              0 | carried stored. I was bringing it / as an offering for you, in hope
+258 | 1121.450 | you                |              0 | you might pity me and send me home. / But your madness is past all bearing.
+259 | 1126.050 | merciless          |              0 | Merciless one — how will any other man of all the many
+260 | 1128.610 | ever               |              0 | ever come near you again? / What you have done is past all measure.'
+261 | 1132.870 | So                 |              0 | So I spoke; and he took it, and drank it down; / and it pleased him — terribly —
+262 | 1137.690 | the                |              0 | the sweet drink; and he demanded a second helping:
+263 | 1140.850 | me                 |              1 | 'Give me more — be generous. And tell me your name,
+264 | 1143.910 | here               |              0 | here, now, so I can give you a / guest-gift that will make you glad.
+265 | 1147.690 | The                |              0 | The grain-giving plowland bears / wine for the Cyclopes too —
+266 | 1151.150 | fine               |              0 | fine clusters, and Zeus' rain swells them for us; / but this — this is a rivulet of ambrosia and nectar!'
+267 | 1159.590 | So                 |              0 | So he spoke, and I handed him the fire-bright wine again.
+268 | 1163.090 | Three              |              0 | Three times I brought and gave it; / three times, in his folly, he drained it.
+269 | 1167.930 | and                |              0 | And when the wine had come circling round the Cyclops' wits, / then I spoke to him with honeyed words:
+270 | 1173.910 | you                |              1 | 'Cyclops, you ask my glorious name? Then I will tell it — / and you give me the guest-gift, as you promised.
+271 | 1180.210 | Nobody             |              0 | Nobody is my name. Nobody is what they call me — / my mother and my father and all my companions.'
+272 | 1186.470 | So                 |              0 | So I spoke, and he answered me / at once, with pitiless heart:
+273 | 1190.150 | I                  |              1 | 'Nobody I will eat last of all his company, / and the others before him. That shall be your guest-gift.'
+274 | 1196.510 | He                 |              0 | He spoke — and reeling back he fell flat, and lay there / with his thick neck lolled over sideways; and sleep
+275 | 1202.470 | the                |              0 | the all-subduer took him. And from his gullet gushed wine
+276 | 1206.590 | and                |              0 | and gobbets of human flesh, / as he belched in his drunkenness.
+277 | 1211.050 | And                |              0 | And then I drove the stake under the deep ash-heap / to heat; and with my words I put courage in all
+278 | 1216.410 | my                 |              0 | my companions, so no man might flinch and hang back.
+279 | 1220.950 | But                |              0 | But when that olive stake in / the fire, green though it was,
+280 | 1224.050 | was                |              0 | was on the point of catching, / and glowed clean through, terrible —
+281 | 1228.070 | Then               |              0 | then I brought it close out of the fire, and my companions
+282 | 1230.910 | stood              |              0 | stood round me; and a great / power breathed courage into us.
+283 | 1234.890 | They               |              0 | They took up the olive stake, sharpened at its point,
+284 | 1237.990 | and                |              0 | and rammed it in his eye; and I, / throwing my weight on from above,
+285 | 1241.810 | spun               |              0 | spun it — the way a man bores a ship-timber with / a drill, and his mates below keep it running
+286 | 1247.050 | with               |              0 | with a strap they hold at either end, / and it spins on without stopping:
+287 | 1251.610 | So                 |              0 | so we took the fire-pointed stake and spun it in his eye, / and the blood came boiling up round its heat,
+288 | 1257.790 | and                |              0 | and the blast singed all his lids and brows away
+289 | 1260.670 | as                 |              0 | as the eyeball burned, and the / roots of it crackled in the fire.
+290 | 1264.490 | As                 |              0 | As when a smith dips a great axe-head or an / adze in cold water, and it hisses loud and high,
+291 | 1270.550 | tempering          |              0 | tempering it — for that is what gives iron its strength — / so his eye hissed round the olive stake.
+292 | 1275.730 | and                |              0 | And he let out a huge and hideous howl, / and the rock rang round it,
+293 | 1279.530 | and                |              0 | and we shrank back in terror. He wrenched the stake / out of his eye, all fouled with streaming blood,
+294 | 1285.130 | and                |              0 | and flung it from him, flailing his arms in agony, / and set up a great bellowing to the Cyclopes who lived
+295 | 1290.990 | around             |              0 | around him in caves along the windy heights.
+296 | 1293.790 | And                |              0 | And they heard his cry and came thronging from every side,
+297 | 1297.070 | and                |              0 | and standing round the cave they asked him what was wrong:
+298 | 1300.570 | in                 |              1 | 'What in the world, Polyphemus? / What hurt, that you cry out so
+299 | 1303.910 | through            |              0 | through the ambrosial night and make us sleepless?
+300 | 1306.690 | Surely             |              0 | Surely no mortal is driving off / your flocks against your will?
+301 | 1310.230 | Surely             |              0 | Surely no one is killing you — by cunning or by force?'
+302 | 1313.750 | And                |              0 | And out of the cave strong Polyphemus answered them:
+303 | 1316.630 | nobody             |              1 | 'Friends — Nobody is killing me, / by cunning and not by force!'
+304 | 1320.290 | And                |              0 | And they answered with winged words, and gave it back:
+305 | 1322.930 | nobody             |              1 | 'If nobody is forcing you, then — alone as you are —
+306 | 1326.150 | it                 |              0 | it must be sickness from great Zeus, / and there is no escaping that.
+307 | 1329.990 | to                 |              1 | Pray to our father, the lord Poseidon.'
+308 | 1332.670 | So                 |              0 | So they spoke as they went; and my own heart laughed,
+309 | 1335.590 | how                |              0 | how my name had utterly deceived him — / the name, and the flawless cunning.
+310 | 1340.370 | But                |              0 | But the Cyclops, groaning and heaving in his agonies,
+311 | 1343.390 | groped             |              0 | groped with his hands and lifted / the stone from the doorway,
+312 | 1346.810 | and                |              0 | and sat himself down in the door with both arms spread,
+313 | 1349.870 | in                 |              0 | in hope of catching anyone who / tried to slip out with the sheep:
+314 | 1353.430 | Such               |              0 | such a fool, I suppose, he hoped to find in me.
+315 | 1356.110 | But                |              0 | But I was planning how it might all come out best —
+316 | 1358.850 | If                 |              0 | if I could find some release from death for my companions / and for myself; and I wove every guile and design,
+317 | 1365.110 | as                 |              0 | as a man does for his very life: / for the great evil was close.
+318 | 1369.210 | And                |              0 | And this, as I turned it over, seemed to me the best plan.
+319 | 1372.810 | There              |              0 | There were rams there, well-fed, thick in the fleece, / fine big animals, their wool dark as violets.
+320 | 1379.990 | These,             |              0 | These, working quietly, I lashed / together with plaited withies —
+321 | 1383.630 | the                |              0 | the ones that monster slept on, the outlaw — in threes:
+322 | 1387.330 | the                |              0 | the middle one of each three carried a man, and the / other two walked either side, protecting my companions.
+323 | 1393.310 | So                 |              0 | So three sheep to each man. But for myself — / there was one ram, far the finest of all the flock;
+324 | 1399.830 | I                  |              0 | I caught him along the back and / curled under his shaggy belly
+325 | 1402.970 | and                |              0 | and lay there; and in that wondrous fleece, with my / hands twisted fast, I hung on, with an enduring heart.
+326 | 1410.110 | So                 |              0 | So then, groaning, we waited for shining Dawn.
+327 | 1413.290 | when               |              0 | When Dawn appeared, the early-born, with fingers of rose, / then the male flocks poured out toward pasture,
+328 | 1420.610 | and                |              0 | and the unmilked females bleated about the pens with / their udders bursting. And their lord, worn down
+329 | 1426.170 | by                 |              0 | by evil agonies, ran his hands / along the backs of all his sheep
+330 | 1429.650 | as                 |              0 | as they stood up straight — and never sensed it, the fool:
+331 | 1433.290 | my                 |              0 | my men bound under the breasts of his own fleecy sheep.
+332 | 1436.730 | Last               |              0 | Last of the flock the great ram walked toward the doorway,
+333 | 1439.910 | heavy              |              0 | heavy with his wool — and with me, / and my crowding thoughts.
+334 | 1443.590 | and                |              0 | And strong Polyphemus, running his hands over him, said:
+335 | 1447.470 | sweetheart,        |              1 | 'Old sweetheart — my ram — why last of all the flock
+336 | 1451.050 | through            |              0 | through the cave this time? Before, / you were never one to lag behind:
+337 | 1454.930 | First,             |              0 | first, always first, striding out to graze the soft / flowering grass, first to reach the running rivers,
+338 | 1461.690 | first              |              0 | first in your longing to turn home to the fold at / evening. And now — last of all. Grieving, are you,
+339 | 1467.910 | for                |              0 | for your master's eye, that a coward of a man put out,
+340 | 1470.790 | with               |              0 | with his miserable companions, / when he had crushed my wits with wine —
+341 | 1474.710 | nobody,            |              0 | Nobody — who is not yet, I promise, clear of destruction.
+342 | 1478.770 | If                 |              0 | If only you could think with me, if only you had a / voice to say where that man is dodging from my fury:
+343 | 1484.190 | then               |              0 | then his brains would be dashed / against the floor and spattered
+344 | 1487.050 | this               |              0 | this way and that through the cave, / and my heart would find
+345 | 1489.930 | some               |              0 | some ease from the evils this / worthless Nobody has brought me.'
+346 | 1493.610 | So                 |              0 | So speaking he sent the ram away from him, out the door.
+347 | 1496.750 | and                |              0 | And when we had gone a little / way from the cave and the yard,
+348 | 1499.770 | first              |              0 | first I loosed myself from under the ram, / and then set my companions free.
+349 | 1504.490 | Swiftly,           |              0 | Swiftly then we drove those / long-shanked sheep, deep in fat,
+350 | 1508.510 | turning            |              0 | turning again and again to look behind, until we came
+351 | 1511.170 | to                 |              0 | to the ship. And a welcome sight / we were to our dear companions —
+352 | 1514.710 | we                 |              0 | we who had escaped death — / but the others they wept and wailed for.
+353 | 1518.550 | I                  |              0 | I would not have it: I frowned each man's tears back
+354 | 1521.930 | and                |              0 | and ordered them quickly to fling the fine-fleeced sheep
+355 | 1524.290 | aboard             |              0 | aboard in numbers, and sail out over the salt water.
+356 | 1527.590 | And                |              0 | And they came aboard at once and / took their places at the oarlocks,
+357 | 1531.210 | and                |              0 | and sitting in order they struck / the gray salt water with their oars.
+358 | 1534.890 | But                |              0 | But when I was as far offshore as a man's shout carries, / then I called to the Cyclops with jeering words:
+359 | 1541.080 | [manual timestamp] |              9 | 'Cyclops! Not so weak a man's companions, after all,
+360 | 1544.380 | to                 |              4 | were those you meant to eat by / main force in your hollow cave.
+361 | 1547.590 | And                |              0 | And your own evil deeds were bound to find you out —
+362 | 1550.350 | merciless          |              0 | merciless one — you who did not shrink from eating guests
+363 | 1553.090 | in                 |              0 | in your own house. For that Zeus / has paid you, and the other gods.'
+364 | 1557.790 | So                 |              0 | So I spoke, and the anger in his heart grew fiercer,
+365 | 1560.890 | and                |              0 | and he tore off the peak of a / great mountain and hurled it,
+366 | 1564.170 | and                |              0 | and brought it down just ahead of the dark-blue prow — / barely — it missed the tip of the steering-oar;
+367 | 1569.770 | and                |              0 | and the sea heaved up under the falling rock, and the / backwash carried the ship straight in toward the land,
+368 | 1575.210 | a                  |              0 | a flood-surge out of the deep, / and drove her toward the shore.
+369 | 1578.430 | But                |              0 | But I seized a long pole in my hands and shoved / her off and out, and roused my companions,
+370 | 1584.130 | ordering           |              0 | ordering them to fall to their / oars and get us clear of the evil,
+371 | 1587.810 | nodding            |              0 | nodding hard with my head; and they bent to it and rowed.
+372 | 1591.370 | But                |              0 | But when we were twice as far out over the sea,
+373 | 1594.130 | then               |              0 | then I made to call to the Cyclops / again; and around me my companions
+374 | 1598.030 | tried              |              0 | tried to hold me back with honeyed / words, this one and that one:
+375 | 1602.010 | man,               |              1 | 'Merciless man — why must you provoke a savage
+376 | 1604.650 | who                |              0 | who even now, with that shot / into the sea, has driven the ship
+377 | 1608.290 | straight           |              0 | straight back ashore — and we thought we died there!
+378 | 1611.550 | If                 |              0 | If he had heard a voice, heard any one of us speaking,
+379 | 1614.470 | he                 |              0 | he would have smashed our heads / and the ship's timbers together
+380 | 1617.430 | with               |              0 | with one jagged boulder: he throws that far.'
+381 | 1620.710 | so                 |              0 | So they spoke, but they could not persuade my great heart, / and I called back to him with fury in my breast:
+382 | 1626.930 | If                 |              1 | 'Cyclops — if any mortal man ever asks you / who put the shameful blinding on your eye,
+383 | 1632.670 | Tell               |              0 | tell him: Odysseus, sacker of cities, blinded me — / the son of Laertes, who has his home in Ithaca.'
+384 | 1640.250 | So                 |              0 | So I spoke, and he groaned aloud, and answered:
+385 | 1643.770 | then               |              1 | 'Ah, then it comes home to me — the old prophecy!
+386 | 1646.890 | There              |              0 | There was a seer here once, a great man and a good one, / Telemus, Eurymus' son, who excelled in prophecy
+387 | 1653.850 | and                |              0 | and grew old prophesying among the Cyclopes.
+388 | 1655.870 | he                 |              0 | He told me all this would come to pass in time:
+389 | 1659.650 | that               |              0 | that I would lose my sight at the hands of an Odysseus.
+390 | 1663.110 | But                |              0 | But I always watched for some big man, a handsome one, / to come here, clothed in great strength;
+391 | 1669.030 | And                |              0 | and now a little man, a worthless thing, a weakling, / has put out my eye — after he crushed me with wine.
+392 | 1675.470 | But                |              0 | But come here, Odysseus — / let me set out a guest-gift for you,
+393 | 1679.230 | and                |              0 | and press the famous earth-shaker / to give you passage home.
+394 | 1682.430 | for                |              0 | For I am his son, and he declares himself my father.
+395 | 1685.870 | He                 |              0 | He himself, if he wills it, will heal me — and no one else, / none of the blessed gods, and no mortal man.'
+396 | 1692.910 | So                 |              0 | So he spoke; and I answered him and said:
+397 | 1695.870 | to                 |              1 | 'Would to god I could strip you of breath and / life and send you down to the house of Hades
+398 | 1700.190 | as                 |              0 | as surely as not even the / earth-shaker will ever heal that eye.'
+399 | 1704.130 | So                 |              0 | So I spoke; and he then prayed to the lord Poseidon, / stretching out his hands to the starry heaven:
+400 | 1710.010 | me,                |              1 | 'Hear me, Poseidon who hold the earth, dark-haired one:
+401 | 1713.450 | if                 |              0 | if I am truly yours, and you declare yourself my father,
+402 | 1717.190 | grant              |              0 | grant that Odysseus, sacker of cities, never come home — / the son of Laertes, who has his home in Ithaca.
+403 | 1723.650 | But                |              0 | But if it is his portion to see his own people, / to reach his well-built house and his own fatherland,
+404 | 1729.470 | late               |              0 | late may he come, and in evil case, all companions lost,
+405 | 1732.970 | on                 |              0 | on another man's ship — and find trouble in his house.'
+406 | 1736.270 | So                 |              0 | So he spoke in prayer, and the dark-haired god heard him.
+407 | 1739.750 | Then               |              0 | Then once again he lifted a stone — far bigger —
+408 | 1742.730 | it,                |              1 | whirled it, and let it fly, putting / his measureless strength behind it,
+409 | 1746.930 | and                |              0 | and brought it down just astern of the dark-blue ship — / barely — it missed the tip of the steering-oar;
+410 | 1752.650 | and                |              0 | and the sea heaved up under the falling rock,
+411 | 1755.010 | and                |              0 | and the wave carried her forward, / and drove her toward the far shore.
+412 | 1759.070 | But                |              0 | But when we came back to the island where the other
+413 | 1761.510 | well               |              0 | well-benched ships waited all / together, with the companions
+414 | 1764.410 | sitting            |              0 | sitting round them weeping, watching for us without end, / there we ran the ship up on the sands
+415 | 1769.970 | and                |              0 | and stepped out ourselves onto the surf-line of the sea.
+416 | 1773.130 | and                |              0 | And taking the Cyclops' flocks out of the hollow ship
+417 | 1776.250 | we                 |              0 | we divided all, so that no man / might go cheated of his share by me.
+418 | 1780.950 | But                |              0 | But the great ram — my strong-greaved companions gave him
+419 | 1784.210 | to                 |              0 | to me alone, when the flocks were shared, / a gift apart; and on the shore
+420 | 1788.430 | I                  |              0 | I offered him to Zeus of the / black cloud, the son of Cronos,
+421 | 1792.190 | Lord               |              0 | lord of all, and burned the thigh-cuts. / But he took no heed of my offering:
+422 | 1796.230 | he                 |              0 | he was pondering, even then, how all my well-benched ships
+423 | 1800.070 | might              |              0 | might be destroyed, and all my trusted companions.
+424 | 1803.710 | So                 |              0 | So then all day long till the setting of the sun we / sat feasting on meat past counting and sweet wine;
+425 | 1810.310 | and                |              0 | and when the sun went down and the dusk came on, / then we lay down to sleep on the surf-line of the sea.
+426 | 1816.190 | When               |              0 | When Dawn appeared, the early-born, with fingers of rose, / then I roused my companions and ordered them
+427 | 1822.030 | to                 |              0 | to board in their turn and loose the stern-cables.
+428 | 1824.710 | and                |              0 | And they came aboard at once and / took their places at the oarlocks,
+429 | 1829.070 | and                |              0 | and sitting in order they struck / the gray salt water with their oars.
+430 | 1832.830 | From               |              0 | From there we sailed on further, grieved at heart, / glad to be out of death, having lost our dear companions.

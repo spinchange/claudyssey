@@ -1,0 +1,312 @@
+﻿[Script Info]
+Title: ODYSSEY — BOOK XXIII — Living Manuscript Edition
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Title,Georgia,74,&H006AB3D7,&H006AB3D7,&HCC130D08,&H80000000,0,0,0,0,100,100,7,0,1,3,2,5,120,120,0,1
+Style: Deck,Georgia,35,&H00C7DDE8,&H00C7DDE8,&HCC130D08,&H80000000,0,1,0,0,100,100,1,0,1,2.5,1,5,210,210,0,1
+Style: Header,Georgia,23,&H005594B8,&H005594B8,&H80130D08,&H00000000,0,0,0,0,100,100,3,0,1,1.5,0,8,80,80,54,1
+Style: Narration,Georgia,49,&H00D8E7EE,&H00D8E7EE,&HE0130D08,&H70000000,0,0,0,0,100,100,0.4,0,1,3,1,2,170,170,185,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.06,Title,,0,0,0,,{\pos(960,445)\fad(600,500)\bord3\blur0.5}ODYSSEY — BOOK XXIII
+Dialogue: 0,0:00:00.00,0:00:07.06,Deck,,0,0,0,,{\pos(960,565)\fad(600,500)}The bed;\Nthe test that Penelope wins; the long night held back.
+Dialogue: 0,0:00:07.06,0:19:58.87,Header,,0,0,0,,{\fad(800,500)}HOMER’S ODYSSEY  ·  BOOK XXIII
+Dialogue: 1,0:00:07.06,0:00:11.38,Narration,,0,0,0,,{\fad(60,120)}And the old woman climbed to\Nthe upper room, laughing aloud,
+Dialogue: 1,0:00:11.38,0:00:14.68,Narration,,0,0,0,,{\fad(60,120)}to tell her mistress that her own\Ndear husband was in the house;
+Dialogue: 1,0:00:14.68,0:00:18.30,Narration,,0,0,0,,{\fad(60,120)}her knees were pumping fast, her feet stumbled with hurry.
+Dialogue: 1,0:00:18.30,0:00:21.82,Narration,,0,0,0,,{\fad(60,120)}She stood over Penelope's head and spoke to her:
+Dialogue: 1,0:00:21.82,0:00:27.50,Narration,,0,0,0,,{\fad(60,120)}"Wake, Penelope, dear child — so you can see with\Nyour own eyes what you have longed for all your days!
+Dialogue: 1,0:00:27.50,0:00:31.10,Narration,,0,0,0,,{\fad(60,120)}Odysseus is here — he has come home — however late.
+Dialogue: 1,0:00:31.10,0:00:33.72,Narration,,0,0,0,,{\fad(60,120)}And he has killed the lordly suitors, the men who plagued
+Dialogue: 1,0:00:33.72,0:00:37.40,Narration,,0,0,0,,{\fad(60,120)}his house, and ate his goods, and bullied his son."
+Dialogue: 1,0:00:37.40,0:00:39.90,Narration,,0,0,0,,{\fad(60,120)}Then watchful-minded Penelope answered her:
+Dialogue: 1,0:00:39.90,0:00:46.00,Narration,,0,0,0,,{\fad(60,120)}"Dear nurse, the gods have made you mad. The gods\Ncan strike even the full of sense to foolishness,
+Dialogue: 1,0:00:46.00,0:00:48.40,Narration,,0,0,0,,{\fad(60,120)}and set the empty-headed on the road of wisdom:
+Dialogue: 1,0:00:48.40,0:00:51.86,Narration,,0,0,0,,{\fad(60,120)}they have unstrung you. Your mind was straight before.
+Dialogue: 1,0:00:51.86,0:00:58.00,Narration,,0,0,0,,{\fad(60,120)}Why do you mock me, when my heart is all one grief,\Ntelling wild tales — and shake me out of the sleep,
+Dialogue: 1,0:00:58.00,0:01:01.82,Narration,,0,0,0,,{\fad(60,120)}the sweet sleep that had bound me,\Nfolding my eyelids under?
+Dialogue: 1,0:01:01.82,0:01:07.54,Narration,,0,0,0,,{\fad(60,120)}I have not slept so sound since the day Odysseus\Nwent to look on Evil-Ilium, never to be named.
+Dialogue: 1,0:01:07.54,0:01:11.00,Narration,,0,0,0,,{\fad(60,120)}Go on — down with you now, back to the hall.
+Dialogue: 1,0:01:11.00,0:01:15.56,Narration,,0,0,0,,{\fad(60,120)}If any other of my women had come to me with\Nnews like this, and shaken me out of sleep,
+Dialogue: 1,0:01:15.56,0:01:17.64,Narration,,0,0,0,,{\fad(60,120)}I would soon have sent her packing back to the hall
+Dialogue: 1,0:01:17.64,0:01:21.86,Narration,,0,0,0,,{\fad(60,120)}and roughly. You — your old\Nage spares you that, at least."
+Dialogue: 1,0:01:21.86,0:01:24.18,Narration,,0,0,0,,{\fad(60,120)}Then the dear nurse Eurycleia answered her:
+Dialogue: 1,0:01:24.18,0:01:27.16,Narration,,0,0,0,,{\fad(60,120)}"I do not mock you, dear child. It is true:
+Dialogue: 1,0:01:27.16,0:01:30.52,Narration,,0,0,0,,{\fad(60,120)}Odysseus is here — he has come home, just as I tell you —
+Dialogue: 1,0:01:30.52,0:01:33.70,Narration,,0,0,0,,{\fad(60,120)}the stranger, the one they all dishonored in the hall.
+Dialogue: 1,0:01:33.70,0:01:38.90,Narration,,0,0,0,,{\fad(60,120)}Telemachus knew long since that he was here,\Nbut kept his father's purposes hidden, cool of head,
+Dialogue: 1,0:01:38.90,0:01:42.34,Narration,,0,0,0,,{\fad(60,120)}till he should punish the violence\Nof those overbearing men."
+Dialogue: 1,0:01:42.34,0:01:45.90,Narration,,0,0,0,,{\fad(60,120)}So she spoke; and Penelope, all joy, sprang out of bed
+Dialogue: 1,0:01:45.90,0:01:49.40,Narration,,0,0,0,,{\fad(60,120)}and clung to the old woman,\Ntears spilling from her eyelids,
+Dialogue: 1,0:01:49.40,0:01:52.22,Narration,,0,0,0,,{\fad(60,120)}and lifting her voice she spoke winged words to her:
+Dialogue: 1,0:01:52.22,0:01:54.34,Narration,,0,0,0,,{\fad(60,120)}"Come then, dear nurse — tell me truly:
+Dialogue: 1,0:01:54.34,0:01:59.48,Narration,,0,0,0,,{\fad(60,120)}if he has really come home, as you say he has,\Nhow did he lay his hands on the shameless suitors —
+Dialogue: 1,0:01:59.48,0:02:02.74,Narration,,0,0,0,,{\fad(60,120)}one man alone, when they were always in there in a pack?"
+Dialogue: 1,0:02:02.74,0:02:04.94,Narration,,0,0,0,,{\fad(60,120)}Then the dear nurse Eurycleia answered her:
+Dialogue: 1,0:02:04.94,0:02:08.26,Narration,,0,0,0,,{\fad(60,120)}"I did not see, I did not ask. I heard only the groaning
+Dialogue: 1,0:02:08.26,0:02:11.48,Narration,,0,0,0,,{\fad(60,120)}of men being killed. We sat in\Nthe corner of our strong-built
+Dialogue: 1,0:02:11.48,0:02:15.36,Narration,,0,0,0,,{\fad(60,120)}quarters, struck dumb —\Nthe close-fitted doors held us in —
+Dialogue: 1,0:02:15.36,0:02:20.84,Narration,,0,0,0,,{\fad(60,120)}until the hour your son called me out of the hall,\NTelemachus: his father had sent him to call me.
+Dialogue: 1,0:02:20.84,0:02:26.22,Narration,,0,0,0,,{\fad(60,120)}And then I found Odysseus standing among the bodies of\Nthe slain; and they, around him, on the trodden floor
+Dialogue: 1,0:02:26.22,0:02:29.48,Narration,,0,0,0,,{\fad(60,120)}lay heaped on one another.\NIt would have warmed your heart —
+Dialogue: 1,0:02:29.48,0:02:34.48,Narration,,0,0,0,,{\fad(60,120)}Now they are all together at the courtyard gates,\Nand he is purging the beautiful house with sulfur,
+Dialogue: 1,0:02:34.48,0:02:37.72,Narration,,0,0,0,,{\fad(60,120)}and has built a great fire; and he sent me to call you.
+Dialogue: 1,0:02:37.72,0:02:40.56,Narration,,0,0,0,,{\fad(60,120)}Come with me now — so both of you can set your dear hearts
+Dialogue: 1,0:02:40.56,0:02:44.54,Narration,,0,0,0,,{\fad(60,120)}in the way of gladness at last:\Nyou have suffered so much evil.
+Dialogue: 1,0:02:44.54,0:02:47.78,Narration,,0,0,0,,{\fad(60,120)}Now, this time, the long desire is accomplished:
+Dialogue: 1,0:02:47.78,0:02:52.28,Narration,,0,0,0,,{\fad(60,120)}he has come himself, alive,\Nto his own hearth; and he has found you
+Dialogue: 1,0:02:52.28,0:02:56.38,Narration,,0,0,0,,{\fad(60,120)}and his son still in the halls;\Nand the men who wronged him,
+Dialogue: 1,0:02:56.38,0:02:59.68,Narration,,0,0,0,,{\fad(60,120)}the suitors — he has punished them all in his own house."
+Dialogue: 1,0:02:59.68,0:03:02.24,Narration,,0,0,0,,{\fad(60,120)}Then watchful-minded Penelope answered her:
+Dialogue: 1,0:03:02.24,0:03:05.90,Narration,,0,0,0,,{\fad(60,120)}"Dear nurse — no crowing yet. Hold back your laughter.
+Dialogue: 1,0:03:05.90,0:03:12.78,Narration,,0,0,0,,{\fad(60,120)}You know how welcome the sight of him would be to\Neveryone in this house — most of all to me and to our son.
+Dialogue: 1,0:03:12.78,0:03:15.86,Narration,,0,0,0,,{\fad(60,120)}But this tale cannot be true, not as you tell it:
+Dialogue: 1,0:03:15.86,0:03:19.46,Narration,,0,0,0,,{\fad(60,120)}no — some one of the immortals\Nhas killed the lordly suitors,
+Dialogue: 1,0:03:19.46,0:03:23.22,Narration,,0,0,0,,{\fad(60,120)}outraged at their heart-stinging\Ninsolence and their evil deeds.
+Dialogue: 1,0:03:23.22,0:03:28.32,Narration,,0,0,0,,{\fad(60,120)}For they honored nobody on this earth,\Nbad man or good, whoever came among them;
+Dialogue: 1,0:03:28.32,0:03:32.30,Narration,,0,0,0,,{\fad(60,120)}so through their own blind folly\Nthey have suffered. But Odysseus —
+Dialogue: 1,0:03:32.30,0:03:37.32,Narration,,0,0,0,,{\fad(60,120)}far away he has lost his homecoming,\Nlost out of Achaea; he himself is lost."
+Dialogue: 1,0:03:37.32,0:03:40.24,Narration,,0,0,0,,{\fad(60,120)}Then the dear nurse Eurycleia answered her:
+Dialogue: 1,0:03:40.24,0:03:43.66,Narration,,0,0,0,,{\fad(60,120)}"My child, what a word has\Nslipped the fence of your teeth!
+Dialogue: 1,0:03:43.66,0:03:47.42,Narration,,0,0,0,,{\fad(60,120)}Your husband is here —\Nat his own hearthside — and you declare
+Dialogue: 1,0:03:47.42,0:03:52.42,Narration,,0,0,0,,{\fad(60,120)}he will never come home!\NYour heart was always unbelieving.
+Dialogue: 1,0:03:52.42,0:03:56.58,Narration,,0,0,0,,{\fad(60,120)}Come then — I will give you another sign, and a plain one:
+Dialogue: 1,0:03:56.58,0:04:01.02,Narration,,0,0,0,,{\fad(60,120)}the scar the boar dealt him long ago with its white tusk.
+Dialogue: 1,0:04:01.02,0:04:04.22,Narration,,0,0,0,,{\fad(60,120)}I found it as I washed him, and I wanted to tell you —
+Dialogue: 1,0:04:04.22,0:04:07.28,Narration,,0,0,0,,{\fad(60,120)}you yourself — but he clapped his hand across my mouth
+Dialogue: 1,0:04:07.28,0:04:11.56,Narration,,0,0,0,,{\fad(60,120)}and would not let me speak: his mind is full of cunning.
+Dialogue: 1,0:04:11.56,0:04:14.14,Narration,,0,0,0,,{\fad(60,120)}But come. And I will stake my own life on it:
+Dialogue: 1,0:04:14.14,0:04:18.50,Narration,,0,0,0,,{\fad(60,120)}if I am deceiving you, kill me by\Nthe most pitiful death there is."
+Dialogue: 1,0:04:18.50,0:04:21.24,Narration,,0,0,0,,{\fad(60,120)}Then watchful-minded Penelope answered her:
+Dialogue: 1,0:04:21.24,0:04:24.62,Narration,,0,0,0,,{\fad(60,120)}"Dear nurse — the counsels of the gods who are forever:
+Dialogue: 1,0:04:24.62,0:04:28.44,Narration,,0,0,0,,{\fad(60,120)}it is hard for you to fathom them,\Nsharp-witted as you are.
+Dialogue: 1,0:04:28.44,0:04:35.18,Narration,,0,0,0,,{\fad(60,120)}But even so, let us go down to my son, so I may see\Nthe suitors dead — and the man who killed them."
+Dialogue: 1,0:04:35.18,0:04:38.24,Narration,,0,0,0,,{\fad(60,120)}So speaking she went down from\Nthe upper room; and her heart
+Dialogue: 1,0:04:38.24,0:04:41.70,Narration,,0,0,0,,{\fad(60,120)}churned: should she question her\Ndear husband from a distance,
+Dialogue: 1,0:04:41.70,0:04:45.34,Narration,,0,0,0,,{\fad(60,120)}or go to him, and take his head and hands, and kiss them?
+Dialogue: 1,0:04:45.34,0:04:48.68,Narration,,0,0,0,,{\fad(60,120)}And when she came in, and crossed the stone threshold,
+Dialogue: 1,0:04:48.68,0:04:52.50,Narration,,0,0,0,,{\fad(60,120)}she sat down opposite Odysseus, in the light of the fire,
+Dialogue: 1,0:04:52.50,0:04:58.00,Narration,,0,0,0,,{\fad(60,120)}against the other wall. And he, by the tall pillar,\Nsat looking at the ground, waiting to learn whether
+Dialogue: 1,0:04:58.00,0:05:02.86,Narration,,0,0,0,,{\fad(60,120)}his strong-built wife would speak\Nto him, once her eyes had seen.
+Dialogue: 1,0:05:02.86,0:05:06.80,Narration,,0,0,0,,{\fad(60,120)}But she sat a long while silent,\Nwonder flooding her heart:
+Dialogue: 1,0:05:06.80,0:05:10.26,Narration,,0,0,0,,{\fad(60,120)}with her eyes now she would gaze at him, full in the face;
+Dialogue: 1,0:05:10.26,0:05:14.38,Narration,,0,0,0,,{\fad(60,120)}now fail to know him — in the bad clothes on his body.
+Dialogue: 1,0:05:14.38,0:05:17.92,Narration,,0,0,0,,{\fad(60,120)}And Telemachus rebuked her,\Nand spoke a word, and named her:
+Dialogue: 1,0:05:17.92,0:05:24.46,Narration,,0,0,0,,{\fad(60,120)}"Mother mine — no mother! — with your unbending heart,\Nwhy do you hold apart from my father so? Why not
+Dialogue: 1,0:05:24.46,0:05:28.64,Narration,,0,0,0,,{\fad(60,120)}sit close beside him, and question him,\Nand ask him everything?
+Dialogue: 1,0:05:28.64,0:05:34.70,Narration,,0,0,0,,{\fad(60,120)}No other woman would harden her heart like this,\Nand stand apart from a husband who, after suffering much,
+Dialogue: 1,0:05:34.70,0:05:37.48,Narration,,0,0,0,,{\fad(60,120)}came in the twentieth year to his own fatherland.
+Dialogue: 1,0:05:37.48,0:05:41.52,Narration,,0,0,0,,{\fad(60,120)}But your heart is harder than stone —\Nas it has always been."
+Dialogue: 1,0:05:41.52,0:05:44.24,Narration,,0,0,0,,{\fad(60,120)}Then watchful-minded Penelope answered him:
+Dialogue: 1,0:05:44.24,0:05:48.04,Narration,,0,0,0,,{\fad(60,120)}"My child, the heart in my breast is stunned to stillness:
+Dialogue: 1,0:05:48.04,0:05:54.22,Narration,,0,0,0,,{\fad(60,120)}I cannot speak one word to him, cannot ask a question,\Ncannot look him in the face. But if he is truly
+Dialogue: 1,0:05:54.22,0:05:57.62,Narration,,0,0,0,,{\fad(60,120)}Odysseus — if he has come home — then surely we two
+Dialogue: 1,0:05:57.62,0:06:00.94,Narration,,0,0,0,,{\fad(60,120)}shall know one another,\Nand better than anyone: for we have
+Dialogue: 1,0:06:00.94,0:06:06.28,Narration,,0,0,0,,{\fad(60,120)}signs between us — hidden signs,\Nthat we two know and no one else."
+Dialogue: 1,0:06:06.28,0:06:12.94,Narration,,0,0,0,,{\fad(60,120)}So she spoke; and much-enduring noble Odysseus smiled,\Nand quickly he spoke winged words to Telemachus:
+Dialogue: 1,0:06:12.94,0:06:18.12,Narration,,0,0,0,,{\fad(60,120)}"Telemachus — let your mother test me in the\Nhalls as she will: she will soon see more clearly.
+Dialogue: 1,0:06:18.12,0:06:21.34,Narration,,0,0,0,,{\fad(60,120)}Now, because I am filthy,\Nand the clothes on my body are bad,
+Dialogue: 1,0:06:21.34,0:06:24.92,Narration,,0,0,0,,{\fad(60,120)}she holds me cheap, and will not yet say I am the man.
+Dialogue: 1,0:06:24.92,0:06:28.06,Narration,,0,0,0,,{\fad(60,120)}But we — let us think how this can come out best.
+Dialogue: 1,0:06:28.06,0:06:33.90,Narration,,0,0,0,,{\fad(60,120)}For a man who has killed even one man in the land —\None man, with few behind him to avenge him after —
+Dialogue: 1,0:06:33.90,0:06:37.26,Narration,,0,0,0,,{\fad(60,120)}goes into exile, leaving his kin and his fathers' country.
+Dialogue: 1,0:06:37.26,0:06:41.68,Narration,,0,0,0,,{\fad(60,120)}And we have killed the prop of the city —\Nfar the noblest of the young men in Ithaca.
+Dialogue: 1,0:06:41.68,0:06:44.26,Narration,,0,0,0,,{\fad(60,120)}Then clear-headed Telemachus answered him:
+Dialogue: 1,0:06:44.26,0:06:50.50,Narration,,0,0,0,,{\fad(60,120)}"You look to it yourself, dear father. Yours,\Nthey say, is the best mind among mankind: no mortal man
+Dialogue: 1,0:06:50.50,0:06:52.64,Narration,,0,0,0,,{\fad(60,120)}could set himself against you there.
+Dialogue: 1,0:06:52.64,0:06:56.64,Narration,,0,0,0,,{\fad(60,120)}As for us — we are with you,\Nblazing for it; and I say we shall not
+Dialogue: 1,0:06:56.64,0:07:00.32,Narration,,0,0,0,,{\fad(60,120)}come short in courage, such strength as is in us."
+Dialogue: 1,0:07:00.32,0:07:02.94,Narration,,0,0,0,,{\fad(60,120)}Then Odysseus of the many designs answered him:
+Dialogue: 1,0:07:02.94,0:07:05.54,Narration,,0,0,0,,{\fad(60,120)}"Then I will say how it seems best to me.
+Dialogue: 1,0:07:05.54,0:07:12.38,Narration,,0,0,0,,{\fad(60,120)}First: bathe yourselves, and put clean tunics on,\Nand tell the serving-women in the halls to dress;
+Dialogue: 1,0:07:12.38,0:07:16.54,Narration,,0,0,0,,{\fad(60,120)}and let the godlike singer,\Nwith the clear lyre in his hands,
+Dialogue: 1,0:07:16.54,0:07:19.10,Narration,,0,0,0,,{\fad(60,120)}lead us all in the steps of the playful dance —
+Dialogue: 1,0:07:19.10,0:07:22.58,Narration,,0,0,0,,{\fad(60,120)}so that anyone who hears it from\Noutside will say, 'A wedding!' —
+Dialogue: 1,0:07:22.58,0:07:25.84,Narration,,0,0,0,,{\fad(60,120)}a passer-by on the road,\Nor one of our neighbors round about —
+Dialogue: 1,0:07:25.84,0:07:30.82,Narration,,0,0,0,,{\fad(60,120)}so that the wide rumor of the suitors' killing does\Nnot run down through the town before we can get away
+Dialogue: 1,0:07:30.82,0:07:34.52,Narration,,0,0,0,,{\fad(60,120)}out to our orchard-farm among the trees. There, after,
+Dialogue: 1,0:07:34.52,0:07:37.42,Narration,,0,0,0,,{\fad(60,120)}we shall see what profit the\NOlympian puts into our hands."
+Dialogue: 1,0:07:37.42,0:07:41.32,Narration,,0,0,0,,{\fad(60,120)}So he spoke; and they listened well and obeyed.
+Dialogue: 1,0:07:41.32,0:07:47.54,Narration,,0,0,0,,{\fad(60,120)}First they bathed themselves, and put clean tunics on,\Nand the women dressed; and the godlike singer took up
+Dialogue: 1,0:07:47.54,0:07:53.40,Narration,,0,0,0,,{\fad(60,120)}the hollow lyre, and woke in all of them the craving\Nfor the sweetness of song and the blameless dance.
+Dialogue: 1,0:07:53.40,0:07:58.78,Narration,,0,0,0,,{\fad(60,120)}And the great house rang around them to the footfalls\Nof men at play and fair-belted women dancing;
+Dialogue: 1,0:07:58.78,0:08:01.64,Narration,,0,0,0,,{\fad(60,120)}and a man would say, hearing it from outside the house:
+Dialogue: 1,0:08:01.64,0:08:05.04,Narration,,0,0,0,,{\fad(60,120)}"So! Someone has married the much-wooed queen at last.
+Dialogue: 1,0:08:05.04,0:08:07.24,Narration,,0,0,0,,{\fad(60,120)}Hard woman — she had not the heart to keep her wedded
+Dialogue: 1,0:08:07.24,0:08:10.58,Narration,,0,0,0,,{\fad(60,120)}husband's great house through to the end, until he came."
+Dialogue: 1,0:08:10.58,0:08:14.46,Narration,,0,0,0,,{\fad(60,120)}So a man would say. And they\Ndid not know how things stood.
+Dialogue: 1,0:08:14.46,0:08:17.16,Narration,,0,0,0,,{\fad(60,120)}And meanwhile, inside his house, great-hearted Odysseus
+Dialogue: 1,0:08:17.16,0:08:20.70,Narration,,0,0,0,,{\fad(60,120)}was bathed by the housekeeper\NEurynome, and rubbed with oil,
+Dialogue: 1,0:08:20.70,0:08:23.98,Narration,,0,0,0,,{\fad(60,120)}and she put a beautiful mantle round him, and a tunic;
+Dialogue: 1,0:08:23.98,0:08:27.78,Narration,,0,0,0,,{\fad(60,120)}and over him, from the head down,\NAthena poured great beauty:
+Dialogue: 1,0:08:27.78,0:08:30.52,Narration,,0,0,0,,{\fad(60,120)}taller to look at, and broader, and down from his head
+Dialogue: 1,0:08:30.52,0:08:34.34,Narration,,0,0,0,,{\fad(60,120)}she made the locks flow in curls,\Nlike the hyacinth flower.
+Dialogue: 1,0:08:34.34,0:08:39.24,Narration,,0,0,0,,{\fad(60,120)}As when a man lays gold over silver — a craftsman\Nwhom Hephaestus and Pallas Athena have taught
+Dialogue: 1,0:08:39.24,0:08:45.80,Narration,,0,0,0,,{\fad(60,120)}art of every kind, and he finishes works full of grace —\Nso she poured grace over his head and shoulders.
+Dialogue: 1,0:08:45.80,0:08:49.00,Narration,,0,0,0,,{\fad(60,120)}Out of the bath he came, in build like the immortals,
+Dialogue: 1,0:08:49.00,0:08:54.80,Narration,,0,0,0,,{\fad(60,120)}and sat back down on the chair from which he had risen,\Nopposite his wife, and spoke his word to her:
+Dialogue: 1,0:08:54.80,0:09:00.12,Narration,,0,0,0,,{\fad(60,120)}"Strange woman! To you beyond all womankind the\Ndwellers on Olympus gave an unyielding heart.
+Dialogue: 1,0:09:00.12,0:09:05.32,Narration,,0,0,0,,{\fad(60,120)}No other woman would harden her heart like this,\Nand stand apart from a husband who, after suffering much,
+Dialogue: 1,0:09:05.32,0:09:07.84,Narration,,0,0,0,,{\fad(60,120)}came in the twentieth year to his own fatherland.
+Dialogue: 1,0:09:07.84,0:09:11.04,Narration,,0,0,0,,{\fad(60,120)}Well then, nurse — make me up a bed, so I can lie down
+Dialogue: 1,0:09:11.04,0:09:14.74,Narration,,0,0,0,,{\fad(60,120)}by myself at least. The heart\Nin this one's breast is iron."
+Dialogue: 1,0:09:14.74,0:09:17.36,Narration,,0,0,0,,{\fad(60,120)}Then watchful-minded Penelope answered him:
+Dialogue: 1,0:09:17.36,0:09:21.12,Narration,,0,0,0,,{\fad(60,120)}"Strange man! I am not being proud,\Nand I am not slighting you —
+Dialogue: 1,0:09:21.12,0:09:27.30,Narration,,0,0,0,,{\fad(60,120)}nor am I too much amazed. I know very well what you\Nwere when you went from Ithaca on your long-oared ship.
+Dialogue: 1,0:09:27.30,0:09:30.88,Narration,,0,0,0,,{\fad(60,120)}Well then — Eurycleia: make up the packed bedstead for him
+Dialogue: 1,0:09:30.88,0:09:33.62,Narration,,0,0,0,,{\fad(60,120)}outside the well-built bridal chamber — the bed he made
+Dialogue: 1,0:09:33.62,0:09:37.32,Narration,,0,0,0,,{\fad(60,120)}with his own hands. Move the\Npacked bedstead out there for him,
+Dialogue: 1,0:09:37.32,0:09:41.78,Narration,,0,0,0,,{\fad(60,120)}and pile the bedding on: the fleeces,\Nthe cloaks, the shining blankets."
+Dialogue: 1,0:09:41.78,0:09:47.38,Narration,,0,0,0,,{\fad(60,120)}So she spoke — testing her husband. And Odysseus\Nflared out in anger at his true-hearted wife:
+Dialogue: 1,0:09:47.38,0:09:50.18,Narration,,0,0,0,,{\fad(60,120)}"Woman — that is a wounding word you have spoken!
+Dialogue: 1,0:09:50.18,0:09:52.90,Narration,,0,0,0,,{\fad(60,120)}Who has set my bed somewhere else? That would be hard
+Dialogue: 1,0:09:52.90,0:09:56.04,Narration,,0,0,0,,{\fad(60,120)}even for a skilled workman — unless a god in person came
+Dialogue: 1,0:09:56.04,0:09:59.32,Narration,,0,0,0,,{\fad(60,120)}and set it down, at his easy will, in some other place:
+Dialogue: 1,0:09:59.32,0:10:02.40,Narration,,0,0,0,,{\fad(60,120)}no living mortal man, not one in his best young strength,
+Dialogue: 1,0:10:02.40,0:10:05.80,Narration,,0,0,0,,{\fad(60,120)}could lightly lever it aside. For a great sign is built
+Dialogue: 1,0:10:05.80,0:10:09.80,Narration,,0,0,0,,{\fad(60,120)}into that worked bed — and I made it: I, no other man.
+Dialogue: 1,0:10:09.80,0:10:13.56,Narration,,0,0,0,,{\fad(60,120)}A bush of olive grew inside the\Ncourtyard fence, long-leaved,
+Dialogue: 1,0:10:13.56,0:10:17.02,Narration,,0,0,0,,{\fad(60,120)}full-grown and flourishing, its trunk thick as a pillar.
+Dialogue: 1,0:10:17.02,0:10:20.62,Narration,,0,0,0,,{\fad(60,120)}Around it I built our chamber,\Nand I worked at it till it was done —
+Dialogue: 1,0:10:20.62,0:10:26.10,Narration,,0,0,0,,{\fad(60,120)}close-set stone; and I roofed it well above,\Nand hung the jointed doors on it, close-fitting.
+Dialogue: 1,0:10:26.10,0:10:29.86,Narration,,0,0,0,,{\fad(60,120)}Then — and only then — I cut back\Nthe long-leaved olive's crown,
+Dialogue: 1,0:10:29.86,0:10:32.84,Narration,,0,0,0,,{\fad(60,120)}trimmed the trunk up from the root,\Nand with the bronze I planed it
+Dialogue: 1,0:10:32.84,0:10:36.38,Narration,,0,0,0,,{\fad(60,120)}smooth all round, with skill, and trued it to the line:
+Dialogue: 1,0:10:36.38,0:10:40.68,Narration,,0,0,0,,{\fad(60,120)}a bedpost worked from the living tree.\NAnd I bored it all with the auger,
+Dialogue: 1,0:10:40.68,0:10:44.86,Narration,,0,0,0,,{\fad(60,120)}and starting from that post I planed\Nout the bed, until I finished,
+Dialogue: 1,0:10:44.86,0:10:47.24,Narration,,0,0,0,,{\fad(60,120)}inlaying it with gold and silver and ivory,
+Dialogue: 1,0:10:47.24,0:10:53.10,Narration,,0,0,0,,{\fad(60,120)}and I stretched across its frame an\Noxhide strap, bright with crimson.
+Dialogue: 1,0:10:53.10,0:10:56.22,Narration,,0,0,0,,{\fad(60,120)}There is our sign — I show it to you. What I do not know,
+Dialogue: 1,0:10:56.22,0:11:00.34,Narration,,0,0,0,,{\fad(60,120)}woman, is whether my bed still stands fast, or by now
+Dialogue: 1,0:11:00.34,0:11:04.44,Narration,,0,0,0,,{\fad(60,120)}some man has cut the olive off at the root and moved it."
+Dialogue: 1,0:11:04.44,0:11:09.08,Narration,,0,0,0,,{\fad(60,120)}So he spoke; and her knees went slack\Nwhere she sat, and her dear heart,
+Dialogue: 1,0:11:09.08,0:11:13.06,Narration,,0,0,0,,{\fad(60,120)}as she recognized the tokens Odysseus described so surely;
+Dialogue: 1,0:11:13.06,0:11:16.26,Narration,,0,0,0,,{\fad(60,120)}and bursting into tears she ran straight to him, and threw
+Dialogue: 1,0:11:16.26,0:11:20.26,Narration,,0,0,0,,{\fad(60,120)}her arms around Odysseus' neck,\Nand kissed his head, and said:
+Dialogue: 1,0:11:20.26,0:11:23.46,Narration,,0,0,0,,{\fad(60,120)}"Do not be angry with me, Odysseus — you who in everything
+Dialogue: 1,0:11:23.46,0:11:27.36,Narration,,0,0,0,,{\fad(60,120)}understood the most of men.\NIt was the gods who gave us sorrow —
+Dialogue: 1,0:11:27.36,0:11:30.60,Narration,,0,0,0,,{\fad(60,120)}the gods, who begrudged that we two, staying side by side,
+Dialogue: 1,0:11:30.60,0:11:34.44,Narration,,0,0,0,,{\fad(60,120)}should have the joy of our youth\Nand come to the doorsill of old age.
+Dialogue: 1,0:11:34.44,0:11:37.78,Narration,,0,0,0,,{\fad(60,120)}But do not be angry with me now, do not hold it against me
+Dialogue: 1,0:11:37.78,0:11:41.10,Narration,,0,0,0,,{\fad(60,120)}that at first, when I saw you,\NI did not welcome you like this.
+Dialogue: 1,0:11:41.10,0:11:44.20,Narration,,0,0,0,,{\fad(60,120)}For always the heart here in my breast kept shivering:
+Dialogue: 1,0:11:44.20,0:11:47.54,Narration,,0,0,0,,{\fad(60,120)}terror that some man would come\Nand cheat me with his talk —
+Dialogue: 1,0:11:47.54,0:11:50.64,Narration,,0,0,0,,{\fad(60,120)}and men enough there are who plot such wicked profits.
+Dialogue: 1,0:11:50.64,0:11:56.18,Narration,,0,0,0,,{\fad(60,120)}Not even Argive Helen, daughter of Zeus, would have\Njoined in love and bed with a man from another land
+Dialogue: 1,0:11:56.18,0:12:01.86,Narration,,0,0,0,,{\fad(60,120)}had she known that the warlike sons of the Achaeans\Nwould carry her home again to her own dear country.
+Dialogue: 1,0:12:01.86,0:12:04.90,Narration,,0,0,0,,{\fad(60,120)}A god it was who stirred her\Nto the shameful thing she did;
+Dialogue: 1,0:12:04.90,0:12:08.06,Narration,,0,0,0,,{\fad(60,120)}and not until too late that she laid to heart that folly,
+Dialogue: 1,0:12:08.06,0:12:11.98,Narration,,0,0,0,,{\fad(60,120)}the ruinous folly from which\Ngrief first came — to us as well.
+Dialogue: 1,0:12:11.98,0:12:17.90,Narration,,0,0,0,,{\fad(60,120)}But now — now you have told over the plain tokens of\Nour own bed, which no other mortal has laid eyes on:
+Dialogue: 1,0:12:17.90,0:12:24.36,Narration,,0,0,0,,{\fad(60,120)}only you and I, and one single serving-woman, Actoris,\Nwhom my father gave me when I first came here,
+Dialogue: 1,0:12:24.36,0:12:30.48,Narration,,0,0,0,,{\fad(60,120)}who kept the door of our close-built bridal chamber —\Nnow you persuade my heart, unbending as it is."
+Dialogue: 1,0:12:30.48,0:12:34.44,Narration,,0,0,0,,{\fad(60,120)}So she spoke; and in him she stirred\Na still greater longing to weep,
+Dialogue: 1,0:12:34.44,0:12:38.80,Narration,,0,0,0,,{\fad(60,120)}and he wept, holding the wife of\Nhis heart, the true, the steadfast.
+Dialogue: 1,0:12:38.80,0:12:44.30,Narration,,0,0,0,,{\fad(60,120)}And as when land shows welcome to men swimming for it —\Nmen whose well-made ship Poseidon has smashed
+Dialogue: 1,0:12:44.30,0:12:47.46,Narration,,0,0,0,,{\fad(60,120)}on the open sea, driving it under wind and heavy wave,
+Dialogue: 1,0:12:47.46,0:12:53.00,Narration,,0,0,0,,{\fad(60,120)}and few of them swim clear of the gray sea to the shore,\Ntheir bodies caked with all the brine of it,
+Dialogue: 1,0:12:53.00,0:12:56.66,Narration,,0,0,0,,{\fad(60,120)}and glad at last they step on land, escaped from evil:
+Dialogue: 1,0:12:56.66,0:12:59.78,Narration,,0,0,0,,{\fad(60,120)}so welcome was her husband to her,\Nas her eyes gazed at him,
+Dialogue: 1,0:12:59.78,0:13:03.06,Narration,,0,0,0,,{\fad(60,120)}and she could not once let her\Nwhite arms go from his neck.
+Dialogue: 1,0:13:03.06,0:13:06.26,Narration,,0,0,0,,{\fad(60,120)}And Dawn of the fingers of rose\Nwould have risen on their weeping,
+Dialogue: 1,0:13:06.26,0:13:10.02,Narration,,0,0,0,,{\fad(60,120)}had not the goddess thought of\None thing more — gray-eyed Athena:
+Dialogue: 1,0:13:10.02,0:13:13.00,Narration,,0,0,0,,{\fad(60,120)}she held the long night back\Nat the world's edge, and penned
+Dialogue: 1,0:13:13.00,0:13:18.76,Narration,,0,0,0,,{\fad(60,120)}gold-throned Dawn at Ocean, and would not let her yoke\Nher quick-footed horses that carry the light to men,
+Dialogue: 1,0:13:18.76,0:13:21.72,Narration,,0,0,0,,{\fad(60,120)}Lampus and Phaethon, the colts that draw the Dawn.
+Dialogue: 1,0:13:21.72,0:13:25.06,Narration,,0,0,0,,{\fad(60,120)}And then Odysseus of the many designs spoke to his wife:
+Dialogue: 1,0:13:25.06,0:13:27.96,Narration,,0,0,0,,{\fad(60,120)}"Lady — we have not yet come to the end of every trial:
+Dialogue: 1,0:13:27.96,0:13:34.02,Narration,,0,0,0,,{\fad(60,120)}there is still to be one labor past all measure,\Nlong and hard, and I must carry it through to the last.
+Dialogue: 1,0:13:34.02,0:13:39.06,Narration,,0,0,0,,{\fad(60,120)}For so the ghost of Teiresias prophesied to\Nme the day I went down into the house of Hades
+Dialogue: 1,0:13:39.06,0:13:41.90,Narration,,0,0,0,,{\fad(60,120)}seeking a homecoming for my companions and myself.
+Dialogue: 1,0:13:41.90,0:13:47.82,Narration,,0,0,0,,{\fad(60,120)}But come, wife — let us go to bed, so that at last\Nwe can lie down and take the sweetness of our sleep."
+Dialogue: 1,0:13:47.82,0:13:50.64,Narration,,0,0,0,,{\fad(60,120)}Then watchful-minded Penelope answered him:
+Dialogue: 1,0:13:50.64,0:13:55.18,Narration,,0,0,0,,{\fad(60,120)}"Your bed is there for you whenever your heart\Nwishes it — now that the gods have brought you home
+Dialogue: 1,0:13:55.18,0:13:57.74,Narration,,0,0,0,,{\fad(60,120)}to your own well-built house and your fathers' land.
+Dialogue: 1,0:13:57.74,0:14:01.72,Narration,,0,0,0,,{\fad(60,120)}But since you have thought of it —\Nsince a god has put it in your heart —
+Dialogue: 1,0:14:01.72,0:14:07.68,Narration,,0,0,0,,{\fad(60,120)}come, tell me the trial: for I shall hear of it later\Nanyway, I think, and it is no worse to know it now."
+Dialogue: 1,0:14:07.68,0:14:10.44,Narration,,0,0,0,,{\fad(60,120)}Then Odysseus of the many designs answered her:
+Dialogue: 1,0:14:10.44,0:14:16.16,Narration,,0,0,0,,{\fad(60,120)}"Strange woman — why do you press me so, and order\Nme to speak? Well, I will tell it, and hide nothing.
+Dialogue: 1,0:14:16.16,0:14:19.04,Narration,,0,0,0,,{\fad(60,120)}Your heart will take no joy in it; no more does mine:
+Dialogue: 1,0:14:19.04,0:14:24.36,Narration,,0,0,0,,{\fad(60,120)}for he ordered me on through many towns of mortals yet,\Ntraveling with a well-shaped oar in my hands,
+Dialogue: 1,0:14:24.36,0:14:29.60,Narration,,0,0,0,,{\fad(60,120)}until I come to men who know nothing of the sea,\Nmen who eat no food that is mixed with salt,
+Dialogue: 1,0:14:29.60,0:14:34.80,Narration,,0,0,0,,{\fad(60,120)}who know nothing of red-cheeked ships, nothing\Nof well-shaped oars, which are wings for ships.
+Dialogue: 1,0:14:34.80,0:14:40.46,Narration,,0,0,0,,{\fad(60,120)}And he told me a sign, unmistakable.\NI will not hide it from you:
+Dialogue: 1,0:14:40.46,0:14:46.32,Narration,,0,0,0,,{\fad(60,120)}when another traveler, meeting me on the road,\Nsays I carry a winnowing-fan on my shining shoulder,
+Dialogue: 1,0:14:46.32,0:14:52.60,Narration,,0,0,0,,{\fad(60,120)}then and there he ordered me to fix the oar in the\Nearth and offer fine victims to the lord Poseidon —
+Dialogue: 1,0:14:52.60,0:14:58.78,Narration,,0,0,0,,{\fad(60,120)}a ram, a bull, and a boar that has mounted sows —\Nand turn away home, and offer holy hecatombs
+Dialogue: 1,0:14:58.78,0:15:05.36,Narration,,0,0,0,,{\fad(60,120)}to the deathless gods who hold wide heaven,\Nto all of them, each in order. And death will come to me
+Dialogue: 1,0:15:05.36,0:15:11.78,Narration,,0,0,0,,{\fad(60,120)}from the sea, so gentle a death, and take me worn\Ndown under sleek old age; and around me the peoples
+Dialogue: 1,0:15:11.78,0:15:15.75,Narration,,0,0,0,,{\fad(60,120)}will be prosperous. All this,\Nhe said, will be accomplished."
+Dialogue: 1,0:15:15.75,0:15:18.59,Narration,,0,0,0,,{\fad(60,120)}Then watchful-minded Penelope answered him:
+Dialogue: 1,0:15:18.59,0:15:21.51,Narration,,0,0,0,,{\fad(60,120)}"If the gods are really bringing on a better old age,
+Dialogue: 1,0:15:21.51,0:15:24.21,Narration,,0,0,0,,{\fad(60,120)}then there is hope there will\Nbe an escape from our evils."
+Dialogue: 1,0:15:24.21,0:15:26.79,Narration,,0,0,0,,{\fad(60,120)}So they spoke to one another of such things.
+Dialogue: 1,0:15:26.79,0:15:29.35,Narration,,0,0,0,,{\fad(60,120)}And meanwhile Eurynome and the nurse made up the bed
+Dialogue: 1,0:15:29.35,0:15:33.01,Narration,,0,0,0,,{\fad(60,120)}with soft coverings, under the light of blazing torches.
+Dialogue: 1,0:15:33.01,0:15:36.27,Narration,,0,0,0,,{\fad(60,120)}And when they had spread the\Npacked bedstead, working quickly,
+Dialogue: 1,0:15:36.27,0:15:41.17,Narration,,0,0,0,,{\fad(60,120)}the old woman went away to her own room to sleep,\Nand Eurynome the chamber-woman led them on
+Dialogue: 1,0:15:41.17,0:15:46.45,Narration,,0,0,0,,{\fad(60,120)}their way to bed, a torch in her hands;\Nshe brought them to the chamber, and went back. And they —
+Dialogue: 1,0:15:46.45,0:15:49.71,Narration,,0,0,0,,{\fad(60,120)}glad, they came to the rite of their own old bed.
+Dialogue: 1,0:15:49.71,0:15:55.33,Narration,,0,0,0,,{\fad(60,120)}And Telemachus and the cowherd and the swineherd\Nrested their feet from the dance, and rested the women,
+Dialogue: 1,0:15:55.33,0:15:58.35,Narration,,0,0,0,,{\fad(60,120)}and lay down to sleep themselves\Nthrough the shadowy halls.
+Dialogue: 1,0:15:58.35,0:16:01.77,Narration,,0,0,0,,{\fad(60,120)}And when the two had taken their\Nfill of the loveliness of love,
+Dialogue: 1,0:16:01.77,0:16:05.31,Narration,,0,0,0,,{\fad(60,120)}they took their pleasure in words,\Ntelling each other everything:
+Dialogue: 1,0:16:05.31,0:16:11.77,Narration,,0,0,0,,{\fad(60,120)}she, the shining among women, all she had endured in\Nthe halls, watching that deadly crowd of suitor-men
+Dialogue: 1,0:16:11.77,0:16:15.07,Narration,,0,0,0,,{\fad(60,120)}who on her account kept slaughtering so many beasts,
+Dialogue: 1,0:16:15.07,0:16:19.53,Narration,,0,0,0,,{\fad(60,120)}oxen and fat sheep, while the wine\Ndrained out of the jars by the vatful;
+Dialogue: 1,0:16:19.53,0:16:22.57,Narration,,0,0,0,,{\fad(60,120)}and Zeus-born Odysseus, all the sorrows he had dealt
+Dialogue: 1,0:16:22.57,0:16:26.17,Narration,,0,0,0,,{\fad(60,120)}to other men, and all he had\Ntoiled through in his own grief —
+Dialogue: 1,0:16:26.17,0:16:29.15,Narration,,0,0,0,,{\fad(60,120)}he told it all; and she delighted in the listening,
+Dialogue: 1,0:16:29.15,0:16:33.11,Narration,,0,0,0,,{\fad(60,120)}and no sleep fell upon her eyelids\Ntill he had told everything.
+Dialogue: 1,0:16:33.11,0:16:39.01,Narration,,0,0,0,,{\fad(60,120)}He began with how he beat the Cicones first, and came\Nfrom there to the rich plowland of the Lotus-eaters;
+Dialogue: 1,0:16:39.01,0:16:42.53,Narration,,0,0,0,,{\fad(60,120)}and all the Cyclops did,\Nand how he took the price from him
+Dialogue: 1,0:16:42.53,0:16:48.09,Narration,,0,0,0,,{\fad(60,120)}for the brave companions he had eaten without pity;\Nand how he came to Aeolus, who received him kindly
+Dialogue: 1,0:16:48.09,0:16:51.25,Narration,,0,0,0,,{\fad(60,120)}and sent him on — but it was not yet his portion to reach
+Dialogue: 1,0:16:51.25,0:16:55.25,Narration,,0,0,0,,{\fad(60,120)}his own dear country: the storm-wind snatched him up again
+Dialogue: 1,0:16:55.25,0:16:58.49,Narration,,0,0,0,,{\fad(60,120)}and drove him, groaning heavily, over the fish-filled sea;
+Dialogue: 1,0:16:58.49,0:17:01.89,Narration,,0,0,0,,{\fad(60,120)}and how he came to Telepylus of the Laestrygonians,
+Dialogue: 1,0:17:01.89,0:17:04.83,Narration,,0,0,0,,{\fad(60,120)}who destroyed his ships and all\Nhis strong-greaved companions —
+Dialogue: 1,0:17:04.83,0:17:12.79,Narration,,0,0,0,,{\fad(60,120)}all of them: Odysseus alone got clear in his black ship;\Nand he told her Circe's guile and her many wiles,
+Dialogue: 1,0:17:12.79,0:17:17.81,Narration,,0,0,0,,{\fad(60,120)}and how he went down into the dank house of\NHades to consult the ghost of Theban Teiresias,
+Dialogue: 1,0:17:17.81,0:17:21.13,Narration,,0,0,0,,{\fad(60,120)}in his many-benched ship, and saw all his companions,
+Dialogue: 1,0:17:21.13,0:17:24.89,Narration,,0,0,0,,{\fad(60,120)}and his mother, who bore him and\Nreared him when he was little;
+Dialogue: 1,0:17:24.89,0:17:31.75,Narration,,0,0,0,,{\fad(60,120)}and how he heard the voice of the thronging Sirens,\Nand came to the Clashing Rocks, and dread Charybdis,
+Dialogue: 1,0:17:31.75,0:17:35.47,Narration,,0,0,0,,{\fad(60,120)}and Scylla, whom men have never yet slipped past unhurt;
+Dialogue: 1,0:17:35.47,0:17:41.67,Narration,,0,0,0,,{\fad(60,120)}and how his companions killed the cattle of the Sun;\Nand how Zeus who thunders on high struck the fast ship
+Dialogue: 1,0:17:41.67,0:17:48.53,Narration,,0,0,0,,{\fad(60,120)}with a smoking bolt, and his brave companions perished\Nall together — and he alone escaped the evil fates;
+Dialogue: 1,0:17:48.53,0:17:52.95,Narration,,0,0,0,,{\fad(60,120)}and how he came to the island\Nof Ogygia and the nymph Calypso,
+Dialogue: 1,0:17:52.95,0:17:58.95,Narration,,0,0,0,,{\fad(60,120)}who kept him there, aching to have him for her husband,\Nin her hollow caves, and fed him, and kept promising
+Dialogue: 1,0:17:58.95,0:18:04.71,Narration,,0,0,0,,{\fad(60,120)}to make him deathless and ageless all his days —\Nyet she never persuaded the heart in his breast;
+Dialogue: 1,0:18:04.71,0:18:10.67,Narration,,0,0,0,,{\fad(60,120)}and how, after much suffering, he came to the Phaeacians,\Nwho honored him from the heart, like a god,
+Dialogue: 1,0:18:10.67,0:18:16.91,Narration,,0,0,0,,{\fad(60,120)}and sent him home with a ship to his own dear country,\Nwith gifts of bronze and gold and clothing in plenty.
+Dialogue: 1,0:18:16.91,0:18:20.51,Narration,,0,0,0,,{\fad(60,120)}That was the last word he spoke, as the sweet sleep
+Dialogue: 1,0:18:20.51,0:18:25.01,Narration,,0,0,0,,{\fad(60,120)}that unstrings the limbs leapt on him,\Nloosing the cares of his heart.
+Dialogue: 1,0:18:25.01,0:18:28.59,Narration,,0,0,0,,{\fad(60,120)}Then the goddess thought of one\Nthing more, gray-eyed Athena:
+Dialogue: 1,0:18:28.59,0:18:34.45,Narration,,0,0,0,,{\fad(60,120)}when she judged that Odysseus in his heart had taken\Nhis fill of the bed of his wife, and his fill of sleep,
+Dialogue: 1,0:18:34.45,0:18:38.21,Narration,,0,0,0,,{\fad(60,120)}at once she roused the gold-throned\Nearly-born one out of Ocean,
+Dialogue: 1,0:18:38.21,0:18:45.37,Narration,,0,0,0,,{\fad(60,120)}to carry her light to mankind. And Odysseus rose\Nfrom the soft bed, and laid this charge on his wife:
+Dialogue: 1,0:18:45.37,0:18:50.31,Narration,,0,0,0,,{\fad(60,120)}"Lady — by now we have had our fill of trials,\Nthe two of us both: you here, weeping over
+Dialogue: 1,0:18:50.31,0:18:53.53,Narration,,0,0,0,,{\fad(60,120)}my homecoming with all its cares,\Nwhile Zeus and the other gods
+Dialogue: 1,0:18:53.53,0:18:56.98,Narration,,0,0,0,,{\fad(60,120)}nailed me in pain far from my own country, straining home.
+Dialogue: 1,0:18:56.98,0:19:03.01,Narration,,0,0,0,,{\fad(60,120)}Now that we both have come to the bed we longed for,\Nyou must care for the property I have inside the halls;
+Dialogue: 1,0:19:03.01,0:19:08.31,Narration,,0,0,0,,{\fad(60,120)}as for the flocks the overweening suitors wasted —\Nmany I will raid back myself, and the Achaeans
+Dialogue: 1,0:19:08.31,0:19:12.09,Narration,,0,0,0,,{\fad(60,120)}will give the rest, until they fill up every fold.
+Dialogue: 1,0:19:12.09,0:19:15.37,Narration,,0,0,0,,{\fad(60,120)}But now I am going out to the orchard-farm and its trees,
+Dialogue: 1,0:19:15.37,0:19:19.19,Narration,,0,0,0,,{\fad(60,120)}to see my noble father, who grieves for me so hard.
+Dialogue: 1,0:19:19.19,0:19:22.61,Narration,,0,0,0,,{\fad(60,120)}And on you, wife, I lay this charge — wise as you are:
+Dialogue: 1,0:19:22.61,0:19:28.63,Narration,,0,0,0,,{\fad(60,120)}with the rising sun the story will be out and running —\Nthe suitors, the men I killed here in the halls.
+Dialogue: 1,0:19:28.63,0:19:34.83,Narration,,0,0,0,,{\fad(60,120)}Go up to the upper room with your attendant women\Nand sit there. Look at no one. Ask no questions."
+Dialogue: 1,0:19:34.83,0:19:37.35,Narration,,0,0,0,,{\fad(60,120)}He spoke, and drew the beautiful armor over his shoulders,
+Dialogue: 1,0:19:37.35,0:19:41.19,Narration,,0,0,0,,{\fad(60,120)}and roused Telemachus and the cowherd and the swineherd,
+Dialogue: 1,0:19:41.19,0:19:44.63,Narration,,0,0,0,,{\fad(60,120)}and told them all to take up\Nweapons of war in their hands.
+Dialogue: 1,0:19:44.63,0:19:48.23,Narration,,0,0,0,,{\fad(60,120)}They did not disobey: they harnessed themselves in bronze,
+Dialogue: 1,0:19:48.23,0:19:53.05,Narration,,0,0,0,,{\fad(60,120)}and opened the doors, and went out; and Odysseus led.
+Dialogue: 1,0:19:53.05,0:19:58.87,Narration,,0,0,0,,{\fad(60,120)}By now the light was over the earth; but Athena hid\Nthem in night, and led them quickly out of the town.

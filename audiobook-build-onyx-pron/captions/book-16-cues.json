@@ -1,0 +1,1794 @@
+{
+  "book": "book-16",
+  "duration": 1515.456,
+  "visual_lead": 0.16,
+  "cues": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "kind": "title",
+      "text": "ODYSSEY — BOOK XVI"
+    },
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "kind": "deck",
+      "text": "Father and son: the recognition at the swineherd's hut."
+    },
+    {
+      "start": 6.0,
+      "end": 9.56,
+      "text": "But the two in the hut, Odysseus and the noble swineherd,"
+    },
+    {
+      "start": 9.56,
+      "end": 16.22,
+      "text": "had lit a fire and were readying breakfast at dawn,\\nand had sent the herdsmen out with the gathered swine;"
+    },
+    {
+      "start": 16.22,
+      "end": 22.86,
+      "text": "and around Telemachus the yapping dogs went fawning,\\nand did not bark as he came. And noble Odysseus noticed"
+    },
+    {
+      "start": 22.86,
+      "end": 26.34,
+      "text": "the dogs fawning, and the sound of footsteps came to him."
+    },
+    {
+      "start": 26.34,
+      "end": 30.04,
+      "text": "At once he spoke winged words to Eumaeus:"
+    },
+    {
+      "start": 30.04,
+      "end": 33.22,
+      "text": "\"Eumaeus, surely some companion of yours is coming,"
+    },
+    {
+      "start": 33.22,
+      "end": 39.7,
+      "text": "or another man well known, since the dogs are not barking\\nbut fawn around him; and I hear the thud of feet.\""
+    },
+    {
+      "start": 39.7,
+      "end": 45.98,
+      "text": "The word was not all spoken when his own dear son\\nstood in the gateway. The swineherd sprang up amazed,"
+    },
+    {
+      "start": 45.98,
+      "end": 48.86,
+      "text": "and out of his hands fell the vessels he was busy with,"
+    },
+    {
+      "start": 48.86,
+      "end": 54.6,
+      "text": "mixing the sparkling wine. He went to meet his master,\\nand kissed his head, and both his beautiful eyes,"
+    },
+    {
+      "start": 54.6,
+      "end": 58.1,
+      "text": "and both his hands; and a warm tear fell from him."
+    },
+    {
+      "start": 58.1,
+      "end": 63.82,
+      "text": "And as a father, in the fullness of his heart,\\nembraces his son come from a far country in the tenth year,"
+    },
+    {
+      "start": 63.82,
+      "end": 68.04,
+      "text": "an only son, late-born,\\nfor whom he has suffered many sorrows —"
+    },
+    {
+      "start": 68.04,
+      "end": 70.74,
+      "text": "so then the noble swineherd took godlike Telemachus"
+    },
+    {
+      "start": 70.74,
+      "end": 77.42,
+      "text": "in his arms and kissed him all over, as one escaped\\nfrom death; and sobbing he spoke winged words to him:"
+    },
+    {
+      "start": 77.42,
+      "end": 80.66,
+      "text": "\"You have come, Telemachus — sweet light! I told myself"
+    },
+    {
+      "start": 80.66,
+      "end": 84.22,
+      "text": "I would never see you again,\\nonce you had gone by ship to Pylos."
+    },
+    {
+      "start": 84.22,
+      "end": 90.66,
+      "text": "Come in now, come, dear child, so my heart may take\\nits joy of looking at you, newly here from elsewhere."
+    },
+    {
+      "start": 90.66,
+      "end": 93.28,
+      "text": "You do not often visit the farm and the herdsmen;"
+    },
+    {
+      "start": 93.28,
+      "end": 99.08,
+      "text": "you stay in town: so, it seems, it has pleased your heart —\\nto look on that deadly crowd of the suitor-men.\""
+    },
+    {
+      "start": 99.08,
+      "end": 101.5,
+      "text": "Then clear-headed Telemachus answered him:"
+    },
+    {
+      "start": 101.5,
+      "end": 105.08,
+      "text": "\"So be it, old father.\\nIt is for your sake I have come here,"
+    },
+    {
+      "start": 105.08,
+      "end": 110.54,
+      "text": "to see you with my eyes, and to hear you tell me\\nwhether my mother still remains in the halls, or by now"
+    },
+    {
+      "start": 110.54,
+      "end": 117.42,
+      "text": "some other man has married her, and Odysseus' bed lies\\nempty of sleepers, holding only foul spider-webs.\""
+    },
+    {
+      "start": 117.42,
+      "end": 120.56,
+      "text": "Then the swineherd answered him, a leader of men:"
+    },
+    {
+      "start": 120.56,
+      "end": 125.14,
+      "text": "\"Indeed she remains, with an enduring heart,\\nin your own halls; and always in misery"
+    },
+    {
+      "start": 125.14,
+      "end": 127.98,
+      "text": "her nights and her days waste away in weeping.\""
+    },
+    {
+      "start": 127.98,
+      "end": 133.38,
+      "text": "So speaking, he took the bronze spear from him,\\nand Telemachus went in and crossed the stone threshold."
+    },
+    {
+      "start": 133.38,
+      "end": 140.06,
+      "text": "As he came on, his father Odysseus yielded his seat;\\nbut Telemachus, from his side, checked him and said:"
+    },
+    {
+      "start": 140.06,
+      "end": 145.36,
+      "text": "\"Sit, stranger. We will find a seat elsewhere in our\\nown farmstead. Here is the man who will set one.\""
+    },
+    {
+      "start": 145.36,
+      "end": 149.44,
+      "text": "So he spoke; and Odysseus went back\\nand sat down. And the swineherd"
+    },
+    {
+      "start": 149.44,
+      "end": 155.54,
+      "text": "strewed green brushwood under, and a fleece on top,\\nand there the dear son of Odysseus seated himself."
+    },
+    {
+      "start": 155.54,
+      "end": 158.0,
+      "text": "And the swineherd set before them platters of roasted"
+    },
+    {
+      "start": 158.0,
+      "end": 163.7,
+      "text": "meat, which they had left from their eating the day\\nbefore, and briskly heaped up bread in the baskets,"
+    },
+    {
+      "start": 163.7,
+      "end": 169.6,
+      "text": "and mixed honey-sweet wine in an ivy-wood bowl,\\nand himself sat down opposite godlike Odysseus."
+    },
+    {
+      "start": 169.6,
+      "end": 172.34,
+      "text": "And their hands went out to the\\ngood things spread before them."
+    },
+    {
+      "start": 172.34,
+      "end": 178.46,
+      "text": "But when they had put away desire for food and drink,\\nthen Telemachus spoke to the noble swineherd:"
+    },
+    {
+      "start": 178.46,
+      "end": 182.34,
+      "text": "\"Old father, where has this guest\\nof yours come from? How did sailors"
+    },
+    {
+      "start": 182.34,
+      "end": 185.24,
+      "text": "bring him to Ithaca? Who did they claim to be?"
+    },
+    {
+      "start": 185.24,
+      "end": 187.4,
+      "text": "For I hardly think he came here on foot.\""
+    },
+    {
+      "start": 187.4,
+      "end": 189.88,
+      "text": "And you answered him, Eumaeus the swineherd:"
+    },
+    {
+      "start": 189.88,
+      "end": 192.62,
+      "text": "\"Then I will tell you, child, the whole truth of it."
+    },
+    {
+      "start": 192.62,
+      "end": 196.34,
+      "text": "He claims his birth from Crete\\nof the wide dancing-grounds,"
+    },
+    {
+      "start": 196.34,
+      "end": 201.46,
+      "text": "and says he has wandered rolling through many\\ncities of mortal men: so a god has spun it for him."
+    },
+    {
+      "start": 201.46,
+      "end": 207.38,
+      "text": "Now, run off from a ship of Thesprotian men,\\nhe has come to my farmstead; and I put him in your hands."
+    },
+    {
+      "start": 207.38,
+      "end": 210.78,
+      "text": "Do as you will. He declares himself your suppliant.\""
+    },
+    {
+      "start": 210.78,
+      "end": 213.26,
+      "text": "Then clear-headed Telemachus answered him:"
+    },
+    {
+      "start": 213.26,
+      "end": 216.1,
+      "text": "\"Eumaeus, this word of yours cuts to the heart."
+    },
+    {
+      "start": 216.1,
+      "end": 218.32,
+      "text": "How am I to receive this guest in my house?"
+    },
+    {
+      "start": 218.32,
+      "end": 226.0,
+      "text": "I am young myself, and have no faith yet in my hands\\nto defend a man, when someone picks a quarrel first."
+    },
+    {
+      "start": 226.0,
+      "end": 230.06,
+      "text": "And my mother's heart is divided in her breast, two ways:"
+    },
+    {
+      "start": 230.06,
+      "end": 236.34,
+      "text": "whether to stay here with me and keep the house,\\nrespecting her husband's bed and the voice of the people,"
+    },
+    {
+      "start": 236.34,
+      "end": 242.4,
+      "text": "or to follow now whichever of the Achaeans is best\\namong her suitors in the halls, and offers the most."
+    },
+    {
+      "start": 242.4,
+      "end": 245.78,
+      "text": "But as for this guest, since he has come to your house,"
+    },
+    {
+      "start": 245.78,
+      "end": 249.54,
+      "text": "I will dress him in a cloak and a tunic, fine clothing,"
+    },
+    {
+      "start": 249.54,
+      "end": 253.34,
+      "text": "and give him a two-edged sword, and sandals for his feet,"
+    },
+    {
+      "start": 253.34,
+      "end": 256.4,
+      "text": "and send him wherever his heart and spirit bid him go."
+    },
+    {
+      "start": 256.4,
+      "end": 262.58,
+      "text": "Or if you will, keep him and care for him at the farmstead,\\nand I will send clothing here, and all his bread"
+    },
+    {
+      "start": 262.58,
+      "end": 266.78,
+      "text": "to eat, so he will not wear you down, you and your men."
+    },
+    {
+      "start": 266.78,
+      "end": 272.04,
+      "text": "But in among the suitors I would not let him go:\\ntoo reckless is the insolence they carry —"
+    },
+    {
+      "start": 272.04,
+      "end": 275.52,
+      "text": "they would mock him,\\nand it would be a terrible grief to me."
+    },
+    {
+      "start": 275.52,
+      "end": 282.62,
+      "text": "It is hard for one man to get anything done among many,\\neven a strong man: they are far the more powerful.\""
+    },
+    {
+      "start": 282.62,
+      "end": 285.26,
+      "text": "Then much-enduring noble Odysseus spoke to him:"
+    },
+    {
+      "start": 285.26,
+      "end": 291.28,
+      "text": "\"Friend — since surely it is right for me to answer\\nalso — truly my heart is eaten through as I listen,"
+    },
+    {
+      "start": 291.28,
+      "end": 293.38,
+      "text": "hearing you tell what reckless things the suitors"
+    },
+    {
+      "start": 293.38,
+      "end": 297.5,
+      "text": "devise in the halls, against\\nthe will of such a man as you."
+    },
+    {
+      "start": 297.5,
+      "end": 300.34,
+      "text": "Tell me: do you bow to it willingly, or do the people"
+    },
+    {
+      "start": 300.34,
+      "end": 303.7,
+      "text": "through the land hate you, following the voice of a god?"
+    },
+    {
+      "start": 303.7,
+      "end": 306.6,
+      "text": "Or have you some fault to find with brothers — those a man"
+    },
+    {
+      "start": 306.6,
+      "end": 310.26,
+      "text": "trusts to fight beside him, though a great feud rise?"
+    },
+    {
+      "start": 310.26,
+      "end": 312.78,
+      "text": "Ah, would that I were as young as this anger of mine,"
+    },
+    {
+      "start": 312.78,
+      "end": 316.5,
+      "text": "or were a son of blameless Odysseus, or the man himself —"
+    },
+    {
+      "start": 316.5,
+      "end": 319.42,
+      "text": "then straightway might some\\nstranger cut the head from my neck"
+    },
+    {
+      "start": 319.42,
+      "end": 325.46,
+      "text": "if I did not walk into the hall of Laertes' son\\nOdysseus, and become an evil to every man of them."
+    },
+    {
+      "start": 325.46,
+      "end": 331.12,
+      "text": "And if they overpowered me by their numbers,\\nalone as I am, I would rather die cut down in my own halls"
+    },
+    {
+      "start": 331.12,
+      "end": 334.18,
+      "text": "than look on forever at these disgraceful doings:"
+    },
+    {
+      "start": 334.18,
+      "end": 339.4,
+      "text": "guests roughly handled, and men hauling the\\nslave-women shamefully through the beautiful house,"
+    },
+    {
+      "start": 339.4,
+      "end": 342.7,
+      "text": "and wine drawn off and squandered,\\nand them eating my bread"
+    },
+    {
+      "start": 342.7,
+      "end": 347.58,
+      "text": "idly, recklessly, endlessly —\\nfor a work never to be finished.\""
+    },
+    {
+      "start": 347.58,
+      "end": 349.96,
+      "text": "Then clear-headed Telemachus answered him:"
+    },
+    {
+      "start": 349.96,
+      "end": 353.5,
+      "text": "\"Then I will tell you, stranger, exactly how it is."
+    },
+    {
+      "start": 353.5,
+      "end": 356.76,
+      "text": "It is not that the whole people\\nhates me and bears a grudge,"
+    },
+    {
+      "start": 356.76,
+      "end": 363.06,
+      "text": "nor have I fault to find with brothers — those a man\\ntrusts to fight beside him, though a great feud rise."
+    },
+    {
+      "start": 363.06,
+      "end": 366.74,
+      "text": "For so the son of Cronos has\\nmade ours a line of only sons:"
+    },
+    {
+      "start": 366.74,
+      "end": 372.68,
+      "text": "Arceisius fathered Laertes, an only son;\\nhis father got Odysseus, an only son; and Odysseus"
+    },
+    {
+      "start": 372.68,
+      "end": 377.32,
+      "text": "fathered only me, and left me in\\nthe halls, and had no joy of me."
+    },
+    {
+      "start": 377.32,
+      "end": 380.0,
+      "text": "And that is why enemies past counting are in the house."
+    },
+    {
+      "start": 380.0,
+      "end": 385.12,
+      "text": "All the great men who hold power among the islands —\\nDulichium and Same and wooded Zacynthus —"
+    },
+    {
+      "start": 385.12,
+      "end": 387.5,
+      "text": "and all who lord it through rocky Ithaca:"
+    },
+    {
+      "start": 387.5,
+      "end": 390.4,
+      "text": "so many woo my mother, and wear this house away."
+    },
+    {
+      "start": 390.4,
+      "end": 397.1,
+      "text": "And she neither refuses the marriage she loathes,\\nnor can she bring it to an end. And they eat on, wasting"
+    },
+    {
+      "start": 397.1,
+      "end": 400.72,
+      "text": "my house. Soon they will tear me to pieces too."
+    },
+    {
+      "start": 400.72,
+      "end": 404.08,
+      "text": "But surely these things lie on the knees of the gods."
+    },
+    {
+      "start": 404.08,
+      "end": 407.68,
+      "text": "Old father, you go — quickly —\\nand tell steady-hearted Penelope"
+    },
+    {
+      "start": 407.68,
+      "end": 411.36,
+      "text": "that I am safe for her, and have come back from Pylos."
+    },
+    {
+      "start": 411.36,
+      "end": 414.16,
+      "text": "I will stay here. And you return to this place"
+    },
+    {
+      "start": 414.16,
+      "end": 417.98,
+      "text": "when you have told her — her only.\\nLet none of the other Achaeans"
+    },
+    {
+      "start": 417.98,
+      "end": 421.66,
+      "text": "learn it: for there are many devising evil against me.\""
+    },
+    {
+      "start": 421.66,
+      "end": 424.48,
+      "text": "And you answered him, Eumaeus the swineherd:"
+    },
+    {
+      "start": 424.48,
+      "end": 429.2,
+      "text": "\"I know. I understand.\\nYou order a man who is thinking it too."
+    },
+    {
+      "start": 429.2,
+      "end": 432.28,
+      "text": "But come, tell me this, and tell it to me truly:"
+    },
+    {
+      "start": 432.28,
+      "end": 434.34,
+      "text": "shall I go the same road with the news to Laertes"
+    },
+    {
+      "start": 434.34,
+      "end": 439.76,
+      "text": "as well? Poor man — for a long\\nwhile, for all his great grief"
+    },
+    {
+      "start": 439.76,
+      "end": 444.26,
+      "text": "for Odysseus, he still would oversee\\nthe field-works, and in the house"
+    },
+    {
+      "start": 444.26,
+      "end": 448.56,
+      "text": "would drink and eat with the slaves,\\nwhenever the heart within him bade."
+    },
+    {
+      "start": 448.56,
+      "end": 455.42,
+      "text": "But now, from the day you went by ship to Pylos,\\nthey say he no longer eats and drinks as before,"
+    },
+    {
+      "start": 455.42,
+      "end": 458.8,
+      "text": "nor looks to the field-works,\\nbut with moaning and groaning"
+    },
+    {
+      "start": 458.8,
+      "end": 463.2,
+      "text": "sits mourning; and the flesh\\nwastes away around his bones.\""
+    },
+    {
+      "start": 463.2,
+      "end": 466.06,
+      "text": "Then clear-headed Telemachus answered him:"
+    },
+    {
+      "start": 466.06,
+      "end": 471.24,
+      "text": "\"The harder for it; but all the same we\\nwill let him be, though it grieves us."
+    },
+    {
+      "start": 471.24,
+      "end": 475.1,
+      "text": "For if everything whatever could\\nbe had for the choosing by mortals,"
+    },
+    {
+      "start": 475.1,
+      "end": 478.54,
+      "text": "we would choose first the day of my father's homecoming."
+    },
+    {
+      "start": 478.54,
+      "end": 484.64,
+      "text": "No — give your message and come back; do not go\\nwandering over the fields after him. But tell my mother"
+    },
+    {
+      "start": 484.64,
+      "end": 491.14,
+      "text": "to send her handmaid, the housekeeper, quickly —\\nand secretly: she could carry the news to the old man.\""
+    },
+    {
+      "start": 491.14,
+      "end": 495.6,
+      "text": "He spoke, and roused the swineherd,\\nwho took his sandals in his hands,"
+    },
+    {
+      "start": 495.6,
+      "end": 499.58,
+      "text": "bound them under his feet, and set off for the city."
+    },
+    {
+      "start": 499.58,
+      "end": 503.74,
+      "text": "Escape Athena, that Eumaeus the\\nswineherd was gone from the farm:"
+    },
+    {
+      "start": 503.74,
+      "end": 510.62,
+      "text": "she came near; and in body she was like a woman\\nbeautiful and tall, and skilled in glorious handwork."
+    },
+    {
+      "start": 510.62,
+      "end": 514.46,
+      "text": "She stood at the door of the hut,\\nshowing herself to Odysseus;"
+    },
+    {
+      "start": 514.46,
+      "end": 518.16,
+      "text": "but Telemachus did not see her\\nbefore him, did not sense her —"
+    },
+    {
+      "start": 518.16,
+      "end": 524.62,
+      "text": "for the gods do not appear manifest to everyone —\\nbut Odysseus saw her, and the dogs: and they did not bark,"
+    },
+    {
+      "start": 524.62,
+      "end": 527.9,
+      "text": "but whimpered and shrank in fear\\nto the far side of the farmstead."
+    },
+    {
+      "start": 527.9,
+      "end": 532.38,
+      "text": "She signaled with her brows;\\nand noble Odysseus understood,"
+    },
+    {
+      "start": 532.38,
+      "end": 538.64,
+      "text": "and came out of the hall, past the great wall of the yard,\\nand stood before her; and Athena said to him:"
+    },
+    {
+      "start": 538.64,
+      "end": 542.82,
+      "text": "\"Zeus-born son of Laertes, Odysseus of the many devices:"
+    },
+    {
+      "start": 542.82,
+      "end": 548.58,
+      "text": "now speak your word to your son. Hide it no longer —\\nso that you two may fit death and doom to the suitors"
+    },
+    {
+      "start": 548.58,
+      "end": 554.3,
+      "text": "and go to the famous city. And I myself will not\\nbe long away from you: I am hungry for battle.\""
+    },
+    {
+      "start": 554.3,
+      "end": 557.08,
+      "text": "She spoke, and Athena touched him with her golden wand."
+    },
+    {
+      "start": 557.08,
+      "end": 563.44,
+      "text": "First she laid a well-washed mantle and a tunic about\\nhis chest, and filled out his frame and his youth:"
+    },
+    {
+      "start": 563.44,
+      "end": 569.66,
+      "text": "dark color came back to his skin, his jaws grew full,\\nand the beard about his chin turned blue-black again."
+    },
+    {
+      "start": 569.66,
+      "end": 575.98,
+      "text": "That done, she went away again; and Odysseus went\\ninto the hut. His dear son was struck with wonder,"
+    },
+    {
+      "start": 575.98,
+      "end": 582.66,
+      "text": "and turned his eyes aside, afraid, in case it was a god,\\nand lifting his voice he spoke winged words to him:"
+    },
+    {
+      "start": 582.66,
+      "end": 585.44,
+      "text": "\"Stranger, you look other to me now than a moment ago:"
+    },
+    {
+      "start": 585.44,
+      "end": 589.22,
+      "text": "you wear other clothes; your skin is not the same."
+    },
+    {
+      "start": 589.22,
+      "end": 592.76,
+      "text": "Surely you are some god,\\none of those who hold wide heaven."
+    },
+    {
+      "start": 592.76,
+      "end": 599.3,
+      "text": "Be gracious, then! — and we will give you pleasing\\nsacrifices, and wrought gifts of gold. Only spare us.\""
+    },
+    {
+      "start": 599.3,
+      "end": 602.04,
+      "text": "Then much-enduring noble Odysseus answered him:"
+    },
+    {
+      "start": 602.04,
+      "end": 605.5,
+      "text": "\"I am no god. Why do you liken me to the immortals?"
+    },
+    {
+      "start": 605.5,
+      "end": 608.22,
+      "text": "No: I am your father — for whose sake you go groaning"
+    },
+    {
+      "start": 608.22,
+      "end": 612.12,
+      "text": "and suffer many pains,\\nand take men's violence on yourself.\""
+    },
+    {
+      "start": 612.12,
+      "end": 615.4,
+      "text": "So speaking, he kissed his son, and down his cheeks"
+    },
+    {
+      "start": 615.4,
+      "end": 619.76,
+      "text": "a tear fell to the ground. Before,\\nhe had held them back, always."
+    },
+    {
+      "start": 619.76,
+      "end": 622.8,
+      "text": "But Telemachus — for he did not\\nyet believe it was his father —"
+    },
+    {
+      "start": 622.8,
+      "end": 625.74,
+      "text": "found words again, and said to him in answer:"
+    },
+    {
+      "start": 625.74,
+      "end": 632.6,
+      "text": "\"You are not Odysseus, not my father. A god is casting\\na spell on me, so I may sob and grieve still more."
+    },
+    {
+      "start": 632.6,
+      "end": 637.92,
+      "text": "No mortal man could ever contrive these things\\nby his own wit — not unless a god in person came"
+    },
+    {
+      "start": 637.92,
+      "end": 641.68,
+      "text": "and made him young or old at a stroke, at will."
+    },
+    {
+      "start": 641.68,
+      "end": 647.68,
+      "text": "Just now, I know, you were old, and meanly dressed;\\nand now you are like the gods who hold wide heaven.\""
+    },
+    {
+      "start": 647.68,
+      "end": 650.82,
+      "text": "Then Odysseus of the many designs answered him:"
+    },
+    {
+      "start": 650.82,
+      "end": 657.76,
+      "text": "\"Telemachus, it is not right, when your own father is here,\\nto marvel at him past measure, or stand amazed."
+    },
+    {
+      "start": 657.76,
+      "end": 660.18,
+      "text": "No other Odysseus will ever come to you here:"
+    },
+    {
+      "start": 660.18,
+      "end": 664.7,
+      "text": "he is I — such as you see,\\nhaving suffered, having wandered long —"
+    },
+    {
+      "start": 664.7,
+      "end": 667.0,
+      "text": "come in the twentieth year to my father's land."
+    },
+    {
+      "start": 667.0,
+      "end": 670.46,
+      "text": "But this — this is the work of\\nAthena, driver of the spoil,"
+    },
+    {
+      "start": 670.46,
+      "end": 676.4,
+      "text": "who makes of me whatever she wills — for she has\\nthe power — now like a beggar man, and now again"
+    },
+    {
+      "start": 676.4,
+      "end": 679.38,
+      "text": "like a young man with fine clothes upon his body."
+    },
+    {
+      "start": 679.38,
+      "end": 685.46,
+      "text": "It is easy for the gods who hold wide heaven\\nto glorify a mortal man — or to break him.\""
+    },
+    {
+      "start": 685.46,
+      "end": 692.06,
+      "text": "So speaking he sat down; and Telemachus, flinging his\\narms around his noble father, wept and shed tears,"
+    },
+    {
+      "start": 692.06,
+      "end": 694.8,
+      "text": "and in both of them rose the longing for lament."
+    },
+    {
+      "start": 694.8,
+      "end": 698.46,
+      "text": "They cried shrill, in bursts\\nthicker than the cries of birds —"
+    },
+    {
+      "start": 698.46,
+      "end": 701.98,
+      "text": "of ospreys, or of vultures with\\ncrooked talons, whose young"
+    },
+    {
+      "start": 701.98,
+      "end": 705.46,
+      "text": "the country people have taken from\\nthe nest before they were fledged:"
+    },
+    {
+      "start": 705.46,
+      "end": 708.72,
+      "text": "so pitifully the tears fell from beneath their brows."
+    },
+    {
+      "start": 708.72,
+      "end": 712.0,
+      "text": "And the light of the sun would\\nhave gone down on their weeping"
+    },
+    {
+      "start": 712.0,
+      "end": 714.6,
+      "text": "had not Telemachus suddenly spoken to his father:"
+    },
+    {
+      "start": 714.6,
+      "end": 718.28,
+      "text": "\"What ship was it, dear father,\\nwhose sailors brought you here to Ithaca?"
+    },
+    {
+      "start": 718.28,
+      "end": 720.76,
+      "text": "For I hardly think you came here on foot.\""
+    },
+    {
+      "start": 720.76,
+      "end": 723.94,
+      "text": "Then much-enduring noble Odysseus spoke to him:"
+    },
+    {
+      "start": 723.94,
+      "end": 726.9,
+      "text": "\"Then I will tell you, child, the truth of it."
+    },
+    {
+      "start": 726.9,
+      "end": 733.52,
+      "text": "The Phaeacians brought me, famed for their ships,\\nwho give passage to other men too, whoever comes to them."
+    },
+    {
+      "start": 733.52,
+      "end": 740.18,
+      "text": "They carried me asleep in a fast ship over the sea\\nand set me down in Ithaca, and gave me shining gifts,"
+    },
+    {
+      "start": 740.18,
+      "end": 745.96,
+      "text": "bronze and gold in plenty, and woven clothing —\\nall lying now in caves, by the gods' will."
+    },
+    {
+      "start": 745.96,
+      "end": 751.12,
+      "text": "And I have come here at Athena's prompting,\\nso we may plan together the slaughter of our enemies."
+    },
+    {
+      "start": 751.12,
+      "end": 756.94,
+      "text": "Come, count me off the suitors, one by one,\\nso I may know how many they are, and what men;"
+    },
+    {
+      "start": 756.94,
+      "end": 762.2,
+      "text": "then I will weigh it in my blameless heart, and decide\\nwhether we two can stand against them by ourselves,"
+    },
+    {
+      "start": 762.2,
+      "end": 764.86,
+      "text": "alone, or should look for others.\""
+    },
+    {
+      "start": 764.86,
+      "end": 767.18,
+      "text": "Then clear-headed Telemachus answered him:"
+    },
+    {
+      "start": 767.18,
+      "end": 769.62,
+      "text": "\"Father, I have always heard your great fame:"
+    },
+    {
+      "start": 769.62,
+      "end": 772.56,
+      "text": "a spearman with your hands, and weighty in counsel."
+    },
+    {
+      "start": 772.56,
+      "end": 776.68,
+      "text": "But what you say is too great.\\nAwe holds me. It could not be"
+    },
+    {
+      "start": 776.68,
+      "end": 780.08,
+      "text": "for two men to fight with many, and strong men too."
+    },
+    {
+      "start": 780.08,
+      "end": 786.2,
+      "text": "The suitors are no exact ten, nor two tens only,\\nbut many more. You shall have the count here and now."
+    },
+    {
+      "start": 786.2,
+      "end": 791.28,
+      "text": "From Dulichium, two-and-fifty young men,\\nchosen, and six serving-men follow with them;"
+    },
+    {
+      "start": 791.28,
+      "end": 795.68,
+      "text": "from Same there are four-and-twenty men;\\nfrom Zacynthus, twenty young Achaeans;"
+    },
+    {
+      "start": 795.68,
+      "end": 799.14,
+      "text": "and from Ithaca itself, twelve, all of them the best;"
+    },
+    {
+      "start": 799.14,
+      "end": 802.34,
+      "text": "and with them are Medon the herald,\\nand the godlike singer,"
+    },
+    {
+      "start": 802.34,
+      "end": 805.0,
+      "text": "and two henchmen skilled in the carving of meats."
+    },
+    {
+      "start": 805.0,
+      "end": 807.32,
+      "text": "If we come against all of these inside the house,"
+    },
+    {
+      "start": 807.32,
+      "end": 812.22,
+      "text": "beware: your avenging of their violence\\ncould cost too bitter, too grim a price."
+    },
+    {
+      "start": 812.22,
+      "end": 818.1,
+      "text": "No — you, if you can think of some defender, think of\\none who would stand by us two with a willing heart.\""
+    },
+    {
+      "start": 818.1,
+      "end": 821.3,
+      "text": "Then much-enduring noble Odysseus answered him:"
+    },
+    {
+      "start": 821.3,
+      "end": 824.38,
+      "text": "\"Then I will tell you — mark me now, and listen."
+    },
+    {
+      "start": 824.38,
+      "end": 827.12,
+      "text": "Consider: will Athena, with father Zeus beside her,"
+    },
+    {
+      "start": 827.12,
+      "end": 830.06,
+      "text": "be enough for us two? Or shall\\nI think of some other defender?\""
+    },
+    {
+      "start": 830.06,
+      "end": 833.8,
+      "text": "Then clear-headed Telemachus answered him:"
+    },
+    {
+      "start": 833.8,
+      "end": 838.56,
+      "text": "\"Good defenders indeed, those two you name,\\nthough they sit high among the clouds; and they rule"
+    },
+    {
+      "start": 838.56,
+      "end": 842.24,
+      "text": "all others — men in their power, and the deathless gods.\""
+    },
+    {
+      "start": 842.24,
+      "end": 845.06,
+      "text": "Then much-enduring noble Odysseus answered him:"
+    },
+    {
+      "start": 845.06,
+      "end": 850.46,
+      "text": "\"Those two will not stand long apart from the strong\\ndin of battle, when between the suitors and ourselves"
+    },
+    {
+      "start": 850.46,
+      "end": 853.34,
+      "text": "the war-strength of Ares is put to trial in my halls."
+    },
+    {
+      "start": 853.34,
+      "end": 858.54,
+      "text": "But you, for now: go home at the showing of\\nthe dawn and mix among the overweening suitors;"
+    },
+    {
+      "start": 858.54,
+      "end": 863.66,
+      "text": "and later the swineherd will bring me to the city,\\nlooking like a beggar, wretched and old."
+    },
+    {
+      "start": 863.66,
+      "end": 868.74,
+      "text": "And if they treat me shamefully in the house,\\nlet the heart in your breast endure it while I suffer —"
+    },
+    {
+      "start": 868.74,
+      "end": 871.56,
+      "text": "even if they drag me by the feet\\nthrough the hall to the door,"
+    },
+    {
+      "start": 871.56,
+      "end": 875.28,
+      "text": "or throw things and hit me: look on, and hold yourself in."
+    },
+    {
+      "start": 875.28,
+      "end": 880.1,
+      "text": "Tell them, yes, to stop their follies —\\nwin at them with gentle words. They will not listen,"
+    },
+    {
+      "start": 880.1,
+      "end": 882.98,
+      "text": "not at all: for their fated day is standing near."
+    },
+    {
+      "start": 882.98,
+      "end": 884.36,
+      "text": "Lay it up in your heart."
+    },
+    {
+      "start": 884.36,
+      "end": 889.64,
+      "text": "When Athena of the many counsels puts it in my mind,\\nI will nod to you with my head; and when you see it,"
+    },
+    {
+      "start": 889.64,
+      "end": 894.48,
+      "text": "take all the weapons of war that lie about the hall\\nand store them up in the corner of the high chamber —"
+    },
+    {
+      "start": 894.48,
+      "end": 899.58,
+      "text": "all of them; and when the suitors miss them\\nand ask you, talk them around with soft words:"
+    },
+    {
+      "start": 899.58,
+      "end": 902.54,
+      "text": "'I laid them out of the smoke:\\nthey no longer looked like the arms"
+    },
+    {
+      "start": 902.54,
+      "end": 908.48,
+      "text": "Odysseus left behind when he went to Troy — they are\\nfouled over, as far as the breath of the fire reached."
+    },
+    {
+      "start": 908.48,
+      "end": 911.54,
+      "text": "And a greater fear the son of Cronos put into my heart:"
+    },
+    {
+      "start": 911.54,
+      "end": 915.92,
+      "text": "that in your wine you might raise a quarrel among\\nyou and wound one another, and shame the feast"
+    },
+    {
+      "start": 915.92,
+      "end": 919.64,
+      "text": "and the wooing. For iron of itself draws a man on.'"
+    },
+    {
+      "start": 919.64,
+      "end": 925.06,
+      "text": "But for us two alone leave out two swords, two spears,\\nand two oxhide shields for our hands to seize,"
+    },
+    {
+      "start": 925.06,
+      "end": 932.7,
+      "text": "so we can rush and take them up; and the suitors —\\nPallas Athena and Zeus the counselor will daze them."
+    },
+    {
+      "start": 932.7,
+      "end": 936.76,
+      "text": "And another thing I will tell you:\\nlay it up in your heart."
+    },
+    {
+      "start": 936.76,
+      "end": 943.54,
+      "text": "If you are truly mine, and truly of our blood,\\nthen let no one hear that Odysseus is within —"
+    },
+    {
+      "start": 943.54,
+      "end": 952.48,
+      "text": "not Laertes: he is not to know it; nor the swineherd,\\nnor any of the household; no — not Penelope herself."
+    },
+    {
+      "start": 952.48,
+      "end": 958.36,
+      "text": "You and I alone will learn the set of the women;\\nand we might test this or that man of the slaves as well:"
+    },
+    {
+      "start": 958.36,
+      "end": 962.22,
+      "text": "where one honors the two of us, and fears us in his heart,"
+    },
+    {
+      "start": 962.22,
+      "end": 966.32,
+      "text": "and where one cares nothing,\\nand slights you — such as you are.\""
+    },
+    {
+      "start": 966.32,
+      "end": 968.96,
+      "text": "Then his shining son spoke out, answered him:"
+    },
+    {
+      "start": 968.96,
+      "end": 974.86,
+      "text": "\"Father — you will come to know my heart hereafter,\\nI think; there is no slackness in me — none."
+    },
+    {
+      "start": 974.86,
+      "end": 980.22,
+      "text": "But I do not believe this plan will be a\\nprofit to us both. Think again, I urge you."
+    },
+    {
+      "start": 980.22,
+      "end": 982.72,
+      "text": "You will be a long time going round the farms and testing"
+    },
+    {
+      "start": 982.72,
+      "end": 987.1,
+      "text": "each man, one by one;\\nand meanwhile in the halls, at their ease,"
+    },
+    {
+      "start": 987.1,
+      "end": 990.68,
+      "text": "they eat through our goods with\\na high hand, and spare nothing."
+    },
+    {
+      "start": 990.68,
+      "end": 995.64,
+      "text": "The women — yes, I would have you find out which\\nones dishonor you, and which are guiltless."
+    },
+    {
+      "start": 995.64,
+      "end": 1001.28,
+      "text": "But the men about the farmsteads — I for one would\\nrather we not test them now. Keep that work for later,"
+    },
+    {
+      "start": 1001.28,
+      "end": 1006.0,
+      "text": "if you truly know some sign\\nfrom Zeus who bears the aegis.\""
+    },
+    {
+      "start": 1006.0,
+      "end": 1008.48,
+      "text": "So they spoke to each other of such things."
+    },
+    {
+      "start": 1008.48,
+      "end": 1011.64,
+      "text": "And meanwhile the well-built\\nship was putting in to Ithaca,"
+    },
+    {
+      "start": 1011.64,
+      "end": 1015.82,
+      "text": "the ship that carried Telemachus\\nfrom Pylos with all his companions."
+    },
+    {
+      "start": 1015.82,
+      "end": 1020.54,
+      "text": "When they had come inside the deep harbor,\\nthey hauled the black ship up onto the land,"
+    },
+    {
+      "start": 1020.54,
+      "end": 1026.4,
+      "text": "and high-spirited henchmen carried off their gear and\\ntook the beautiful gifts straight to Clytius' house."
+    },
+    {
+      "start": 1026.4,
+      "end": 1032.48,
+      "text": "And they sent a herald ahead to the house of Odysseus\\nto bring the news to watchful-minded Penelope —"
+    },
+    {
+      "start": 1032.48,
+      "end": 1038.36,
+      "text": "that Telemachus was in the country, and had ordered\\nthe ship to sail on to the city — lest the strong queen"
+    },
+    {
+      "start": 1038.36,
+      "end": 1041.92,
+      "text": "take fright at heart, and let the soft tear fall."
+    },
+    {
+      "start": 1041.92,
+      "end": 1045.2,
+      "text": "And the two of them met,\\nthe herald and the noble swineherd,"
+    },
+    {
+      "start": 1045.2,
+      "end": 1048.1,
+      "text": "come on the same errand, to bring the woman word."
+    },
+    {
+      "start": 1048.1,
+      "end": 1053.5,
+      "text": "But when they reached the house of the godlike king,\\nthe herald spoke out in the midst of the slave-women:"
+    },
+    {
+      "start": 1053.5,
+      "end": 1056.5,
+      "text": "\"Already, O queen, your dear son has come home.\""
+    },
+    {
+      "start": 1056.5,
+      "end": 1062.62,
+      "text": "But the swineherd stood close to Penelope and told\\nher everything her dear son had charged him to say."
+    },
+    {
+      "start": 1062.62,
+      "end": 1064.96,
+      "text": "And when he had delivered the whole of his commission,"
+    },
+    {
+      "start": 1064.96,
+      "end": 1068.6,
+      "text": "he went his way to his swine,\\nand left the walls and the hall."
+    },
+    {
+      "start": 1068.6,
+      "end": 1074.84,
+      "text": "But the suitors were downcast, dejected in spirit,\\nand came out of the hall past the great wall of the yard,"
+    },
+    {
+      "start": 1074.84,
+      "end": 1077.84,
+      "text": "and there before the gates they sat themselves down."
+    },
+    {
+      "start": 1077.84,
+      "end": 1082.18,
+      "text": "And Eurymachus, Polybus' son, began to speak among them:"
+    },
+    {
+      "start": 1082.18,
+      "end": 1085.22,
+      "text": "\"Friends, here is a great work brought off insolently —"
+    },
+    {
+      "start": 1085.22,
+      "end": 1089.2,
+      "text": "this voyage of Telemachus.\\nWe swore it would never be done."
+    },
+    {
+      "start": 1089.2,
+      "end": 1095.06,
+      "text": "Come — let us drag down a black ship, the best we have,\\nand gather seamen for rowers, to carry word"
+    },
+    {
+      "start": 1095.06,
+      "end": 1098.52,
+      "text": "quickly to those two out there: come home at speed.\""
+    },
+    {
+      "start": 1098.52,
+      "end": 1103.96,
+      "text": "He had not finished speaking when Amphinomus,\\nturning in his place, saw the ship inside the deep harbor,"
+    },
+    {
+      "start": 1103.96,
+      "end": 1107.36,
+      "text": "the crew furling the sail and\\nholding the oars in their hands."
+    },
+    {
+      "start": 1107.36,
+      "end": 1111.16,
+      "text": "He broke into easy laughter and called to his companions:"
+    },
+    {
+      "start": 1111.16,
+      "end": 1114.26,
+      "text": "\"No need now to send any message. They are in."
+    },
+    {
+      "start": 1114.26,
+      "end": 1119.64,
+      "text": "Either some god told them, or they saw the ship\\nthemselves passing by — and could not catch her.\""
+    },
+    {
+      "start": 1119.64,
+      "end": 1123.38,
+      "text": "So he spoke; and they rose and\\nwent to the shore of the sea."
+    },
+    {
+      "start": 1123.38,
+      "end": 1128.74,
+      "text": "Quickly the men hauled the black ship up onto the land,\\nand high-spirited henchmen carried off their gear;"
+    },
+    {
+      "start": 1128.74,
+      "end": 1132.1,
+      "text": "and they themselves went in a body\\nto the assembly-place, and allowed"
+    },
+    {
+      "start": 1132.1,
+      "end": 1135.58,
+      "text": "no one else to sit among them, young or old."
+    },
+    {
+      "start": 1135.58,
+      "end": 1138.78,
+      "text": "And Antinous spoke among them, Eupeithes' son:"
+    },
+    {
+      "start": 1138.78,
+      "end": 1142.86,
+      "text": "\"Damn it all — see how the gods have\\nslipped this man out of harm's reach!"
+    },
+    {
+      "start": 1142.86,
+      "end": 1146.0,
+      "text": "Day after day our watchers sat on the windy headlands,"
+    },
+    {
+      "start": 1146.0,
+      "end": 1151.68,
+      "text": "relief upon relief of them; and with the sun gone down\\nwe never passed a night ashore, but afloat on the sea"
+    },
+    {
+      "start": 1151.68,
+      "end": 1157.22,
+      "text": "in our fast ship we waited for the bright Dawn,\\nlying in ambush for Telemachus, to take him"
+    },
+    {
+      "start": 1157.22,
+      "end": 1161.32,
+      "text": "and kill him. And all the while\\nsome god has brought him home."
+    },
+    {
+      "start": 1161.32,
+      "end": 1163.14,
+      "text": "Then let us here devise a wretched death"
+    },
+    {
+      "start": 1163.14,
+      "end": 1167.46,
+      "text": "for Telemachus — not let him slip\\nbetween our hands. For I tell you,"
+    },
+    {
+      "start": 1167.46,
+      "end": 1171.2,
+      "text": "while he lives, this business\\nof ours will not be brought off."
+    },
+    {
+      "start": 1171.2,
+      "end": 1176.08,
+      "text": "In counsel and in mind, and the people\\nno longer look on us with any favor."
+    },
+    {
+      "start": 1176.08,
+      "end": 1182.84,
+      "text": "Act, then — before he can call the Achaeans together\\nto assembly. He will not hang back, I promise you:"
+    },
+    {
+      "start": 1182.84,
+      "end": 1186.28,
+      "text": "he will keep his anger; he will\\nstand up among them all and tell"
+    },
+    {
+      "start": 1186.28,
+      "end": 1189.82,
+      "text": "how we wove sheer murder for him —\\nand could not catch him."
+    },
+    {
+      "start": 1189.82,
+      "end": 1192.86,
+      "text": "And they will not praise us, hearing of evil deeds."
+    },
+    {
+      "start": 1192.86,
+      "end": 1199.16,
+      "text": "Beware they do not do us harm, and drive us out of\\nour own country, and we come to the land of strangers."
+    },
+    {
+      "start": 1199.16,
+      "end": 1202.3,
+      "text": "Take him first: catch him in the field, far from the city,"
+    },
+    {
+      "start": 1202.3,
+      "end": 1206.28,
+      "text": "or on the road. His livelihood\\nand goods we hold ourselves,"
+    },
+    {
+      "start": 1206.28,
+      "end": 1209.06,
+      "text": "dividing them share and share among us; the house"
+    },
+    {
+      "start": 1209.06,
+      "end": 1213.24,
+      "text": "we would give his mother to keep —\\nhers and the man who weds her."
+    },
+    {
+      "start": 1213.24,
+      "end": 1220.62,
+      "text": "But if this word displeases you, and you choose instead\\nthat he live, and keep all that was his father's —"
+    },
+    {
+      "start": 1220.62,
+      "end": 1223.64,
+      "text": "then let us not go on gathering here to eat away"
+    },
+    {
+      "start": 1223.64,
+      "end": 1227.78,
+      "text": "his store of pleasant things.\\nLet each man from his own hall"
+    },
+    {
+      "start": 1227.78,
+      "end": 1231.28,
+      "text": "court her with bride-gifts, seeking her; and she then"
+    },
+    {
+      "start": 1231.28,
+      "end": 1235.1,
+      "text": "may wed the man who gives the most,\\nand comes as her fate.\""
+    },
+    {
+      "start": 1235.1,
+      "end": 1238.58,
+      "text": "So he spoke; and they all fell silent and still."
+    },
+    {
+      "start": 1238.58,
+      "end": 1245.84,
+      "text": "Then Amphinomus rose and spoke among them —\\nthe shining son of Nisus, of the lord Aretias' line,"
+    },
+    {
+      "start": 1245.84,
+      "end": 1251.7,
+      "text": "who from Dulichium, land of wheat and grass,\\nled the suitors; and beyond the others he pleased"
+    },
+    {
+      "start": 1251.7,
+      "end": 1255.22,
+      "text": "Penelope with his talk, for his mind was set on good."
+    },
+    {
+      "start": 1255.22,
+      "end": 1258.22,
+      "text": "With good intent he rose and spoke among them:"
+    },
+    {
+      "start": 1258.22,
+      "end": 1264.58,
+      "text": "\"Friends, I for one would have no wish to kill Telemachus.\\nDreadful it is to kill the blood of kings."
+    },
+    {
+      "start": 1264.58,
+      "end": 1268.08,
+      "text": "No — first let us ask what is the counsel of the gods."
+    },
+    {
+      "start": 1268.08,
+      "end": 1273.58,
+      "text": "If the ordinances of great Zeus approve it,\\nI will kill him myself, and bid all the rest to help;"
+    },
+    {
+      "start": 1273.58,
+      "end": 1277.64,
+      "text": "but if the gods turn us aside, I say: stop here.\""
+    },
+    {
+      "start": 1277.64,
+      "end": 1281.4,
+      "text": "So spoke Amphinomus, and his word pleased them well."
+    },
+    {
+      "start": 1281.4,
+      "end": 1286.92,
+      "text": "They rose at once and went to the house of Odysseus,\\nand coming in they sat on the polished chairs."
+    },
+    {
+      "start": 1286.92,
+      "end": 1290.16,
+      "text": "Then watchful-minded Penelope thought of one thing more:"
+    },
+    {
+      "start": 1290.16,
+      "end": 1293.44,
+      "text": "to show herself to the suitors\\nin their overweening insolence."
+    },
+    {
+      "start": 1293.44,
+      "end": 1296.26,
+      "text": "For she had learned of her son's\\ndeath plotted in the halls —"
+    },
+    {
+      "start": 1296.26,
+      "end": 1299.82,
+      "text": "the herald Medon told her,\\nwho had overheard their counsels."
+    },
+    {
+      "start": 1299.82,
+      "end": 1302.56,
+      "text": "She went down to the hall with her attendant women."
+    },
+    {
+      "start": 1302.56,
+      "end": 1307.7,
+      "text": "And when she reached the suitors, shining among women,\\nshe stood beside the pillar of the close-built roof,"
+    },
+    {
+      "start": 1307.7,
+      "end": 1314.44,
+      "text": "holding her glistening veil before her cheeks,\\nand rebuked Antinous, and spoke a word, and named him:"
+    },
+    {
+      "start": 1314.44,
+      "end": 1318.16,
+      "text": "\"Antinous — insolence itself,\\ndeviser of evils! And they say"
+    },
+    {
+      "start": 1318.16,
+      "end": 1320.88,
+      "text": "that in the land of Ithaca you are the best of your years"
+    },
+    {
+      "start": 1320.88,
+      "end": 1324.56,
+      "text": "in counsel and in speech. You were never such a man."
+    },
+    {
+      "start": 1324.56,
+      "end": 1329.68,
+      "text": "Madman! Why do you weave death and doom for Telemachus,\\nand pay no heed to suppliants — over whom"
+    },
+    {
+      "start": 1329.68,
+      "end": 1334.12,
+      "text": "Zeus stands witness? It is unholy\\nto weave evil against each other."
+    },
+    {
+      "start": 1334.12,
+      "end": 1336.74,
+      "text": "Do you not know the day your father came here in flight,"
+    },
+    {
+      "start": 1336.74,
+      "end": 1341.7,
+      "text": "in terror of the people? For they were bitterly enraged,\\nbecause he had joined with Taphian pirates"
+    },
+    {
+      "start": 1341.7,
+      "end": 1344.98,
+      "text": "to harry the Thesprotians — men who were our allies."
+    },
+    {
+      "start": 1344.98,
+      "end": 1348.48,
+      "text": "They wanted to destroy him,\\nto tear the dear heart out of him,"
+    },
+    {
+      "start": 1348.48,
+      "end": 1351.7,
+      "text": "and to swallow his great and pleasing livelihood whole;"
+    },
+    {
+      "start": 1351.7,
+      "end": 1354.86,
+      "text": "but Odysseus held them back and\\nchecked them, hot as they were."
+    },
+    {
+      "start": 1354.86,
+      "end": 1360.92,
+      "text": "His house you now eat up scot-free; you woo his wife;\\nyou would kill his son; and me you grieve to the core."
+    },
+    {
+      "start": 1360.92,
+      "end": 1364.74,
+      "text": "Stop, I command you. And command the rest to stop.\""
+    },
+    {
+      "start": 1364.74,
+      "end": 1367.62,
+      "text": "Then Eurymachus, Polybus' son, answered her:"
+    },
+    {
+      "start": 1367.62,
+      "end": 1373.8,
+      "text": "\"Daughter of Icarius, watchful-minded Penelope,\\ntake heart. Do not let these things trouble your mind."
+    },
+    {
+      "start": 1373.8,
+      "end": 1379.24,
+      "text": "The man does not exist, will not exist, cannot be\\nborn who shall lay hands upon your son Telemachus"
+    },
+    {
+      "start": 1379.24,
+      "end": 1382.48,
+      "text": "while I am alive and look upon the light of the earth."
+    },
+    {
+      "start": 1382.48,
+      "end": 1386.1,
+      "text": "For I will say this outright, and it will be accomplished:"
+    },
+    {
+      "start": 1386.1,
+      "end": 1389.24,
+      "text": "in an instant his black blood would run down my spear —"
+    },
+    {
+      "start": 1389.24,
+      "end": 1395.22,
+      "text": "that man's. For Odysseus, sacker of cities —\\nmany a time he sat me on his knees, and put roast meat"
+    },
+    {
+      "start": 1395.22,
+      "end": 1398.48,
+      "text": "into my hands, and held the red wine to my lips."
+    },
+    {
+      "start": 1398.48,
+      "end": 1404.18,
+      "text": "And so Telemachus is to me by far the dearest of all men;\\nand I tell him he need not tremble at death —"
+    },
+    {
+      "start": 1404.18,
+      "end": 1407.74,
+      "text": "not from the suitors. From the gods there is no escaping.\""
+    },
+    {
+      "start": 1407.74,
+      "end": 1412.24,
+      "text": "So he spoke to soothe her — and was\\nhimself preparing the boy's destruction."
+    },
+    {
+      "start": 1412.24,
+      "end": 1417.38,
+      "text": "But she climbed to her shining upper room,\\nand wept there for Odysseus, her dear husband, until"
+    },
+    {
+      "start": 1417.38,
+      "end": 1420.74,
+      "text": "gray-eyed Athena cast sweet sleep upon her eyelids."
+    },
+    {
+      "start": 1420.74,
+      "end": 1426.24,
+      "text": "And at evening the noble swineherd came back to\\nOdysseus and his son. They were making their supper,"
+    },
+    {
+      "start": 1426.24,
+      "end": 1433.78,
+      "text": "busy about it, having killed a year-old pig.\\nBut Athena came and stood close by Laertes' son Odysseus,"
+    },
+    {
+      "start": 1433.78,
+      "end": 1436.88,
+      "text": "and struck him with her wand\\nand made him an old man again,"
+    },
+    {
+      "start": 1436.88,
+      "end": 1440.82,
+      "text": "and dressed his body in miserable\\nclothes — lest the swineherd"
+    },
+    {
+      "start": 1440.82,
+      "end": 1444.22,
+      "text": "look at him face to face and\\nknow him, and go with the news"
+    },
+    {
+      "start": 1444.22,
+      "end": 1448.34,
+      "text": "to steady-hearted Penelope,\\nnot holding it fast in his heart."
+    },
+    {
+      "start": 1448.34,
+      "end": 1451.02,
+      "text": "And Telemachus was first to speak to him:"
+    },
+    {
+      "start": 1451.02,
+      "end": 1454.5,
+      "text": "\"You have come, noble Eumaeus. What news in the town?"
+    },
+    {
+      "start": 1454.5,
+      "end": 1460.46,
+      "text": "Are the haughty suitors back inside by now, home from\\ntheir ambush — or still watching for me on my way?\""
+    },
+    {
+      "start": 1460.46,
+      "end": 1462.82,
+      "text": "And you answered him, Eumaeus the swineherd:"
+    },
+    {
+      "start": 1462.82,
+      "end": 1468.5,
+      "text": "\"I had no mind to ask about that, going down\\nthrough the town. My heart said: tell your message"
+    },
+    {
+      "start": 1468.5,
+      "end": 1471.06,
+      "text": "and be quick, and come back here again."
+    },
+    {
+      "start": 1471.06,
+      "end": 1476.78,
+      "text": "And a swift messenger from your companions overtook me,\\na herald — and he spoke to your mother first."
+    },
+    {
+      "start": 1476.78,
+      "end": 1480.34,
+      "text": "But this much more I know; this I saw with my eyes."
+    },
+    {
+      "start": 1480.34,
+      "end": 1486.32,
+      "text": "I was already above the city, where the hill of Hermes\\nstands, on my way, when I saw a fast ship coming down"
+    },
+    {
+      "start": 1486.32,
+      "end": 1492.46,
+      "text": "into our harbor. There were many men aboard her,\\nand she rode heavy with shields and double-pointed spears."
+    },
+    {
+      "start": 1492.46,
+      "end": 1495.42,
+      "text": "I thought it was they — but I cannot know.\""
+    },
+    {
+      "start": 1495.42,
+      "end": 1498.76,
+      "text": "So he spoke; and the sacred strength of Telemachus smiled,"
+    },
+    {
+      "start": 1498.76,
+      "end": 1502.64,
+      "text": "and his eyes went to his father —\\nslipping past the swineherd's."
+    },
+    {
+      "start": 1502.64,
+      "end": 1505.4,
+      "text": "And when they had ceased their\\nlabor and made the meal ready,"
+    },
+    {
+      "start": 1505.4,
+      "end": 1509.52,
+      "text": "they feasted; and no man's appetite\\nwent short of the equal feast."
+    },
+    {
+      "start": 1509.52,
+      "end": 1512.46,
+      "text": "But when they had put away desire for food and drink,"
+    },
+    {
+      "start": 1512.46,
+      "end": 1515.456,
+      "text": "they remembered their beds, and took the gift of sleep."
+    }
+  ]
+}

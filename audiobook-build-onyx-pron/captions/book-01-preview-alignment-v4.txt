@@ -1,0 +1,30 @@
+Odyssey Book I preview — Version 4 word alignment
+Matched source words: 258/268 (96.3%)
+Visual lead: 0.16s
+
+Cue | V3 start | V4 start | Delta | Recognized anchor | Caption
+  1 |    6.300 |    6.260 | -0.040 | Tell               | Tell me the man, Muse — / the man of many turnings,
+  2 |    9.650 |    9.660 | +0.010 | who                | who was driven wandering far, once he had sacked / Troy’s holy citadel:
+  3 |   14.850 |   14.700 | -0.150 | Many               | many were the cities of men he saw, / and he learned their minds,
+  4 |   18.400 |   18.260 | -0.140 | Many               | many the griefs he suffered at heart / on the open sea,
+  5 |   21.100 |   21.300 | +0.200 | striving           | striving to win his own life / and his companions’ homecoming.
+  6 |   25.450 |   25.060 | -0.390 | Even               | Even so he could not save them, / hard though he strove:
+  7 |   28.850 |   28.840 | -0.010 | They               | they perished by their own recklessness,
+  8 |   31.050 |   31.240 | +0.190 | fools,             | fools, who ate the cattle / of Helios Hyperion,
+  9 |   34.750 |   34.640 | -0.110 | and                | and the god took from them / their day of homecoming.
+ 10 |   37.500 |   37.360 | -0.140 | Begin              | Begin where you will, goddess, daughter of Zeus — / tell us, too, the tale.
+ 11 |   41.700 |   41.700 | +0.000 | By                 | By then all the others, / all who had escaped sheer ruin,
+ 12 |   45.350 |   44.800 | -0.550 | were               | were home, safely past the war / and past the sea.
+ 13 |   47.550 |   48.880 | +1.330 | him                | Him alone — aching for homecoming / and his wife —
+ 14 |   51.400 |   51.080 | -0.320 | the                | the queenly nymph Calypso, / shining among goddesses, held back
+ 15 |   55.100 |   55.320 | +0.220 | in                 | in her hollow caves, / hungry to make him her husband.
+ 16 |   58.650 |   58.560 | -0.090 | But                | But when the year came, / in the wheeling round of seasons,
+ 17 |   61.850 |   61.880 | +0.030 | in                 | in which the gods had spun the thread / of his return home to Ithaca —
+ 18 |   65.500 |   65.540 | +0.040 | not                | not even there was he free of trials, / even among his own.
+ 19 |   69.700 |   69.260 | -0.440 | and                | And the gods pitied him, all but Poseidon: / he raged without rest
+ 20 |   74.800 |   73.840 | -0.960 | against            | against godlike Odysseus, / until the day he reached his own land.
+ 21 |   79.800 |   77.420 | -2.380 | But                | But now Poseidon was gone / among the far-off Ethiopians —
+ 22 |   82.700 |   81.660 | -1.040 | The                | the Ethiopians, sundered in two, / remotest of mankind,
+ 23 |   87.000 |   85.960 | -1.040 | half               | half where Hyperion sets / and half where he rises —
+ 24 |   89.450 |   88.940 | -0.510 | to                 | to receive a hecatomb of bulls and rams, / and there he sat at the feast, delighting.
+ 25 |   94.200 |   94.220 | +0.020 | but                | But the other gods were gathered together / in the halls of Olympian Zeus,

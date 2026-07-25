@@ -1,0 +1,457 @@
+﻿[Script Info]
+Title: ODYSSEY — BOOK X — Living Manuscript Edition
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Title,Georgia,74,&H006AB3D7,&H006AB3D7,&HCC130D08,&H80000000,0,0,0,0,100,100,7,0,1,3,2,5,120,120,0,1
+Style: Deck,Georgia,35,&H00C7DDE8,&H00C7DDE8,&HCC130D08,&H80000000,0,1,0,0,100,100,1,0,1,2.5,1,5,210,210,0,1
+Style: Header,Georgia,23,&H005594B8,&H005594B8,&H80130D08,&H00000000,0,0,0,0,100,100,3,0,1,1.5,0,8,80,80,54,1
+Style: Narration,Georgia,49,&H00D8E7EE,&H00D8E7EE,&HE0130D08,&H70000000,0,0,0,0,100,100,0.4,0,1,3,1,2,170,170,185,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.12,Title,,0,0,0,,{\pos(960,445)\fad(600,500)\bord3\blur0.5}ODYSSEY — BOOK X
+Dialogue: 0,0:00:00.00,0:00:07.12,Deck,,0,0,0,,{\pos(960,565)\fad(600,500)}Aeolus and the bag of winds;\Nthe Laestrygonians; a year with Circe.
+Dialogue: 0,0:00:07.12,0:30:25.87,Header,,0,0,0,,{\fad(800,500)}HOMER’S ODYSSEY  ·  BOOK X
+Dialogue: 1,0:00:07.12,0:00:13.96,Narration,,0,0,0,,{\fad(60,120)}We came next to the Aeolian island; and there lived\NAeolus, Hippotas' son, dear to the deathless gods,
+Dialogue: 1,0:00:13.96,0:00:19.82,Narration,,0,0,0,,{\fad(60,120)}on a floating island: all around it a wall of bronze,\Nunbreakable, and the cliff runs up sheer.
+Dialogue: 1,0:00:19.82,0:00:24.78,Narration,,0,0,0,,{\fad(60,120)}Twelve children of his live in his halls,\Nsix daughters and six sons in their prime,
+Dialogue: 1,0:00:24.78,0:00:28.26,Narration,,0,0,0,,{\fad(60,120)}and he has given his daughters\Nto his sons to be their wives.
+Dialogue: 1,0:00:28.26,0:00:30.90,Narration,,0,0,0,,{\fad(60,120)}They are always feasting beside their dear father
+Dialogue: 1,0:00:30.90,0:00:35.18,Narration,,0,0,0,,{\fad(60,120)}and their honored mother, and good\Nthings past counting are set before them;
+Dialogue: 1,0:00:35.18,0:00:39.76,Narration,,0,0,0,,{\fad(60,120)}all day the house is savory with roasting,\Nand the courtyard rings with the sound;
+Dialogue: 1,0:00:39.76,0:00:44.96,Narration,,0,0,0,,{\fad(60,120)}and at night they sleep beside their honored\Nwives among blankets, on corded bedsteads.
+Dialogue: 1,0:00:44.96,0:00:48.40,Narration,,0,0,0,,{\fad(60,120)}To their city, then, we came, and their beautiful house.
+Dialogue: 1,0:00:48.40,0:00:52.86,Narration,,0,0,0,,{\fad(60,120)}A full month he made much of me,\Nand questioned me on everything —
+Dialogue: 1,0:00:52.86,0:00:59.00,Narration,,0,0,0,,{\fad(60,120)}Ilium, the Argives' ships, the Achaeans' homecoming —\Nand I told him all of it through, in its due order.
+Dialogue: 1,0:00:59.00,0:01:01.74,Narration,,0,0,0,,{\fad(60,120)}And when I in my turn asked for the road, and begged him
+Dialogue: 1,0:01:01.74,0:01:05.64,Narration,,0,0,0,,{\fad(60,120)}to send me on, he refused me nothing:\Nhe prepared my sending.
+Dialogue: 1,0:01:05.64,0:01:09.22,Narration,,0,0,0,,{\fad(60,120)}He gave me a bag — the flayed hide of a nine-year ox —
+Dialogue: 1,0:01:09.22,0:01:11.96,Narration,,0,0,0,,{\fad(60,120)}and in it he bound the courses of the blustering winds:
+Dialogue: 1,0:01:11.96,0:01:17.54,Narration,,0,0,0,,{\fad(60,120)}for the son of Cronos made him steward of the winds,\Nto still them or to rouse them, whichever he will.
+Dialogue: 1,0:01:17.54,0:01:20.24,Narration,,0,0,0,,{\fad(60,120)}In my hollow ship he lashed it fast with a shining cord
+Dialogue: 1,0:01:20.24,0:01:24.08,Narration,,0,0,0,,{\fad(60,120)}of silver, so that not the\Nsmallest breath could slip past;
+Dialogue: 1,0:01:24.08,0:01:30.04,Narration,,0,0,0,,{\fad(60,120)}and for me he sent out the West Wind's breath to blow,\Nto carry the ships and the men. But it was not to be
+Dialogue: 1,0:01:30.04,0:01:33.34,Narration,,0,0,0,,{\fad(60,120)}accomplished: we were destroyed by our own folly.
+Dialogue: 1,0:01:33.34,0:01:38.90,Narration,,0,0,0,,{\fad(60,120)}Nine days and nights alike we sailed on, and on the\Ntenth our fathers' fields were rising into view —
+Dialogue: 1,0:01:38.90,0:01:41.98,Narration,,0,0,0,,{\fad(60,120)}so near, we could see men tending their fires.
+Dialogue: 1,0:01:41.98,0:01:45.36,Narration,,0,0,0,,{\fad(60,120)}Then sweet sleep came over me, worn out as I was:
+Dialogue: 1,0:01:45.36,0:01:48.62,Narration,,0,0,0,,{\fad(60,120)}all that time I had worked the\Nship's sheet myself, yielding it
+Dialogue: 1,0:01:48.62,0:01:51.78,Narration,,0,0,0,,{\fad(60,120)}to no other companion, to bring us home the faster.
+Dialogue: 1,0:01:51.78,0:01:57.44,Narration,,0,0,0,,{\fad(60,120)}And the companions began to talk to one another,\Nand said I was bringing home gold and silver for myself,
+Dialogue: 1,0:01:57.44,0:02:00.46,Narration,,0,0,0,,{\fad(60,120)}gifts of great-hearted Aeolus, Hippotas' son.
+Dialogue: 1,0:02:00.46,0:02:03.16,Narration,,0,0,0,,{\fad(60,120)}And thus would one of them say,\Nwith a glance at his neighbor:
+Dialogue: 1,0:02:03.16,0:02:09.12,Narration,,0,0,0,,{\fad(60,120)}'Look at him — how loved he is, how honored,\Namong all men, whatever city or land he comes to!
+Dialogue: 1,0:02:09.12,0:02:11.88,Narration,,0,0,0,,{\fad(60,120)}He carries out of Troy a mass of beautiful treasure,
+Dialogue: 1,0:02:11.88,0:02:17.76,Narration,,0,0,0,,{\fad(60,120)}his plunder — while we, who have accomplished\Nthe same long road, come home with empty hands.
+Dialogue: 1,0:02:17.76,0:02:20.76,Narration,,0,0,0,,{\fad(60,120)}And now Aeolus, obliging him in friendship, has given him
+Dialogue: 1,0:02:20.76,0:02:24.12,Narration,,0,0,0,,{\fad(60,120)}this besides. Quick, then — let us see what is in it:
+Dialogue: 1,0:02:24.12,0:02:27.26,Narration,,0,0,0,,{\fad(60,120)}how much gold, how much silver the bag holds.'
+Dialogue: 1,0:02:27.26,0:02:30.26,Narration,,0,0,0,,{\fad(60,120)}So they talked, and the companions' evil counsel won.
+Dialogue: 1,0:02:30.26,0:02:33.08,Narration,,0,0,0,,{\fad(60,120)}They opened the bag — and all the winds burst out,
+Dialogue: 1,0:02:33.08,0:02:35.90,Narration,,0,0,0,,{\fad(60,120)}and the storm snatched them up\Nat once and swept them seaward,
+Dialogue: 1,0:02:35.90,0:02:41.48,Narration,,0,0,0,,{\fad(60,120)}weeping, away from their fathers' land. And I,\Nwaking, debated in my own blameless heart
+Dialogue: 1,0:02:41.48,0:02:47.02,Narration,,0,0,0,,{\fad(60,120)}whether to drop from the deck and drown in the sea\Nor endure in silence and stay among the living.
+Dialogue: 1,0:02:47.02,0:02:49.88,Narration,,0,0,0,,{\fad(60,120)}I endured, and I stayed. Covering my head
+Dialogue: 1,0:02:49.88,0:02:54.70,Narration,,0,0,0,,{\fad(60,120)}I lay where I was; and the ships were\Ncarried by the evil blast of the storm
+Dialogue: 1,0:02:54.70,0:02:58.18,Narration,,0,0,0,,{\fad(60,120)}back to the Aeolian island; and my companions groaned.
+Dialogue: 1,0:02:58.18,0:03:01.70,Narration,,0,0,0,,{\fad(60,120)}There we set foot on the mainland and drew water,
+Dialogue: 1,0:03:01.70,0:03:05.48,Narration,,0,0,0,,{\fad(60,120)}and the companions quickly took\Ntheir meal beside the fast ships.
+Dialogue: 1,0:03:05.48,0:03:10.78,Narration,,0,0,0,,{\fad(60,120)}And when we had tasted food and drink,\Nthen I took with me a herald and one companion
+Dialogue: 1,0:03:10.78,0:03:16.80,Narration,,0,0,0,,{\fad(60,120)}and went to the famous house of Aeolus.\NI found him feasting beside his wife and his children.
+Dialogue: 1,0:03:16.80,0:03:20.12,Narration,,0,0,0,,{\fad(60,120)}We came into the house and sat down by the doorposts
+Dialogue: 1,0:03:20.12,0:03:24.14,Narration,,0,0,0,,{\fad(60,120)}on the threshold; and they were\Namazed at heart, and asked:
+Dialogue: 1,0:03:24.14,0:03:28.50,Narration,,0,0,0,,{\fad(60,120)}'How are you here, Odysseus? What evil power attacked you?
+Dialogue: 1,0:03:28.50,0:03:31.16,Narration,,0,0,0,,{\fad(60,120)}Surely we sent you off with all care, to reach
+Dialogue: 1,0:03:31.16,0:03:35.08,Narration,,0,0,0,,{\fad(60,120)}your fatherland and your house,\Nand whatever place is dear to you.'
+Dialogue: 1,0:03:35.08,0:03:39.20,Narration,,0,0,0,,{\fad(60,120)}So they spoke; and I, grieving at heart, addressed them:
+Dialogue: 1,0:03:39.20,0:03:45.88,Narration,,0,0,0,,{\fad(60,120)}'My evil companions ruined me — they, and a pitiless\Nsleep. But heal it, friends: the power is yours.'
+Dialogue: 1,0:03:45.88,0:03:51.62,Narration,,0,0,0,,{\fad(60,120)}So I spoke, plying them with soft words;\Nand they fell silent. And the father answered:
+Dialogue: 1,0:03:51.62,0:03:55.44,Narration,,0,0,0,,{\fad(60,120)}'Out of this island — fast — you vilest thing alive!
+Dialogue: 1,0:03:55.44,0:04:01.76,Narration,,0,0,0,,{\fad(60,120)}It is against all right for me to harbor or to\Nsend on his way a man the blessed gods detest.
+Dialogue: 1,0:04:01.76,0:04:05.22,Narration,,0,0,0,,{\fad(60,120)}Out! — since you come here hated by the deathless ones.'
+Dialogue: 1,0:04:05.22,0:04:09.62,Narration,,0,0,0,,{\fad(60,120)}So speaking he sent me from his house, groaning heavily.
+Dialogue: 1,0:04:09.62,0:04:12.64,Narration,,0,0,0,,{\fad(60,120)}From there we sailed on further, grieved at heart.
+Dialogue: 1,0:04:12.64,0:04:19.32,Narration,,0,0,0,,{\fad(60,120)}And the men's spirit was worn down by the grinding rowing —\Nour own fault: no sending wind showed any more.
+Dialogue: 1,0:04:19.32,0:04:25.38,Narration,,0,0,0,,{\fad(60,120)}Six days and nights alike we sailed on,\Nand on the seventh we came to Lamus' steep citadel —
+Dialogue: 1,0:04:25.38,0:04:28.88,Narration,,0,0,0,,{\fad(60,120)}Telepylus of the Laestrygonians,\Nwhere herdsman hails herdsman:
+Dialogue: 1,0:04:28.88,0:04:32.52,Narration,,0,0,0,,{\fad(60,120)}the one driving in calls, and the one driving out answers.
+Dialogue: 1,0:04:32.52,0:04:39.02,Narration,,0,0,0,,{\fad(60,120)}There a sleepless man could have earned a double wage,\None herding cattle, one pasturing silvery sheep:
+Dialogue: 1,0:04:39.02,0:04:42.22,Narration,,0,0,0,,{\fad(60,120)}so close together are the paths of night and day.
+Dialogue: 1,0:04:42.22,0:04:48.16,Narration,,0,0,0,,{\fad(60,120)}There, when we came into the famous harbor —\Na sheer cliff runs unbroken all around it, on both sides,
+Dialogue: 1,0:04:48.16,0:04:53.16,Narration,,0,0,0,,{\fad(60,120)}and jutting headlands, facing one another,\Nthrust out at the mouth, and the entrance is narrow —
+Dialogue: 1,0:04:53.16,0:04:55.66,Narration,,0,0,0,,{\fad(60,120)}there all the others steered their curved ships in,
+Dialogue: 1,0:04:55.66,0:04:58.42,Narration,,0,0,0,,{\fad(60,120)}and moored them inside the hollow harbor, close together:
+Dialogue: 1,0:04:58.42,0:05:03.46,Narration,,0,0,0,,{\fad(60,120)}for no wave ever swelled in there, great or\Nsmall, but a white calm lay all around it.
+Dialogue: 1,0:05:03.46,0:05:08.96,Narration,,0,0,0,,{\fad(60,120)}I alone held my black ship outside, there at\Nthe edge, and made the cables fast to the rock;
+Dialogue: 1,0:05:08.96,0:05:12.02,Narration,,0,0,0,,{\fad(60,120)}and I climbed a broken lookout-height and stood there.
+Dialogue: 1,0:05:12.02,0:05:17.42,Narration,,0,0,0,,{\fad(60,120)}No works of oxen or of men showed anywhere;\Nwe saw only smoke springing up from the land.
+Dialogue: 1,0:05:17.42,0:05:22.24,Narration,,0,0,0,,{\fad(60,120)}Then I sent companions ahead to learn what\Nmen they were who ate bread upon this earth:
+Dialogue: 1,0:05:22.24,0:05:25.54,Narration,,0,0,0,,{\fad(60,120)}two men I chose, and sent a third with them as herald.
+Dialogue: 1,0:05:25.54,0:05:28.48,Narration,,0,0,0,,{\fad(60,120)}They went ashore and took a\Nlevel road, by which the wagons
+Dialogue: 1,0:05:28.48,0:05:34.40,Narration,,0,0,0,,{\fad(60,120)}hauled timber down to the city from the high mountains,\Nand before the city they met a girl drawing water,
+Dialogue: 1,0:05:34.40,0:05:37.12,Narration,,0,0,0,,{\fad(60,120)}the sturdy daughter of Laestrygonian Antiphates.
+Dialogue: 1,0:05:37.12,0:05:42.10,Narration,,0,0,0,,{\fad(60,120)}She had come down to the fair-flowing spring Artacia,\Nfrom which they carried water to the town;
+Dialogue: 1,0:05:42.10,0:05:47.62,Narration,,0,0,0,,{\fad(60,120)}and they came up beside her and spoke to her,\Nand asked who was king of these people, and whom he ruled;
+Dialogue: 1,0:05:47.62,0:05:51.16,Narration,,0,0,0,,{\fad(60,120)}and she pointed them at once to\Nher father's high-roofed house.
+Dialogue: 1,0:05:51.16,0:05:53.96,Narration,,0,0,0,,{\fad(60,120)}But when they entered the famous\Nhouse, they found his wife
+Dialogue: 1,0:05:53.96,0:05:57.22,Narration,,0,0,0,,{\fad(60,120)}huge as a mountain peak —\Nand they were sick with horror at her.
+Dialogue: 1,0:05:57.22,0:06:00.54,Narration,,0,0,0,,{\fad(60,120)}She called famous Antiphates\Nstraightway from the gathering-place —
+Dialogue: 1,0:06:00.54,0:06:03.82,Narration,,0,0,0,,{\fad(60,120)}her husband — and he plotted their wretched destruction:
+Dialogue: 1,0:06:03.82,0:06:07.74,Narration,,0,0,0,,{\fad(60,120)}he snatched up one of my companions\Non the spot and made his meal of him,
+Dialogue: 1,0:06:07.74,0:06:11.00,Narration,,0,0,0,,{\fad(60,120)}and the other two sprang away\Nand came flying to the ships.
+Dialogue: 1,0:06:11.00,0:06:13.96,Narration,,0,0,0,,{\fad(60,120)}Then he raised the war-cry\Nthrough the city; and hearing it
+Dialogue: 1,0:06:13.96,0:06:17.00,Narration,,0,0,0,,{\fad(60,120)}the mighty Laestrygonians came thronging from every side,
+Dialogue: 1,0:06:17.00,0:06:20.58,Narration,,0,0,0,,{\fad(60,120)}thousands of them — not like men, but like the Giants.
+Dialogue: 1,0:06:20.58,0:06:26.36,Narration,,0,0,0,,{\fad(60,120)}From the cliffs they pelted us with man-heavy stones,\Nand at once an evil din rose up along the ships —
+Dialogue: 1,0:06:26.36,0:06:29.94,Narration,,0,0,0,,{\fad(60,120)}the scream of dying men, the crunch of shattering hulls.
+Dialogue: 1,0:06:29.94,0:06:33.32,Narration,,0,0,0,,{\fad(60,120)}Spearing them like fish,\Nthey carried home their loathsome meal.
+Dialogue: 1,0:06:33.32,0:06:38.44,Narration,,0,0,0,,{\fad(60,120)}While they were slaughtering those inside the deep\Nharbor, I drew the sharp sword from beside my thigh
+Dialogue: 1,0:06:38.44,0:06:43.76,Narration,,0,0,0,,{\fad(60,120)}and cut the cables of my dark-blue-prowed ship,\Nand quickly I roused my companions and ordered them
+Dialogue: 1,0:06:43.76,0:06:46.32,Narration,,0,0,0,,{\fad(60,120)}to fall to their oars and get us clear of the evil;
+Dialogue: 1,0:06:46.32,0:06:50.00,Narration,,0,0,0,,{\fad(60,120)}Gladly my ship fled out to open\Nwater, away from the beetling
+Dialogue: 1,0:06:50.00,0:06:53.54,Narration,,0,0,0,,{\fad(60,120)}cliffs; but the others were destroyed there, all together.
+Dialogue: 1,0:06:53.54,0:07:00.50,Narration,,0,0,0,,{\fad(60,120)}From there we sailed on further, grieved at heart,\Nglad to be out of death, having lost our dear companions.
+Dialogue: 1,0:07:00.50,0:07:03.52,Narration,,0,0,0,,{\fad(60,120)}And we came to the island of Aeaea; and there lived
+Dialogue: 1,0:07:03.52,0:07:10.20,Narration,,0,0,0,,{\fad(60,120)}Circe of the lovely braids, dread goddess with a\Nmortal's voice, own sister of Aeetes the deadly-minded:
+Dialogue: 1,0:07:10.20,0:07:15.90,Narration,,0,0,0,,{\fad(60,120)}both born of Helios, who carries light to mortals,\Nand of Perse their mother, whom Ocean fathered.
+Dialogue: 1,0:07:15.90,0:07:18.46,Narration,,0,0,0,,{\fad(60,120)}There we brought the ship silently to the shore
+Dialogue: 1,0:07:18.46,0:07:21.88,Narration,,0,0,0,,{\fad(60,120)}and into a harbor fit for ships;\Nand some god was guiding us.
+Dialogue: 1,0:07:21.88,0:07:25.32,Narration,,0,0,0,,{\fad(60,120)}We stepped ashore there, and for two days and two nights
+Dialogue: 1,0:07:25.32,0:07:29.16,Narration,,0,0,0,,{\fad(60,120)}we lay, eating our hearts with\Nweariness and pain together.
+Dialogue: 1,0:07:29.16,0:07:34.84,Narration,,0,0,0,,{\fad(60,120)}But when Dawn of the lovely braids brought the third\Nday round, then I took my spear and my sharp sword
+Dialogue: 1,0:07:34.84,0:07:40.76,Narration,,0,0,0,,{\fad(60,120)}and went up quickly from the ship to a viewing-place,\Nin hope of seeing men's works, or catching a voice.
+Dialogue: 1,0:07:40.76,0:07:43.60,Narration,,0,0,0,,{\fad(60,120)}I climbed a broken lookout-height and stood there,
+Dialogue: 1,0:07:43.60,0:07:47.72,Narration,,0,0,0,,{\fad(60,120)}and smoke showed to my eyes,\Nrising from the wide-wayed earth
+Dialogue: 1,0:07:47.72,0:07:50.62,Narration,,0,0,0,,{\fad(60,120)}in Circe's halls, up through\Nthe dense brush and the timber.
+Dialogue: 1,0:07:50.62,0:07:53.04,Narration,,0,0,0,,{\fad(60,120)}And I debated then in my mind and in my heart
+Dialogue: 1,0:07:53.04,0:07:57.06,Narration,,0,0,0,,{\fad(60,120)}whether to go and look, since I\Nhad seen the fire-bright smoke.
+Dialogue: 1,0:07:57.06,0:08:00.14,Narration,,0,0,0,,{\fad(60,120)}And as I weighed it, this seemed to me the better way:
+Dialogue: 1,0:08:00.14,0:08:02.96,Narration,,0,0,0,,{\fad(60,120)}to go first to the fast ship and the shore of the sea,
+Dialogue: 1,0:08:02.96,0:08:06.26,Narration,,0,0,0,,{\fad(60,120)}give the companions their meal,\Nand send them out to learn.
+Dialogue: 1,0:08:06.26,0:08:12.20,Narration,,0,0,0,,{\fad(60,120)}But when, on my way down, I was near the curved ship,\Nthen some god took pity on me, alone as I was,
+Dialogue: 1,0:08:12.20,0:08:15.56,Narration,,0,0,0,,{\fad(60,120)}and sent a great high-antlered stag into my very path.
+Dialogue: 1,0:08:15.56,0:08:21.04,Narration,,0,0,0,,{\fad(60,120)}He was coming down to the river from his forest\Npasture to drink, for the sun's force was heavy on him;
+Dialogue: 1,0:08:21.04,0:08:24.40,Narration,,0,0,0,,{\fad(60,120)}and as he stepped out I struck him on the spine, mid-back:
+Dialogue: 1,0:08:24.40,0:08:30.24,Narration,,0,0,0,,{\fad(60,120)}the bronze spear went clean through, and down he dropped\Nin the dust with a cry, and the life flew from him.
+Dialogue: 1,0:08:30.24,0:08:35.18,Narration,,0,0,0,,{\fad(60,120)}I set my foot on him and drew the bronze spear out\Nof the wound, and laid it down there on the ground
+Dialogue: 1,0:08:35.18,0:08:40.54,Narration,,0,0,0,,{\fad(60,120)}and left it; then I pulled brushwood and withies\Nand plaited a rope, a fathom's length, well-twisted
+Dialogue: 1,0:08:40.54,0:08:44.00,Narration,,0,0,0,,{\fad(60,120)}all along, and bound together the feet of the huge beast,
+Dialogue: 1,0:08:44.00,0:08:47.96,Narration,,0,0,0,,{\fad(60,120)}and went down to the black ship\Ncarrying him slung across my neck,
+Dialogue: 1,0:08:47.96,0:08:54.08,Narration,,0,0,0,,{\fad(60,120)}leaning on my spear: there was no carrying him on the\Nshoulder with one hand — he was a very great beast.
+Dialogue: 1,0:08:54.08,0:09:00.80,Narration,,0,0,0,,{\fad(60,120)}I flung him down before the ship, and woke my companions\Nwith gentle words, standing by each man in turn:
+Dialogue: 1,0:09:00.80,0:09:05.90,Narration,,0,0,0,,{\fad(60,120)}'Friends — for all our grief, we will not go down\Nto the house of Hades before our destined day.
+Dialogue: 1,0:09:05.90,0:09:09.00,Narration,,0,0,0,,{\fad(60,120)}Come then, while there is food and drink in the fast ship,
+Dialogue: 1,0:09:09.00,0:09:12.28,Narration,,0,0,0,,{\fad(60,120)}let us think of eating, and not be worn away with hunger.'
+Dialogue: 1,0:09:12.28,0:09:15.20,Narration,,0,0,0,,{\fad(60,120)}So I spoke, and they quickly heeded my words:
+Dialogue: 1,0:09:15.20,0:09:18.16,Narration,,0,0,0,,{\fad(60,120)}they uncovered their heads there\Nby the shore of the barren sea
+Dialogue: 1,0:09:18.16,0:09:21.12,Narration,,0,0,0,,{\fad(60,120)}and marveled at the stag: he was a very great beast.
+Dialogue: 1,0:09:21.12,0:09:26.48,Narration,,0,0,0,,{\fad(60,120)}And when they had had their joy of gazing,\Nthey washed their hands and made the glorious feast ready.
+Dialogue: 1,0:09:26.48,0:09:32.56,Narration,,0,0,0,,{\fad(60,120)}So then all day long till the setting of the sun we\Nsat feasting on meat past counting and sweet wine;
+Dialogue: 1,0:09:32.56,0:09:38.68,Narration,,0,0,0,,{\fad(60,120)}and when the sun went down and the dusk came on,\Nthen we lay down to sleep on the surf-line of the sea.
+Dialogue: 1,0:09:38.68,0:09:42.28,Narration,,0,0,0,,{\fad(60,120)}When Dawn appeared, the early-born, with fingers of rose,
+Dialogue: 1,0:09:42.28,0:09:45.38,Narration,,0,0,0,,{\fad(60,120)}then I called an assembly, and spoke among them all:
+Dialogue: 1,0:09:45.38,0:09:48.56,Narration,,0,0,0,,{\fad(60,120)}'Hear my words, companions, for all your suffering.
+Dialogue: 1,0:09:48.56,0:09:52.16,Narration,,0,0,0,,{\fad(60,120)}Friends — we do not know where\Nthe dark is, or where the dawn,
+Dialogue: 1,0:09:52.16,0:09:55.42,Narration,,0,0,0,,{\fad(60,120)}or where the sun that carries light\Nto mortals goes under the earth,
+Dialogue: 1,0:09:55.42,0:10:02.38,Narration,,0,0,0,,{\fad(60,120)}or where he rises. Let us think, then — quickly —\Nwhether any device is left us. I do not believe there is.
+Dialogue: 1,0:10:02.38,0:10:07.56,Narration,,0,0,0,,{\fad(60,120)}I climbed a broken lookout-height and saw an island,\Nwreathed round with the boundless sea;
+Dialogue: 1,0:10:07.56,0:10:10.94,Narration,,0,0,0,,{\fad(60,120)}the island itself lies low,\Nand in the middle of it my eyes
+Dialogue: 1,0:10:10.94,0:10:14.04,Narration,,0,0,0,,{\fad(60,120)}caught smoke, up through the dense brush and the timber.'
+Dialogue: 1,0:10:14.04,0:10:19.98,Narration,,0,0,0,,{\fad(60,120)}So I spoke, and their own hearts broke within them,\Nremembering the deeds of Laestrygonian Antiphates
+Dialogue: 1,0:10:19.98,0:10:23.08,Narration,,0,0,0,,{\fad(60,120)}and the violence of the great-hearted man-eating Cyclops.
+Dialogue: 1,0:10:23.08,0:10:27.78,Narration,,0,0,0,,{\fad(60,120)}They wept aloud, letting the big tears fall —\Nbut nothing came of all their mourning.
+Dialogue: 1,0:10:27.78,0:10:34.08,Narration,,0,0,0,,{\fad(60,120)}Then I counted off all my strong-greaved companions\Ninto two bands, and gave each band a leader:
+Dialogue: 1,0:10:34.08,0:10:37.70,Narration,,0,0,0,,{\fad(60,120)}I led the one, and godlike Eurylochus the other.
+Dialogue: 1,0:10:37.70,0:10:43.36,Narration,,0,0,0,,{\fad(60,120)}We shook the lots quickly in a bronze helmet,\Nand out jumped the lot of great-hearted Eurylochus.
+Dialogue: 1,0:10:43.36,0:10:49.96,Narration,,0,0,0,,{\fad(60,120)}So he set out, and with him two-and-twenty companions,\Nweeping — and they left us behind in tears as well.
+Dialogue: 1,0:10:49.96,0:10:52.96,Narration,,0,0,0,,{\fad(60,120)}In a forest glen they found the house of Circe, built
+Dialogue: 1,0:10:52.96,0:10:59.42,Narration,,0,0,0,,{\fad(60,120)}of polished stones, in a place with a clear view all around;\Nand around it were mountain wolves and lions —
+Dialogue: 1,0:10:59.42,0:11:03.20,Narration,,0,0,0,,{\fad(60,120)}creatures she herself had bewitched,\Ngiving them evil drugs.
+Dialogue: 1,0:11:03.20,0:11:05.72,Narration,,0,0,0,,{\fad(60,120)}And these did not spring at the men, no:
+Dialogue: 1,0:11:05.72,0:11:09.20,Narration,,0,0,0,,{\fad(60,120)}they rose and fawned around them, waving their long tails.
+Dialogue: 1,0:11:09.20,0:11:12.32,Narration,,0,0,0,,{\fad(60,120)}As when dogs fawn around their\Nmaster coming from a feast —
+Dialogue: 1,0:11:12.32,0:11:17.84,Narration,,0,0,0,,{\fad(60,120)}for he always carries home some sweet morsel for them —\Nso the strong-clawed wolves and the lions fawned
+Dialogue: 1,0:11:17.84,0:11:22.64,Narration,,0,0,0,,{\fad(60,120)}around them; and they were terrified at\Nthe sight of the dread huge creatures.
+Dialogue: 1,0:11:22.64,0:11:25.74,Narration,,0,0,0,,{\fad(60,120)}They stood in the gateway of\Nthe goddess of the lovely hair,
+Dialogue: 1,0:11:25.74,0:11:29.16,Narration,,0,0,0,,{\fad(60,120)}and inside they heard Circe singing in a beautiful voice,
+Dialogue: 1,0:11:29.16,0:11:32.48,Narration,,0,0,0,,{\fad(60,120)}moving to and fro at her great\Nimperishable loom — the weaving
+Dialogue: 1,0:11:32.48,0:11:36.92,Narration,,0,0,0,,{\fad(60,120)}goddesses do: fine-spun work, graceful and shining.
+Dialogue: 1,0:11:36.92,0:11:40.40,Narration,,0,0,0,,{\fad(60,120)}And Polites began to speak among them — a leader of men,
+Dialogue: 1,0:11:40.40,0:11:44.62,Narration,,0,0,0,,{\fad(60,120)}who of all my companions was closest and dearest to me:
+Dialogue: 1,0:11:44.62,0:11:46.78,Narration,,0,0,0,,{\fad(60,120)}'Friends — someone inside there, moving at a great loom,
+Dialogue: 1,0:11:46.78,0:11:53.94,Narration,,0,0,0,,{\fad(60,120)}is singing, beautifully — the whole floor hums with it —\Ngoddess or woman. Quick, let us call out to her.'
+Dialogue: 1,0:11:53.94,0:11:56.78,Narration,,0,0,0,,{\fad(60,120)}So he spoke, and they lifted their voices and called.
+Dialogue: 1,0:11:56.78,0:11:59.66,Narration,,0,0,0,,{\fad(60,120)}And she came out at once, and opened the shining doors,
+Dialogue: 1,0:11:59.66,0:12:02.98,Narration,,0,0,0,,{\fad(60,120)}and invited them in; and all together, in their innocence,
+Dialogue: 1,0:12:02.98,0:12:07.90,Narration,,0,0,0,,{\fad(60,120)}they followed her. Only Eurylochus\Nstayed behind, suspecting a snare.
+Dialogue: 1,0:12:07.90,0:12:10.80,Narration,,0,0,0,,{\fad(60,120)}She led them in and seated them on benches and chairs,
+Dialogue: 1,0:12:10.80,0:12:14.14,Narration,,0,0,0,,{\fad(60,120)}and stirred them a mixture:\Ncheese and barley meal and pale honey
+Dialogue: 1,0:12:14.14,0:12:17.12,Narration,,0,0,0,,{\fad(60,120)}in Pramnian wine. And into the dish she blended
+Dialogue: 1,0:12:17.12,0:12:21.20,Narration,,0,0,0,,{\fad(60,120)}baleful drugs, to make them\Nwholly forget their fathers' land.
+Dialogue: 1,0:12:21.20,0:12:24.58,Narration,,0,0,0,,{\fad(60,120)}And when she had served it and\Nthey had drunk it down, at once
+Dialogue: 1,0:12:24.58,0:12:28.14,Narration,,0,0,0,,{\fad(60,120)}she struck them with her wand\Nand penned them in the pigsties.
+Dialogue: 1,0:12:28.14,0:12:31.28,Narration,,0,0,0,,{\fad(60,120)}And they had the heads of pigs — the voice, the bristles,
+Dialogue: 1,0:12:31.28,0:12:35.32,Narration,,0,0,0,,{\fad(60,120)}the body — but their minds\Nstayed steady, exactly as before.
+Dialogue: 1,0:12:35.32,0:12:40.88,Narration,,0,0,0,,{\fad(60,120)}So they were penned there weeping; and Circe threw\Nthem acorns of oak and ilex, and cornel berries,
+Dialogue: 1,0:12:40.88,0:12:43.74,Narration,,0,0,0,,{\fad(60,120)}the things pigs eat, the wallowers on the ground.
+Dialogue: 1,0:12:43.74,0:12:47.46,Narration,,0,0,0,,{\fad(60,120)}But Eurylochus came running back to the fast black ship
+Dialogue: 1,0:12:47.46,0:12:50.98,Narration,,0,0,0,,{\fad(60,120)}to bring the news of the companions and their bitter fate.
+Dialogue: 1,0:12:50.98,0:12:55.18,Narration,,0,0,0,,{\fad(60,120)}And he could not get one word out, for all his straining —
+Dialogue: 1,0:12:55.18,0:13:02.02,Narration,,0,0,0,,{\fad(60,120)}struck to the heart with his great anguish; his eyes\Nbrimmed full of tears, and his spirit was all lament.
+Dialogue: 1,0:13:02.02,0:13:05.30,Narration,,0,0,0,,{\fad(60,120)}But when we questioned him, all of us, in our amazement,
+Dialogue: 1,0:13:05.30,0:13:08.56,Narration,,0,0,0,,{\fad(60,120)}at last he told the destruction of the other companions:
+Dialogue: 1,0:13:08.56,0:13:12.80,Narration,,0,0,0,,{\fad(60,120)}'We went up through the brush,\Nas you commanded, glorious Odysseus,
+Dialogue: 1,0:13:12.80,0:13:15.92,Narration,,0,0,0,,{\fad(60,120)}and in a forest glen we found a beautiful house, built
+Dialogue: 1,0:13:15.92,0:13:20.10,Narration,,0,0,0,,{\fad(60,120)}of polished stones, in a place\Nwith a clear view all around.
+Dialogue: 1,0:13:20.10,0:13:24.46,Narration,,0,0,0,,{\fad(60,120)}And there someone at a great loom\Nwas singing, clear and high —
+Dialogue: 1,0:13:24.46,0:13:28.12,Narration,,0,0,0,,{\fad(60,120)}goddess or woman. And they lifted their voices and called.
+Dialogue: 1,0:13:28.12,0:13:30.90,Narration,,0,0,0,,{\fad(60,120)}And she came out at once, and opened the shining doors,
+Dialogue: 1,0:13:30.90,0:13:33.96,Narration,,0,0,0,,{\fad(60,120)}and invited them in; and all together, in their innocence,
+Dialogue: 1,0:13:33.96,0:13:38.70,Narration,,0,0,0,,{\fad(60,120)}they followed her. But I stayed\Nbehind, suspecting a snare.
+Dialogue: 1,0:13:38.70,0:13:41.72,Narration,,0,0,0,,{\fad(60,120)}And they vanished — all of them together. Not one of them
+Dialogue: 1,0:13:41.72,0:13:45.28,Narration,,0,0,0,,{\fad(60,120)}appeared again, though I sat a long time watching.'
+Dialogue: 1,0:13:45.28,0:13:48.30,Narration,,0,0,0,,{\fad(60,120)}So he spoke; and I slung my silver-studded sword
+Dialogue: 1,0:13:48.30,0:13:52.34,Narration,,0,0,0,,{\fad(60,120)}about my shoulders — the great\Nbronze one — and my bow with it,
+Dialogue: 1,0:13:52.34,0:13:55.08,Narration,,0,0,0,,{\fad(60,120)}and ordered him to lead me back by the same way.
+Dialogue: 1,0:13:55.08,0:14:01.50,Narration,,0,0,0,,{\fad(60,120)}But he seized me with both hands, clasping my knees,\Nand wailing he spoke winged words to me:
+Dialogue: 1,0:14:01.50,0:14:06.46,Narration,,0,0,0,,{\fad(60,120)}'Do not take me back there — Zeus-nurtured —\Nagainst my will. Leave me here.
+Dialogue: 1,0:14:06.46,0:14:09.54,Narration,,0,0,0,,{\fad(60,120)}For I know it: you will not come\Nback yourself, and you will not bring
+Dialogue: 1,0:14:09.54,0:14:15.66,Narration,,0,0,0,,{\fad(60,120)}one of your companions. No — with these men here,\Nquickly, let us run: we may still escape the evil day.'
+Dialogue: 1,0:14:15.66,0:14:18.70,Narration,,0,0,0,,{\fad(60,120)}So he spoke, and I answered him and said:
+Dialogue: 1,0:14:18.70,0:14:22.70,Narration,,0,0,0,,{\fad(60,120)}'Eurylochus — stay here, then, where you are,\Neating and drinking beside the hollow black ship.
+Dialogue: 1,0:14:22.70,0:14:25.98,Narration,,0,0,0,,{\fad(60,120)}But I am going. Hard necessity is on me.'
+Dialogue: 1,0:14:25.98,0:14:28.58,Narration,,0,0,0,,{\fad(60,120)}So speaking I went up from the ship and the sea.
+Dialogue: 1,0:14:28.58,0:14:34.54,Narration,,0,0,0,,{\fad(60,120)}But just as, threading the sacred glens, I was about\Nto reach the great house of Circe of the many drugs,
+Dialogue: 1,0:14:34.54,0:14:39.72,Narration,,0,0,0,,{\fad(60,120)}there Hermes of the golden rod met me as I came\Ntoward the house — in the likeness of a young man
+Dialogue: 1,0:14:39.72,0:14:43.48,Narration,,0,0,0,,{\fad(60,120)}with his first down on his lip,\Nin the loveliest season of youth.
+Dialogue: 1,0:14:43.48,0:14:47.06,Narration,,0,0,0,,{\fad(60,120)}He clamped a hand on mine, and spoke a word, and named me:
+Dialogue: 1,0:14:47.06,0:14:50.60,Narration,,0,0,0,,{\fad(60,120)}'Where now, poor doomed man, alone along the heights,
+Dialogue: 1,0:14:50.60,0:14:53.94,Narration,,0,0,0,,{\fad(60,120)}a stranger to the country?\NYour companions there in Circe's house
+Dialogue: 1,0:14:53.94,0:14:57.34,Narration,,0,0,0,,{\fad(60,120)}are penned like pigs, packed in their hidden sties.
+Dialogue: 1,0:14:57.34,0:15:00.94,Narration,,0,0,0,,{\fad(60,120)}Is it to free them you are going?\NYou will not come back yourself,
+Dialogue: 1,0:15:00.94,0:15:04.52,Narration,,0,0,0,,{\fad(60,120)}I tell you: you will only stay there with the others.
+Dialogue: 1,0:15:04.52,0:15:07.74,Narration,,0,0,0,,{\fad(60,120)}But come — I will release you\Nfrom the evil, I will save you.
+Dialogue: 1,0:15:07.74,0:15:13.50,Narration,,0,0,0,,{\fad(60,120)}Here. Take this good drug with you into Circe's house —\Nit will keep the evil day away from your head.
+Dialogue: 1,0:15:13.50,0:15:16.30,Narration,,0,0,0,,{\fad(60,120)}And I will tell you all the deadly designs of Circe.
+Dialogue: 1,0:15:16.30,0:15:19.68,Narration,,0,0,0,,{\fad(60,120)}She will mix you a potion, and cast drugs into the dish;
+Dialogue: 1,0:15:19.68,0:15:23.06,Narration,,0,0,0,,{\fad(60,120)}but even so she will not have\Npower to bewitch you: the good drug
+Dialogue: 1,0:15:23.06,0:15:26.34,Narration,,0,0,0,,{\fad(60,120)}I give you will not let her.\NAnd I will tell you everything.
+Dialogue: 1,0:15:26.34,0:15:32.18,Narration,,0,0,0,,{\fad(60,120)}The moment Circe strikes at you with her long wand,\Nthat instant draw the sharp sword from beside your thigh
+Dialogue: 1,0:15:32.18,0:15:34.82,Narration,,0,0,0,,{\fad(60,120)}and go for Circe as though you meant to kill her.
+Dialogue: 1,0:15:34.82,0:15:38.54,Narration,,0,0,0,,{\fad(60,120)}She will be seized with terror, and invite you to her bed.
+Dialogue: 1,0:15:38.54,0:15:44.46,Narration,,0,0,0,,{\fad(60,120)}Do not, then, refuse the bed of the goddess —\Nif you want her to free your companions and host you well —
+Dialogue: 1,0:15:44.46,0:15:47.36,Narration,,0,0,0,,{\fad(60,120)}but order her to swear the great oath of the blessed ones
+Dialogue: 1,0:15:47.36,0:15:50.30,Narration,,0,0,0,,{\fad(60,120)}that she is not planning some new evil against you:
+Dialogue: 1,0:15:50.30,0:15:54.78,Narration,,0,0,0,,{\fad(60,120)}lest she strip you naked and make\Nyou a coward, an unmanned thing.'
+Dialogue: 1,0:15:54.78,0:16:00.70,Narration,,0,0,0,,{\fad(60,120)}So speaking, the slayer of Argus handed me the drug,\Npulling it out of the ground, and showed me its nature:
+Dialogue: 1,0:16:00.70,0:16:03.74,Narration,,0,0,0,,{\fad(60,120)}at the root it was black, but its flower like milk.
+Dialogue: 1,0:16:03.74,0:16:09.66,Narration,,0,0,0,,{\fad(60,120)}The gods call it. And it is hard for mortal men to dig —\Nbut the gods have power to do all things.
+Dialogue: 1,0:16:09.66,0:16:15.22,Narration,,0,0,0,,{\fad(60,120)}Then Hermes went away over the wooded island toward\Nhigh Olympus; and I went on to the house of Circe,
+Dialogue: 1,0:16:15.22,0:16:17.96,Narration,,0,0,0,,{\fad(60,120)}and my heart ran dark with many things as I went.
+Dialogue: 1,0:16:17.96,0:16:21.18,Narration,,0,0,0,,{\fad(60,120)}I stopped at the doors of the goddess of the lovely hair,
+Dialogue: 1,0:16:21.18,0:16:25.04,Narration,,0,0,0,,{\fad(60,120)}and standing there I shouted;\Nand the goddess heard my voice.
+Dialogue: 1,0:16:25.04,0:16:28.46,Narration,,0,0,0,,{\fad(60,120)}And she came out at once, and opened the shining doors,
+Dialogue: 1,0:16:28.46,0:16:33.28,Narration,,0,0,0,,{\fad(60,120)}and invited me in; and I followed her, grieved at heart.
+Dialogue: 1,0:16:33.28,0:16:37.26,Narration,,0,0,0,,{\fad(60,120)}She led me in and seated me on a silver-studded chair,
+Dialogue: 1,0:16:37.26,0:16:40.68,Narration,,0,0,0,,{\fad(60,120)}beautiful, cunningly worked, with a footstool for my feet,
+Dialogue: 1,0:16:40.68,0:16:45.14,Narration,,0,0,0,,{\fad(60,120)}and made me a potion in a golden cup, for me to drink,
+Dialogue: 1,0:16:45.14,0:16:48.66,Narration,,0,0,0,,{\fad(60,120)}and slipped a drug in it, with evil purpose in her heart.
+Dialogue: 1,0:16:48.66,0:16:52.98,Narration,,0,0,0,,{\fad(60,120)}And when she served it and I drank\Nit off — and it did not bewitch me —
+Dialogue: 1,0:16:52.98,0:16:57.14,Narration,,0,0,0,,{\fad(60,120)}she struck me with her wand,\Nand spoke a word, and named me:
+Dialogue: 1,0:16:57.14,0:17:01.24,Narration,,0,0,0,,{\fad(60,120)}'Off to the sty now. Lie down\Nwith the rest of your companions.'
+Dialogue: 1,0:17:01.24,0:17:05.34,Narration,,0,0,0,,{\fad(60,120)}So she spoke; and I drew the\Nsharp sword from beside my thigh
+Dialogue: 1,0:17:05.34,0:17:08.60,Narration,,0,0,0,,{\fad(60,120)}and went for Circe as though I meant to kill her.
+Dialogue: 1,0:17:08.60,0:17:16.24,Narration,,0,0,0,,{\fad(60,120)}And she shrieked, and ran under the blade, and seized\Nmy knees, and wailing she spoke winged words to me:
+Dialogue: 1,0:17:16.24,0:17:20.82,Narration,,0,0,0,,{\fad(60,120)}'What man are you, and from where?\NWhere are your city and your parents?
+Dialogue: 1,0:17:20.82,0:17:24.86,Narration,,0,0,0,,{\fad(60,120)}Wonder holds me: you drank these\Ndrugs and were not bewitched —
+Dialogue: 1,0:17:24.86,0:17:27.94,Narration,,0,0,0,,{\fad(60,120)}and no other man, no, not one, has withstood these drugs
+Dialogue: 1,0:17:27.94,0:17:32.24,Narration,,0,0,0,,{\fad(60,120)}once he drank them, once they\Npassed the fence of his teeth.
+Dialogue: 1,0:17:32.24,0:17:35.46,Narration,,0,0,0,,{\fad(60,120)}The mind in your breast is proof against enchantment.
+Dialogue: 1,0:17:35.46,0:17:39.14,Narration,,0,0,0,,{\fad(60,120)}Surely you are Odysseus — the man of many turnings — whom
+Dialogue: 1,0:17:39.14,0:17:42.50,Narration,,0,0,0,,{\fad(60,120)}the golden-rodded slayer of\NArgus always told me would come,
+Dialogue: 1,0:17:42.50,0:17:45.74,Narration,,0,0,0,,{\fad(60,120)}on his way home from Troy in his fast black ship.
+Dialogue: 1,0:17:45.74,0:17:51.92,Narration,,0,0,0,,{\fad(60,120)}Come now — put your sword in its sheath, and let the\Ntwo of us mount my bed together, so that mingled there
+Dialogue: 1,0:17:51.92,0:17:55.68,Narration,,0,0,0,,{\fad(60,120)}in the bed of love, we may come to trust one another.'
+Dialogue: 1,0:17:55.68,0:17:59.30,Narration,,0,0,0,,{\fad(60,120)}So she spoke, and I answered her and said:
+Dialogue: 1,0:17:59.30,0:18:02.20,Narration,,0,0,0,,{\fad(60,120)}'Circe — how can you bid me be gentle with you?
+Dialogue: 1,0:18:02.20,0:18:08.34,Narration,,0,0,0,,{\fad(60,120)}You who turned my companions into pigs in your own halls,\Nand keep me here, and — scheming still — invite me
+Dialogue: 1,0:18:08.34,0:18:15.40,Narration,,0,0,0,,{\fad(60,120)}to your chamber, to climb into your bed, so that\Nstripped naked I may be made a coward, an unmanned thing.
+Dialogue: 1,0:18:15.40,0:18:20.90,Narration,,0,0,0,,{\fad(60,120)}I will not consent to climb into your bed unless you\Nbring yourself, goddess, to swear me the great oath
+Dialogue: 1,0:18:20.90,0:18:24.62,Narration,,0,0,0,,{\fad(60,120)}that you are not planning some new evil against me.'
+Dialogue: 1,0:18:24.62,0:18:28.52,Narration,,0,0,0,,{\fad(60,120)}So I spoke, and she swore it once, as I demanded.
+Dialogue: 1,0:18:28.52,0:18:35.52,Narration,,0,0,0,,{\fad(60,120)}And when she had sworn, and made an end of the oath,\Nthen I mounted the surpassingly beautiful bed of Circe.
+Dialogue: 1,0:18:35.52,0:18:41.60,Narration,,0,0,0,,{\fad(60,120)}Meanwhile four handmaids were busy through the halls —\Nthe serving-women who keep her house in order,
+Dialogue: 1,0:18:41.60,0:18:46.18,Narration,,0,0,0,,{\fad(60,120)}daughters of the springs and the groves and\Nthe sacred rivers that flow out to the sea.
+Dialogue: 1,0:18:46.18,0:18:51.86,Narration,,0,0,0,,{\fad(60,120)}One of them threw beautiful covers over the chairs,\Npurple above, with linen spread beneath;
+Dialogue: 1,0:18:51.86,0:18:56.86,Narration,,0,0,0,,{\fad(60,120)}another drew silver tables up before the\Nchairs and set out golden baskets on them;
+Dialogue: 1,0:18:56.86,0:19:02.54,Narration,,0,0,0,,{\fad(60,120)}the third mixed honey-hearted wine, sweet wine,\Nin a silver bowl, and set out golden cups;
+Dialogue: 1,0:19:02.54,0:19:08.84,Narration,,0,0,0,,{\fad(60,120)}and the fourth brought water and kindled a great\Nfire under a huge cauldron, and the water warmed.
+Dialogue: 1,0:19:08.84,0:19:15.42,Narration,,0,0,0,,{\fad(60,120)}And when the water boiled in the bright bronze,\Nshe set me in the tub and bathed me from the great cauldron,
+Dialogue: 1,0:19:15.42,0:19:19.18,Narration,,0,0,0,,{\fad(60,120)}tempering it to my liking,\Npouring it over my head and shoulders,
+Dialogue: 1,0:19:19.18,0:19:22.84,Narration,,0,0,0,,{\fad(60,120)}until she had taken the heart-wasting\Nweariness from my limbs.
+Dialogue: 1,0:19:22.84,0:19:26.22,Narration,,0,0,0,,{\fad(60,120)}And when she had bathed me and rubbed me richly with oil,
+Dialogue: 1,0:19:26.22,0:19:32.90,Narration,,0,0,0,,{\fad(60,120)}and thrown a beautiful cloak around me, and a tunic,\Nshe led me in and seated me on a silver-studded chair,
+Dialogue: 1,0:19:32.90,0:19:35.86,Narration,,0,0,0,,{\fad(60,120)}beautiful, cunningly worked, with a footstool for my feet;
+Dialogue: 1,0:19:35.86,0:19:38.92,Narration,,0,0,0,,{\fad(60,120)}and a handmaid brought water for my hands in a pitcher,
+Dialogue: 1,0:19:38.92,0:19:42.04,Narration,,0,0,0,,{\fad(60,120)}a beautiful golden one, and poured it over a silver basin
+Dialogue: 1,0:19:42.04,0:19:46.16,Narration,,0,0,0,,{\fad(60,120)}for me to wash, and drew up a polished table beside me.
+Dialogue: 1,0:19:46.16,0:19:49.30,Narration,,0,0,0,,{\fad(60,120)}The grave housekeeper brought bread and set it before me,
+Dialogue: 1,0:19:49.30,0:19:53.06,Narration,,0,0,0,,{\fad(60,120)}laying out delicacies in plenty,\Ngiving gladly of her store,
+Dialogue: 1,0:19:53.06,0:19:56.16,Narration,,0,0,0,,{\fad(60,120)}and pressed me to eat. But my heart was not in it:
+Dialogue: 1,0:19:56.16,0:20:00.00,Narration,,0,0,0,,{\fad(60,120)}I sat with my thoughts elsewhere,\Nand my spirit boded evil.
+Dialogue: 1,0:20:00.00,0:20:05.64,Narration,,0,0,0,,{\fad(60,120)}And when Circe saw me sitting there, not reaching\Nmy hands to the bread, gripped in a strong grief,
+Dialogue: 1,0:20:05.64,0:20:08.80,Narration,,0,0,0,,{\fad(60,120)}she came near, and spoke winged words to me:
+Dialogue: 1,0:20:08.80,0:20:12.62,Narration,,0,0,0,,{\fad(60,120)}'Why do you sit like this,\NOdysseus, like a man struck dumb,
+Dialogue: 1,0:20:12.62,0:20:15.94,Narration,,0,0,0,,{\fad(60,120)}eating your heart, and touching neither food nor drink?
+Dialogue: 1,0:20:15.94,0:20:21.90,Narration,,0,0,0,,{\fad(60,120)}Do you suspect some other snare? You have no cause\Nto fear: I have already sworn you the strong oath.'
+Dialogue: 1,0:20:21.90,0:20:25.18,Narration,,0,0,0,,{\fad(60,120)}So she spoke, and I answered her and said:
+Dialogue: 1,0:20:25.18,0:20:29.06,Narration,,0,0,0,,{\fad(60,120)}'Circe — what man with any decency in\Nhim could bear to taste of food and drink
+Dialogue: 1,0:20:29.06,0:20:33.06,Narration,,0,0,0,,{\fad(60,120)}before his companions were set free,\Nand he saw them with his eyes?
+Dialogue: 1,0:20:33.06,0:20:39.70,Narration,,0,0,0,,{\fad(60,120)}If you press me in good faith to eat and drink,\Nthen free them — let my eyes see my trusted companions.'
+Dialogue: 1,0:20:39.70,0:20:45.14,Narration,,0,0,0,,{\fad(60,120)}So I spoke, and Circe went out through the hall,\Nwand in hand, and opened the doors of the sty,
+Dialogue: 1,0:20:45.14,0:20:48.20,Narration,,0,0,0,,{\fad(60,120)}and drove them out —\Nin the shape of nine-year fattened hogs.
+Dialogue: 1,0:20:48.20,0:20:52.82,Narration,,0,0,0,,{\fad(60,120)}They stood there facing her; and she went\Namong them anointing each with another drug;
+Dialogue: 1,0:20:52.82,0:20:55.60,Narration,,0,0,0,,{\fad(60,120)}and the bristles the baleful drug had grown on them —
+Dialogue: 1,0:20:55.60,0:20:58.88,Narration,,0,0,0,,{\fad(60,120)}the drug the lady Circe gave them —\Ndropped from their limbs,
+Dialogue: 1,0:20:58.88,0:21:04.76,Narration,,0,0,0,,{\fad(60,120)}and they were men again — younger than they were before,\Nfar more beautiful, and taller to the eye.
+Dialogue: 1,0:21:04.76,0:21:10.78,Narration,,0,0,0,,{\fad(60,120)}They knew me; and each man clung to my hands;\Nand a passionate weeping came over us all, and the house
+Dialogue: 1,0:21:10.78,0:21:14.54,Narration,,0,0,0,,{\fad(60,120)}rang terribly around us; and the\Ngoddess herself was moved to pity.
+Dialogue: 1,0:21:14.54,0:21:19.68,Narration,,0,0,0,,{\fad(60,120)}She came close beside me and spoke,\Nshining among goddesses:
+Dialogue: 1,0:21:19.68,0:21:27.74,Narration,,0,0,0,,{\fad(60,120)}'Zeus-born son of Laertes, Odysseus of the many devices —\Ngo now to your fast ship and the shore of the sea.
+Dialogue: 1,0:21:27.74,0:21:34.76,Narration,,0,0,0,,{\fad(60,120)}First of all, haul the ship up onto dry land,\Nand stow your goods and all the tackle in the caves;
+Dialogue: 1,0:21:34.76,0:21:38.80,Narration,,0,0,0,,{\fad(60,120)}then come back yourself,\Nand bring your trusted companions.'
+Dialogue: 1,0:21:38.80,0:21:42.22,Narration,,0,0,0,,{\fad(60,120)}So she spoke, and my proud heart consented.
+Dialogue: 1,0:21:42.22,0:21:45.82,Narration,,0,0,0,,{\fad(60,120)}I went my way to the fast ship and the shore of the sea,
+Dialogue: 1,0:21:45.82,0:21:52.60,Narration,,0,0,0,,{\fad(60,120)}and there by the fast ship I found my trusted companions\Nin pitiful lamentation, letting the big tears fall.
+Dialogue: 1,0:21:52.60,0:21:58.58,Narration,,0,0,0,,{\fad(60,120)}As when farmyard calves around the herded cows that\Ncome back to the dung-yard, filled with grazing,
+Dialogue: 1,0:21:58.58,0:22:04.56,Narration,,0,0,0,,{\fad(60,120)}all skip and frisk to meet them — the pens no\Nlonger hold them, but lowing without pause they run
+Dialogue: 1,0:22:04.56,0:22:08.26,Narration,,0,0,0,,{\fad(60,120)}around their mothers: so those men,\Nwhen their eyes took me in,
+Dialogue: 1,0:22:08.26,0:22:10.98,Narration,,0,0,0,,{\fad(60,120)}poured around me weeping. And to their hearts it felt
+Dialogue: 1,0:22:10.98,0:22:17.30,Narration,,0,0,0,,{\fad(60,120)}as if they had come to their fatherland, to their very\Ntown in rugged Ithaca, where they were bred and born.
+Dialogue: 1,0:22:17.30,0:22:20.42,Narration,,0,0,0,,{\fad(60,120)}And wailing, they spoke winged words to me:
+Dialogue: 1,0:22:20.42,0:22:26.92,Narration,,0,0,0,,{\fad(60,120)}'At your return, Zeus-nurtured, we rejoice as if\Nwe had come home to Ithaca, our fathers' land.
+Dialogue: 1,0:22:26.92,0:22:30.46,Narration,,0,0,0,,{\fad(60,120)}But come — tell the destruction of the other companions.'
+Dialogue: 1,0:22:30.46,0:22:33.96,Narration,,0,0,0,,{\fad(60,120)}So they spoke, and I answered with soft words:
+Dialogue: 1,0:22:33.96,0:22:39.70,Narration,,0,0,0,,{\fad(60,120)}'First of all, let us haul the ship up onto dry land,\Nand stow our goods and all the tackle in the caves;
+Dialogue: 1,0:22:39.70,0:22:43.04,Narration,,0,0,0,,{\fad(60,120)}then bestir yourselves, all of you, and come with me,
+Dialogue: 1,0:22:43.04,0:22:46.40,Narration,,0,0,0,,{\fad(60,120)}so you may see our companions\Nin the sacred halls of Circe,
+Dialogue: 1,0:22:46.40,0:22:49.42,Narration,,0,0,0,,{\fad(60,120)}eating and drinking: what they have never fails.'
+Dialogue: 1,0:22:49.42,0:22:52.06,Narration,,0,0,0,,{\fad(60,120)}So I spoke, and they quickly heeded my words.
+Dialogue: 1,0:22:52.06,0:22:58.40,Narration,,0,0,0,,{\fad(60,120)}Only Eurylochus tried to hold back all my companions,\Nand lifting his voice he spoke winged words to them:
+Dialogue: 1,0:22:58.40,0:23:02.74,Narration,,0,0,0,,{\fad(60,120)}'Poor fools — where are we going?\NWhy do you hanker after these evils —
+Dialogue: 1,0:23:02.74,0:23:08.02,Narration,,0,0,0,,{\fad(60,120)}to go down into Circe's hall, who will turn\Nevery one of us into pigs or wolves or lions
+Dialogue: 1,0:23:08.02,0:23:11.24,Narration,,0,0,0,,{\fad(60,120)}to guard her great house for her — and guard it we must —
+Dialogue: 1,0:23:11.24,0:23:13.80,Narration,,0,0,0,,{\fad(60,120)}the way the Cyclops did his work, when our companions
+Dialogue: 1,0:23:13.80,0:23:17.44,Narration,,0,0,0,,{\fad(60,120)}came to his inner yard,\Nand the reckless Odysseus with them:
+Dialogue: 1,0:23:17.44,0:23:20.24,Narration,,0,0,0,,{\fad(60,120)}it was that man's blind folly killed them too.'
+Dialogue: 1,0:23:20.24,0:23:23.32,Narration,,0,0,0,,{\fad(60,120)}So he spoke; and I turned it over in my mind —
+Dialogue: 1,0:23:23.32,0:23:26.72,Narration,,0,0,0,,{\fad(60,120)}whether to draw the long-edged\Nsword from beside my thick thigh,
+Dialogue: 1,0:23:26.72,0:23:29.38,Narration,,0,0,0,,{\fad(60,120)}strike off his head and bring it down in the dust,
+Dialogue: 1,0:23:29.38,0:23:33.36,Narration,,0,0,0,,{\fad(60,120)}kinsman by marriage though he was,\Nand a close one. But my companions
+Dialogue: 1,0:23:33.36,0:23:37.04,Narration,,0,0,0,,{\fad(60,120)}held me back with honeyed words, this one and that one:
+Dialogue: 1,0:23:37.04,0:23:42.68,Narration,,0,0,0,,{\fad(60,120)}'Zeus-born — this man, if you command it, we will\Nleave here by the ship, to stay and guard the ship;
+Dialogue: 1,0:23:42.68,0:23:45.64,Narration,,0,0,0,,{\fad(60,120)}lead the rest of us to the sacred house of Circe.'
+Dialogue: 1,0:23:45.64,0:23:51.42,Narration,,0,0,0,,{\fad(60,120)}So speaking they went up from the ship and the sea;\Nand Eurylochus was not left behind by the hollow ship —
+Dialogue: 1,0:23:51.42,0:23:52.40,Narration,,0,0,0,,{\fad(60,120)}he followed.
+Dialogue: 1,0:23:52.40,0:23:56.74,Narration,,0,0,0,,{\fad(60,120)}Meanwhile, in her house,\NCirce had bathed the other companions
+Dialogue: 1,0:23:56.74,0:24:03.08,Narration,,0,0,0,,{\fad(60,120)}with kind care, and rubbed them richly with oil,\Nand thrown about them fleecy cloaks and tunics,
+Dialogue: 1,0:24:03.08,0:24:06.02,Narration,,0,0,0,,{\fad(60,120)}and we found them all feasting well in the halls.
+Dialogue: 1,0:24:06.02,0:24:09.54,Narration,,0,0,0,,{\fad(60,120)}And when the men saw one another,\Nface to face, and knew each other,
+Dialogue: 1,0:24:09.54,0:24:13.06,Narration,,0,0,0,,{\fad(60,120)}they wept and lamented, and the house rang round them.
+Dialogue: 1,0:24:13.06,0:24:17.48,Narration,,0,0,0,,{\fad(60,120)}And she came close beside me and\Nspoke, shining among goddesses:
+Dialogue: 1,0:24:17.48,0:24:23.96,Narration,,0,0,0,,{\fad(60,120)}'No more of this swelling lament now. I know it myself —\Nall you have suffered on the fish-filled sea,
+Dialogue: 1,0:24:23.96,0:24:26.94,Narration,,0,0,0,,{\fad(60,120)}all the harm lawless men have done you on dry land.
+Dialogue: 1,0:24:26.94,0:24:32.32,Narration,,0,0,0,,{\fad(60,120)}Come now: eat your food, and drink your wine,\Nuntil you gather back the spirit in your breasts
+Dialogue: 1,0:24:32.32,0:24:39.10,Narration,,0,0,0,,{\fad(60,120)}that was yours when you first left your fathers' land\Nof rugged Ithaca. Now you are withered, spiritless,
+Dialogue: 1,0:24:39.10,0:24:41.76,Narration,,0,0,0,,{\fad(60,120)}forever brooding on the misery\Nof your wandering — your hearts
+Dialogue: 1,0:24:41.76,0:24:45.32,Narration,,0,0,0,,{\fad(60,120)}never in the feast, for truly you have suffered much.'
+Dialogue: 1,0:24:45.32,0:24:47.92,Narration,,0,0,0,,{\fad(60,120)}So she spoke, and our proud hearts consented.
+Dialogue: 1,0:24:47.92,0:24:54.70,Narration,,0,0,0,,{\fad(60,120)}So there, day after day, for the full round of a year,\Nwe sat feasting on meat past counting and sweet wine.
+Dialogue: 1,0:24:54.70,0:24:57.84,Narration,,0,0,0,,{\fad(60,120)}But when the year was out,\Nand the seasons turned in their wheel,
+Dialogue: 1,0:24:57.84,0:25:03.36,Narration,,0,0,0,,{\fad(60,120)}as the months waned and the long days came round,\Nthen my trusted companions called me out, and said:
+Dialogue: 1,0:25:03.36,0:25:06.82,Narration,,0,0,0,,{\fad(60,120)}'You are possessed! It is time\Nto remember your fatherland —
+Dialogue: 1,0:25:06.82,0:25:12.30,Narration,,0,0,0,,{\fad(60,120)}if it is truly decreed that you be saved, and come\Nto your high-roofed house and your own fatherland.'
+Dialogue: 1,0:25:12.30,0:25:14.96,Narration,,0,0,0,,{\fad(60,120)}So they spoke, and my proud heart consented.
+Dialogue: 1,0:25:14.96,0:25:20.76,Narration,,0,0,0,,{\fad(60,120)}So then all day long till the setting of the sun we\Nsat feasting on meat past counting and sweet wine;
+Dialogue: 1,0:25:20.76,0:25:26.12,Narration,,0,0,0,,{\fad(60,120)}and when the sun went down and the dusk came on,\Nthe men lay down to sleep through the shadowy halls,
+Dialogue: 1,0:25:26.12,0:25:29.18,Narration,,0,0,0,,{\fad(60,120)}but I climbed into the surpassingly beautiful bed of Circe
+Dialogue: 1,0:25:29.18,0:25:34.02,Narration,,0,0,0,,{\fad(60,120)}and clasped her knees in supplication;\Nand the goddess heard my voice.
+Dialogue: 1,0:25:34.02,0:25:37.74,Narration,,0,0,0,,{\fad(60,120)}And lifting my voice I spoke winged words to her:
+Dialogue: 1,0:25:37.74,0:25:43.22,Narration,,0,0,0,,{\fad(60,120)}'Circe — make good now the promise that you made me,\Nto send me home. My spirit strains for it already,
+Dialogue: 1,0:25:43.22,0:25:48.58,Narration,,0,0,0,,{\fad(60,120)}and my companions' too: they wear my heart away,\Nmourning around me whenever you are elsewhere.'
+Dialogue: 1,0:25:48.58,0:25:52.82,Narration,,0,0,0,,{\fad(60,120)}So I spoke, and she answered at once,\Nshining among goddesses:
+Dialogue: 1,0:25:52.82,0:25:56.08,Narration,,0,0,0,,{\fad(60,120)}'Zeus-born son of Laertes, Odysseus of the many devices:
+Dialogue: 1,0:25:56.08,0:25:59.24,Narration,,0,0,0,,{\fad(60,120)}stay no longer in my house against your will.
+Dialogue: 1,0:25:59.24,0:26:02.74,Narration,,0,0,0,,{\fad(60,120)}But there is another journey you must\Naccomplish first: you must go down
+Dialogue: 1,0:26:02.74,0:26:08.12,Narration,,0,0,0,,{\fad(60,120)}to the house of Hades and dread Persephone\Nto consult the ghost of Theban Tiresias,
+Dialogue: 1,0:26:08.12,0:26:10.92,Narration,,0,0,0,,{\fad(60,120)}the blind seer, whose mind stands fast:
+Dialogue: 1,0:26:10.92,0:26:14.02,Narration,,0,0,0,,{\fad(60,120)}to him, even dead, Persephone has granted understanding —
+Dialogue: 1,0:26:14.02,0:26:18.30,Narration,,0,0,0,,{\fad(60,120)}to him alone the power of thought.\NThe rest flit past as shadows.
+Dialogue: 1,0:26:18.30,0:26:23.52,Narration,,0,0,0,,{\fad(60,120)}So she spoke, and my heart broke within me,\Nand I wept, sitting there on the bed; my heart
+Dialogue: 1,0:26:23.52,0:26:26.56,Narration,,0,0,0,,{\fad(60,120)}had no more will to live and see the light of the sun.
+Dialogue: 1,0:26:26.56,0:26:32.06,Narration,,0,0,0,,{\fad(60,120)}But when I had had my fill of weeping and writhing,\Nthen I answered her with words, and said:
+Dialogue: 1,0:26:32.06,0:26:34.36,Narration,,0,0,0,,{\fad(60,120)}'Circe — and who will be pilot on that voyage?
+Dialogue: 1,0:26:34.36,0:26:37.00,Narration,,0,0,0,,{\fad(60,120)}No man ever yet reached Hades in a black ship.'
+Dialogue: 1,0:26:37.00,0:26:41.22,Narration,,0,0,0,,{\fad(60,120)}So I spoke, and she answered at once,\Nshining among goddesses:
+Dialogue: 1,0:26:41.22,0:26:45.06,Narration,,0,0,0,,{\fad(60,120)}'Zeus-born son of Laertes, Odysseus of the many devices:
+Dialogue: 1,0:26:45.06,0:26:47.96,Narration,,0,0,0,,{\fad(60,120)}let no lack of a pilot at the ship concern you.
+Dialogue: 1,0:26:47.96,0:26:54.02,Narration,,0,0,0,,{\fad(60,120)}Set up the mast, spread the white sails open,\Nand sit: the breath of the North Wind will carry her.
+Dialogue: 1,0:26:54.02,0:26:56.72,Narration,,0,0,0,,{\fad(60,120)}But when in your ship you have\Ncrossed the stream of Ocean,
+Dialogue: 1,0:26:56.72,0:27:00.32,Narration,,0,0,0,,{\fad(60,120)}there is a scrub shore there,\Nand the groves of Persephone —
+Dialogue: 1,0:27:00.32,0:27:04.10,Narration,,0,0,0,,{\fad(60,120)}tall black poplars, and willows\Nthat shed their fruit unripened,
+Dialogue: 1,0:27:04.10,0:27:10.24,Narration,,0,0,0,,{\fad(60,120)}Beach the ship there, on Ocean's deep-eddying edge,\Nand go on yourself into the dank house of Hades.
+Dialogue: 1,0:27:10.24,0:27:15.96,Narration,,0,0,0,,{\fad(60,120)}There into Acheron pour Pyriphlegethon and Cocytus,\Nwhich is a branch broken off the water of Styx;
+Dialogue: 1,0:27:15.96,0:27:19.50,Narration,,0,0,0,,{\fad(60,120)}and there is a rock,\Nat the meeting-roar of the two rivers.
+Dialogue: 1,0:27:19.50,0:27:27.04,Narration,,0,0,0,,{\fad(60,120)}Draw close to it there, hero, as I command you,\Nand dig a pit about a cubit's measure this way and that,
+Dialogue: 1,0:27:27.04,0:27:30.18,Narration,,0,0,0,,{\fad(60,120)}and around it pour a drink-offering to all the dead —
+Dialogue: 1,0:27:30.18,0:27:33.64,Narration,,0,0,0,,{\fad(60,120)}first with milk and honey mingled, then with sweet wine,
+Dialogue: 1,0:27:33.64,0:27:38.04,Narration,,0,0,0,,{\fad(60,120)}the third time with water;\Nand sprinkle white barley over it.
+Dialogue: 1,0:27:38.04,0:27:41.50,Narration,,0,0,0,,{\fad(60,120)}And entreat, over and over,\Nthe strengthless heads of the dead:
+Dialogue: 1,0:27:41.50,0:27:44.34,Narration,,0,0,0,,{\fad(60,120)}vow that, come to Ithaca, you will offer in your halls
+Dialogue: 1,0:27:44.34,0:27:48.68,Narration,,0,0,0,,{\fad(60,120)}a barren heifer, your best,\Nand heap the pyre with good things;
+Dialogue: 1,0:27:48.68,0:27:52.12,Narration,,0,0,0,,{\fad(60,120)}and to Tiresias, apart, alone, you will sacrifice a ram
+Dialogue: 1,0:27:52.12,0:27:56.06,Narration,,0,0,0,,{\fad(60,120)}all black, the one that stands out from all your flocks.
+Dialogue: 1,0:27:56.06,0:28:02.16,Narration,,0,0,0,,{\fad(60,120)}Then, when with prayers you have entreated the glorious\Ntribes of the dead, sacrifice a ram and a black ewe,
+Dialogue: 1,0:28:02.16,0:28:05.66,Narration,,0,0,0,,{\fad(60,120)}bending their heads toward Erebus —\Nbut turn yourself away,
+Dialogue: 1,0:28:05.66,0:28:11.82,Narration,,0,0,0,,{\fad(60,120)}facing the river's streams. And there will come,\Nin crowds, the souls of the dead who are gone.
+Dialogue: 1,0:28:11.82,0:28:14.10,Narration,,0,0,0,,{\fad(60,120)}Then rouse your companions, and command them
+Dialogue: 1,0:28:14.10,0:28:19.86,Narration,,0,0,0,,{\fad(60,120)}to flay the sheep that lie there slaughtered by the\Npitiless bronze, and burn them, and pray to the gods —
+Dialogue: 1,0:28:19.86,0:28:22.38,Narration,,0,0,0,,{\fad(60,120)}to mighty Hades and dread Persephone.
+Dialogue: 1,0:28:22.38,0:28:25.26,Narration,,0,0,0,,{\fad(60,120)}And you: draw the sharp sword from beside your thigh
+Dialogue: 1,0:28:25.26,0:28:31.24,Narration,,0,0,0,,{\fad(60,120)}and sit, and do not let the strengthless heads of the\Ndead come near the blood before you question Tiresias.
+Dialogue: 1,0:28:31.24,0:28:34.42,Narration,,0,0,0,,{\fad(60,120)}And quickly then the seer will come, leader of peoples,
+Dialogue: 1,0:28:34.42,0:28:37.28,Narration,,0,0,0,,{\fad(60,120)}and he will tell you the road,\Nand the measures of your journey,
+Dialogue: 1,0:28:37.28,0:28:41.48,Narration,,0,0,0,,{\fad(60,120)}and your homecoming — how you\Nshall go over the fish-filled sea.'
+Dialogue: 1,0:28:41.48,0:28:45.66,Narration,,0,0,0,,{\fad(60,120)}So she spoke; and at once Dawn\Nof the golden throne came on.
+Dialogue: 1,0:28:45.66,0:28:49.14,Narration,,0,0,0,,{\fad(60,120)}She dressed me then in my clothes, a cloak and a tunic,
+Dialogue: 1,0:28:49.14,0:28:52.98,Narration,,0,0,0,,{\fad(60,120)}and she, the nymph, put on a great silver-shining mantle,
+Dialogue: 1,0:28:52.98,0:28:56.60,Narration,,0,0,0,,{\fad(60,120)}fine-woven and graceful, and cast about her waist a belt,
+Dialogue: 1,0:28:56.60,0:29:00.08,Narration,,0,0,0,,{\fad(60,120)}beautiful, golden, and set a veil on her head above.
+Dialogue: 1,0:29:00.08,0:29:05.70,Narration,,0,0,0,,{\fad(60,120)}And I went through the halls and roused my companions\Nwith gentle words, standing by each man in turn:
+Dialogue: 1,0:29:05.70,0:29:08.42,Narration,,0,0,0,,{\fad(60,120)}'No more lying now, drowsing in sweet sleep.
+Dialogue: 1,0:29:08.42,0:29:11.44,Narration,,0,0,0,,{\fad(60,120)}Let us go: the lady Circe has shown me the way.'
+Dialogue: 1,0:29:11.44,0:29:14.80,Narration,,0,0,0,,{\fad(60,120)}So I spoke, and their proud hearts consented.
+Dialogue: 1,0:29:14.80,0:29:18.30,Narration,,0,0,0,,{\fad(60,120)}But not even from there could I\Nbring my companions off unharmed.
+Dialogue: 1,0:29:18.30,0:29:24.38,Narration,,0,0,0,,{\fad(60,120)}There was one, Elpenor, the youngest of all —\Nno great fighter in war, no steady mind on him —
+Dialogue: 1,0:29:24.38,0:29:28.16,Narration,,0,0,0,,{\fad(60,120)}who had lain down apart from his\Ncompanions in the sacred house of Circe,
+Dialogue: 1,0:29:28.16,0:29:30.64,Narration,,0,0,0,,{\fad(60,120)}heavy with wine, wanting the cool air.
+Dialogue: 1,0:29:30.64,0:29:33.00,Narration,,0,0,0,,{\fad(60,120)}Hearing the noise and stir of his companions moving,
+Dialogue: 1,0:29:33.00,0:29:39.26,Narration,,0,0,0,,{\fad(60,120)}he leapt up all at once — and forgot, in his fuddled wits,\Nto come back down again by the long ladder;
+Dialogue: 1,0:29:39.26,0:29:45.24,Narration,,0,0,0,,{\fad(60,120)}he fell headlong from the roof, and his neck snapped\Nfrom the spine; and his soul went down to Hades.
+Dialogue: 1,0:29:45.24,0:29:47.76,Narration,,0,0,0,,{\fad(60,120)}And as my men were setting out I spoke among them:
+Dialogue: 1,0:29:47.76,0:29:50.16,Narration,,0,0,0,,{\fad(60,120)}'You think, no doubt, that you are going home, to your own
+Dialogue: 1,0:29:50.16,0:29:53.96,Narration,,0,0,0,,{\fad(60,120)}dear fatherland. But Circe has\Nmarked out another road for us:
+Dialogue: 1,0:29:53.96,0:29:59.00,Narration,,0,0,0,,{\fad(60,120)}to the house of Hades and dread Persephone,\Nto consult the ghost of Theban Tiresias.'
+Dialogue: 1,0:29:59.00,0:30:02.24,Narration,,0,0,0,,{\fad(60,120)}So I spoke, and their own hearts broke within them:
+Dialogue: 1,0:30:02.24,0:30:05.94,Narration,,0,0,0,,{\fad(60,120)}they sat down right where they were,\Nand wailed, and tore their hair —
+Dialogue: 1,0:30:05.94,0:30:07.54,Narration,,0,0,0,,{\fad(60,120)}but nothing came of all their mourning.
+Dialogue: 1,0:30:07.54,0:30:14.20,Narration,,0,0,0,,{\fad(60,120)}And while we walked to the fast ship and the shore\Nof the sea, grieving, letting the big tears fall,
+Dialogue: 1,0:30:14.20,0:30:19.70,Narration,,0,0,0,,{\fad(60,120)}Circe meanwhile had gone down, and beside the\Nblack ship had tethered a ram and a black ewe —
+Dialogue: 1,0:30:19.70,0:30:25.87,Narration,,0,0,0,,{\fad(60,120)}slipping past us with ease. Who could see a god\Nagainst the god's will, moving here or there?

@@ -1,0 +1,445 @@
+ODYSSEY — BOOK X full-book caption alignment
+Duration: 1825.872s
+Narration cues: 436
+Source words: 5876
+Directly matched source words: 5583 (95.0%)
+Recognized words: 5862
+Visual lead: 0.16s
+
+Cue | Start | Anchor | Missing prefix | Caption
+  1 |    7.120 | We                 |              0 | We came next to the Aeolian island; and there lived / Aeolus, Hippotas' son, dear to the deathless gods,
+  2 |   13.960 | on                 |              0 | on a floating island: all around it a wall of bronze, / unbreakable, and the cliff runs up sheer.
+  3 |   19.820 | Twelve             |              0 | Twelve children of his live in his halls, / six daughters and six sons in their prime,
+  4 |   24.780 | and                |              0 | and he has given his daughters / to his sons to be their wives.
+  5 |   28.260 | They               |              0 | They are always feasting beside their dear father
+  6 |   30.900 | and                |              0 | and their honored mother, and good / things past counting are set before them;
+  7 |   35.180 | All                |              0 | all day the house is savory with roasting, / and the courtyard rings with the sound;
+  8 |   39.760 | and                |              0 | and at night they sleep beside their honored / wives among blankets, on corded bedsteads.
+  9 |   44.960 | to                 |              0 | To their city, then, we came, and their beautiful house.
+ 10 |   48.400 | A                  |              0 | A full month he made much of me, / and questioned me on everything —
+ 11 |   52.860 | the                |              1 | Ilium, the Argives' ships, the Achaeans' homecoming — / and I told him all of it through, in its due order.
+ 12 |   59.000 | and                |              0 | And when I in my turn asked for the road, and begged him
+ 13 |   61.740 | to                 |              0 | to send me on, he refused me nothing: / he prepared my sending.
+ 14 |   65.640 | he                 |              0 | He gave me a bag — the flayed hide of a nine-year ox —
+ 15 |   69.220 | and                |              0 | and in it he bound the courses of the blustering winds:
+ 16 |   71.960 | for                |              0 | for the son of Cronos made him steward of the winds, / to still them or to rouse them, whichever he will.
+ 17 |   77.540 | In                 |              0 | In my hollow ship he lashed it fast with a shining cord
+ 18 |   80.240 | of                 |              0 | of silver, so that not the / smallest breath could slip past;
+ 19 |   84.080 | and                |              0 | and for me he sent out the West Wind's breath to blow, / to carry the ships and the men. But it was not to be
+ 20 |   90.040 | accomplished,      |              0 | accomplished: we were destroyed by our own folly.
+ 21 |   93.340 | Nine               |              0 | Nine days and nights alike we sailed on, and on the / tenth our fathers' fields were rising into view —
+ 22 |   98.900 | so                 |              0 | so near, we could see men tending their fires.
+ 23 |  101.980 | Then               |              0 | Then sweet sleep came over me, worn out as I was:
+ 24 |  105.360 | all                |              0 | all that time I had worked the / ship's sheet myself, yielding it
+ 25 |  108.620 | to                 |              0 | to no other companion, to bring us home the faster.
+ 26 |  111.780 | and                |              0 | And the companions began to talk to one another, / and said I was bringing home gold and silver for myself,
+ 27 |  117.440 | gifts              |              0 | gifts of great-hearted Aeolus, Hippotas' son.
+ 28 |  120.460 | and                |              0 | And thus would one of them say, / with a glance at his neighbor:
+ 29 |  123.160 | at                 |              1 | 'Look at him — how loved he is, how honored, / among all men, whatever city or land he comes to!
+ 30 |  129.120 | He                 |              0 | He carries out of Troy a mass of beautiful treasure,
+ 31 |  131.880 | his                |              0 | his plunder — while we, who have accomplished / the same long road, come home with empty hands.
+ 32 |  137.760 | and                |              0 | And now Aeolus, obliging him in friendship, has given him
+ 33 |  140.760 | this               |              0 | this besides. Quick, then — let us see what is in it:
+ 34 |  144.120 | how                |              0 | how much gold, how much silver the bag holds.'
+ 35 |  147.260 | So                 |              0 | So they talked, and the companions' evil counsel won.
+ 36 |  150.260 | they               |              0 | They opened the bag — and all the winds burst out,
+ 37 |  153.080 | and                |              0 | and the storm snatched them up / at once and swept them seaward,
+ 38 |  155.900 | weeping,           |              0 | weeping, away from their fathers' land. And I, / waking, debated in my own blameless heart
+ 39 |  161.480 | whether            |              0 | whether to drop from the deck and drown in the sea / or endure in silence and stay among the living.
+ 40 |  167.020 | I                  |              0 | I endured, and I stayed. Covering my head
+ 41 |  169.880 | I                  |              0 | I lay where I was; and the ships were / carried by the evil blast of the storm
+ 42 |  174.700 | back               |              0 | back to the Aeolian island; and my companions groaned.
+ 43 |  178.180 | There              |              0 | There we set foot on the mainland and drew water,
+ 44 |  181.700 | and                |              0 | and the companions quickly took / their meal beside the fast ships.
+ 45 |  185.480 | and                |              0 | And when we had tasted food and drink, / then I took with me a herald and one companion
+ 46 |  190.780 | and                |              0 | and went to the famous house of Aeolus. / I found him feasting beside his wife and his children.
+ 47 |  196.800 | We                 |              0 | We came into the house and sat down by the doorposts
+ 48 |  200.120 | on                 |              0 | on the threshold; and they were / amazed at heart, and asked:
+ 49 |  204.140 | are                |              1 | 'How are you here, Odysseus? What evil power attacked you?
+ 50 |  208.500 | surely             |              0 | Surely we sent you off with all care, to reach
+ 51 |  211.160 | your               |              0 | your fatherland and your house, / and whatever place is dear to you.'
+ 52 |  215.080 | so                 |              0 | So they spoke; and I, grieving at heart, addressed them:
+ 53 |  219.200 | evil               |              1 | 'My evil companions ruined me — they, and a pitiless / sleep. But heal it, friends: the power is yours.'
+ 54 |  225.880 | So                 |              0 | So I spoke, plying them with soft words; / and they fell silent. And the father answered:
+ 55 |  231.620 | of                 |              1 | 'Out of this island — fast — you vilest thing alive!
+ 56 |  235.440 | It                 |              0 | It is against all right for me to harbor or to / send on his way a man the blessed gods detest.
+ 57 |  241.760 | out,               |              0 | Out! — since you come here hated by the deathless ones.'
+ 58 |  245.220 | So                 |              0 | So speaking he sent me from his house, groaning heavily.
+ 59 |  249.620 | From               |              0 | From there we sailed on further, grieved at heart.
+ 60 |  252.640 | and                |              0 | And the men's spirit was worn down by the grinding rowing — / our own fault: no sending wind showed any more.
+ 61 |  259.320 | Six                |              0 | Six days and nights alike we sailed on, / and on the seventh we came to Lamus' steep citadel —
+ 62 |  265.380 | of                 |              1 | Telepylus of the Laestrygonians, / where herdsman hails herdsman:
+ 63 |  268.880 | the                |              0 | the one driving in calls, and the one driving out answers.
+ 64 |  272.520 | There              |              0 | There a sleepless man could have earned a double wage, / one herding cattle, one pasturing silvery sheep:
+ 65 |  279.020 | so                 |              0 | so close together are the paths of night and day.
+ 66 |  282.220 | There              |              0 | There, when we came into the famous harbor — / a sheer cliff runs unbroken all around it, on both sides,
+ 67 |  288.160 | and                |              0 | and jutting headlands, facing one another, / thrust out at the mouth, and the entrance is narrow —
+ 68 |  293.160 | There              |              0 | there all the others steered their curved ships in,
+ 69 |  295.660 | and                |              0 | and moored them inside the hollow harbor, close together:
+ 70 |  298.420 | for                |              0 | for no wave ever swelled in there, great or / small, but a white calm lay all around it.
+ 71 |  303.460 | I                  |              0 | I alone held my black ship outside, there at / the edge, and made the cables fast to the rock;
+ 72 |  308.960 | and                |              0 | and I climbed a broken lookout-height and stood there.
+ 73 |  312.020 | No                 |              0 | No works of oxen or of men showed anywhere; / we saw only smoke springing up from the land.
+ 74 |  317.420 | Then               |              0 | Then I sent companions ahead to learn what / men they were who ate bread upon this earth:
+ 75 |  322.240 | two                |              0 | two men I chose, and sent a third with them as herald.
+ 76 |  325.540 | They               |              0 | They went ashore and took a / level road, by which the wagons
+ 77 |  328.480 | hauled             |              0 | hauled timber down to the city from the high mountains, / and before the city they met a girl drawing water,
+ 78 |  334.400 | the                |              0 | the sturdy daughter of Laestrygonian Antiphates.
+ 79 |  337.120 | She                |              0 | She had come down to the fair-flowing spring Artacia, / from which they carried water to the town;
+ 80 |  342.100 | and                |              0 | and they came up beside her and spoke to her, / and asked who was king of these people, and whom he ruled;
+ 81 |  347.620 | and                |              0 | and she pointed them at once to / her father's high-roofed house.
+ 82 |  351.160 | But                |              0 | But when they entered the famous / house, they found his wife
+ 83 |  353.960 | huge               |              0 | huge as a mountain peak — / and they were sick with horror at her.
+ 84 |  357.220 | She                |              0 | She called famous Antiphates / straightway from the gathering-place —
+ 85 |  360.540 | her                |              0 | her husband — and he plotted their wretched destruction:
+ 86 |  363.820 | He                 |              0 | he snatched up one of my companions / on the spot and made his meal of him,
+ 87 |  367.740 | and                |              0 | and the other two sprang away / and came flying to the ships.
+ 88 |  371.000 | Then               |              0 | Then he raised the war-cry / through the city; and hearing it
+ 89 |  373.960 | the                |              0 | the mighty Laestrygonians came thronging from every side,
+ 90 |  377.000 | thousands          |              0 | thousands of them — not like men, but like the Giants.
+ 91 |  380.580 | From               |              0 | From the cliffs they pelted us with man-heavy stones, / and at once an evil din rose up along the ships —
+ 92 |  386.360 | the                |              0 | the scream of dying men, the crunch of shattering hulls.
+ 93 |  389.940 | spearing           |              0 | Spearing them like fish, / they carried home their loathsome meal.
+ 94 |  393.320 | While              |              0 | While they were slaughtering those inside the deep / harbor, I drew the sharp sword from beside my thigh
+ 95 |  398.440 | and                |              0 | and cut the cables of my dark-blue-prowed ship, / and quickly I roused my companions and ordered them
+ 96 |  403.760 | to                 |              0 | to fall to their oars and get us clear of the evil;
+ 97 |  406.320 | gladly             |              0 | Gladly my ship fled out to open / water, away from the beetling
+ 98 |  410.000 | cliffs,            |              0 | cliffs; but the others were destroyed there, all together.
+ 99 |  413.540 | From               |              0 | From there we sailed on further, grieved at heart, / glad to be out of death, having lost our dear companions.
+100 |  420.500 | and                |              0 | And we came to the island of Aeaea; and there lived
+101 |  423.520 | of                 |              1 | Circe of the lovely braids, dread goddess with a / mortal's voice, own sister of Aeetes the deadly-minded:
+102 |  430.200 | both               |              0 | both born of Helios, who carries light to mortals, / and of Perse their mother, whom Ocean fathered.
+103 |  435.900 | There              |              0 | There we brought the ship silently to the shore
+104 |  438.460 | and                |              0 | and into a harbor fit for ships; / and some god was guiding us.
+105 |  441.880 | We                 |              0 | We stepped ashore there, and for two days and two nights
+106 |  445.320 | we                 |              0 | we lay, eating our hearts with / weariness and pain together.
+107 |  449.160 | But                |              0 | But when Dawn of the lovely braids brought the third / day round, then I took my spear and my sharp sword
+108 |  454.840 | and                |              0 | and went up quickly from the ship to a viewing-place, / in hope of seeing men's works, or catching a voice.
+109 |  460.760 | I                  |              0 | I climbed a broken lookout-height and stood there,
+110 |  463.600 | and                |              0 | and smoke showed to my eyes, / rising from the wide-wayed earth
+111 |  467.720 | halls,             |              2 | in Circe's halls, up through / the dense brush and the timber.
+112 |  470.620 | and                |              0 | And I debated then in my mind and in my heart
+113 |  473.040 | whether            |              0 | whether to go and look, since I / had seen the fire-bright smoke.
+114 |  477.060 | And                |              0 | And as I weighed it, this seemed to me the better way:
+115 |  480.140 | to                 |              0 | to go first to the fast ship and the shore of the sea,
+116 |  482.960 | give               |              0 | give the companions their meal, / and send them out to learn.
+117 |  486.260 | But                |              0 | But when, on my way down, I was near the curved ship, / then some god took pity on me, alone as I was,
+118 |  492.200 | and                |              0 | and sent a great high-antlered stag into my very path.
+119 |  495.560 | He                 |              0 | He was coming down to the river from his forest / pasture to drink, for the sun's force was heavy on him;
+120 |  501.040 | and                |              0 | and as he stepped out I struck him on the spine, mid-back:
+121 |  504.400 | The                |              0 | the bronze spear went clean through, and down he dropped / in the dust with a cry, and the life flew from him.
+122 |  510.240 | I                  |              0 | I set my foot on him and drew the bronze spear out / of the wound, and laid it down there on the ground
+123 |  515.180 | and                |              0 | and left it; then I pulled brushwood and withies / and plaited a rope, a fathom's length, well-twisted
+124 |  520.540 | all                |              0 | all along, and bound together the feet of the huge beast,
+125 |  524.000 | and                |              0 | and went down to the black ship / carrying him slung across my neck,
+126 |  527.960 | leaning            |              0 | leaning on my spear: there was no carrying him on the / shoulder with one hand — he was a very great beast.
+127 |  534.080 | I                  |              0 | I flung him down before the ship, and woke my companions / with gentle words, standing by each man in turn:
+128 |  540.800 | for                |              1 | 'Friends — for all our grief, we will not go down / to the house of Hades before our destined day.
+129 |  545.900 | Come               |              0 | Come then, while there is food and drink in the fast ship,
+130 |  549.000 | let                |              0 | let us think of eating, and not be worn away with hunger.'
+131 |  552.280 | So                 |              0 | So I spoke, and they quickly heeded my words:
+132 |  555.200 | uncovered          |              1 | they uncovered their heads there / by the shore of the barren sea
+133 |  558.160 | and                |              0 | and marveled at the stag: he was a very great beast.
+134 |  561.120 | and                |              0 | And when they had had their joy of gazing, / they washed their hands and made the glorious feast ready.
+135 |  566.480 | So                 |              0 | So then all day long till the setting of the sun we / sat feasting on meat past counting and sweet wine;
+136 |  572.560 | and                |              0 | and when the sun went down and the dusk came on, / then we lay down to sleep on the surf-line of the sea.
+137 |  578.680 | When               |              0 | When Dawn appeared, the early-born, with fingers of rose,
+138 |  582.280 | then               |              0 | then I called an assembly, and spoke among them all:
+139 |  585.380 | my                 |              1 | 'Hear my words, companions, for all your suffering.
+140 |  588.560 | Friends,           |              0 | Friends — we do not know where / the dark is, or where the dawn,
+141 |  592.160 | or                 |              0 | or where the sun that carries light / to mortals goes under the earth,
+142 |  595.420 | or                 |              0 | or where he rises. Let us think, then — quickly — / whether any device is left us. I do not believe there is.
+143 |  602.380 | I                  |              0 | I climbed a broken lookout-height and saw an island, / wreathed round with the boundless sea;
+144 |  607.560 | The                |              0 | the island itself lies low, / and in the middle of it my eyes
+145 |  610.940 | caught             |              0 | caught smoke, up through the dense brush and the timber.'
+146 |  614.040 | So                 |              0 | So I spoke, and their own hearts broke within them, / remembering the deeds of Laestrygonian Antiphates
+147 |  619.980 | and                |              0 | and the violence of the great-hearted man-eating Cyclops.
+148 |  623.080 | They               |              0 | They wept aloud, letting the big tears fall — / but nothing came of all their mourning.
+149 |  627.780 | Then               |              0 | Then I counted off all my strong-greaved companions / into two bands, and gave each band a leader:
+150 |  634.080 | I                  |              0 | I led the one, and godlike Eurylochus the other.
+151 |  637.700 | We                 |              0 | We shook the lots quickly in a bronze helmet, / and out jumped the lot of great-hearted Eurylochus.
+152 |  643.360 | So                 |              0 | So he set out, and with him two-and-twenty companions, / weeping — and they left us behind in tears as well.
+153 |  649.960 | In                 |              0 | In a forest glen they found the house of Circe, built
+154 |  652.960 | of                 |              0 | of polished stones, in a place with a clear view all around; / and around it were mountain wolves and lions —
+155 |  659.420 | Creatures          |              0 | creatures she herself had bewitched, / giving them evil drugs.
+156 |  663.200 | And                |              0 | And these did not spring at the men, no:
+157 |  665.720 | They               |              0 | they rose and fawned around them, waving their long tails.
+158 |  669.200 | As                 |              0 | As when dogs fawn around their / master coming from a feast —
+159 |  672.320 | for                |              0 | for he always carries home some sweet morsel for them — / so the strong-clawed wolves and the lions fawned
+160 |  677.840 | around             |              0 | around them; and they were terrified at / the sight of the dread huge creatures.
+161 |  682.640 | They               |              0 | They stood in the gateway of / the goddess of the lovely hair,
+162 |  685.740 | and                |              0 | and inside they heard Circe singing in a beautiful voice,
+163 |  689.160 | moving             |              0 | moving to and fro at her great / imperishable loom — the weaving
+164 |  692.480 | goddesses          |              0 | goddesses do: fine-spun work, graceful and shining.
+165 |  696.920 | and                |              0 | And Polites began to speak among them — a leader of men,
+166 |  700.400 | who                |              0 | who of all my companions was closest and dearest to me:
+167 |  704.620 | someone            |              1 | 'Friends — someone inside there, moving at a great loom,
+168 |  706.780 | is                 |              0 | is singing, beautifully — the whole floor hums with it — / goddess or woman. Quick, let us call out to her.'
+169 |  713.940 | So                 |              0 | So he spoke, and they lifted their voices and called.
+170 |  716.780 | and                |              0 | And she came out at once, and opened the shining doors,
+171 |  719.660 | and                |              0 | and invited them in; and all together, in their innocence,
+172 |  722.980 | they               |              0 | they followed her. Only Eurylochus / stayed behind, suspecting a snare.
+173 |  727.900 | She                |              0 | She led them in and seated them on benches and chairs,
+174 |  730.800 | and                |              0 | and stirred them a mixture: / cheese and barley meal and pale honey
+175 |  734.140 | in                 |              0 | in Pramnian wine. And into the dish she blended
+176 |  737.120 | baleful            |              0 | baleful drugs, to make them / wholly forget their fathers' land.
+177 |  741.200 | And                |              0 | And when she had served it and / they had drunk it down, at once
+178 |  744.580 | she                |              0 | she struck them with her wand / and penned them in the pigsties.
+179 |  748.140 | and                |              0 | And they had the heads of pigs — the voice, the bristles,
+180 |  751.280 | the                |              0 | the body — but their minds / stayed steady, exactly as before.
+181 |  755.320 | So                 |              0 | So they were penned there weeping; and Circe threw / them acorns of oak and ilex, and cornel berries,
+182 |  760.880 | the                |              0 | the things pigs eat, the wallowers on the ground.
+183 |  763.740 | But                |              0 | But Eurylochus came running back to the fast black ship
+184 |  767.460 | to                 |              0 | to bring the news of the companions and their bitter fate.
+185 |  770.980 | And                |              0 | And he could not get one word out, for all his straining —
+186 |  775.180 | struck             |              0 | struck to the heart with his great anguish; his eyes / brimmed full of tears, and his spirit was all lament.
+187 |  782.020 | But                |              0 | But when we questioned him, all of us, in our amazement,
+188 |  785.300 | at                 |              0 | at last he told the destruction of the other companions:
+189 |  788.560 | went               |              1 | 'We went up through the brush, / as you commanded, glorious Odysseus,
+190 |  792.800 | and                |              0 | and in a forest glen we found a beautiful house, built
+191 |  795.920 | of                 |              0 | of polished stones, in a place / with a clear view all around.
+192 |  800.100 | and                |              0 | And there someone at a great loom / was singing, clear and high —
+193 |  804.460 | goddess            |              0 | goddess or woman. And they lifted their voices and called.
+194 |  808.120 | and                |              0 | And she came out at once, and opened the shining doors,
+195 |  810.900 | and                |              0 | and invited them in; and all together, in their innocence,
+196 |  813.960 | they               |              0 | they followed her. But I stayed / behind, suspecting a snare.
+197 |  818.700 | and                |              0 | And they vanished — all of them together. Not one of them
+198 |  821.720 | appeared           |              0 | appeared again, though I sat a long time watching.'
+199 |  825.280 | So                 |              0 | So he spoke; and I slung my silver-studded sword
+200 |  828.300 | about              |              0 | about my shoulders — the great / bronze one — and my bow with it,
+201 |  832.340 | and                |              0 | and ordered him to lead me back by the same way.
+202 |  835.080 | but                |              0 | But he seized me with both hands, clasping my knees, / and wailing he spoke winged words to me:
+203 |  841.500 | not                |              1 | 'Do not take me back there — Zeus-nurtured — / against my will. Leave me here.
+204 |  846.460 | For                |              0 | For I know it: you will not come / back yourself, and you will not bring
+205 |  849.540 | one                |              0 | one of your companions. No — with these men here, / quickly, let us run: we may still escape the evil day.'
+206 |  855.660 | So                 |              0 | So he spoke, and I answered him and said:
+207 |  858.700 | stay               |              1 | 'Eurylochus — stay here, then, where you are, / eating and drinking beside the hollow black ship.
+208 |  862.700 | but                |              0 | But I am going. Hard necessity is on me.'
+209 |  865.980 | So                 |              0 | So speaking I went up from the ship and the sea.
+210 |  868.580 | but                |              0 | But just as, threading the sacred glens, I was about / to reach the great house of Circe of the many drugs,
+211 |  874.540 | Hermes             |              1 | there Hermes of the golden rod met me as I came / toward the house — in the likeness of a young man
+212 |  879.720 | with               |              0 | with his first down on his lip, / in the loveliest season of youth.
+213 |  883.480 | He                 |              0 | He clamped a hand on mine, and spoke a word, and named me:
+214 |  887.060 | now                |              1 | 'Where now, poor doomed man, alone along the heights,
+215 |  890.600 | a                  |              0 | a stranger to the country? / Your companions there in Circe's house
+216 |  893.940 | are                |              0 | are penned like pigs, packed in their hidden sties.
+217 |  897.340 | Is                 |              0 | Is it to free them you are going? / You will not come back yourself,
+218 |  900.940 | I                  |              0 | I tell you: you will only stay there with the others.
+219 |  904.520 | I                  |              2 | But come — I will release you / from the evil, I will save you.
+220 |  907.740 | here.              |              0 | Here. Take this good drug with you into Circe's house — / it will keep the evil day away from your head.
+221 |  913.500 | and                |              0 | And I will tell you all the deadly designs of Circe.
+222 |  916.300 | She                |              0 | She will mix you a potion, and cast drugs into the dish;
+223 |  919.680 | but                |              0 | but even so she will not have / power to bewitch you: the good drug
+224 |  923.060 | I                  |              0 | I give you will not let her. / And I will tell you everything.
+225 |  926.340 | The                |              0 | The moment Circe strikes at you with her long wand, / that instant draw the sharp sword from beside your thigh
+226 |  932.180 | and                |              0 | and go for Circe as though you meant to kill her.
+227 |  934.820 | She                |              0 | She will be seized with terror, and invite you to her bed.
+228 |  938.540 | Do                 |              0 | Do not, then, refuse the bed of the goddess — / if you want her to free your companions and host you well —
+229 |  944.460 | But                |              0 | but order her to swear the great oath of the blessed ones
+230 |  947.360 | that               |              0 | that she is not planning some new evil against you:
+231 |  950.300 | lest               |              0 | lest she strip you naked and make / you a coward, an unmanned thing.'
+232 |  954.780 | So                 |              0 | So speaking, the slayer of Argus handed me the drug, / pulling it out of the ground, and showed me its nature:
+233 |  960.700 | the                |              1 | at the root it was black, but its flower like milk.
+234 |  963.740 | the                |              0 | The gods call it. And it is hard for mortal men to dig — / but the gods have power to do all things.
+235 |  969.660 | then               |              0 | Then Hermes went away over the wooded island toward / high Olympus; and I went on to the house of Circe,
+236 |  975.220 | and                |              0 | and my heart ran dark with many things as I went.
+237 |  977.960 | I                  |              0 | I stopped at the doors of the goddess of the lovely hair,
+238 |  981.180 | and                |              0 | and standing there I shouted; / and the goddess heard my voice.
+239 |  985.040 | and                |              0 | And she came out at once, and opened the shining doors,
+240 |  988.460 | and                |              0 | and invited me in; and I followed her, grieved at heart.
+241 |  993.280 | She                |              0 | She led me in and seated me on a silver-studded chair,
+242 |  997.260 | beautiful,         |              0 | beautiful, cunningly worked, with a footstool for my feet,
+243 | 1000.680 | and                |              0 | and made me a potion in a golden cup, for me to drink,
+244 | 1005.140 | And                |              0 | and slipped a drug in it, with evil purpose in her heart.
+245 | 1008.660 | and                |              0 | And when she served it and I drank / it off — and it did not bewitch me —
+246 | 1012.980 | she                |              0 | she struck me with her wand, / and spoke a word, and named me:
+247 | 1017.140 | to                 |              1 | 'Off to the sty now. Lie down / with the rest of your companions.'
+248 | 1021.240 | So                 |              0 | So she spoke; and I drew the / sharp sword from beside my thigh
+249 | 1025.340 | and                |              0 | and went for Circe as though I meant to kill her.
+250 | 1028.600 | and                |              0 | And she shrieked, and ran under the blade, and seized / my knees, and wailing she spoke winged words to me:
+251 | 1036.240 | man                |              1 | 'What man are you, and from where? / Where are your city and your parents?
+252 | 1040.820 | Wonder             |              0 | Wonder holds me: you drank these / drugs and were not bewitched —
+253 | 1044.860 | and                |              0 | and no other man, no, not one, has withstood these drugs
+254 | 1047.940 | once               |              0 | once he drank them, once they / passed the fence of his teeth.
+255 | 1052.240 | The                |              0 | The mind in your breast is proof against enchantment.
+256 | 1055.460 | Surely             |              0 | Surely you are Odysseus — the man of many turnings — whom
+257 | 1059.140 | the                |              0 | the golden-rodded slayer of / Argus always told me would come,
+258 | 1062.500 | on                 |              0 | on his way home from Troy in his fast black ship.
+259 | 1065.740 | Come               |              0 | Come now — put your sword in its sheath, and let the / two of us mount my bed together, so that mingled there
+260 | 1071.920 | in                 |              0 | in the bed of love, we may come to trust one another.'
+261 | 1075.680 | So                 |              0 | So she spoke, and I answered her and said:
+262 | 1079.300 | how                |              1 | 'Circe — how can you bid me be gentle with you?
+263 | 1082.200 | You                |              0 | You who turned my companions into pigs in your own halls, / and keep me here, and — scheming still — invite me
+264 | 1088.340 | to                 |              0 | to your chamber, to climb into your bed, so that / stripped naked I may be made a coward, an unmanned thing.
+265 | 1095.400 | I                  |              0 | I will not consent to climb into your bed unless you / bring yourself, goddess, to swear me the great oath
+266 | 1100.900 | that               |              0 | that you are not planning some new evil against me.'
+267 | 1104.620 | So                 |              0 | So I spoke, and she swore it once, as I demanded.
+268 | 1108.520 | and                |              0 | And when she had sworn, and made an end of the oath, / then I mounted the surpassingly beautiful bed of Circe.
+269 | 1115.520 | Meanwhile,         |              0 | Meanwhile four handmaids were busy through the halls — / the serving-women who keep her house in order,
+270 | 1121.600 | and                |              4 | daughters of the springs and the groves and / the sacred rivers that flow out to the sea.
+271 | 1126.180 | One                |              0 | One of them threw beautiful covers over the chairs, / purple above, with linen spread beneath;
+272 | 1131.860 | another            |              0 | another drew silver tables up before the / chairs and set out golden baskets on them;
+273 | 1136.860 | The                |              0 | the third mixed honey-hearted wine, sweet wine, / in a silver bowl, and set out golden cups;
+274 | 1142.540 | and                |              0 | and the fourth brought water and kindled a great / fire under a huge cauldron, and the water warmed.
+275 | 1148.840 | And                |              0 | And when the water boiled in the bright bronze, / she set me in the tub and bathed me from the great cauldron,
+276 | 1155.420 | tempering          |              0 | tempering it to my liking, / pouring it over my head and shoulders,
+277 | 1159.180 | until              |              0 | until she had taken the heart-wasting / weariness from my limbs.
+278 | 1162.840 | And                |              0 | And when she had bathed me and rubbed me richly with oil,
+279 | 1166.220 | and                |              0 | and thrown a beautiful cloak around me, and a tunic, / she led me in and seated me on a silver-studded chair,
+280 | 1172.900 | beautiful,         |              0 | beautiful, cunningly worked, with a footstool for my feet;
+281 | 1175.860 | and                |              0 | and a handmaid brought water for my hands in a pitcher,
+282 | 1178.920 | a                  |              0 | a beautiful golden one, and poured it over a silver basin
+283 | 1182.040 | for                |              0 | for me to wash, and drew up a polished table beside me.
+284 | 1186.160 | The                |              0 | The grave housekeeper brought bread and set it before me,
+285 | 1189.300 | laying             |              0 | laying out delicacies in plenty, / giving gladly of her store,
+286 | 1193.060 | and                |              0 | and pressed me to eat. But my heart was not in it:
+287 | 1196.160 | I                  |              0 | I sat with my thoughts elsewhere, / and my spirit boded evil.
+288 | 1200.000 | And                |              0 | And when Circe saw me sitting there, not reaching / my hands to the bread, gripped in a strong grief,
+289 | 1205.640 | she                |              0 | she came near, and spoke winged words to me:
+290 | 1208.800 | do                 |              1 | 'Why do you sit like this, / Odysseus, like a man struck dumb,
+291 | 1212.620 | eating             |              0 | eating your heart, and touching neither food nor drink?
+292 | 1215.940 | Do                 |              0 | Do you suspect some other snare? You have no cause / to fear: I have already sworn you the strong oath.'
+293 | 1221.900 | So                 |              0 | So she spoke, and I answered her and said:
+294 | 1225.180 | what               |              1 | 'Circe — what man with any decency in / him could bear to taste of food and drink
+295 | 1229.060 | before             |              0 | before his companions were set free, / and he saw them with his eyes?
+296 | 1233.060 | If                 |              0 | If you press me in good faith to eat and drink, / then free them — let my eyes see my trusted companions.'
+297 | 1239.700 | So                 |              0 | So I spoke, and Circe went out through the hall, / wand in hand, and opened the doors of the sty,
+298 | 1245.140 | and                |              0 | and drove them out — / in the shape of nine-year fattened hogs.
+299 | 1248.200 | They               |              0 | They stood there facing her; and she went / among them anointing each with another drug;
+300 | 1252.820 | and                |              0 | and the bristles the baleful drug had grown on them —
+301 | 1255.600 | The                |              0 | the drug the lady Circe gave them — / dropped from their limbs,
+302 | 1258.880 | and                |              0 | and they were men again — younger than they were before, / far more beautiful, and taller to the eye.
+303 | 1264.760 | They               |              0 | They knew me; and each man clung to my hands; / and a passionate weeping came over us all, and the house
+304 | 1270.780 | rang               |              0 | rang terribly around us; and the / goddess herself was moved to pity.
+305 | 1274.540 | She                |              0 | She came close beside me and spoke, / shining among goddesses:
+306 | 1279.680 | born               |              1 | 'Zeus-born son of Laertes, Odysseus of the many devices — / go now to your fast ship and the shore of the sea.
+307 | 1287.740 | First              |              0 | First of all, haul the ship up onto dry land, / and stow your goods and all the tackle in the caves;
+308 | 1294.760 | Then               |              0 | then come back yourself, / and bring your trusted companions.'
+309 | 1298.800 | So                 |              0 | So she spoke, and my proud heart consented.
+310 | 1302.220 | I                  |              0 | I went my way to the fast ship and the shore of the sea,
+311 | 1305.820 | and                |              0 | and there by the fast ship I found my trusted companions / in pitiful lamentation, letting the big tears fall.
+312 | 1312.600 | As                 |              0 | As when farmyard calves around the herded cows that / come back to the dung-yard, filled with grazing,
+313 | 1318.580 | all                |              0 | all skip and frisk to meet them — the pens no / longer hold them, but lowing without pause they run
+314 | 1324.560 | around             |              0 | around their mothers: so those men, / when their eyes took me in,
+315 | 1328.260 | poured             |              0 | poured around me weeping. And to their hearts it felt
+316 | 1330.980 | as                 |              0 | as if they had come to their fatherland, to their very / town in rugged Ithaca, where they were bred and born.
+317 | 1337.300 | and                |              0 | And wailing, they spoke winged words to me:
+318 | 1340.420 | your               |              1 | 'At your return, Zeus-nurtured, we rejoice as if / we had come home to Ithaca, our fathers' land.
+319 | 1346.920 | but                |              0 | But come — tell the destruction of the other companions.'
+320 | 1350.460 | So                 |              0 | So they spoke, and I answered with soft words:
+321 | 1353.960 | of                 |              1 | 'First of all, let us haul the ship up onto dry land, / and stow our goods and all the tackle in the caves;
+322 | 1359.700 | then               |              0 | then bestir yourselves, all of you, and come with me,
+323 | 1363.040 | so                 |              0 | so you may see our companions / in the sacred halls of Circe,
+324 | 1366.400 | eating             |              0 | eating and drinking: what they have never fails.'
+325 | 1369.420 | So                 |              0 | So I spoke, and they quickly heeded my words.
+326 | 1372.060 | only               |              0 | Only Eurylochus tried to hold back all my companions, / and lifting his voice he spoke winged words to them:
+327 | 1378.400 | fools,             |              1 | 'Poor fools — where are we going? / Why do you hanker after these evils —
+328 | 1382.740 | to                 |              0 | to go down into Circe's hall, who will turn / every one of us into pigs or wolves or lions
+329 | 1388.020 | to                 |              0 | to guard her great house for her — and guard it we must —
+330 | 1391.240 | the                |              0 | the way the Cyclops did his work, when our companions
+331 | 1393.800 | came               |              0 | came to his inner yard, / and the reckless Odysseus with them:
+332 | 1397.440 | it                 |              0 | it was that man's blind folly killed them too.'
+333 | 1400.240 | So                 |              0 | So he spoke; and I turned it over in my mind —
+334 | 1403.320 | whether            |              0 | whether to draw the long-edged / sword from beside my thick thigh,
+335 | 1406.720 | strike             |              0 | strike off his head and bring it down in the dust,
+336 | 1409.380 | kinsman            |              0 | kinsman by marriage though he was, / and a close one. But my companions
+337 | 1413.360 | held               |              0 | held me back with honeyed words, this one and that one:
+338 | 1417.040 | born,              |              1 | 'Zeus-born — this man, if you command it, we will / leave here by the ship, to stay and guard the ship;
+339 | 1422.680 | the                |              1 | lead the rest of us to the sacred house of Circe.'
+340 | 1425.640 | So                 |              0 | So speaking they went up from the ship and the sea; / and Eurylochus was not left behind by the hollow ship —
+341 | 1431.420 | he                 |              0 | he followed.
+342 | 1432.400 | meanwhile,         |              0 | Meanwhile, in her house, / Circe had bathed the other companions
+343 | 1436.740 | with               |              0 | with kind care, and rubbed them richly with oil, / and thrown about them fleecy cloaks and tunics,
+344 | 1443.080 | and                |              0 | and we found them all feasting well in the halls.
+345 | 1446.020 | And                |              0 | And when the men saw one another, / face to face, and knew each other,
+346 | 1449.540 | they               |              0 | they wept and lamented, and the house rang round them.
+347 | 1453.060 | and                |              0 | And she came close beside me and / spoke, shining among goddesses:
+348 | 1457.480 | more               |              1 | 'No more of this swelling lament now. I know it myself — / all you have suffered on the fish-filled sea,
+349 | 1463.960 | all                |              0 | all the harm lawless men have done you on dry land.
+350 | 1466.940 | Come               |              0 | Come now: eat your food, and drink your wine, / until you gather back the spirit in your breasts
+351 | 1472.320 | that               |              0 | that was yours when you first left your fathers' land / of rugged Ithaca. Now you are withered, spiritless,
+352 | 1479.100 | forever            |              0 | forever brooding on the misery / of your wandering — your hearts
+353 | 1481.760 | never              |              0 | never in the feast, for truly you have suffered much.'
+354 | 1485.320 | So                 |              0 | So she spoke, and our proud hearts consented.
+355 | 1487.920 | so                 |              0 | So there, day after day, for the full round of a year, / we sat feasting on meat past counting and sweet wine.
+356 | 1494.700 | but                |              0 | But when the year was out, / and the seasons turned in their wheel,
+357 | 1497.840 | as                 |              0 | as the months waned and the long days came round, / then my trusted companions called me out, and said:
+358 | 1503.360 | are                |              1 | 'You are possessed! It is time / to remember your fatherland —
+359 | 1506.820 | if                 |              0 | if it is truly decreed that you be saved, and come / to your high-roofed house and your own fatherland.'
+360 | 1512.300 | So                 |              0 | So they spoke, and my proud heart consented.
+361 | 1514.960 | So                 |              0 | So then all day long till the setting of the sun we / sat feasting on meat past counting and sweet wine;
+362 | 1520.760 | and                |              0 | and when the sun went down and the dusk came on, / the men lay down to sleep through the shadowy halls,
+363 | 1526.120 | but                |              0 | but I climbed into the surpassingly beautiful bed of Circe
+364 | 1529.180 | and                |              0 | and clasped her knees in supplication; / and the goddess heard my voice.
+365 | 1534.020 | and                |              0 | And lifting my voice I spoke winged words to her:
+366 | 1537.740 | make               |              1 | 'Circe — make good now the promise that you made me, / to send me home. My spirit strains for it already,
+367 | 1543.220 | and                |              0 | and my companions' too: they wear my heart away, / mourning around me whenever you are elsewhere.'
+368 | 1548.580 | So                 |              0 | So I spoke, and she answered at once, / shining among goddesses:
+369 | 1552.820 | born               |              1 | 'Zeus-born son of Laertes, Odysseus of the many devices:
+370 | 1556.080 | stay               |              0 | stay no longer in my house against your will.
+371 | 1559.240 | But                |              0 | But there is another journey you must / accomplish first: you must go down
+372 | 1562.740 | to                 |              0 | to the house of Hades and dread Persephone / to consult the ghost of Theban Tiresias,
+373 | 1568.120 | the                |              0 | the blind seer, whose mind stands fast:
+374 | 1570.920 | to                 |              0 | to him, even dead, Persephone has granted understanding —
+375 | 1574.020 | to                 |              0 | to him alone the power of thought. / The rest flit past as shadows.
+376 | 1578.300 | so                 |              0 | So she spoke, and my heart broke within me, / and I wept, sitting there on the bed; my heart
+377 | 1583.520 | had                |              0 | had no more will to live and see the light of the sun.
+378 | 1586.560 | But                |              0 | But when I had had my fill of weeping and writhing, / then I answered her with words, and said:
+379 | 1592.060 | and                |              1 | 'Circe — and who will be pilot on that voyage?
+380 | 1594.360 | No                 |              0 | No man ever yet reached Hades in a black ship.'
+381 | 1597.000 | So                 |              0 | So I spoke, and she answered at once, / shining among goddesses:
+382 | 1601.220 | born               |              1 | 'Zeus-born son of Laertes, Odysseus of the many devices:
+383 | 1605.060 | let                |              0 | let no lack of a pilot at the ship concern you.
+384 | 1607.960 | Set                |              0 | Set up the mast, spread the white sails open, / and sit: the breath of the North Wind will carry her.
+385 | 1614.020 | But                |              0 | But when in your ship you have / crossed the stream of Ocean,
+386 | 1616.720 | there              |              0 | there is a scrub shore there, / and the groves of Persephone —
+387 | 1620.320 | tall               |              0 | tall black poplars, and willows / that shed their fruit unripened,
+388 | 1624.100 | the                |              1 | Beach the ship there, on Ocean's deep-eddying edge, / and go on yourself into the dank house of Hades.
+389 | 1630.240 | There              |              0 | There into Acheron pour Pyriphlegethon and Cocytus, / which is a branch broken off the water of Styx;
+390 | 1635.960 | and                |              0 | and there is a rock, / at the meeting-roar of the two rivers.
+391 | 1639.500 | Draw               |              0 | Draw close to it there, hero, as I command you, / and dig a pit about a cubit's measure this way and that,
+392 | 1647.040 | and                |              0 | and around it pour a drink-offering to all the dead —
+393 | 1650.180 | first              |              0 | first with milk and honey mingled, then with sweet wine,
+394 | 1653.640 | the                |              0 | the third time with water; / and sprinkle white barley over it.
+395 | 1658.040 | And                |              0 | And entreat, over and over, / the strengthless heads of the dead:
+396 | 1661.500 | that               |              1 | vow that, come to Ithaca, you will offer in your halls
+397 | 1664.340 | a                  |              0 | a barren heifer, your best, / and heap the pyre with good things;
+398 | 1668.680 | and                |              0 | and to Tiresias, apart, alone, you will sacrifice a ram
+399 | 1672.120 | all                |              0 | all black, the one that stands out from all your flocks.
+400 | 1676.060 | Then,              |              0 | Then, when with prayers you have entreated the glorious / tribes of the dead, sacrifice a ram and a black ewe,
+401 | 1682.160 | bending            |              0 | bending their heads toward Erebus — / but turn yourself away,
+402 | 1685.660 | facing             |              0 | facing the river's streams. And there will come, / in crowds, the souls of the dead who are gone.
+403 | 1691.820 | then               |              0 | Then rouse your companions, and command them
+404 | 1694.100 | to                 |              0 | to flay the sheep that lie there slaughtered by the / pitiless bronze, and burn them, and pray to the gods —
+405 | 1699.860 | to                 |              0 | to mighty Hades and dread Persephone.
+406 | 1702.380 | And                |              0 | And you: draw the sharp sword from beside your thigh
+407 | 1705.260 | and                |              0 | and sit, and do not let the strengthless heads of the / dead come near the blood before you question Tiresias.
+408 | 1711.240 | and                |              0 | And quickly then the seer will come, leader of peoples,
+409 | 1714.420 | and                |              0 | and he will tell you the road, / and the measures of your journey,
+410 | 1717.280 | and                |              0 | and your homecoming — how you / shall go over the fish-filled sea.'
+411 | 1721.480 | So                 |              0 | So she spoke; and at once Dawn / of the golden throne came on.
+412 | 1725.660 | she                |              0 | She dressed me then in my clothes, a cloak and a tunic,
+413 | 1729.140 | and                |              0 | and she, the nymph, put on a great silver-shining mantle,
+414 | 1732.980 | fine               |              0 | fine-woven and graceful, and cast about her waist a belt,
+415 | 1736.600 | beautiful          |              0 | beautiful, golden, and set a veil on her head above.
+416 | 1740.080 | And                |              0 | And I went through the halls and roused my companions / with gentle words, standing by each man in turn:
+417 | 1745.700 | more               |              1 | 'No more lying now, drowsing in sweet sleep.
+418 | 1748.420 | let                |              0 | Let us go: the lady Circe has shown me the way.'
+419 | 1751.440 | so                 |              0 | So I spoke, and their proud hearts consented.
+420 | 1754.800 | But                |              0 | But not even from there could I / bring my companions off unharmed.
+421 | 1758.300 | There              |              0 | There was one, Elpenor, the youngest of all — / no great fighter in war, no steady mind on him —
+422 | 1764.380 | who                |              0 | who had lain down apart from his / companions in the sacred house of Circe,
+423 | 1768.160 | heavy              |              0 | heavy with wine, wanting the cool air.
+424 | 1770.640 | Hearing            |              0 | Hearing the noise and stir of his companions moving,
+425 | 1773.000 | he                 |              0 | he leapt up all at once — and forgot, in his fuddled wits, / to come back down again by the long ladder;
+426 | 1779.260 | he                 |              0 | he fell headlong from the roof, and his neck snapped / from the spine; and his soul went down to Hades.
+427 | 1785.240 | And                |              0 | And as my men were setting out I spoke among them:
+428 | 1787.760 | think              |              1 | 'You think, no doubt, that you are going home, to your own
+429 | 1790.160 | dear               |              0 | dear fatherland. But Circe has / marked out another road for us:
+430 | 1793.960 | to                 |              0 | to the house of Hades and dread Persephone, / to consult the ghost of Theban Tiresias.'
+431 | 1799.000 | So                 |              0 | So I spoke, and their own hearts broke within them:
+432 | 1802.240 | They               |              0 | they sat down right where they were, / and wailed, and tore their hair —
+433 | 1805.940 | but                |              0 | but nothing came of all their mourning.
+434 | 1807.540 | and                |              0 | And while we walked to the fast ship and the shore / of the sea, grieving, letting the big tears fall,
+435 | 1814.200 | meanwhile          |              1 | Circe meanwhile had gone down, and beside the / black ship had tethered a ram and a black ewe —
+436 | 1819.700 | slipping           |              0 | slipping past us with ease. Who could see a god / against the god's will, moving here or there?

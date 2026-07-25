@@ -1,0 +1,1284 @@
+{
+  "book": "book-06",
+  "duration": 1058.09,
+  "visual_lead": 0.16,
+  "cues": [
+    {
+      "start": 0.0,
+      "end": 7.84,
+      "kind": "title",
+      "text": "ODYSSEY — BOOK VI"
+    },
+    {
+      "start": 0.0,
+      "end": 7.84,
+      "kind": "deck",
+      "text": "Nausicaa at the river;\\nthe naked stranger; the road to the city."
+    },
+    {
+      "start": 7.84,
+      "end": 14.86,
+      "text": "So he slept there, much-enduring noble Odysseus,\\novercome with sleep and weariness. But Athena"
+    },
+    {
+      "start": 14.86,
+      "end": 22.12,
+      "text": "went her way to the land and city of the Phaeacian men,\\nwho once, in years past, lived in spacious Hypereia,"
+    },
+    {
+      "start": 22.12,
+      "end": 29.7,
+      "text": "near the Cyclopes, men of overweening pride,\\nwho kept raiding them, and were the stronger in force."
+    },
+    {
+      "start": 29.7,
+      "end": 34.3,
+      "text": "From there godlike Nausithous\\nhad uprooted them and led them,"
+    },
+    {
+      "start": 34.3,
+      "end": 41.56,
+      "text": "and settled them in Scheria, far from men who eat bread,\\nand drove a wall around the city, and built houses,"
+    },
+    {
+      "start": 41.56,
+      "end": 45.88,
+      "text": "and made temples for the gods,\\nand divided out the plowlands."
+    },
+    {
+      "start": 45.88,
+      "end": 50.54,
+      "text": "But he long since had gone down to Hades, broken by fate,"
+    },
+    {
+      "start": 50.54,
+      "end": 54.62,
+      "text": "and now Alcinous ruled, his counsels known from the gods."
+    },
+    {
+      "start": 54.62,
+      "end": 61.2,
+      "text": "To his house went the goddess, gray-eyed Athena,\\ndevising the homecoming of great-hearted Odysseus."
+    },
+    {
+      "start": 61.2,
+      "end": 68.0,
+      "text": "She went into the richly-worked chamber where a girl\\nlay sleeping, like the immortals in build and beauty:"
+    },
+    {
+      "start": 68.0,
+      "end": 73.92,
+      "text": "Nausicaa, daughter of great-hearted Alcinous;\\nand by her two handmaids, with beauty from the Graces,"
+    },
+    {
+      "start": 73.92,
+      "end": 76.92,
+      "text": "one at each doorpost; and the shining doors were shut."
+    },
+    {
+      "start": 76.92,
+      "end": 82.92,
+      "text": "Like a breath of wind she swept to the girl's\\nbed and stood above her head, and spoke to her,"
+    },
+    {
+      "start": 82.92,
+      "end": 89.2,
+      "text": "in the likeness of the daughter of Dymas, famed for\\nships, a girl her own age, and dear to her heart."
+    },
+    {
+      "start": 89.2,
+      "end": 92.22,
+      "text": "In her likeness gray-eyed Athena said:"
+    },
+    {
+      "start": 92.22,
+      "end": 95.2,
+      "text": "\"Nausicaa, how did your mother bear so careless a girl?"
+    },
+    {
+      "start": 95.2,
+      "end": 100.98,
+      "text": "Your shining clothes lie there uncared-for — and your\\nwedding is near, when you must wear beautiful things"
+    },
+    {
+      "start": 100.98,
+      "end": 104.47,
+      "text": "yourself, and provide them for\\nthose who lead you in procession:"
+    },
+    {
+      "start": 104.47,
+      "end": 107.86,
+      "text": "it is from things like these that a good name goes up"
+    },
+    {
+      "start": 107.86,
+      "end": 111.76,
+      "text": "among the people, and a father\\nand honored mother are glad."
+    },
+    {
+      "start": 111.76,
+      "end": 114.82,
+      "text": "Come, let us go washing at the showing of dawn:"
+    },
+    {
+      "start": 114.82,
+      "end": 117.8,
+      "text": "I will come with you and work\\nbeside you, so you may be ready"
+    },
+    {
+      "start": 117.8,
+      "end": 121.48,
+      "text": "the sooner — for truly not much longer will you be unwed:"
+    },
+    {
+      "start": 121.48,
+      "end": 127.36,
+      "text": "already the best men through all the land of the\\nPhaeacians are wooing you — and your own line is theirs."
+    },
+    {
+      "start": 127.36,
+      "end": 133.34,
+      "text": "Come then: press your famous father, before the dawn,\\nto make ready the mules and a wagon to carry"
+    },
+    {
+      "start": 133.34,
+      "end": 136.6,
+      "text": "the sashes and the robes and the shining coverlets."
+    },
+    {
+      "start": 136.6,
+      "end": 139.62,
+      "text": "And for yourself, too,\\nit is far more fitting so than going"
+    },
+    {
+      "start": 139.62,
+      "end": 143.66,
+      "text": "on foot: the washing-pools are a long way from the city.\""
+    },
+    {
+      "start": 143.66,
+      "end": 148.94,
+      "text": "So speaking, gray-eyed Athena went away to Olympus,\\nwhere they say the seat of the gods stands fast"
+    },
+    {
+      "start": 148.94,
+      "end": 155.34,
+      "text": "forever: not shaken by winds, never soaked by rain,\\nnor does snow come near it, but clear sky"
+    },
+    {
+      "start": 155.34,
+      "end": 159.12,
+      "text": "spreads cloudless there,\\nand a white radiance runs over it;"
+    },
+    {
+      "start": 159.12,
+      "end": 162.52,
+      "text": "in that place the blessed gods\\ntake pleasure all their days."
+    },
+    {
+      "start": 162.52,
+      "end": 165.46,
+      "text": "There the gray-eyed one went,\\nwhen she had counseled the girl."
+    },
+    {
+      "start": 165.46,
+      "end": 171.82,
+      "text": "At once Dawn came on her fair throne, and woke Nausicaa\\nof the lovely robe; and she wondered at her dream"
+    },
+    {
+      "start": 171.82,
+      "end": 177.08,
+      "text": "and went through the house to tell her parents,\\nher dear father and mother. She found them within:"
+    },
+    {
+      "start": 177.08,
+      "end": 182.74,
+      "text": "her mother sat at the hearth with her attendant women,\\nspinning yarn dyed sea-purple; her father she met"
+    },
+    {
+      "start": 182.74,
+      "end": 189.02,
+      "text": "at the door, on his way out to join the famous kings\\nin council, where the lordly Phaeacians called him."
+    },
+    {
+      "start": 189.02,
+      "end": 191.78,
+      "text": "She stood close to her dear father and said:"
+    },
+    {
+      "start": 191.78,
+      "end": 194.04,
+      "text": "\"Papa dear, won't you make ready a wagon for me,"
+    },
+    {
+      "start": 194.04,
+      "end": 197.22,
+      "text": "the high one with the good wheels,\\nso I can take the fine clothes"
+    },
+    {
+      "start": 197.22,
+      "end": 200.76,
+      "text": "to the river for washing, that lie about me dirty?"
+    },
+    {
+      "start": 200.76,
+      "end": 204.0,
+      "text": "And for you too it is only proper,\\nwhen you sit among the first men"
+    },
+    {
+      "start": 204.0,
+      "end": 207.76,
+      "text": "debating counsels, to have clean clothing on your body."
+    },
+    {
+      "start": 207.76,
+      "end": 213.62,
+      "text": "And five dear sons have been born to you in these halls —\\ntwo married, and three flourishing bachelors —"
+    },
+    {
+      "start": 213.62,
+      "end": 215.94,
+      "text": "and they are always wanting fresh-washed clothes to wear"
+    },
+    {
+      "start": 215.94,
+      "end": 219.34,
+      "text": "when they go to the dancing. All this is on my mind.\""
+    },
+    {
+      "start": 219.34,
+      "end": 225.72,
+      "text": "So she spoke: she was shy of naming ripe marriage\\nto her dear father. But he saw it all, and answered:"
+    },
+    {
+      "start": 225.72,
+      "end": 229.16,
+      "text": "\"I do not grudge you the mules, child, or anything else."
+    },
+    {
+      "start": 229.16,
+      "end": 232.12,
+      "text": "Go: the slaves will make ready a wagon for you,"
+    },
+    {
+      "start": 232.12,
+      "end": 235.38,
+      "text": "the high one with the good wheels,\\nfitted with its top-rack.\""
+    },
+    {
+      "start": 235.38,
+      "end": 237.68,
+      "text": "So saying he called to the slaves, and they obeyed."
+    },
+    {
+      "start": 237.68,
+      "end": 243.5,
+      "text": "Outside, they made ready the smooth-running mule\\nwagon and led the mules under and yoked them to it;"
+    },
+    {
+      "start": 243.5,
+      "end": 247.74,
+      "text": "and the girl brought the shining clothing from\\nher room and laid it in the polished wagon,"
+    },
+    {
+      "start": 247.74,
+      "end": 252.92,
+      "text": "and her mother packed a box with heartening food\\nof every kind — put in delicacies, and poured wine"
+    },
+    {
+      "start": 252.92,
+      "end": 256.32,
+      "text": "in a goatskin bag; and the girl climbed up on the wagon."
+    },
+    {
+      "start": 256.32,
+      "end": 259.28,
+      "text": "And she gave her soft olive oil in a golden flask,"
+    },
+    {
+      "start": 259.28,
+      "end": 262.9,
+      "text": "so she and her attendant women might\\nanoint themselves after bathing."
+    },
+    {
+      "start": 262.9,
+      "end": 265.5,
+      "text": "And she took up the whip and the glossy reins"
+    },
+    {
+      "start": 265.5,
+      "end": 269.16,
+      "text": "and whipped the mules to a run;\\nand there was a clatter of hooves,"
+    },
+    {
+      "start": 269.16,
+      "end": 272.46,
+      "text": "and they strained on without slackening,\\ncarrying the clothes and her —"
+    },
+    {
+      "start": 272.46,
+      "end": 275.22,
+      "text": "not alone: her handmaids went along beside her."
+    },
+    {
+      "start": 275.22,
+      "end": 277.48,
+      "text": "And when they came to the beautiful stream of the river,"
+    },
+    {
+      "start": 277.48,
+      "end": 280.84,
+      "text": "where the washing-pools never fail — plenty of clear water"
+    },
+    {
+      "start": 280.84,
+      "end": 284.56,
+      "text": "welling up through and running over,\\nto clean the dirtiest things —"
+    },
+    {
+      "start": 284.56,
+      "end": 288.74,
+      "text": "there they loosed the mules from under the\\nwagon and shooed them along the eddying river"
+    },
+    {
+      "start": 288.74,
+      "end": 292.24,
+      "text": "to graze the honey-sweet water-grass;\\nand they lifted the clothes"
+    },
+    {
+      "start": 292.24,
+      "end": 295.6,
+      "text": "from the wagon in armfuls and\\ncarried them into the dark water,"
+    },
+    {
+      "start": 295.6,
+      "end": 299.06,
+      "text": "and trod them briskly in the trenches, racing one another."
+    },
+    {
+      "start": 299.06,
+      "end": 301.38,
+      "text": "And when they had washed and rinsed away all the dirt,"
+    },
+    {
+      "start": 301.38,
+      "end": 304.94,
+      "text": "they spread everything out in\\nrows along the shingle of the sea,"
+    },
+    {
+      "start": 304.94,
+      "end": 308.18,
+      "text": "where the waves washed the pebbles\\ncleanest against the shore."
+    },
+    {
+      "start": 308.18,
+      "end": 311.56,
+      "text": "And when they had bathed and\\nrubbed themselves richly with oil,"
+    },
+    {
+      "start": 311.56,
+      "end": 317.08,
+      "text": "they took their meal by the banks of the river and\\nwaited for the clothes to dry in the shining of the sun."
+    },
+    {
+      "start": 317.08,
+      "end": 319.96,
+      "text": "And when she and her slave-women\\nhad had their joy of food,"
+    },
+    {
+      "start": 319.96,
+      "end": 325.48,
+      "text": "they threw off their head-veils and played at ball,\\nand white-armed Nausicaa led them in the singing."
+    },
+    {
+      "start": 325.48,
+      "end": 330.96,
+      "text": "As Artemis the arrow-pourer goes down the\\nmountains, down long Taygetus or Erymanthus,"
+    },
+    {
+      "start": 330.96,
+      "end": 336.58,
+      "text": "delighting in the boars and the running deer,\\nand with her the nymphs, daughters of aegis-bearing Zeus,"
+    },
+    {
+      "start": 336.58,
+      "end": 342.7,
+      "text": "play across the wild country, and Leto's heart is glad,\\nfor she carries her head and brow above them all"
+    },
+    {
+      "start": 342.7,
+      "end": 345.16,
+      "text": "and is known at once, though all of them are beautiful:"
+    },
+    {
+      "start": 345.16,
+      "end": 347.88,
+      "text": "so the unwed girl outshone her handmaids."
+    },
+    {
+      "start": 347.88,
+      "end": 353.56,
+      "text": "But when she was about to fold the beautiful clothes,\\nyoke the mules, and turn for home again,"
+    },
+    {
+      "start": 353.56,
+      "end": 357.42,
+      "text": "then the goddess thought of one\\nthing more, gray-eyed Athena:"
+    },
+    {
+      "start": 357.42,
+      "end": 360.84,
+      "text": "that Odysseus should wake, and see the lovely-eyed girl,"
+    },
+    {
+      "start": 360.84,
+      "end": 364.14,
+      "text": "and she should lead him to the city of the Phaeacian men."
+    },
+    {
+      "start": 364.14,
+      "end": 367.28,
+      "text": "So the princess tossed the ball to one of her handmaids;"
+    },
+    {
+      "start": 367.28,
+      "end": 374.04,
+      "text": "the handmaid she missed, and it fell in a deep eddy,\\nand they shrieked aloud. And noble Odysseus woke,"
+    },
+    {
+      "start": 374.04,
+      "end": 377.18,
+      "text": "and sitting up he turned it over in his mind and heart:"
+    },
+    {
+      "start": 377.18,
+      "end": 380.54,
+      "text": "\"Ah me — whose country have I come to now? What men's?"
+    },
+    {
+      "start": 380.54,
+      "end": 386.24,
+      "text": "Are they violent, savage, without justice,\\nor kind to strangers, with hearts that fear the gods?"
+    },
+    {
+      "start": 386.24,
+      "end": 390.08,
+      "text": "A female crying rang around me just now — girls' voices:"
+    },
+    {
+      "start": 390.08,
+      "end": 395.14,
+      "text": "nymphs, who hold the sheer peaks of the mountains and\\nthe springs of rivers and the grassy water-meadows?"
+    },
+    {
+      "start": 395.14,
+      "end": 398.5,
+      "text": "Or am I now, can it be, near men with human speech?"
+    },
+    {
+      "start": 398.5,
+      "end": 401.54,
+      "text": "Come — I will test it for myself, and see.\""
+    },
+    {
+      "start": 401.54,
+      "end": 404.04,
+      "text": "So speaking noble Odysseus slipped out from the thicket,"
+    },
+    {
+      "start": 404.04,
+      "end": 407.62,
+      "text": "and from the thick wood with\\nhis heavy hand he broke a branch"
+    },
+    {
+      "start": 407.62,
+      "end": 411.62,
+      "text": "in leaf, to hold about his body\\nand screen a man's privates."
+    },
+    {
+      "start": 411.62,
+      "end": 417.5,
+      "text": "And he went like a mountain-bred lion, sure of his strength,\\nwho goes on through rain and wind, his two eyes"
+    },
+    {
+      "start": 417.5,
+      "end": 422.74,
+      "text": "burning, and he comes down on the cattle or the\\nsheep or the wild deer, for his belly commands him"
+    },
+    {
+      "start": 422.74,
+      "end": 426.64,
+      "text": "to make trial of the flocks —\\neven to enter the close-built fold:"
+    },
+    {
+      "start": 426.64,
+      "end": 432.9,
+      "text": "so Odysseus was about to come among the fair-braided\\ngirls, naked as he was: for need had come upon him."
+    },
+    {
+      "start": 432.9,
+      "end": 437.12,
+      "text": "And he loomed terrible before them,\\ncrusted with the salt sea's brine,"
+    },
+    {
+      "start": 437.12,
+      "end": 441.38,
+      "text": "and they scattered, one here,\\none there, along the jutting sandspits."
+    },
+    {
+      "start": 441.38,
+      "end": 443.88,
+      "text": "Alone the daughter of Alcinous stayed: for Athena"
+    },
+    {
+      "start": 443.88,
+      "end": 447.46,
+      "text": "set courage in her heart and took\\nthe trembling from her limbs."
+    },
+    {
+      "start": 447.46,
+      "end": 452.0,
+      "text": "She stood and faced him, holding\\nher ground. And Odysseus weighed it,"
+    },
+    {
+      "start": 452.0,
+      "end": 457.64,
+      "text": "whether to clasp the knees of the lovely-eyed girl and beg,\\nor standing apart as he was, with honeyed words,"
+    },
+    {
+      "start": 457.64,
+      "end": 461.3,
+      "text": "to beg her to show him the city and give him clothing."
+    },
+    {
+      "start": 461.3,
+      "end": 463.68,
+      "text": "And as he weighed it, this seemed the better way:"
+    },
+    {
+      "start": 463.68,
+      "end": 469.22,
+      "text": "to stand apart and beg with honeyed words,\\nlest the girl's heart take anger if he touched her knees."
+    },
+    {
+      "start": 469.22,
+      "end": 472.74,
+      "text": "At once he spoke — a honeyed speech, and a shrewd one:"
+    },
+    {
+      "start": 472.74,
+      "end": 475.98,
+      "text": "\"I am at your knees, queen — goddess or mortal, are you?"
+    },
+    {
+      "start": 475.98,
+      "end": 481.02,
+      "text": "If you are one of the gods who hold wide heaven,\\nthen it is to Artemis, daughter of great Zeus,"
+    },
+    {
+      "start": 481.02,
+      "end": 484.48,
+      "text": "that I liken you nearest —\\nin beauty, in stature, in bearing."
+    },
+    {
+      "start": 484.48,
+      "end": 487.5,
+      "text": "But if you are one of the mortals who live on the earth,"
+    },
+    {
+      "start": 487.5,
+      "end": 490.26,
+      "text": "three times blessed your father and your honored mother,"
+    },
+    {
+      "start": 490.26,
+      "end": 492.62,
+      "text": "three times blessed your brothers! Surely their hearts"
+    },
+    {
+      "start": 492.62,
+      "end": 495.54,
+      "text": "are warmed through with gladness always because of you,"
+    },
+    {
+      "start": 495.54,
+      "end": 498.72,
+      "text": "watching such a young shoot go stepping into the dance."
+    },
+    {
+      "start": 498.72,
+      "end": 501.02,
+      "text": "But blessed at heart above all others is that man"
+    },
+    {
+      "start": 501.02,
+      "end": 504.54,
+      "text": "who weighs down the scales of the\\nbride-gifts and leads you home."
+    },
+    {
+      "start": 504.54,
+      "end": 510.56,
+      "text": "For my eyes have never seen a mortal like you,\\nnot man, not woman. Awe takes me, looking at you."
+    },
+    {
+      "start": 510.56,
+      "end": 517.38,
+      "text": "In Delos once, beside Apollo's altar, I saw such a thing:\\nthe young shoot of a date-palm springing up —"
+    },
+    {
+      "start": 517.38,
+      "end": 522.9,
+      "text": "for I came there too, and a great host followed me,\\non that road where my bitter cares were to be —"
+    },
+    {
+      "start": 522.9,
+      "end": 525.72,
+      "text": "and just as, seeing that, I stood amazed at heart"
+    },
+    {
+      "start": 525.72,
+      "end": 530.04,
+      "text": "a long time, since no such stem\\nhad ever risen from the earth,"
+    },
+    {
+      "start": 530.04,
+      "end": 536.82,
+      "text": "so, lady, I wonder at you, amazed, and I am terribly\\nafraid to touch your knees. But hard grief is upon me."
+    },
+    {
+      "start": 536.82,
+      "end": 540.7,
+      "text": "Yesterday, on the twentieth day,\\nI escaped the wine-dark sea:"
+    },
+    {
+      "start": 540.7,
+      "end": 544.1,
+      "text": "all that time the waves carried me,\\nand the driving storms,"
+    },
+    {
+      "start": 544.1,
+      "end": 548.28,
+      "text": "away from the island Ogygia.\\nAnd now some power has cast me here —"
+    },
+    {
+      "start": 548.28,
+      "end": 551.88,
+      "text": "to suffer some new evil in this place too,\\nno doubt: for I do not think"
+    },
+    {
+      "start": 551.88,
+      "end": 555.92,
+      "text": "the evil will stop; the gods will\\naccomplish plenty more first."
+    },
+    {
+      "start": 555.92,
+      "end": 561.16,
+      "text": "But pity me, queen. After many hard labors it\\nis to you first I have come; I know not one"
+    },
+    {
+      "start": 561.16,
+      "end": 564.16,
+      "text": "of the others whose city and land this is."
+    },
+    {
+      "start": 564.16,
+      "end": 567.44,
+      "text": "Show me the town, and give me a rag to throw around me —"
+    },
+    {
+      "start": 567.44,
+      "end": 571.32,
+      "text": "if perhaps you had some wrapping-cloth\\nfor the linen when you came."
+    },
+    {
+      "start": 571.32,
+      "end": 574.54,
+      "text": "And may the gods grant you all your heart desires:"
+    },
+    {
+      "start": 574.54,
+      "end": 578.7,
+      "text": "a husband and a house — and may they add like-mindedness,"
+    },
+    {
+      "start": 578.7,
+      "end": 583.04,
+      "text": "the good kind. For nothing is\\nstronger or better than that:"
+    },
+    {
+      "start": 583.04,
+      "end": 589.34,
+      "text": "when two who think alike keep house together,\\na man and his wife — much grief to their ill-wishers,"
+    },
+    {
+      "start": 589.34,
+      "end": 593.44,
+      "text": "joy to their friends; and they themselves know it best.\""
+    },
+    {
+      "start": 593.44,
+      "end": 595.86,
+      "text": "Then white-armed Nausicaa answered him:"
+    },
+    {
+      "start": 595.86,
+      "end": 599.46,
+      "text": "\"Stranger — since you seem\\nneither base nor witless a man —"
+    },
+    {
+      "start": 599.46,
+      "end": 606.26,
+      "text": "it is Olympian Zeus himself who deals out fortune to\\nmankind, to good and bad, to each one as he wills;"
+    },
+    {
+      "start": 606.26,
+      "end": 611.18,
+      "text": "and to you, I suppose, he gave this lot,\\nand you must bear it, come what may."
+    },
+    {
+      "start": 611.18,
+      "end": 613.94,
+      "text": "But now, since you have come to our city and our land,"
+    },
+    {
+      "start": 613.94,
+      "end": 619.56,
+      "text": "you shall not want for clothing, nor for anything\\nelse that is owed a hard-worn suppliant when he comes."
+    },
+    {
+      "start": 619.56,
+      "end": 623.36,
+      "text": "I will show you the town,\\nand tell you the name of the people."
+    },
+    {
+      "start": 623.36,
+      "end": 627.78,
+      "text": "The Phaeacians hold this city and this land,\\nand I am the daughter of great-hearted Alcinous,"
+    },
+    {
+      "start": 627.78,
+      "end": 631.48,
+      "text": "on whom the strength and power of the Phaeacians hang.\""
+    },
+    {
+      "start": 631.48,
+      "end": 634.84,
+      "text": "She spoke, and called to her fair-braided handmaids:"
+    },
+    {
+      "start": 634.84,
+      "end": 638.32,
+      "text": "\"Stand still, you girls! Where are\\nyou running at the sight of a man?"
+    },
+    {
+      "start": 638.32,
+      "end": 640.9,
+      "text": "You cannot think he is one of an enemy people?"
+    },
+    {
+      "start": 640.9,
+      "end": 645.48,
+      "text": "There is no living mortal, and there will be none,\\nwho could come bearing war into the land"
+    },
+    {
+      "start": 645.48,
+      "end": 648.68,
+      "text": "of the Phaeacian men. For we are\\nvery dear to the deathless ones,"
+    },
+    {
+      "start": 648.68,
+      "end": 655.34,
+      "text": "and we live apart, in the much-surging sea,\\nat the world's edge, and no other mortals mix with us."
+    },
+    {
+      "start": 655.34,
+      "end": 658.6,
+      "text": "No — this is some poor wanderer come here astray,"
+    },
+    {
+      "start": 658.6,
+      "end": 662.54,
+      "text": "whom we must care for now.\\nFrom Zeus they come, all of them,"
+    },
+    {
+      "start": 662.54,
+      "end": 666.52,
+      "text": "strangers and beggars; and a gift, though small, is dear."
+    },
+    {
+      "start": 666.52,
+      "end": 669.24,
+      "text": "Come, girls: give the stranger food and drink,"
+    },
+    {
+      "start": 669.24,
+      "end": 672.5,
+      "text": "and bathe him in the river,\\nwhere there is shelter from the wind.\""
+    },
+    {
+      "start": 672.5,
+      "end": 675.84,
+      "text": "So she spoke; and they stood, and called to one another,"
+    },
+    {
+      "start": 675.84,
+      "end": 680.2,
+      "text": "and they set Odysseus down in the\\nsheltered place, as she commanded —"
+    },
+    {
+      "start": 680.2,
+      "end": 685.86,
+      "text": "Nausicaa, daughter of great-hearted Alcinous —\\nand laid a mantle and a tunic by him for clothing,"
+    },
+    {
+      "start": 685.86,
+      "end": 691.76,
+      "text": "and gave him soft olive oil in the golden flask,\\nand urged him to bathe in the streams of the river."
+    },
+    {
+      "start": 691.76,
+      "end": 694.68,
+      "text": "Then noble Odysseus spoke among the handmaids:"
+    },
+    {
+      "start": 694.68,
+      "end": 698.2,
+      "text": "\"Stand off there, girls, at a distance, so that I myself"
+    },
+    {
+      "start": 698.2,
+      "end": 701.08,
+      "text": "may wash the brine from my shoulders, and rub myself"
+    },
+    {
+      "start": 701.08,
+      "end": 704.8,
+      "text": "with oil: it is long indeed since oil came near my skin."
+    },
+    {
+      "start": 704.8,
+      "end": 710.4,
+      "text": "But I will not bathe in front of you. I would be\\nashamed to stand naked among fair-braided girls.\""
+    },
+    {
+      "start": 710.4,
+      "end": 713.72,
+      "text": "So he spoke; and they went apart, and told the girl."
+    },
+    {
+      "start": 713.72,
+      "end": 716.66,
+      "text": "And noble Odysseus washed his body in the river,"
+    },
+    {
+      "start": 716.66,
+      "end": 720.0,
+      "text": "sluicing off the brine that caked\\nhis back and broad shoulders,"
+    },
+    {
+      "start": 720.0,
+      "end": 723.22,
+      "text": "and scrubbed from his head the\\nsalt-scurf of the barren sea."
+    },
+    {
+      "start": 723.22,
+      "end": 726.6,
+      "text": "And when he had washed all over,\\nand rubbed himself with oil,"
+    },
+    {
+      "start": 726.6,
+      "end": 732.32,
+      "text": "and put on the clothes the unwed girl had given him,\\nthen Athena, born of Zeus, made him"
+    },
+    {
+      "start": 732.32,
+      "end": 735.58,
+      "text": "taller to look at, and broader, and down from his head"
+    },
+    {
+      "start": 735.58,
+      "end": 739.58,
+      "text": "she made the locks flow in curls,\\nlike the hyacinth flower."
+    },
+    {
+      "start": 739.58,
+      "end": 744.9,
+      "text": "As when a man lays gold over silver — a craftsman\\nwhom Hephaestus and Pallas Athena have taught"
+    },
+    {
+      "start": 744.9,
+      "end": 752.28,
+      "text": "art of every kind, and he finishes works full of grace —\\nso she poured grace over his head and shoulders."
+    },
+    {
+      "start": 752.28,
+      "end": 755.16,
+      "text": "Then he went apart and sat on the shingle of the sea,"
+    },
+    {
+      "start": 755.16,
+      "end": 760.9,
+      "text": "shining with beauty and grace. And the girl gazed at him,\\nand spoke among her fair-braided handmaids:"
+    },
+    {
+      "start": 760.9,
+      "end": 764.46,
+      "text": "\"Listen, my white-armed girls, while I say something."
+    },
+    {
+      "start": 764.46,
+      "end": 770.0,
+      "text": "Not against the will of all the gods who hold Olympus\\ndoes this man come among the godlike Phaeacians."
+    },
+    {
+      "start": 770.0,
+      "end": 776.44,
+      "text": "Before, I confess, he seemed to me a sorry sight;\\nnow he is like the gods who hold wide heaven."
+    },
+    {
+      "start": 776.44,
+      "end": 781.4,
+      "text": "If only such a man might be called my husband,\\nliving here — if only it pleased him to stay!"
+    },
+    {
+      "start": 781.4,
+      "end": 784.7,
+      "text": "But come, girls: give the stranger food and drink.\""
+    },
+    {
+      "start": 784.7,
+      "end": 789.8,
+      "text": "So she spoke, and they listened well and obeyed,\\nand set food and drink beside Odysseus."
+    },
+    {
+      "start": 789.8,
+      "end": 798.28,
+      "text": "And he drank and ate, much-enduring noble Odysseus,\\nravenously: it was long since he had tasted food."
+    },
+    {
+      "start": 798.28,
+      "end": 802.3,
+      "text": "But white-armed Nausicaa thought of one thing more:"
+    },
+    {
+      "start": 802.3,
+      "end": 805.64,
+      "text": "she folded the clothes and stowed\\nthem in the beautiful wagon,"
+    },
+    {
+      "start": 805.64,
+      "end": 809.56,
+      "text": "and yoked the strong-hoofed mules, and mounted herself,"
+    },
+    {
+      "start": 809.56,
+      "end": 813.52,
+      "text": "and called Odysseus on, and spoke a word, and named him:"
+    },
+    {
+      "start": 813.52,
+      "end": 817.14,
+      "text": "\"Up now, stranger, and we go\\nto the city, so I may send you"
+    },
+    {
+      "start": 817.14,
+      "end": 823.22,
+      "text": "to the house of my wise father — where, I promise you,\\nyou will meet the best men of all the Phaeacians."
+    },
+    {
+      "start": 823.22,
+      "end": 827.04,
+      "text": "Only do exactly this —\\nyou do not seem to me short of sense."
+    },
+    {
+      "start": 827.04,
+      "end": 832.72,
+      "text": "While we are passing the fields and the works of men,\\nwalk with the handmaids, behind the mules and wagon,"
+    },
+    {
+      "start": 832.72,
+      "end": 834.98,
+      "text": "briskly; I will lead the way."
+    },
+    {
+      "start": 834.98,
+      "end": 838.28,
+      "text": "But when we are about to enter\\nthe city — a high wall rings it,"
+    },
+    {
+      "start": 838.28,
+      "end": 841.02,
+      "text": "and a beautiful harbor lies on either side of the town,"
+    },
+    {
+      "start": 841.02,
+      "end": 844.2,
+      "text": "with a narrow causeway in;\\nand the curved ships are drawn up"
+    },
+    {
+      "start": 844.2,
+      "end": 847.36,
+      "text": "along the road, for every man has his own slip there;"
+    },
+    {
+      "start": 847.36,
+      "end": 850.98,
+      "text": "and there is the gathering-place\\naround Poseidon's fine precinct,"
+    },
+    {
+      "start": 850.98,
+      "end": 856.84,
+      "text": "fitted with quarried stones set deep in the earth;\\nand there men see to the tackle of their black ships,"
+    },
+    {
+      "start": 856.84,
+      "end": 860.14,
+      "text": "the cables and the sails, and fine down their oars —"
+    },
+    {
+      "start": 860.14,
+      "end": 863.04,
+      "text": "for the Phaeacians care nothing for the bow or the quiver,"
+    },
+    {
+      "start": 863.04,
+      "end": 866.9,
+      "text": "but for masts, and ships' oars,\\nand the trim ships themselves,"
+    },
+    {
+      "start": 866.9,
+      "end": 870.08,
+      "text": "in which they delight as they cross the gray salt sea —"
+    },
+    {
+      "start": 870.08,
+      "end": 873.42,
+      "text": "it is their ugly talk I shrink from:\\nsomeone behind my back"
+    },
+    {
+      "start": 873.42,
+      "end": 879.7,
+      "text": "There are insolent men enough in the town;\\nand one of the meaner sort, meeting us, might say:"
+    },
+    {
+      "start": 879.7,
+      "end": 882.6,
+      "text": "'Who is this following Nausicaa — this tall handsome"
+    },
+    {
+      "start": 882.6,
+      "end": 886.54,
+      "text": "stranger? Where did she find him?\\nA husband for her, no doubt!"
+    },
+    {
+      "start": 886.54,
+      "end": 892.34,
+      "text": "Some castaway she has taken up, off his ship,\\na man from far parts — since nobody lives near us;"
+    },
+    {
+      "start": 892.34,
+      "end": 898.74,
+      "text": "or some god, long prayed-for, come down to her out of\\nheaven in answer, and hers he will be all her days!"
+    },
+    {
+      "start": 898.74,
+      "end": 901.58,
+      "text": "Better so, if she has gone out and found herself a husband"
+    },
+    {
+      "start": 901.58,
+      "end": 905.04,
+      "text": "from elsewhere — since she\\nscorns her own, here in the land,"
+    },
+    {
+      "start": 905.04,
+      "end": 907.74,
+      "text": "the Phaeacians, though many fine men are wooing her!'"
+    },
+    {
+      "start": 907.74,
+      "end": 910.84,
+      "text": "So they will say, and it would be a reproach against me."
+    },
+    {
+      "start": 910.84,
+      "end": 914.02,
+      "text": "And I would blame another girl who did such things myself:"
+    },
+    {
+      "start": 914.02,
+      "end": 916.76,
+      "text": "who, against the will of her\\ndear father and mother living,"
+    },
+    {
+      "start": 916.76,
+      "end": 919.8,
+      "text": "kept company with men before the day of open marriage."
+    },
+    {
+      "start": 919.8,
+      "end": 925.92,
+      "text": "So, stranger, mark my word quickly, and you will\\nwin escort and homecoming from my father soonest."
+    },
+    {
+      "start": 925.92,
+      "end": 928.9,
+      "text": "You will find a shining grove of Athena near the road —"
+    },
+    {
+      "start": 928.9,
+      "end": 932.92,
+      "text": "poplars; a spring wells up in it; a meadow lies around it."
+    },
+    {
+      "start": 932.92,
+      "end": 938.62,
+      "text": "There is my father's park there, and his flourishing orchard,\\nas far from the city as a man's shout carries."
+    },
+    {
+      "start": 938.62,
+      "end": 943.82,
+      "text": "Sit down there and wait a while, until we have\\nentered the town and reached my father's house."
+    },
+    {
+      "start": 943.82,
+      "end": 948.6,
+      "text": "But when you judge that we have reached the house,\\nthen go into the city of the Phaeacians, and ask"
+    },
+    {
+      "start": 948.6,
+      "end": 951.68,
+      "text": "for the house of my father, great-hearted Alcinous."
+    },
+    {
+      "start": 951.68,
+      "end": 957.46,
+      "text": "It is easily known: a little child could lead you —\\na baby; for the houses of the Phaeacians are not built"
+    },
+    {
+      "start": 957.46,
+      "end": 960.88,
+      "text": "anything like it — such is the house of the hero"
+    },
+    {
+      "start": 960.88,
+      "end": 963.38,
+      "text": "Alcinous. And once the buildings\\nand the court have hidden you,"
+    },
+    {
+      "start": 963.38,
+      "end": 966.32,
+      "text": "go quickly straight through the great hall, until you come"
+    },
+    {
+      "start": 966.32,
+      "end": 970.04,
+      "text": "to my mother. She sits at the\\nhearth in the light of the fire,"
+    },
+    {
+      "start": 970.04,
+      "end": 973.36,
+      "text": "spinning yarn dyed sea-purple — a wonder to see —"
+    },
+    {
+      "start": 973.36,
+      "end": 977.0,
+      "text": "leaning against a pillar,\\nand her slave-women sit behind her."
+    },
+    {
+      "start": 977.0,
+      "end": 982.58,
+      "text": "And there my father's chair is tilted close to hers,\\nwhere he sits and drinks his wine like an immortal."
+    },
+    {
+      "start": 982.58,
+      "end": 987.86,
+      "text": "Pass him by, and throw your arms around the knees of\\nmy mother — if you would see your day of homecoming"
+    },
+    {
+      "start": 987.86,
+      "end": 991.94,
+      "text": "with rejoicing, and quickly,\\nthough you come from very far."
+    },
+    {
+      "start": 991.94,
+      "end": 994.76,
+      "text": "If she once takes kindly thought for you in her heart,"
+    },
+    {
+      "start": 994.76,
+      "end": 1000.36,
+      "text": "then there is hope you will see your own people,\\nand come to your well-built house and your own fatherland.\""
+    },
+    {
+      "start": 1000.36,
+      "end": 1005.72,
+      "text": "So speaking she touched the mules with the shining whip,\\nand they quickly left the flowing river behind."
+    },
+    {
+      "start": 1005.72,
+      "end": 1009.26,
+      "text": "Well they trotted, well they wheeled their legs along,"
+    },
+    {
+      "start": 1009.26,
+      "end": 1013.12,
+      "text": "and she drove with care,\\nso that the walkers could keep pace —"
+    },
+    {
+      "start": 1013.12,
+      "end": 1017.36,
+      "text": "the handmaids and Odysseus —\\nand used the lash with judgment."
+    },
+    {
+      "start": 1017.36,
+      "end": 1024.92,
+      "text": "And the sun went down, and they came to the famous\\ngrove sacred to Athena. There noble Odysseus sat down,"
+    },
+    {
+      "start": 1024.92,
+      "end": 1028.04,
+      "text": "and at once he prayed to the daughter of great Zeus:"
+    },
+    {
+      "start": 1028.04,
+      "end": 1032.2,
+      "text": "\"Hear me, child of aegis-bearing Zeus, Unwearied One."
+    },
+    {
+      "start": 1032.2,
+      "end": 1035.08,
+      "text": "Hear me now at last, since before you never heard me"
+    },
+    {
+      "start": 1035.08,
+      "end": 1038.74,
+      "text": "when I was broken — when the famous earth-shaker broke me."
+    },
+    {
+      "start": 1038.74,
+      "end": 1042.84,
+      "text": "Grant that I come among the\\nPhaeacians pitied, and a friend.\""
+    },
+    {
+      "start": 1042.84,
+      "end": 1046.68,
+      "text": "So he spoke in prayer, and Pallas Athena heard him."
+    },
+    {
+      "start": 1046.68,
+      "end": 1050.46,
+      "text": "But she did not yet show herself\\nto him face to face: she stood"
+    },
+    {
+      "start": 1050.46,
+      "end": 1053.52,
+      "text": "in awe of her father's brother, who raged on furiously"
+    },
+    {
+      "start": 1053.52,
+      "end": 1058.09,
+      "text": "against godlike Odysseus,\\nuntil the day he reached his own land."
+    }
+  ]
+}

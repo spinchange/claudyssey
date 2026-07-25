@@ -1,0 +1,373 @@
+ODYSSEY — BOOK V full-book caption alignment
+Duration: 1586.426s
+Narration cues: 364
+Source words: 5101
+Directly matched source words: 4896 (96.0%)
+Recognized words: 5092
+Visual lead: 0.16s
+
+Cue | Start | Anchor | Missing prefix | Caption
+  1 |    7.820 | And                |              0 | And Dawn rose from her bed beside lordly Tithonus / to carry light to the immortals and to mortals;
+  2 |   14.960 | And                |              0 | and the gods were sitting down in council, among them / Zeus who thunders on high, whose power is greatest.
+  3 |   21.960 | And                |              0 | And Athena was telling over the many cares of Odysseus,
+  4 |   25.060 | remembering,       |              0 | remembering: it galled her that / he was still in the nymph's house:
+  5 |   29.920 | Father             |              0 | "Father Zeus, and you other blessed gods who are forever:
+  6 |   33.220 | let                |              0 | let no sceptered king ever again be willingly kind / and gentle, or know the right way in his heart;
+  7 |   39.020 | Let                |              0 | let him rather be harsh always, and act outrage — / since no one remembers godlike Odysseus
+  8 |   44.240 | among              |              0 | among the people he ruled, and he was gentle as a father.
+  9 |   47.780 | No,                |              0 | No — he lies on an island suffering strong pains in / the halls of the nymph Calypso, who holds him there
+ 10 |   53.120 | by                 |              0 | by force; and he cannot come to his own fatherland, / for he has no ships at hand, no oars, no companions
+ 11 |   59.560 | to                 |              0 | to carry him over the broad back of the sea.
+ 12 |   62.380 | And                |              0 | And now, besides, men are bent on killing his beloved / son on his way home: he went for news of his father
+ 13 |   68.260 | to                 |              0 | to holy Pylos and to shining Lacedaemon."
+ 14 |   71.900 | Then               |              0 | Then Zeus who gathers the clouds answered her:
+ 15 |   74.800 | My                 |              0 | "My child, what a word has / slipped the fence of your teeth!
+ 16 |   78.360 | Was                |              0 | Was it not you who framed this plan yourself —
+ 17 |   80.760 | that               |              0 | that Odysseus should come home / and take vengeance on those men?
+ 18 |   84.400 | As                 |              0 | As for Telemachus: guide him with / your skill — you have the power —
+ 19 |   88.260 | so                 |              0 | so that he reaches his own fatherland untouched, / and the suitors come back in their ship with nothing done."
+ 20 |   93.580 | He                 |              0 | He spoke, and turned to Hermes, his dear son:
+ 21 |   96.880 | Hermes,            |              0 | "Hermes — you are our messenger in all things else:
+ 22 |   99.680 | Tell               |              0 | tell the nymph of the lovely braids our fixed decree:
+ 23 |  102.880 | The                |              0 | the homecoming of enduring-hearted / Odysseus — that he shall return
+ 24 |  106.380 | with               |              0 | with no escort of gods and none of mortal men:
+ 25 |  109.140 | on                 |              0 | on a raft bound plank to plank, and suffering pains,
+ 26 |  112.600 | On                 |              0 | on the twentieth day he shall reach rich-soiled Scheria,
+ 27 |  115.720 | the                |              0 | the land of the Phaeacians, / who are born close kin to the gods.
+ 28 |  119.400 | They               |              0 | They will honor him with all their hearts, like a god, / and send him in a ship to his own dear fatherland,
+ 29 |  125.260 | giving             |              0 | giving him bronze and gold and clothing in plenty, / more than Odysseus would ever have carried out of Troy
+ 30 |  130.900 | had                |              0 | had he come home untouched with / his fair share of the spoils.
+ 31 |  134.280 | For                |              0 | For so it is his portion: to see his own people and / come to his high-roofed house and his own fatherland."
+ 32 |  140.720 | So                 |              0 | So he spoke, and the guide, / the slayer of Argus, did not disobey.
+ 33 |  145.760 | At                 |              0 | At once he bound beneath his feet the beautiful sandals, / ambrosial, golden, that carry him over the water
+ 34 |  152.140 | and                |              0 | and over the boundless earth with the breath of the wind;
+ 35 |  154.760 | and                |              0 | and he took up the rod with which he charms men's eyes
+ 36 |  157.340 | to                 |              0 | to sleep, whose eyes he wills, / and wakes others from their slumber.
+ 37 |  161.900 | With               |              0 | With this in his hands the strong slayer of Argus flew.
+ 38 |  165.300 | He                 |              0 | He stepped down on Pieria, / then dropped from the high air to the sea
+ 39 |  169.340 | and                |              0 | and skimmed along the waves like a shearwater, / the bird that down the terrible troughs of the barren sea
+ 40 |  174.240 | hunts              |              0 | hunts fish, and wets its beating wings in the brine:
+ 41 |  177.080 | like               |              0 | like that bird Hermes rode the crowding waves.
+ 42 |  180.200 | But                |              0 | But when he reached the island, far away, / he stepped from the violet sea onto dry land
+ 43 |  185.380 | and                |              0 | and went on till he came to the great cave where the nymph
+ 44 |  188.440 | of                 |              0 | of the lovely braids was living; he found her within.
+ 45 |  191.740 | A                  |              0 | A great fire was burning on the hearth, and the smell / of split cedar and citron-wood burning carried far,
+ 46 |  198.300 | all                |              0 | all over the island. Inside, / she was singing in a beautiful voice,
+ 47 |  202.960 | moving             |              0 | moving to and fro at the loom, / weaving with a golden shuttle.
+ 48 |  206.840 | And                |              0 | And around the cave a wood grew tall and flourishing:
+ 49 |  209.920 | Alder              |              0 | alder and black poplar and sweet-smelling cypress, / where long-winged birds made their roosts,
+ 50 |  215.840 | little             |              0 | little owls and hawks and long-tongued crows / of the sea, whose business is the waters.
+ 51 |  220.860 | And                |              0 | And there, trained over the hollow of the cave, / spread a garden vine in its prime, heavy with clusters;
+ 52 |  226.940 | and                |              0 | and four springs in a row ran with bright water, / close by one another, turned each its own way;
+ 53 |  233.120 | and                |              0 | and around them soft meadows of violet and wild celery / were blooming. There even a deathless one, arriving,
+ 54 |  239.700 | would              |              0 | would gaze in wonder at the / sight and be gladdened at heart.
+ 55 |  243.500 | there              |              0 | There the guide, the slayer of Argus, stood gazing.
+ 56 |  247.040 | and                |              0 | And when his heart had wondered at it all, / he went straight into the wide cave. Nor did Calypso,
+ 57 |  252.780 | shining            |              0 | shining among goddesses, fail to know him face to face:
+ 58 |  256.200 | for                |              0 | for the deathless gods are not unknown to one another, / not even one whose dwelling lies far off.
+ 59 |  261.900 | But                |              0 | But great-hearted Odysseus he did not find within:
+ 60 |  265.200 | he                 |              0 | he sat weeping on the shore, where he always sat, / shredding his heart with tears and groans and pains,
+ 61 |  271.260 | and                |              0 | and over the barren sea he would gaze, / letting the tears run.
+ 62 |  275.400 | and                |              0 | And Calypso, shining among goddesses, questioned Hermes, / seating him on a chair all bright and gleaming:
+ 63 |  281.920 | Why                |              0 | "Why have you come to me, Hermes of the golden rod,
+ 64 |  285.000 | honored            |              0 | honored guest and dear? / You have not been used to come before.
+ 65 |  288.260 | say                |              0 | Say what is in your mind: my heart bids me do it / if I can do it — if it is a thing that can be done.
+ 66 |  293.720 | but                |              0 | But follow me in first, and let me set out guest-fare."
+ 67 |  297.260 | So                 |              0 | So speaking the goddess drew up a table for him, / heaping it with ambrosia, and mixed the red nectar;
+ 68 |  303.120 | and                |              0 | and the guide, the slayer of Argus, drank and ate.
+ 69 |  306.280 | and                |              0 | And when he had supped, and steadied his heart with food, / then he spoke out in answer to her question:
+ 70 |  311.820 | you                |              0 | "You ask me why I come — goddess to god; and I will / tell you the whole of it truly, since you bid me.
+ 71 |  317.580 | Zeus               |              0 | Zeus ordered me here. I did not want to come:
+ 72 |  320.680 | who                |              0 | who would choose to cross so vast a stretch of salt water,
+ 73 |  324.000 | past               |              0 | past speaking? And no city of mortals near, / to offer the gods their victims and their choice hecatombs.
+ 74 |  329.960 | but                |              0 | But there is no way for another god to slip past / or thwart the mind of Zeus who bears the aegis.
+ 75 |  335.620 | He                 |              0 | He says there is a man with you — / the most miserable of all
+ 76 |  338.600 | the                |              0 | the men who fought nine years around the city of Priam / and in the tenth year sacked it, and turned for home.
+ 77 |  344.480 | but                |              0 | But on the way home they sinned against Athena, / and she roused an evil wind against them, and long seas.
+ 78 |  351.000 | There              |              0 | There all the rest of his brave companions / perished, but wind and wave carried him here.
+ 79 |  356.260 | That               |              0 | That man Zeus bids you send on his way — and quickly:
+ 80 |  359.160 | it                 |              0 | it is not his portion to die here, / far from his own people;
+ 81 |  362.800 | it                 |              0 | it is still his portion to see his own people and / come to his high-roofed house and his own fatherland."
+ 82 |  368.700 | So                 |              0 | So he spoke; and Calypso, / shining among goddesses, shivered,
+ 83 |  372.640 | and                |              0 | and lifting her voice she spoke winged words to him:
+ 84 |  375.500 | You                |              0 | "You are merciless, you gods — jealous beyond all beings — / who begrudge goddesses their sleeping with men
+ 85 |  381.220 | openly,            |              0 | openly, if one takes a man as her own dear husband.
+ 86 |  384.860 | So                 |              0 | So when Dawn of the rose-red fingers took Orion, / you gods who live at ease begrudged it to her,
+ 87 |  390.460 | until              |              0 | until in Ortygia chaste Artemis of the golden throne / came at him with her gentle arrows and killed him.
+ 88 |  396.560 | So                 |              0 | So when Demeter of the lovely braids gave way to / her heart and lay with Iasion in love in the bed
+ 89 |  402.120 | of                 |              0 | of a thrice-plowed fallow field — Zeus was not long
+ 90 |  405.140 | in                 |              0 | in hearing, and he killed him with / a hurl of the white lightning.
+ 91 |  408.540 | And                |              0 | And so now me, you gods: / you begrudge me a mortal man beside me.
+ 92 |  412.800 | I                  |              0 | I saved him — riding astride his keel, alone, / after Zeus with a hurl of the white lightning had shattered
+ 93 |  418.980 | his                |              0 | his fast ship apart in the middle of the wine-dark sea.
+ 94 |  422.240 | There              |              0 | There all the rest of his brave companions / perished, but wind and wave carried him here.
+ 95 |  426.980 | and                |              0 | And I loved him, and I fed him, and I promised / to make him deathless and unaging all his days.
+ 96 |  432.360 | or                 |             12 | But since there is no way for another god to slip / past or thwart the mind of Zeus who bears the aegis —
+ 97 |  438.540 | Let                |              0 | let him go, if that one urges it and commands, / out over the barren sea. Only I will not convey him:
+ 98 |  444.700 | I                  |              0 | I have no ships at hand, no oars, no companions / to carry him over the broad back of the sea.
+ 99 |  452.140 | But                |              0 | But with a willing heart I will / counsel him, and hide nothing,
+100 |  455.620 | so                 |              0 | so that he may reach his own fatherland untouched."
+101 |  459.320 | Then               |              0 | Then the guide, the slayer of Argus, answered her:
+102 |  462.660 | him                |              1 | "Send him so, then — and beware the wrath of Zeus:
+103 |  466.140 | let                |              0 | let him not turn against you / afterward and bear hard on you."
+104 |  470.340 | So                 |              0 | So speaking, the strong slayer of Argus went away.
+105 |  473.480 | and                |              0 | And the queenly nymph went to great-hearted Odysseus, / now that she had heard the message of Zeus.
+106 |  479.400 | She                |              0 | She found him sitting on the shore. His eyes were / never dry of tears; his sweet life was draining away
+107 |  485.780 | in                 |              0 | in mourning for his homecoming — / the nymph no longer pleased him.
+108 |  489.920 | True,              |              0 | True, at night he would sleep beside her — he had to —
+109 |  493.600 | In                 |              0 | in the hollow caves, unwilling man by willing goddess;
+110 |  497.040 | but                |              0 | but all his days he sat out on the rocks and the beaches,
+111 |  500.260 | shredding          |              0 | shredding his heart with tears and groans and pains,
+112 |  503.300 | and                |              0 | and over the barren sea he would gaze, / letting the tears run.
+113 |  507.380 | Standing           |              0 | Standing near him, she spoke, shining among goddesses:
+114 |  511.160 | Luckless           |              0 | "Luckless man, do not sit grieving / here any longer; do not let
+115 |  514.480 | your               |              0 | your life waste away. I am ready now — / wholly — to send you off.
+116 |  519.460 | Come,              |              0 | Come: cut long timbers, and join with bronze / a wide raft; and fix an upper half-deck to it,
+117 |  524.780 | raised             |              0 | raised high, to carry you over the misted sea.
+118 |  527.940 | And                |              0 | And I will put in bread and water and red wine / to your heart's content, to keep hunger from you,
+119 |  533.040 | and                |              0 | and I will clothe you, and send a fair wind behind you,
+120 |  535.860 | so                 |              0 | so that you may reach your own fatherland untouched — / if the gods are willing, who hold wide heaven,
+121 |  541.200 | who                |              0 | who are stronger than I to purpose and accomplish."
+122 |  544.380 | So                 |              0 | So she spoke; and much-enduring noble Odysseus shuddered,
+123 |  548.340 | and                |              0 | and lifting his voice he spoke winged words to her:
+124 |  551.400 | Something          |              0 | "Something else you are plotting here, / goddess — not my sending —
+125 |  555.260 | you                |              0 | you who bid me cross the great gulf of the sea on a raft,
+126 |  558.540 | that               |              0 | that terror, that misery: not even the trim fast-running
+127 |  562.180 | ships              |              0 | ships cross it, for all their joy in the wind of Zeus.
+128 |  565.620 | I                  |              0 | I will not set foot on any raft against your will —
+129 |  568.540 | not                |              0 | not unless you bring yourself, / goddess, to swear me the great oath
+130 |  571.820 | that               |              0 | that you are not planning some new evil against me."
+131 |  575.480 | So                 |              0 | So he spoke; and Calypso, shining among goddesses, smiled,
+132 |  579.300 | and                |              0 | and stroked him with her hand, / and spoke a word, and named him:
+133 |  582.800 | You                |              0 | "You are a rogue indeed — no lightweight in cunning — / to have thought of a speech like that to say to me.
+134 |  588.300 | Now                |              0 | Now let Earth be witness, and the wide Heaven above, / and the down-dripping water of Styx — the greatest oath
+135 |  594.540 | and                |              0 | and the most terrible the blessed gods can swear — / that I am not planning some new evil against you.
+136 |  600.040 | No,                |              0 | No: I am thinking and advising exactly what I would / devise for my own self, if such need came on me.
+137 |  606.440 | my                 |              0 | My mind is honest through and through, and the heart / in my breast is not made of iron. It knows pity."
+138 |  613.800 | So                 |              0 | So speaking she led the way, shining among goddesses, / swiftly, and he followed in the footsteps of the god.
+139 |  620.940 | They               |              0 | They came to the hollow cave, the goddess and the man, / and he sat down there on the chair from which Hermes
+140 |  626.640 | had                |              0 | had risen, and the nymph set out / all manner of food beside him,
+141 |  630.160 | to                 |              0 | to eat and drink, such things as mortal men eat; / and she took her seat facing godlike Odysseus,
+142 |  637.380 | and                |              0 | and slave-women set ambrosia and nectar beside her.
+143 |  640.720 | and                |              0 | And their hands went out to the / good things spread before them.
+144 |  644.040 | But                |              0 | But when they had had their joy of food and drink, / Calypso began, shining among goddesses:
+145 |  650.100 | Zeus               |              0 | "Zeus-born son of Laertes, Odysseus of the many devices —
+146 |  654.100 | so                 |              0 | so you would go home now, home to your own dear country,
+147 |  657.160 | at                 |              0 | at once, this moment? Go, then — / and joy go with you even so.
+148 |  662.380 | But                |              0 | But if you knew in your heart how full your measure / of sorrow is before you reach your own country,
+149 |  667.240 | you                |              0 | you would stay here with me and keep this house, / and be deathless — for all your longing to see
+150 |  672.200 | that               |              0 | that wife of yours, whom you ache for all your days.
+151 |  675.380 | and                |              0 | And yet I dare say I am not beneath her — / not in form, not in stature: it is in no way seemly
+152 |  681.140 | for                |              0 | for mortal women to vie with immortals in body and looks."
+153 |  684.920 | Then               |              0 | Then Odysseus of the many designs answered her:
+154 |  687.740 | Goddess            |              0 | "Goddess and queen, do not be angry / with me for this. I know it all
+155 |  691.600 | myself             |              0 | myself, well enough: watchful-minded Penelope is / less than you — slighter to look at, smaller —
+156 |  697.640 | for                |              0 | for she is mortal, and you are deathless and unaging.
+157 |  700.680 | But                |              0 | But even so I wish — and all my days I long — / to go home, and to look upon my day of homecoming.
+158 |  706.440 | and                |              0 | And if some god wrecks me again on the wine-dark sea,
+159 |  709.300 | I                  |              0 | I will endure it, with a heart / schooled in enduring sorrows.
+160 |  712.600 | much               |              0 | Much have I suffered already, much have I labored / through waves and war. Let this be added to the rest."
+161 |  718.460 | So                 |              0 | So he spoke; and the sun went down, and the dusk came on;
+162 |  721.920 | and                |              0 | and the two of them went into the inner hollow of the cave
+163 |  724.580 | and                |              0 | and took their joy of love, and stayed side by side.
+164 |  727.940 | When               |              0 | When Dawn appeared, the early-born, with fingers of rose, / straightway Odysseus put on a cloak and tunic,
+165 |  734.220 | and                |              0 | and she, the nymph, put on a great silver-shining mantle,
+166 |  737.980 | fine               |              0 | fine-woven and graceful, and cast about her waist a belt,
+167 |  741.560 | beautiful          |              0 | beautiful, golden, and set a veil on her head above.
+168 |  744.980 | Then               |              0 | Then she turned her mind to the / sending of great-hearted Odysseus.
+169 |  748.480 | She                |              0 | She gave him a great axe, fitted to his palms, / of bronze, sharpened on both edges, and set in it
+170 |  754.440 | a                  |              0 | a beautiful handle of olive-wood, made firm and fast; / then she gave him a polished adze, and led the way
+171 |  760.660 | to                 |              0 | to the island's farthest edge, where the tall trees grew:
+172 |  764.260 | alder              |              0 | alder and black poplar, and fir that reached the sky,
+173 |  767.220 | long               |              0 | long dry, dead-seasoned, that would ride for him lightly.
+174 |  770.760 | And                |              0 | And when she had shown him where the tall trees grew,
+175 |  773.540 | Calypso            |              0 | Calypso went back to her house, shining among goddesses,
+176 |  776.980 | and                |              0 | and he set to cutting timbers, / and the work went quickly under him.
+177 |  780.920 | trees              |              1 | Twenty trees in all he felled, / and trimmed them with the bronze,
+178 |  784.740 | and                |              0 | and dressed them smooth with skill, / and trued them to the line.
+179 |  788.620 | Meanwhile,         |              0 | Meanwhile Calypso, shining / among goddesses, brought augers,
+180 |  792.480 | and                |              0 | and he bored through every piece and fitted each to each, / and drove her together with pegs and joinery.
+181 |  798.480 | As                 |              0 | As wide as a man lays out the round of the hull of / a broad cargo ship — a man who knows his craft —
+182 |  804.120 | so                 |              0 | so wide Odysseus built his raft.
+183 |  807.380 | He                 |              0 | He set up half-decks, fitting them to close-set ribs, / and finished with long gunwale planks.
+184 |  813.200 | He                 |              0 | He made a mast in her, and a yard fitted to it, / and he made besides a steering-oar to hold her straight,
+185 |  819.260 | and                |              0 | and fenced her round from stem / to stern with plaited willow
+186 |  822.300 | to                 |              0 | to break the wave, and heaped down brush for ballast.
+187 |  826.120 | Meanwhile,         |              0 | Meanwhile Calypso, shining among goddesses, brought / cloth to make a sail; and he made that too, with craft,
+188 |  832.920 | and                |              0 | and lashed into her the braces, / the halyards, and the sheets.
+189 |  836.640 | Then               |              0 | Then on rollers he hauled her / down to the bright salt water.
+190 |  840.080 | It                 |              0 | It was the fourth day, and all his work was done; / and on the fifth shining Calypso sent him from the island,
+191 |  846.320 | having             |              0 | having bathed him and dressed him in fragrant clothes.
+192 |  849.500 | And                |              0 | And the goddess put a skin of dark wine aboard, one skin, / and another, a great one, of water, and provisions
+193 |  856.240 | in                 |              0 | in a sack, and set in plenty of comforting meats; / and she sent up a fair wind for him, harmless and warm.
+194 |  863.360 | Rejoicing          |              0 | Rejoicing in the wind, noble Odysseus spread his sail,
+195 |  866.720 | and                |              0 | and with the steering-oar he steered her, craftsmanlike, / sitting there; and sleep never fell on his eyelids
+196 |  872.500 | as                 |              0 | as he watched the Pleiades, and Boötes that sets late,
+197 |  876.260 | and                |              0 | and the Bear, that men also call by the name of the Wagon,
+198 |  878.940 | who                |              0 | who turns in her place and keeps her watch on Orion, / and alone has no share in the baths of Ocean:
+199 |  885.320 | For                |              0 | for Calypso, shining among goddesses, had told him / to keep her on his left hand as he crossed the sea.
+200 |  892.020 | days               |              1 | Seventeen days he sailed on, crossing the water, / and on the eighteenth appeared the shadowy mountains
+201 |  897.420 | of                 |              0 | of the Phaeacians' land, where it lay nearest him:
+202 |  900.580 | It                 |              0 | it looked like a shield laid on the misted sea.
+203 |  902.980 | but                |              0 | But the strong earth-shaker, / coming back from the Ethiopians,
+204 |  906.520 | saw                |              0 | saw him far off, from the / mountains of the Solymi: he showed
+205 |  909.920 | to                 |              0 | to his eye, sailing the sea. / And the god's heart grew the angrier,
+206 |  914.600 | and                |              0 | and shaking his head he spoke to his own heart:
+207 |  917.300 | damnation,         |              0 | "Damnation! So the gods have changed their counsels / about Odysseus while I was among the Ethiopians —
+208 |  923.120 | and                |              0 | and here he is, close to the Phaeacians' land, / where it is his portion
+209 |  927.240 | to                 |              0 | to slip the great noose of misery that has come upon him.
+210 |  930.880 | but                |              0 | But I say I will yet drive him deep enough in trouble."
+211 |  934.780 | So                 |              0 | So speaking he herded the clouds / together, and stirred up the sea,
+212 |  938.400 | the                |              0 | the trident in his hands; and he roused all the squalls
+213 |  941.580 | of                 |              0 | of every wind there is, and covered land and sea / alike with cloud; and night rose up out of heaven.
+214 |  947.520 | East               |              0 | East Wind and South fell on him together, / and the hard-blowing West,
+215 |  951.460 | and                |              0 | and the North Wind born of the / clear sky, rolling a great wave.
+216 |  955.340 | and                |              0 | And then Odysseus' knees went loose, and his heart; / and deeply stirred he spoke to his own great heart:
+217 |  961.680 | Ah,                |              0 | "Ah, wretch that I am — what happens to me at the last?
+218 |  964.360 | I                  |              0 | I fear the goddess spoke it all unerringly, / who said that on the sea, before I reached my own country,
+219 |  970.240 | I                  |              0 | I would fill my measure of pains. / Now it is all coming to pass:
+220 |  974.200 | Look               |              0 | look how Zeus crowns the wide heaven with cloud on cloud,
+221 |  977.340 | and                |              0 | and has stirred up the sea, and the squalls of every wind
+222 |  979.940 | there              |              0 | there is come driving. / Now my sheer destruction is certain.
+223 |  983.680 | Three              |              0 | Three times blessed the Danaans, and four times, who died
+224 |  987.100 | in                 |              0 | in those years in wide Troy, / doing the Atreidae's pleasure!
+225 |  990.780 | that               |              1 | Would that I too had died so, met my doom, / on the day the Trojans in their hundreds hurled
+226 |  995.860 | their              |              0 | their bronze-tipped spears at / me over the dead son of Peleus.
+227 |  999.460 | Then               |              0 | Then I would have had my death-rites, / and the Achaeans carried my fame;
+228 | 1003.320 | Now                |              0 | now it is my lot to be taken in a miserable death."
+229 | 1006.360 | As                 |              0 | As he said it, a great wave drove down on him from / above, rushing terribly, and spun the raft around.
+230 | 1012.360 | Far                |              0 | Far from the raft he fell, and the steering-oar / flew from his hands; the mast snapped in the middle
+231 | 1017.760 | under              |              0 | under the terrible squall of winds meeting from all / quarters, and sail and yard fell far off in the sea.
+232 | 1024.020 | And                |              0 | And the wave held him under a long time: he could not / rise quickly from beneath the great sea's downrush,
+233 | 1029.600 | for                |              0 | for the clothes weighed on him that shining Calypso gave.
+234 | 1033.060 | At                 |              0 | At long last he came up, / spitting from his mouth the bitter
+235 | 1036.260 | brine              |              0 | brine that ran streaming in torrents down his head.
+236 | 1039.080 | Yet                |              0 | Yet even so, ground down as he was, / he did not forget his raft:
+237 | 1042.660 | He                 |              0 | he lunged after her through the waves and caught hold,
+238 | 1045.780 | and                |              0 | and sat down in the middle of her, / dodging the end that is death,
+239 | 1049.080 | while              |              0 | while the great wave carried her / with the current, here and there.
+240 | 1052.460 | As                 |              0 | As when the North Wind of autumn carries thistledown
+241 | 1054.680 | across             |              0 | across the plain, and the tufts / cling close to one another,
+242 | 1057.980 | so                 |              0 | so the winds carried her over / the open water, here and there:
+243 | 1061.420 | Now                |              0 | now the South Wind would toss her to the North to carry,
+244 | 1064.400 | Now                |              0 | now again the East would yield her to the West to chase.
+245 | 1068.400 | but                |              0 | But the daughter of Cadmus saw him — / Ino of the beautiful ankles,
+246 | 1072.540 | the                |              0 | the White Goddess, who once was / mortal, with a mortal voice,
+247 | 1076.180 | and                |              0 | and now in the salt depths has / her share of honor from the gods.
+248 | 1080.140 | She                |              0 | She pitied Odysseus, driven wandering, worn with pains,
+249 | 1084.060 | and                |              0 | and in the likeness of a shearwater / she rose on the wing from the water,
+250 | 1088.280 | and                |              0 | and perched on the close-bound raft, and said:
+251 | 1090.940 | luckless           |              0 | "Luckless man, why is Poseidon the earth-shaker
+252 | 1094.160 | so                 |              0 | so terribly at odds with you, / that he plants all these evils for you?
+253 | 1098.840 | Yet                |              0 | Yet he shall not destroy you, for all his fury.
+254 | 1101.780 | Only               |              0 | Only do exactly this — / you do not seem to me short of sense.
+255 | 1105.480 | Strip              |              0 | Strip off these clothes, and leave the raft for the winds
+256 | 1108.260 | to                 |              0 | to carry; strike out swimming / with your hands for a homecoming
+257 | 1111.500 | on                 |              0 | on the Phaeacians' land, / where it is your portion to escape.
+258 | 1115.180 | Here               |              0 | Here — spread this veil under your chest.
+259 | 1117.420 | It                 |              0 | It is immortal: no fear then of suffering or death.
+260 | 1120.140 | but                |              0 | But the moment your hands take hold of dry land, / untie it again and throw it into the wine-dark sea,
+261 | 1126.520 | far                |              0 | far out from land, and turn your own face away."
+262 | 1130.140 | So                 |              0 | So speaking the goddess gave him the veil, / and she herself sank back into the surging sea
+263 | 1135.080 | in                 |              0 | in the likeness of a shearwater, / and the black wave closed over her.
+264 | 1139.400 | But                |              0 | But much-enduring noble Odysseus pondered, / and deeply stirred he spoke to his own great heart:
+265 | 1145.100 | Ah,                |              0 | "Ah me — let this not be some new snare of the immortals / woven against me, when she bids me abandon my raft.
+266 | 1151.800 | No,                |              0 | No: I will not obey her yet. Far off with my own / eyes I saw the land where she said my refuge is.
+267 | 1157.300 | I                  |              0 | I will do this instead — it seems to me the best:
+268 | 1160.340 | as                 |              0 | as long as the timbers hold in their fastenings, / so long I stay aboard and endure my sufferings where I am;
+269 | 1166.280 | But                |              0 | but the moment the wave shakes the raft to pieces, / I swim. There is no better plan to see."
+270 | 1171.920 | While              |              0 | While he was turning this over / in his mind and in his heart,
+271 | 1175.100 | the                |              1 | Poseidon the earth-shaker heaved up a great wave, / terrible and grim, arching over him, and drove it down.
+272 | 1181.380 | and                |              0 | And as a violent wind tosses a heap of dry chaff / and scatters the wisps this way and that way,
+273 | 1186.480 | so                 |              0 | so it scattered the raft's long timbers. But Odysseus / got astride one beam, like a man riding a racehorse,
+274 | 1193.280 | and                |              0 | and stripped off the clothes that shining Calypso gave, / and spread the veil at once beneath his chest,
+275 | 1198.680 | and                |              0 | and plunged headfirst in the sea, arms spread wide, / hungry to swim. And the strong earth-shaker saw him,
+276 | 1205.320 | and                |              0 | and shaking his head he spoke to his own heart:
+277 | 1207.680 | so                 |              0 | "So — now suffer your many evils and drift the sea, / until you come among a people nurtured of Zeus.
+278 | 1213.160 | but                |              0 | But even so I do not think you / will make light of your trouble."
+279 | 1216.480 | So                 |              0 | So speaking he lashed his horses of the beautiful / manes and came to Aegae, where his famous house is.
+280 | 1222.460 | but                |              0 | But Athena, daughter of Zeus, thought of other things.
+281 | 1226.280 | She                |              0 | She bound up the courses of all the other winds / and commanded every one to rest and fall asleep,
+282 | 1230.880 | and                |              0 | and roused the quick North Wind, / and broke the waves before him,
+283 | 1235.500 | so                 |              0 | so that Zeus-born Odysseus might come among the oar-loving
+284 | 1239.480 | having             |              1 | Phaeacians, having slipped past death and the dooms.
+285 | 1242.100 | Two                |              0 | Two nights then and two days on the close-packed swell
+286 | 1245.020 | he                 |              0 | he drifted, and many times his heart / looked destruction in the face.
+287 | 1249.200 | but                |              0 | But when Dawn of the lovely braids / brought the third day round,
+288 | 1252.580 | then               |              0 | then at last the wind fell, and a windless / calm came on; and he saw the land close by,
+289 | 1258.800 | casting            |              0 | casting a sharp glance forward, lifted on a great wave.
+290 | 1262.180 | as                 |              0 | As when a father's life shows / dear and welcome to his children —
+291 | 1265.560 | a                  |              0 | a father who lies in sickness suffering strong pains, / long wasting away, some hateful power upon him,
+292 | 1272.260 | and                |              0 | and then, dear and welcome, / the gods set him free of his evil —
+293 | 1276.040 | So                 |              0 | so welcome to Odysseus showed the land and the trees,
+294 | 1279.060 | and                |              0 | and he swam hard, straining to set foot on solid earth.
+295 | 1283.040 | But                |              0 | But when he was as far offshore as a man's shout carries, / he heard the boom of sea against the rock-teeth:
+296 | 1289.540 | the                |              0 | the great swell thundered on the dry land's edge,
+297 | 1292.520 | belching           |              0 | belching terribly, and everything / was shrouded in salt spray.
+298 | 1296.240 | For                |              0 | For there were no harbors there / to hold ships, no roadsteads —
+299 | 1300.060 | only               |              0 | only jutting headlands, rock-teeth, and cliff-faces.
+300 | 1303.780 | and                |              0 | And then Odysseus' knees went loose, and his heart, / and deeply stirred he spoke to his own great heart:
+301 | 1310.040 | now                |              2 | "Ah me — now that Zeus has given me sight of land / unhoped for, and I have won across this gulf at last,
+302 | 1316.380 | no                 |              0 | no way out of the gray salt water shows anywhere:
+303 | 1319.260 | sharp              |              0 | sharp crags offshore, and all around them the wave / roaring and churning, and the rock running up sheer,
+304 | 1325.300 | and                |              0 | and the sea deep close in — nowhere to / stand on both my feet and escape the evil.
+305 | 1330.200 | If                 |              0 | If I try to climb out, the great wave may snatch me
+306 | 1332.740 | and                |              0 | and hurl me on the standing stone, / and my try go for nothing.
+307 | 1336.160 | but                |              0 | But if I swim along still farther, hoping to find / shelving beaches somewhere, and harbors of the sea,
+308 | 1342.140 | I                  |              0 | I fear the storm-squall snatches me up again and carries me, / groaning heavily, over the fish-filled sea —
+309 | 1348.240 | or                 |              0 | or some power looses a monster on me out of the brine, / one of the swarm that famous Amphitrite pastures:
+310 | 1354.600 | for                |              0 | for I know how the famous shaker / of earth is at odds with me."
+311 | 1357.720 | While              |              0 | While he was turning this over in his mind and in his heart, / a great wave carried him onto the jagged shore.
+312 | 1363.480 | his                |              1 | There his skin would have been / stripped, his bones smashed in,
+313 | 1366.940 | had                |              0 | had not the goddess, gray-eyed / Athena, put a thought in him:
+314 | 1370.200 | lunging            |              0 | lunging in, he seized the rock with both hands and / clung there groaning while the great wave went past.
+315 | 1375.980 | That               |              0 | That one he escaped so; but its backwash leapt on him / again and struck him and threw him far out to sea.
+316 | 1382.260 | as                 |              0 | As when an octopus is dragged out of its den / and thick pebbles cling in the cups of its arms,
+317 | 1387.160 | so                 |              0 | so from his bold hands the skin was stripped away / against the rocks; and the great wave closed over him.
+318 | 1394.020 | There,             |              0 | There, before his time, / wretched Odysseus would have perished,
+319 | 1397.400 | had                |              0 | had not gray-eyed Athena given him clear sense.
+320 | 1400.620 | Coming             |              0 | Coming up out of the surf where it belches at the land,
+321 | 1403.560 | he                 |              0 | he swam along outside it, / looking to the shore in hope of finding
+322 | 1407.120 | shelving           |              0 | shelving beaches somewhere, and harbors of the sea.
+323 | 1410.380 | But                |              0 | But when, swimming, he came to / the mouth of a fair-flowing river,
+324 | 1413.740 | there              |              0 | there at last the ground seemed best to him, / clear of stones, and there was shelter from the wind.
+325 | 1419.320 | He                 |              0 | He felt the current flowing and prayed in his heart:
+326 | 1422.300 | hear               |              0 | "Hear me, lord, whoever you are. / I come to you — the much-prayed-to —
+327 | 1426.860 | a                  |              0 | a fugitive out of the sea, from the threats of Poseidon.
+328 | 1430.000 | Even               |              0 | Even to the deathless gods that man is / sacred who comes as a wanderer, as I come now
+329 | 1434.980 | to                 |              0 | to your stream and to your knees, after much labor.
+330 | 1438.180 | pity               |              0 | Pity me, lord: I declare myself your suppliant."
+331 | 1441.220 | and                |              0 | And at once the god stayed his / current, held back the wave,
+332 | 1446.020 | and                |              0 | and made the water calm before him, and brought him / safe into the river's mouth. And he bent both knees
+333 | 1452.420 | and                |              0 | and let his strong hands fall: / the sea had crushed the heart in him.
+334 | 1457.440 | All                |              0 | All his flesh was swollen, and the sea oozed in streams
+335 | 1461.040 | up                 |              0 | up through his mouth and nostrils. / Breathless and speechless
+336 | 1464.780 | he                 |              0 | he lay, barely alive, / and a terrible weariness came over him.
+337 | 1468.980 | but                |              0 | But when he got his breath again, / and the spirit gathered in his chest,
+338 | 1473.040 | then               |              0 | then he unbound the goddess's veil from his body / and let it go into the river running seaward,
+339 | 1478.680 | and                |              0 | and the great wave carried it back / down the current, and quickly Ino
+340 | 1482.280 | took               |              0 | took it in her own dear hands. / And he turned from the river,
+341 | 1486.280 | sank               |              0 | sank down in the reeds, and kissed the grain-giving earth;
+342 | 1489.500 | and                |              0 | and deeply stirred he spoke to his own great heart:
+343 | 1492.840 | what               |              2 | "Ah me, what now? What happens to me at the last?
+344 | 1496.360 | If                 |              0 | If I keep watch through the / anxious night here by the river,
+345 | 1499.540 | the                |              0 | the two together — the evil frost and the soaking dew — / may finish me: weak as I am, my spirit gasping;
+346 | 1506.380 | and                |              0 | and toward dawn a cold breeze blows off a river.
+347 | 1509.480 | But                |              0 | But if I climb the slope to the shadowy wood and / fall asleep in the thick brush — supposing cold
+348 | 1514.740 | and                |              0 | and weariness release me, and sweet sleep comes — / I fear I become spoil and carrion for wild beasts."
+349 | 1521.540 | Yet                |              0 | Yet as he weighed it, this seemed the better way:
+350 | 1524.060 | He                 |              0 | he went up toward the wood, and found it near the water
+351 | 1526.800 | on                 |              0 | on a rise in the open. He crept in under a double thicket
+352 | 1530.120 | grown              |              0 | grown from a single stock — / one wild olive, one the planted tree.
+353 | 1534.800 | Through            |              0 | Through these no strength of / wet-blowing winds could pierce,
+354 | 1537.800 | nor                |              0 | nor could the shining sun strike through with its rays, / nor rain soak through them, so close they grew,
+355 | 1543.820 | laced              |              0 | laced into one another. Under these Odysseus / crept, and heaped himself at once a wide bed
+356 | 1549.060 | with               |              0 | with his own hands: for there was a drift of fallen / leaves there, deep, enough to shelter two men or three
+357 | 1555.020 | in                 |              0 | in the winter season, however hard it blew.
+358 | 1558.260 | Seeing             |              0 | Seeing it, much-enduring noble Odysseus rejoiced,
+359 | 1561.580 | and                |              0 | and he lay down in the middle and / poured the fallen leaves over him.
+360 | 1565.560 | As                 |              0 | As when a man buries a burning log in a black ash-heap
+361 | 1568.480 | at                 |              0 | at the far edge of the fields — / a man with no neighbors near —
+362 | 1572.520 | saving             |              0 | saving the seed of fire, / so as not to seek a light elsewhere,
+363 | 1576.120 | so                 |              0 | so Odysseus buried himself in the leaves. / And Athena poured sleep upon his eyes, to free him soonest
+364 | 1582.140 | from               |              0 | from his toil-worn weariness, / when she had folded his dear eyelids shut.

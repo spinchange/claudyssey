@@ -1,0 +1,262 @@
+ODYSSEY — BOOK VI full-book caption alignment
+Duration: 1058.090s
+Narration cues: 253
+Source words: 3406
+Directly matched source words: 3241 (95.2%)
+Recognized words: 3400
+Visual lead: 0.16s
+
+Cue | Start | Anchor | Missing prefix | Caption
+  1 |    7.840 | So                 |              0 | So he slept there, much-enduring noble Odysseus, / overcome with sleep and weariness. But Athena
+  2 |   14.860 | went               |              0 | went her way to the land and city of the Phaeacian men, / who once, in years past, lived in spacious Hypereia,
+  3 |   22.120 | near               |              0 | near the Cyclopes, men of overweening pride, / who kept raiding them, and were the stronger in force.
+  4 |   29.700 | From               |              0 | From there godlike Nausithous / had uprooted them and led them,
+  5 |   34.300 | and                |              0 | and settled them in Scheria, far from men who eat bread, / and drove a wall around the city, and built houses,
+  6 |   41.560 | and                |              0 | and made temples for the gods, / and divided out the plowlands.
+  7 |   45.880 | But                |              0 | But he long since had gone down to Hades, broken by fate,
+  8 |   50.540 | and                |              0 | and now Alcinous ruled, his counsels known from the gods.
+  9 |   54.620 | To                 |              0 | To his house went the goddess, gray-eyed Athena, / devising the homecoming of great-hearted Odysseus.
+ 10 |   61.200 | She                |              0 | She went into the richly-worked chamber where a girl / lay sleeping, like the immortals in build and beauty:
+ 11 |   68.000 | daughter           |              1 | Nausicaa, daughter of great-hearted Alcinous; / and by her two handmaids, with beauty from the Graces,
+ 12 |   73.920 | each               |              2 | one at each doorpost; and the shining doors were shut.
+ 13 |   76.920 | Like               |              0 | Like a breath of wind she swept to the girl's / bed and stood above her head, and spoke to her,
+ 14 |   82.920 | In                 |              0 | in the likeness of the daughter of Dymas, famed for / ships, a girl her own age, and dear to her heart.
+ 15 |   89.200 | In                 |              0 | In her likeness gray-eyed Athena said:
+ 16 |   92.220 | how                |              1 | "Nausicaa, how did your mother bear so careless a girl?
+ 17 |   95.200 | Your               |              0 | Your shining clothes lie there uncared-for — and your / wedding is near, when you must wear beautiful things
+ 18 |  100.980 | yourself,          |              0 | yourself, and provide them for / those who lead you in procession:
+ 19 |  104.470 | like               |              4 | it is from things like these that a good name goes up
+ 20 |  107.860 | among              |              0 | among the people, and a father / and honored mother are glad.
+ 21 |  111.760 | Come,              |              0 | Come, let us go washing at the showing of dawn:
+ 22 |  114.820 | I                  |              0 | I will come with you and work / beside you, so you may be ready
+ 23 |  117.800 | the                |              0 | the sooner — for truly not much longer will you be unwed:
+ 24 |  121.480 | Already,           |              0 | already the best men through all the land of the / Phaeacians are wooing you — and your own line is theirs.
+ 25 |  127.360 | Come               |              0 | Come then: press your famous father, before the dawn, / to make ready the mules and a wagon to carry
+ 26 |  133.340 | the                |              0 | the sashes and the robes and the shining coverlets.
+ 27 |  136.600 | and                |              0 | And for yourself, too, / it is far more fitting so than going
+ 28 |  139.620 | on                 |              0 | on foot: the washing-pools are a long way from the city."
+ 29 |  143.660 | So                 |              0 | So speaking, gray-eyed Athena went away to Olympus, / where they say the seat of the gods stands fast
+ 30 |  148.940 | forever,           |              0 | forever: not shaken by winds, never soaked by rain, / nor does snow come near it, but clear sky
+ 31 |  155.340 | spreads            |              0 | spreads cloudless there, / and a white radiance runs over it;
+ 32 |  159.120 | In                 |              0 | in that place the blessed gods / take pleasure all their days.
+ 33 |  162.520 | There              |              0 | There the gray-eyed one went, / when she had counseled the girl.
+ 34 |  165.460 | At                 |              0 | At once Dawn came on her fair throne, and woke Nausicaa / of the lovely robe; and she wondered at her dream
+ 35 |  171.820 | and                |              0 | and went through the house to tell her parents, / her dear father and mother. She found them within:
+ 36 |  177.080 | her                |              0 | her mother sat at the hearth with her attendant women, / spinning yarn dyed sea-purple; her father she met
+ 37 |  182.740 | at                 |              0 | at the door, on his way out to join the famous kings / in council, where the lordly Phaeacians called him.
+ 38 |  189.020 | She                |              0 | She stood close to her dear father and said:
+ 39 |  191.780 | Papa               |              0 | "Papa dear, won't you make ready a wagon for me,
+ 40 |  194.040 | the                |              0 | the high one with the good wheels, / so I can take the fine clothes
+ 41 |  197.220 | to                 |              0 | to the river for washing, that lie about me dirty?
+ 42 |  200.760 | And                |              0 | And for you too it is only proper, / when you sit among the first men
+ 43 |  204.000 | debating           |              0 | debating counsels, to have clean clothing on your body.
+ 44 |  207.760 | And                |              0 | And five dear sons have been born to you in these halls — / two married, and three flourishing bachelors —
+ 45 |  213.620 | and                |              0 | and they are always wanting fresh-washed clothes to wear
+ 46 |  215.940 | when               |              0 | when they go to the dancing. All this is on my mind."
+ 47 |  219.340 | so                 |              0 | So she spoke: she was shy of naming ripe marriage / to her dear father. But he saw it all, and answered:
+ 48 |  225.720 | I                  |              0 | "I do not grudge you the mules, child, or anything else.
+ 49 |  229.160 | Go,                |              0 | Go: the slaves will make ready a wagon for you,
+ 50 |  232.120 | the                |              0 | the high one with the good wheels, / fitted with its top-rack."
+ 51 |  235.380 | so                 |              0 | So saying he called to the slaves, and they obeyed.
+ 52 |  237.680 | Outside            |              0 | Outside, they made ready the smooth-running mule / wagon and led the mules under and yoked them to it;
+ 53 |  243.500 | and                |              0 | and the girl brought the shining clothing from / her room and laid it in the polished wagon,
+ 54 |  247.740 | and                |              0 | and her mother packed a box with heartening food / of every kind — put in delicacies, and poured wine
+ 55 |  252.920 | a                  |              1 | in a goatskin bag; and the girl climbed up on the wagon.
+ 56 |  256.320 | and                |              0 | And she gave her soft olive oil in a golden flask,
+ 57 |  259.280 | so                 |              0 | so she and her attendant women might / anoint themselves after bathing.
+ 58 |  262.900 | And                |              0 | And she took up the whip and the glossy reins
+ 59 |  265.500 | and                |              0 | and whipped the mules to a run; / and there was a clatter of hooves,
+ 60 |  269.160 | and                |              0 | and they strained on without slackening, / carrying the clothes and her —
+ 61 |  272.460 | not                |              0 | not alone: her handmaids went along beside her.
+ 62 |  275.220 | and                |              0 | And when they came to the beautiful stream of the river,
+ 63 |  277.480 | where              |              0 | where the washing-pools never fail — plenty of clear water
+ 64 |  280.840 | welling            |              0 | welling up through and running over, / to clean the dirtiest things —
+ 65 |  284.560 | There              |              0 | there they loosed the mules from under the / wagon and shooed them along the eddying river
+ 66 |  288.740 | to                 |              0 | to graze the honey-sweet water-grass; / and they lifted the clothes
+ 67 |  292.240 | from               |              0 | from the wagon in armfuls and / carried them into the dark water,
+ 68 |  295.600 | and                |              0 | and trod them briskly in the trenches, racing one another.
+ 69 |  299.060 | and                |              0 | And when they had washed and rinsed away all the dirt,
+ 70 |  301.380 | they               |              0 | they spread everything out in / rows along the shingle of the sea,
+ 71 |  304.940 | where              |              0 | where the waves washed the pebbles / cleanest against the shore.
+ 72 |  308.180 | and                |              0 | And when they had bathed and / rubbed themselves richly with oil,
+ 73 |  311.560 | they               |              0 | they took their meal by the banks of the river and / waited for the clothes to dry in the shining of the sun.
+ 74 |  317.080 | and                |              0 | And when she and her slave-women / had had their joy of food,
+ 75 |  319.960 | they               |              0 | they threw off their head-veils and played at ball, / and white-armed Nausicaa led them in the singing.
+ 76 |  325.480 | As                 |              0 | As Artemis the arrow-pourer goes down the / mountains, down long Taygetus or Erymanthus,
+ 77 |  330.960 | delighting         |              0 | delighting in the boars and the running deer, / and with her the nymphs, daughters of aegis-bearing Zeus,
+ 78 |  336.580 | play               |              0 | play across the wild country, and Leto's heart is glad, / for she carries her head and brow above them all
+ 79 |  342.700 | and                |              0 | and is known at once, though all of them are beautiful:
+ 80 |  345.160 | so                 |              0 | so the unwed girl outshone her handmaids.
+ 81 |  347.880 | but                |              0 | But when she was about to fold the beautiful clothes, / yoke the mules, and turn for home again,
+ 82 |  353.560 | then               |              0 | then the goddess thought of one / thing more, gray-eyed Athena:
+ 83 |  357.420 | that               |              0 | that Odysseus should wake, and see the lovely-eyed girl,
+ 84 |  360.840 | and                |              0 | and she should lead him to the city of the Phaeacian men.
+ 85 |  364.140 | So                 |              0 | So the princess tossed the ball to one of her handmaids;
+ 86 |  367.280 | the                |              0 | the handmaid she missed, and it fell in a deep eddy, / and they shrieked aloud. And noble Odysseus woke,
+ 87 |  374.040 | and                |              0 | and sitting up he turned it over in his mind and heart:
+ 88 |  377.180 | whose              |              2 | "Ah me — whose country have I come to now? What men's?
+ 89 |  380.540 | Are                |              0 | Are they violent, savage, without justice, / or kind to strangers, with hearts that fear the gods?
+ 90 |  386.240 | A                  |              0 | A female crying rang around me just now — girls' voices:
+ 91 |  390.080 | nymphs             |              0 | nymphs, who hold the sheer peaks of the mountains and / the springs of rivers and the grassy water-meadows?
+ 92 |  395.140 | Or                 |              0 | Or am I now, can it be, near men with human speech?
+ 93 |  398.500 | Come,              |              0 | Come — I will test it for myself, and see."
+ 94 |  401.540 | So                 |              0 | So speaking noble Odysseus slipped out from the thicket,
+ 95 |  404.040 | and                |              0 | and from the thick wood with / his heavy hand he broke a branch
+ 96 |  407.620 | in                 |              0 | in leaf, to hold about his body / and screen a man's privates.
+ 97 |  411.620 | And                |              0 | And he went like a mountain-bred lion, sure of his strength, / who goes on through rain and wind, his two eyes
+ 98 |  417.500 | burning,           |              0 | burning, and he comes down on the cattle or the / sheep or the wild deer, for his belly commands him
+ 99 |  422.740 | to                 |              0 | to make trial of the flocks — / even to enter the close-built fold:
+100 |  426.640 | So                 |              0 | so Odysseus was about to come among the fair-braided / girls, naked as he was: for need had come upon him.
+101 |  432.900 | And                |              0 | And he loomed terrible before them, / crusted with the salt sea's brine,
+102 |  437.120 | and                |              0 | and they scattered, one here, / one there, along the jutting sandspits.
+103 |  441.380 | alone              |              0 | Alone the daughter of Alcinous stayed: for Athena
+104 |  443.880 | set                |              0 | set courage in her heart and took / the trembling from her limbs.
+105 |  447.460 | She                |              0 | She stood and faced him, holding / her ground. And Odysseus weighed it,
+106 |  452.000 | whether            |              0 | whether to clasp the knees of the lovely-eyed girl and beg, / or standing apart as he was, with honeyed words,
+107 |  457.640 | to                 |              0 | to beg her to show him the city and give him clothing.
+108 |  461.300 | And                |              0 | And as he weighed it, this seemed the better way:
+109 |  463.680 | to                 |              0 | to stand apart and beg with honeyed words, / lest the girl's heart take anger if he touched her knees.
+110 |  469.220 | At                 |              0 | At once he spoke — a honeyed speech, and a shrewd one:
+111 |  472.740 | I                  |              0 | "I am at your knees, queen — goddess or mortal, are you?
+112 |  475.980 | If                 |              0 | If you are one of the gods who hold wide heaven, / then it is to Artemis, daughter of great Zeus,
+113 |  481.020 | that               |              0 | that I liken you nearest — / in beauty, in stature, in bearing.
+114 |  484.480 | but                |              0 | But if you are one of the mortals who live on the earth,
+115 |  487.500 | three              |              0 | three times blessed your father and your honored mother,
+116 |  490.260 | three              |              0 | three times blessed your brothers! Surely their hearts
+117 |  492.620 | are                |              0 | are warmed through with gladness always because of you,
+118 |  495.540 | watching           |              0 | watching such a young shoot go stepping into the dance.
+119 |  498.720 | But                |              0 | But blessed at heart above all others is that man
+120 |  501.020 | who                |              0 | who weighs down the scales of the / bride-gifts and leads you home.
+121 |  504.540 | for                |              0 | For my eyes have never seen a mortal like you, / not man, not woman. Awe takes me, looking at you.
+122 |  510.560 | In                 |              0 | In Delos once, beside Apollo's altar, I saw such a thing: / the young shoot of a date-palm springing up —
+123 |  517.380 | for                |              0 | for I came there too, and a great host followed me, / on that road where my bitter cares were to be —
+124 |  522.900 | and                |              0 | and just as, seeing that, I stood amazed at heart
+125 |  525.720 | a                  |              0 | a long time, since no such stem / had ever risen from the earth,
+126 |  530.040 | So                 |              0 | so, lady, I wonder at you, amazed, and I am terribly / afraid to touch your knees. But hard grief is upon me.
+127 |  536.820 | Yesterday,         |              0 | Yesterday, on the twentieth day, / I escaped the wine-dark sea:
+128 |  540.700 | all                |              0 | all that time the waves carried me, / and the driving storms,
+129 |  544.100 | away               |              0 | away from the island Ogygia. / And now some power has cast me here —
+130 |  548.280 | to                 |              0 | to suffer some new evil in this place too, / no doubt: for I do not think
+131 |  551.880 | the                |              0 | the evil will stop; the gods will / accomplish plenty more first.
+132 |  555.920 | but                |              0 | But pity me, queen. After many hard labors it / is to you first I have come; I know not one
+133 |  561.160 | of                 |              0 | of the others whose city and land this is.
+134 |  564.160 | Show               |              0 | Show me the town, and give me a rag to throw around me —
+135 |  567.440 | if                 |              0 | if perhaps you had some wrapping-cloth / for the linen when you came.
+136 |  571.320 | and                |              0 | And may the gods grant you all your heart desires:
+137 |  574.540 | a                  |              0 | a husband and a house — and may they add like-mindedness,
+138 |  578.700 | the                |              0 | the good kind. For nothing is / stronger or better than that:
+139 |  583.040 | when               |              0 | when two who think alike keep house together, / a man and his wife — much grief to their ill-wishers,
+140 |  589.340 | joy                |              0 | joy to their friends; and they themselves know it best."
+141 |  593.440 | Then               |              0 | Then white-armed Nausicaa answered him:
+142 |  595.860 | stranger,          |              0 | "Stranger — since you seem / neither base nor witless a man —
+143 |  599.460 | it                 |              0 | it is Olympian Zeus himself who deals out fortune to / mankind, to good and bad, to each one as he wills;
+144 |  606.260 | and                |              0 | and to you, I suppose, he gave this lot, / and you must bear it, come what may.
+145 |  611.180 | But                |              0 | But now, since you have come to our city and our land,
+146 |  613.940 | you                |              0 | you shall not want for clothing, nor for anything / else that is owed a hard-worn suppliant when he comes.
+147 |  619.560 | I                  |              0 | I will show you the town, / and tell you the name of the people.
+148 |  623.360 | The                |              0 | The Phaeacians hold this city and this land, / and I am the daughter of great-hearted Alcinous,
+149 |  627.780 | on                 |              0 | on whom the strength and power of the Phaeacians hang."
+150 |  631.480 | She                |              0 | She spoke, and called to her fair-braided handmaids:
+151 |  634.840 | stand              |              0 | "Stand still, you girls! Where are / you running at the sight of a man?
+152 |  638.320 | You                |              0 | You cannot think he is one of an enemy people?
+153 |  640.900 | There              |              0 | There is no living mortal, and there will be none, / who could come bearing war into the land
+154 |  645.480 | of                 |              0 | of the Phaeacian men. For we are / very dear to the deathless ones,
+155 |  648.680 | we                 |              1 | and we live apart, in the much-surging sea, / at the world's edge, and no other mortals mix with us.
+156 |  655.340 | No,                |              0 | No — this is some poor wanderer come here astray,
+157 |  658.600 | whom               |              0 | whom we must care for now. / From Zeus they come, all of them,
+158 |  662.540 | strangers          |              0 | strangers and beggars; and a gift, though small, is dear.
+159 |  666.520 | Come               |              0 | Come, girls: give the stranger food and drink,
+160 |  669.240 | and                |              0 | and bathe him in the river, / where there is shelter from the wind."
+161 |  672.500 | So                 |              0 | So she spoke; and they stood, and called to one another,
+162 |  675.840 | and                |              0 | and they set Odysseus down in the / sheltered place, as she commanded —
+163 |  680.200 | daughter           |              1 | Nausicaa, daughter of great-hearted Alcinous — / and laid a mantle and a tunic by him for clothing,
+164 |  685.860 | and                |              0 | and gave him soft olive oil in the golden flask, / and urged him to bathe in the streams of the river.
+165 |  691.760 | Then               |              0 | Then noble Odysseus spoke among the handmaids:
+166 |  694.680 | stand              |              0 | "Stand off there, girls, at a distance, so that I myself
+167 |  698.200 | may                |              0 | may wash the brine from my shoulders, and rub myself
+168 |  701.080 | with               |              0 | with oil: it is long indeed since oil came near my skin.
+169 |  704.800 | but                |              0 | But I will not bathe in front of you. I would be / ashamed to stand naked among fair-braided girls."
+170 |  710.400 | So                 |              0 | So he spoke; and they went apart, and told the girl.
+171 |  713.720 | And                |              0 | And noble Odysseus washed his body in the river,
+172 |  716.660 | off                |              1 | sluicing off the brine that caked / his back and broad shoulders,
+173 |  720.000 | and                |              0 | and scrubbed from his head the / salt-scurf of the barren sea.
+174 |  723.220 | and                |              0 | And when he had washed all over, / and rubbed himself with oil,
+175 |  726.600 | and                |              0 | and put on the clothes the unwed girl had given him, / then Athena, born of Zeus, made him
+176 |  732.320 | taller             |              0 | taller to look at, and broader, and down from his head
+177 |  735.580 | she                |              0 | she made the locks flow in curls, / like the hyacinth flower.
+178 |  739.580 | as                 |              0 | As when a man lays gold over silver — a craftsman / whom Hephaestus and Pallas Athena have taught
+179 |  744.900 | art                |              0 | art of every kind, and he finishes works full of grace — / so she poured grace over his head and shoulders.
+180 |  752.280 | Then               |              0 | Then he went apart and sat on the shingle of the sea,
+181 |  755.160 | shining            |              0 | shining with beauty and grace. And the girl gazed at him, / and spoke among her fair-braided handmaids:
+182 |  760.900 | Listen,            |              0 | "Listen, my white-armed girls, while I say something.
+183 |  764.460 | not                |              0 | Not against the will of all the gods who hold Olympus / does this man come among the godlike Phaeacians.
+184 |  770.000 | Before             |              0 | Before, I confess, he seemed to me a sorry sight; / now he is like the gods who hold wide heaven.
+185 |  776.440 | If                 |              0 | If only such a man might be called my husband, / living here — if only it pleased him to stay!
+186 |  781.400 | give               |              3 | But come, girls: give the stranger food and drink."
+187 |  784.700 | So                 |              0 | So she spoke, and they listened well and obeyed, / and set food and drink beside Odysseus.
+188 |  789.800 | And                |              0 | And he drank and ate, much-enduring noble Odysseus, / ravenously: it was long since he had tasted food.
+189 |  798.280 | But                |              0 | But white-armed Nausicaa thought of one thing more:
+190 |  802.300 | She                |              0 | she folded the clothes and stowed / them in the beautiful wagon,
+191 |  805.640 | and                |              0 | and yoked the strong-hoofed mules, and mounted herself,
+192 |  809.560 | and                |              0 | and called Odysseus on, and spoke a word, and named him:
+193 |  813.520 | Up                 |              0 | "Up now, stranger, and we go / to the city, so I may send you
+194 |  817.140 | to                 |              0 | to the house of my wise father — where, I promise you, / you will meet the best men of all the Phaeacians.
+195 |  823.220 | Only               |              0 | Only do exactly this — / you do not seem to me short of sense.
+196 |  827.040 | While              |              0 | While we are passing the fields and the works of men, / walk with the handmaids, behind the mules and wagon,
+197 |  832.720 | briskly,           |              0 | briskly; I will lead the way.
+198 |  834.980 | But                |              0 | But when we are about to enter / the city — a high wall rings it,
+199 |  838.280 | and                |              0 | and a beautiful harbor lies on either side of the town,
+200 |  841.020 | with               |              0 | with a narrow causeway in; / and the curved ships are drawn up
+201 |  844.200 | along              |              0 | along the road, for every man has his own slip there;
+202 |  847.360 | and                |              0 | and there is the gathering-place / around Poseidon's fine precinct,
+203 |  850.980 | fitted             |              0 | fitted with quarried stones set deep in the earth; / and there men see to the tackle of their black ships,
+204 |  856.840 | the                |              0 | the cables and the sails, and fine down their oars —
+205 |  860.140 | for                |              0 | for the Phaeacians care nothing for the bow or the quiver,
+206 |  863.040 | but                |              0 | but for masts, and ships' oars, / and the trim ships themselves,
+207 |  866.900 | in                 |              0 | in which they delight as they cross the gray salt sea —
+208 |  870.080 | It                 |              0 | it is their ugly talk I shrink from: / someone behind my back
+209 |  873.420 | there              |              0 | There are insolent men enough in the town; / and one of the meaner sort, meeting us, might say:
+210 |  879.700 | is                 |              1 | 'Who is this following Nausicaa — this tall handsome
+211 |  882.600 | stranger,          |              0 | stranger? Where did she find him? / A husband for her, no doubt!
+212 |  886.540 | some               |              0 | Some castaway she has taken up, off his ship, / a man from far parts — since nobody lives near us;
+213 |  892.340 | or                 |              0 | or some god, long prayed-for, come down to her out of / heaven in answer, and hers he will be all her days!
+214 |  898.740 | Better             |              0 | Better so, if she has gone out and found herself a husband
+215 |  901.580 | from               |              0 | from elsewhere — since she / scorns her own, here in the land,
+216 |  905.040 | the                |              0 | the Phaeacians, though many fine men are wooing her!'
+217 |  907.740 | so                 |              0 | So they will say, and it would be a reproach against me.
+218 |  910.840 | and                |              0 | And I would blame another girl who did such things myself:
+219 |  914.020 | who                |              0 | who, against the will of her / dear father and mother living,
+220 |  916.760 | kept               |              0 | kept company with men before the day of open marriage.
+221 |  919.800 | so                 |              0 | So, stranger, mark my word quickly, and you will / win escort and homecoming from my father soonest.
+222 |  925.920 | You                |              0 | You will find a shining grove of Athena near the road —
+223 |  928.900 | poplars,           |              0 | poplars; a spring wells up in it; a meadow lies around it.
+224 |  932.920 | There              |              0 | There is my father's park there, and his flourishing orchard, / as far from the city as a man's shout carries.
+225 |  938.620 | sit                |              0 | Sit down there and wait a while, until we have / entered the town and reached my father's house.
+226 |  943.820 | But                |              0 | But when you judge that we have reached the house, / then go into the city of the Phaeacians, and ask
+227 |  948.600 | for                |              0 | for the house of my father, great-hearted Alcinous.
+228 |  951.680 | it                 |              0 | It is easily known: a little child could lead you — / a baby; for the houses of the Phaeacians are not built
+229 |  957.460 | anything           |              0 | anything like it — such is the house of the hero
+230 |  960.880 | and                |              1 | Alcinous. And once the buildings / and the court have hidden you,
+231 |  963.380 | go                 |              0 | go quickly straight through the great hall, until you come
+232 |  966.320 | to                 |              0 | to my mother. She sits at the / hearth in the light of the fire,
+233 |  970.040 | spinning           |              0 | spinning yarn dyed sea-purple — a wonder to see —
+234 |  973.360 | leaning            |              0 | leaning against a pillar, / and her slave-women sit behind her.
+235 |  977.000 | and                |              0 | And there my father's chair is tilted close to hers, / where he sits and drinks his wine like an immortal.
+236 |  982.580 | pass               |              0 | Pass him by, and throw your arms around the knees of / my mother — if you would see your day of homecoming
+237 |  987.860 | with               |              0 | with rejoicing, and quickly, / though you come from very far.
+238 |  991.940 | If                 |              0 | If she once takes kindly thought for you in her heart,
+239 |  994.760 | then               |              0 | then there is hope you will see your own people, / and come to your well-built house and your own fatherland."
+240 | 1000.360 | So                 |              0 | So speaking she touched the mules with the shining whip, / and they quickly left the flowing river behind.
+241 | 1005.720 | Well,              |              0 | Well they trotted, well they wheeled their legs along,
+242 | 1009.260 | and                |              0 | and she drove with care, / so that the walkers could keep pace —
+243 | 1013.120 | the                |              0 | the handmaids and Odysseus — / and used the lash with judgment.
+244 | 1017.360 | and                |              0 | And the sun went down, and they came to the famous / grove sacred to Athena. There noble Odysseus sat down,
+245 | 1024.920 | and                |              0 | and at once he prayed to the daughter of great Zeus:
+246 | 1028.040 | Hear               |              0 | "Hear me, child of aegis-bearing Zeus, Unwearied One.
+247 | 1032.200 | Hear               |              0 | Hear me now at last, since before you never heard me
+248 | 1035.080 | when               |              0 | when I was broken — when the famous earth-shaker broke me.
+249 | 1038.740 | Grant              |              0 | Grant that I come among the / Phaeacians pitied, and a friend."
+250 | 1042.840 | So                 |              0 | So he spoke in prayer, and Pallas Athena heard him.
+251 | 1046.680 | but                |              0 | But she did not yet show herself / to him face to face: she stood
+252 | 1050.460 | in                 |              0 | in awe of her father's brother, who raged on furiously
+253 | 1053.520 | against            |              0 | against godlike Odysseus, / until the day he reached his own land.

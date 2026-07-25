@@ -1,5 +1,18 @@
 audiobook-build/
 audiobook-build-pron-test/
+
+# The onyx-pron build is the basis of the published audiobook, so its
+# provenance is tracked: captions, source chunks, tools, manifest.
+# The rendered output and downloaded weights are not — they are large
+# and reproducible from the above.
+audiobook-build-onyx-pron/videos/
+audiobook-build-onyx-pron/books/
+audiobook-build-onyx-pron/audio-chunks/
+audiobook-build-onyx-pron/models/
+audiobook-build-onyx-pron/**/*.log
+# raw Whisper dumps; the .srt/.ass/-cues.json derived from them are kept
+audiobook-build-onyx-pron/captions/*-words.json
+
 tools/__pycache__/
 *.pyc
 

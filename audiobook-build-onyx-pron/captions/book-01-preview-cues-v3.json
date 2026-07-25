@@ -1,0 +1,32 @@
+{
+  "duration": 98.0,
+  "cues": [
+    {"start": 0.0, "end": 6.3, "kind": "title", "text": "ODYSSEY — BOOK I"},
+    {"start": 0.0, "end": 6.3, "kind": "deck", "text": "Athena comes to Ithaca;\\nTelemachus resolves to seek his father."},
+    {"start": 6.3, "end": 9.65, "text": "Tell me the man, Muse —\\nthe man of many turnings,"},
+    {"start": 9.65, "end": 14.85, "text": "who was driven wandering far, once he had sacked\\nTroy’s holy citadel:"},
+    {"start": 14.85, "end": 18.4, "text": "many were the cities of men he saw,\\nand he learned their minds,"},
+    {"start": 18.4, "end": 21.1, "text": "many the griefs he suffered at heart\\non the open sea,"},
+    {"start": 21.1, "end": 25.45, "text": "striving to win his own life\\nand his companions’ homecoming."},
+    {"start": 25.45, "end": 28.85, "text": "Even so he could not save them,\\nhard though he strove:"},
+    {"start": 28.85, "end": 31.05, "text": "they perished by their own recklessness,"},
+    {"start": 31.05, "end": 34.75, "text": "fools, who ate the cattle\\nof Helios Hyperion,"},
+    {"start": 34.75, "end": 37.5, "text": "and the god took from them\\ntheir day of homecoming."},
+    {"start": 37.5, "end": 41.7, "text": "Begin where you will, goddess, daughter of Zeus —\\ntell us, too, the tale."},
+    {"start": 41.7, "end": 45.35, "text": "By then all the others,\\nall who had escaped sheer ruin,"},
+    {"start": 45.35, "end": 47.55, "text": "were home, safely past the war\\nand past the sea."},
+    {"start": 47.55, "end": 51.4, "text": "Him alone — aching for homecoming\\nand his wife —"},
+    {"start": 51.4, "end": 55.1, "text": "the queenly nymph Calypso,\\nshining among goddesses, held back"},
+    {"start": 55.1, "end": 58.65, "text": "in her hollow caves,\\nhungry to make him her husband."},
+    {"start": 58.65, "end": 61.85, "text": "But when the year came,\\nin the wheeling round of seasons,"},
+    {"start": 61.85, "end": 65.5, "text": "in which the gods had spun the thread\\nof his return home to Ithaca —"},
+    {"start": 65.5, "end": 69.7, "text": "not even there was he free of trials,\\neven among his own."},
+    {"start": 69.7, "end": 74.8, "text": "And the gods pitied him, all but Poseidon:\\nhe raged without rest"},
+    {"start": 74.8, "end": 79.8, "text": "against godlike Odysseus,\\nuntil the day he reached his own land."},
+    {"start": 79.8, "end": 82.7, "text": "But now Poseidon was gone\\namong the far-off Ethiopians —"},
+    {"start": 82.7, "end": 87.0, "text": "the Ethiopians, sundered in two,\\nremotest of mankind,"},
+    {"start": 87.0, "end": 89.45, "text": "half where Hyperion sets\\nand half where he rises —"},
+    {"start": 89.45, "end": 94.2, "text": "to receive a hecatomb of bulls and rams,\\nand there he sat at the feast, delighting."},
+    {"start": 94.2, "end": 98.0, "text": "But the other gods were gathered together\\nin the halls of Olympian Zeus,"}
+  ]
+}

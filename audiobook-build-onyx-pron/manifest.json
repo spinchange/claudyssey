@@ -1,0 +1,1371 @@
+{
+  "source_dir": "H:\\My Drive\\agent-journal\\odyssey\\audiobook-source",
+  "build_dir": "audiobook-build-onyx-pron",
+  "max_chars": 3800,
+  "books": [
+    {
+      "book": "book-01",
+      "source": "H:\\My Drive\\agent-journal\\odyssey\\audiobook-source\\book-01.md",
+      "clean_text": "audiobook-build-onyx-pron\\clean\\book-01.txt",
+      "characters": 24208,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-01\\chunk-001.txt",
+          "characters": 3441
+        },
+        {
+          "index": 2,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-01\\chunk-002.txt",
+          "characters": 3497
+        },
+        {
+          "index": 3,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-01\\chunk-003.txt",
+          "characters": 2861
+        },
+        {
+          "index": 4,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-01\\chunk-004.txt",
+          "characters": 2747
+        },
+        {
+          "index": 5,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-01\\chunk-005.txt",
+          "characters": 1206
+        },
+        {
+          "index": 6,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-01\\chunk-006.txt",
+          "characters": 3608
+        },
+        {
+          "index": 7,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-01\\chunk-007.txt",
+          "characters": 3712
+        },
+        {
+          "index": 8,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-01\\chunk-008.txt",
+          "characters": 3121
+        }
+      ]
+    },
+    {
+      "book": "book-02",
+      "source": "H:\\My Drive\\agent-journal\\odyssey\\audiobook-source\\book-02.md",
+      "clean_text": "audiobook-build-onyx-pron\\clean\\book-02.txt",
+      "characters": 23803,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-02\\chunk-001.txt",
+          "characters": 2187
+        },
+        {
+          "index": 2,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-02\\chunk-002.txt",
+          "characters": 2441
+        },
+        {
+          "index": 3,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-02\\chunk-003.txt",
+          "characters": 3374
+        },
+        {
+          "index": 4,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-02\\chunk-004.txt",
+          "characters": 3356
+        },
+        {
+          "index": 5,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-02\\chunk-005.txt",
+          "characters": 3190
+        },
+        {
+          "index": 6,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-02\\chunk-006.txt",
+          "characters": 3556
+        },
+        {
+          "index": 7,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-02\\chunk-007.txt",
+          "characters": 3386
+        },
+        {
+          "index": 8,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-02\\chunk-008.txt",
+          "characters": 2298
+        }
+      ]
+    },
+    {
+      "book": "book-03",
+      "source": "H:\\My Drive\\agent-journal\\odyssey\\audiobook-source\\book-03.md",
+      "clean_text": "audiobook-build-onyx-pron\\clean\\book-03.txt",
+      "characters": 26902,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-03\\chunk-001.txt",
+          "characters": 3538
+        },
+        {
+          "index": 2,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-03\\chunk-002.txt",
+          "characters": 1941
+        },
+        {
+          "index": 3,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-03\\chunk-003.txt",
+          "characters": 3736
+        },
+        {
+          "index": 4,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-03\\chunk-004.txt",
+          "characters": 3652
+        },
+        {
+          "index": 5,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-03\\chunk-005.txt",
+          "characters": 785
+        },
+        {
+          "index": 6,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-03\\chunk-006.txt",
+          "characters": 3792
+        },
+        {
+          "index": 7,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-03\\chunk-007.txt",
+          "characters": 3334
+        },
+        {
+          "index": 8,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-03\\chunk-008.txt",
+          "characters": 2343
+        },
+        {
+          "index": 9,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-03\\chunk-009.txt",
+          "characters": 3448
+        },
+        {
+          "index": 10,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-03\\chunk-010.txt",
+          "characters": 403
+        }
+      ]
+    },
+    {
+      "book": "book-04",
+      "source": "H:\\My Drive\\agent-journal\\odyssey\\audiobook-source\\book-04.md",
+      "clean_text": "audiobook-build-onyx-pron\\clean\\book-04.txt",
+      "characters": 45088,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-04\\chunk-001.txt",
+          "characters": 1188
+        },
+        {
+          "index": 2,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-04\\chunk-002.txt",
+          "characters": 3753
+        },
+        {
+          "index": 3,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-04\\chunk-003.txt",
+          "characters": 1610
+        },
+        {
+          "index": 4,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-04\\chunk-004.txt",
+          "characters": 3773
+        },
+        {
+          "index": 5,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-04\\chunk-005.txt",
+          "characters": 1350
+        },
+        {
+          "index": 6,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-04\\chunk-006.txt",
+          "characters": 3755
+        },
+        {
+          "index": 7,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-04\\chunk-007.txt",
+          "characters": 891
+        },
+        {
+          "index": 8,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-04\\chunk-008.txt",
+          "characters": 3773
+        },
+        {
+          "index": 9,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-04\\chunk-009.txt",
+          "characters": 3788
+        },
+        {
+          "index": 10,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-04\\chunk-010.txt",
+          "characters": 3800
+        },
+        {
+          "index": 11,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-04\\chunk-011.txt",
+          "characters": 3768
+        },
+        {
+          "index": 12,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-04\\chunk-012.txt",
+          "characters": 1928
+        },
+        {
+          "index": 13,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-04\\chunk-013.txt",
+          "characters": 2668
+        },
+        {
+          "index": 14,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-04\\chunk-014.txt",
+          "characters": 3778
+        },
+        {
+          "index": 15,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-04\\chunk-015.txt",
+          "characters": 2791
+        },
+        {
+          "index": 16,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-04\\chunk-016.txt",
+          "characters": 2802
+        }
+      ]
+    },
+    {
+      "book": "book-05",
+      "source": "H:\\My Drive\\agent-journal\\odyssey\\audiobook-source\\book-05.md",
+      "clean_text": "audiobook-build-onyx-pron\\clean\\book-05.txt",
+      "characters": 26771,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-05\\chunk-001.txt",
+          "characters": 87
+        },
+        {
+          "index": 2,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-05\\chunk-002.txt",
+          "characters": 3738
+        },
+        {
+          "index": 3,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-05\\chunk-003.txt",
+          "characters": 3747
+        },
+        {
+          "index": 4,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-05\\chunk-004.txt",
+          "characters": 2789
+        },
+        {
+          "index": 5,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-05\\chunk-005.txt",
+          "characters": 3200
+        },
+        {
+          "index": 6,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-05\\chunk-006.txt",
+          "characters": 1634
+        },
+        {
+          "index": 7,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-05\\chunk-007.txt",
+          "characters": 2902
+        },
+        {
+          "index": 8,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-05\\chunk-008.txt",
+          "characters": 2624
+        },
+        {
+          "index": 9,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-05\\chunk-009.txt",
+          "characters": 3768
+        },
+        {
+          "index": 10,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-05\\chunk-010.txt",
+          "characters": 2417
+        }
+      ]
+    },
+    {
+      "book": "book-06",
+      "source": "H:\\My Drive\\agent-journal\\odyssey\\audiobook-source\\book-06.md",
+      "clean_text": "audiobook-build-onyx-pron\\clean\\book-06.txt",
+      "characters": 18096,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-06\\chunk-001.txt",
+          "characters": 2597
+        },
+        {
+          "index": 2,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-06\\chunk-002.txt",
+          "characters": 3364
+        },
+        {
+          "index": 3,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-06\\chunk-003.txt",
+          "characters": 3784
+        },
+        {
+          "index": 4,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-06\\chunk-004.txt",
+          "characters": 3706
+        },
+        {
+          "index": 5,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-06\\chunk-005.txt",
+          "characters": 227
+        },
+        {
+          "index": 6,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-06\\chunk-006.txt",
+          "characters": 3716
+        },
+        {
+          "index": 7,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-06\\chunk-007.txt",
+          "characters": 814
+        }
+      ]
+    },
+    {
+      "book": "book-07",
+      "source": "H:\\My Drive\\agent-journal\\odyssey\\audiobook-source\\book-07.md",
+      "clean_text": "audiobook-build-onyx-pron\\clean\\book-07.txt",
+      "characters": 18844,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-07\\chunk-001.txt",
+          "characters": 801
+        },
+        {
+          "index": 2,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-07\\chunk-002.txt",
+          "characters": 3766
+        },
+        {
+          "index": 3,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-07\\chunk-003.txt",
+          "characters": 2626
+        },
+        {
+          "index": 4,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-07\\chunk-004.txt",
+          "characters": 3769
+        },
+        {
+          "index": 5,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-07\\chunk-005.txt",
+          "characters": 3641
+        },
+        {
+          "index": 6,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-07\\chunk-006.txt",
+          "characters": 3565
+        },
+        {
+          "index": 7,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-07\\chunk-007.txt",
+          "characters": 830
+        }
+      ]
+    },
+    {
+      "book": "book-08",
+      "source": "H:\\My Drive\\agent-journal\\odyssey\\audiobook-source\\book-08.md",
+      "clean_text": "audiobook-build-onyx-pron\\clean\\book-08.txt",
+      "characters": 31701,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-08\\chunk-001.txt",
+          "characters": 3285
+        },
+        {
+          "index": 2,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-08\\chunk-002.txt",
+          "characters": 1189
+        },
+        {
+          "index": 3,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-08\\chunk-003.txt",
+          "characters": 3753
+        },
+        {
+          "index": 4,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-08\\chunk-004.txt",
+          "characters": 2536
+        },
+        {
+          "index": 5,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-08\\chunk-005.txt",
+          "characters": 3394
+        },
+        {
+          "index": 6,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-08\\chunk-006.txt",
+          "characters": 3800
+        },
+        {
+          "index": 7,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-08\\chunk-007.txt",
+          "characters": 1992
+        },
+        {
+          "index": 8,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-08\\chunk-008.txt",
+          "characters": 2791
+        },
+        {
+          "index": 9,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-08\\chunk-009.txt",
+          "characters": 3786
+        },
+        {
+          "index": 10,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-08\\chunk-010.txt",
+          "characters": 1812
+        },
+        {
+          "index": 11,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-08\\chunk-011.txt",
+          "characters": 3507
+        }
+      ]
+    },
+    {
+      "book": "book-09",
+      "source": "H:\\My Drive\\agent-journal\\odyssey\\audiobook-source\\book-09.md",
+      "clean_text": "audiobook-build-onyx-pron\\clean\\book-09.txt",
+      "characters": 31054,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-09\\chunk-001.txt",
+          "characters": 3351
+        },
+        {
+          "index": 2,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-09\\chunk-002.txt",
+          "characters": 2955
+        },
+        {
+          "index": 3,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-09\\chunk-003.txt",
+          "characters": 1909
+        },
+        {
+          "index": 4,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-09\\chunk-004.txt",
+          "characters": 3424
+        },
+        {
+          "index": 5,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-09\\chunk-005.txt",
+          "characters": 785
+        },
+        {
+          "index": 6,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-09\\chunk-006.txt",
+          "characters": 3698
+        },
+        {
+          "index": 7,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-09\\chunk-007.txt",
+          "characters": 432
+        },
+        {
+          "index": 8,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-09\\chunk-008.txt",
+          "characters": 3775
+        },
+        {
+          "index": 9,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-09\\chunk-009.txt",
+          "characters": 3562
+        },
+        {
+          "index": 10,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-09\\chunk-010.txt",
+          "characters": 3764
+        },
+        {
+          "index": 11,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-09\\chunk-011.txt",
+          "characters": 3555
+        }
+      ]
+    },
+    {
+      "book": "book-10",
+      "source": "H:\\My Drive\\agent-journal\\odyssey\\audiobook-source\\book-10.md",
+      "clean_text": "audiobook-build-onyx-pron\\clean\\book-10.txt",
+      "characters": 31025,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-10\\chunk-001.txt",
+          "characters": 3030
+        },
+        {
+          "index": 2,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-10\\chunk-002.txt",
+          "characters": 1092
+        },
+        {
+          "index": 3,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-10\\chunk-003.txt",
+          "characters": 3002
+        },
+        {
+          "index": 4,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-10\\chunk-004.txt",
+          "characters": 3769
+        },
+        {
+          "index": 5,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-10\\chunk-005.txt",
+          "characters": 2294
+        },
+        {
+          "index": 6,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-10\\chunk-006.txt",
+          "characters": 3716
+        },
+        {
+          "index": 7,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-10\\chunk-007.txt",
+          "characters": 2163
+        },
+        {
+          "index": 8,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-10\\chunk-008.txt",
+          "characters": 2712
+        },
+        {
+          "index": 9,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-10\\chunk-009.txt",
+          "characters": 2612
+        },
+        {
+          "index": 10,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-10\\chunk-010.txt",
+          "characters": 3563
+        },
+        {
+          "index": 11,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-10\\chunk-011.txt",
+          "characters": 3181
+        }
+      ]
+    },
+    {
+      "book": "book-11",
+      "source": "H:\\My Drive\\agent-journal\\odyssey\\audiobook-source\\book-11.md",
+      "clean_text": "audiobook-build-onyx-pron\\clean\\book-11.txt",
+      "characters": 34423,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-11\\chunk-001.txt",
+          "characters": 2834
+        },
+        {
+          "index": 2,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-11\\chunk-002.txt",
+          "characters": 2071
+        },
+        {
+          "index": 3,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-11\\chunk-003.txt",
+          "characters": 3791
+        },
+        {
+          "index": 4,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-11\\chunk-004.txt",
+          "characters": 3536
+        },
+        {
+          "index": 5,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-11\\chunk-005.txt",
+          "characters": 1858
+        },
+        {
+          "index": 6,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-11\\chunk-006.txt",
+          "characters": 3698
+        },
+        {
+          "index": 7,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-11\\chunk-007.txt",
+          "characters": 2982
+        },
+        {
+          "index": 8,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-11\\chunk-008.txt",
+          "characters": 3757
+        },
+        {
+          "index": 9,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-11\\chunk-009.txt",
+          "characters": 514
+        },
+        {
+          "index": 10,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-11\\chunk-010.txt",
+          "characters": 3730
+        },
+        {
+          "index": 11,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-11\\chunk-011.txt",
+          "characters": 1725
+        },
+        {
+          "index": 12,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-11\\chunk-012.txt",
+          "characters": 3697
+        },
+        {
+          "index": 13,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-11\\chunk-013.txt",
+          "characters": 431
+        }
+      ]
+    },
+    {
+      "book": "book-12",
+      "source": "H:\\My Drive\\agent-journal\\odyssey\\audiobook-source\\book-12.md",
+      "clean_text": "audiobook-build-onyx-pron\\clean\\book-12.txt",
+      "characters": 24814,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-12\\chunk-001.txt",
+          "characters": 908
+        },
+        {
+          "index": 2,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-12\\chunk-002.txt",
+          "characters": 3752
+        },
+        {
+          "index": 3,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-12\\chunk-003.txt",
+          "characters": 3725
+        },
+        {
+          "index": 4,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-12\\chunk-004.txt",
+          "characters": 2639
+        },
+        {
+          "index": 5,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-12\\chunk-005.txt",
+          "characters": 3154
+        },
+        {
+          "index": 6,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-12\\chunk-006.txt",
+          "characters": 3741
+        },
+        {
+          "index": 7,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-12\\chunk-007.txt",
+          "characters": 3795
+        },
+        {
+          "index": 8,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-12\\chunk-008.txt",
+          "characters": 3302
+        }
+      ]
+    },
+    {
+      "book": "book-13",
+      "source": "H:\\My Drive\\agent-journal\\odyssey\\audiobook-source\\book-13.md",
+      "clean_text": "audiobook-build-onyx-pron\\clean\\book-13.txt",
+      "characters": 24371,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-13\\chunk-001.txt",
+          "characters": 93
+        },
+        {
+          "index": 2,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-13\\chunk-002.txt",
+          "characters": 3673
+        },
+        {
+          "index": 3,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-13\\chunk-003.txt",
+          "characters": 1652
+        },
+        {
+          "index": 4,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-13\\chunk-004.txt",
+          "characters": 3668
+        },
+        {
+          "index": 5,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-13\\chunk-005.txt",
+          "characters": 3778
+        },
+        {
+          "index": 6,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-13\\chunk-006.txt",
+          "characters": 3711
+        },
+        {
+          "index": 7,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-13\\chunk-007.txt",
+          "characters": 3507
+        },
+        {
+          "index": 8,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-13\\chunk-008.txt",
+          "characters": 614
+        },
+        {
+          "index": 9,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-13\\chunk-009.txt",
+          "characters": 3765
+        },
+        {
+          "index": 10,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-13\\chunk-010.txt",
+          "characters": 117
+        }
+      ]
+    },
+    {
+      "book": "book-14",
+      "source": "H:\\My Drive\\agent-journal\\odyssey\\audiobook-source\\book-14.md",
+      "clean_text": "audiobook-build-onyx-pron\\clean\\book-14.txt",
+      "characters": 29281,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-14\\chunk-001.txt",
+          "characters": 100
+        },
+        {
+          "index": 2,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-14\\chunk-002.txt",
+          "characters": 3754
+        },
+        {
+          "index": 3,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-14\\chunk-003.txt",
+          "characters": 3730
+        },
+        {
+          "index": 4,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-14\\chunk-004.txt",
+          "characters": 3461
+        },
+        {
+          "index": 5,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-14\\chunk-005.txt",
+          "characters": 3728
+        },
+        {
+          "index": 6,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-14\\chunk-006.txt",
+          "characters": 3730
+        },
+        {
+          "index": 7,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-14\\chunk-007.txt",
+          "characters": 3652
+        },
+        {
+          "index": 8,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-14\\chunk-008.txt",
+          "characters": 3102
+        },
+        {
+          "index": 9,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-14\\chunk-009.txt",
+          "characters": 3731
+        },
+        {
+          "index": 10,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-14\\chunk-010.txt",
+          "characters": 546
+        }
+      ]
+    },
+    {
+      "book": "book-15",
+      "source": "H:\\My Drive\\agent-journal\\odyssey\\audiobook-source\\book-15.md",
+      "clean_text": "audiobook-build-onyx-pron\\clean\\book-15.txt",
+      "characters": 30377,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-15\\chunk-001.txt",
+          "characters": 77
+        },
+        {
+          "index": 2,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-15\\chunk-002.txt",
+          "characters": 3737
+        },
+        {
+          "index": 3,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-15\\chunk-003.txt",
+          "characters": 3735
+        },
+        {
+          "index": 4,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-15\\chunk-004.txt",
+          "characters": 3684
+        },
+        {
+          "index": 5,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-15\\chunk-005.txt",
+          "characters": 980
+        },
+        {
+          "index": 6,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-15\\chunk-006.txt",
+          "characters": 3641
+        },
+        {
+          "index": 7,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-15\\chunk-007.txt",
+          "characters": 3781
+        },
+        {
+          "index": 8,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-15\\chunk-008.txt",
+          "characters": 3716
+        },
+        {
+          "index": 9,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-15\\chunk-009.txt",
+          "characters": 3734
+        },
+        {
+          "index": 10,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-15\\chunk-010.txt",
+          "characters": 3587
+        }
+      ]
+    },
+    {
+      "book": "book-16",
+      "source": "H:\\My Drive\\agent-journal\\odyssey\\audiobook-source\\book-16.md",
+      "clean_text": "audiobook-build-onyx-pron\\clean\\book-16.txt",
+      "characters": 25712,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-16\\chunk-001.txt",
+          "characters": 74
+        },
+        {
+          "index": 2,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-16\\chunk-002.txt",
+          "characters": 3714
+        },
+        {
+          "index": 3,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-16\\chunk-003.txt",
+          "characters": 3633
+        },
+        {
+          "index": 4,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-16\\chunk-004.txt",
+          "characters": 1020
+        },
+        {
+          "index": 5,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-16\\chunk-005.txt",
+          "characters": 3719
+        },
+        {
+          "index": 6,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-16\\chunk-006.txt",
+          "characters": 3793
+        },
+        {
+          "index": 7,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-16\\chunk-007.txt",
+          "characters": 1257
+        },
+        {
+          "index": 8,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-16\\chunk-008.txt",
+          "characters": 3633
+        },
+        {
+          "index": 9,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-16\\chunk-009.txt",
+          "characters": 3674
+        },
+        {
+          "index": 10,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-16\\chunk-010.txt",
+          "characters": 1485
+        }
+      ]
+    },
+    {
+      "book": "book-17",
+      "source": "H:\\My Drive\\agent-journal\\odyssey\\audiobook-source\\book-17.md",
+      "clean_text": "audiobook-build-onyx-pron\\clean\\book-17.txt",
+      "characters": 32759,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-17\\chunk-001.txt",
+          "characters": 81
+        },
+        {
+          "index": 2,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-17\\chunk-002.txt",
+          "characters": 3707
+        },
+        {
+          "index": 3,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-17\\chunk-003.txt",
+          "characters": 3765
+        },
+        {
+          "index": 4,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-17\\chunk-004.txt",
+          "characters": 3315
+        },
+        {
+          "index": 5,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-17\\chunk-005.txt",
+          "characters": 3687
+        },
+        {
+          "index": 6,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-17\\chunk-006.txt",
+          "characters": 3660
+        },
+        {
+          "index": 7,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-17\\chunk-007.txt",
+          "characters": 3663
+        },
+        {
+          "index": 8,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-17\\chunk-008.txt",
+          "characters": 250
+        },
+        {
+          "index": 9,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-17\\chunk-009.txt",
+          "characters": 3742
+        },
+        {
+          "index": 10,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-17\\chunk-010.txt",
+          "characters": 3794
+        },
+        {
+          "index": 11,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-17\\chunk-011.txt",
+          "characters": 3432
+        }
+      ]
+    },
+    {
+      "book": "book-18",
+      "source": "H:\\My Drive\\agent-journal\\odyssey\\audiobook-source\\book-18.md",
+      "clean_text": "audiobook-build-onyx-pron\\clean\\book-18.txt",
+      "characters": 23223,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-18\\chunk-001.txt",
+          "characters": 102
+        },
+        {
+          "index": 2,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-18\\chunk-002.txt",
+          "characters": 3731
+        },
+        {
+          "index": 3,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-18\\chunk-003.txt",
+          "characters": 3787
+        },
+        {
+          "index": 4,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-18\\chunk-004.txt",
+          "characters": 3771
+        },
+        {
+          "index": 5,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-18\\chunk-005.txt",
+          "characters": 430
+        },
+        {
+          "index": 6,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-18\\chunk-006.txt",
+          "characters": 3715
+        },
+        {
+          "index": 7,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-18\\chunk-007.txt",
+          "characters": 3669
+        },
+        {
+          "index": 8,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-18\\chunk-008.txt",
+          "characters": 3734
+        },
+        {
+          "index": 9,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-18\\chunk-009.txt",
+          "characters": 522
+        }
+      ]
+    },
+    {
+      "book": "book-19",
+      "source": "H:\\My Drive\\agent-journal\\odyssey\\audiobook-source\\book-19.md",
+      "clean_text": "audiobook-build-onyx-pron\\clean\\book-19.txt",
+      "characters": 32641,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-19\\chunk-001.txt",
+          "characters": 78
+        },
+        {
+          "index": 2,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-19\\chunk-002.txt",
+          "characters": 3624
+        },
+        {
+          "index": 3,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-19\\chunk-003.txt",
+          "characters": 3752
+        },
+        {
+          "index": 4,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-19\\chunk-004.txt",
+          "characters": 3694
+        },
+        {
+          "index": 5,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-19\\chunk-005.txt",
+          "characters": 3717
+        },
+        {
+          "index": 6,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-19\\chunk-006.txt",
+          "characters": 3800
+        },
+        {
+          "index": 7,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-19\\chunk-007.txt",
+          "characters": 3329
+        },
+        {
+          "index": 8,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-19\\chunk-008.txt",
+          "characters": 3772
+        },
+        {
+          "index": 9,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-19\\chunk-009.txt",
+          "characters": 3716
+        },
+        {
+          "index": 10,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-19\\chunk-010.txt",
+          "characters": 3505
+        }
+      ]
+    },
+    {
+      "book": "book-20",
+      "source": "H:\\My Drive\\agent-journal\\odyssey\\audiobook-source\\book-20.md",
+      "clean_text": "audiobook-build-onyx-pron\\clean\\book-20.txt",
+      "characters": 21463,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-20\\chunk-001.txt",
+          "characters": 104
+        },
+        {
+          "index": 2,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-20\\chunk-002.txt",
+          "characters": 3793
+        },
+        {
+          "index": 3,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-20\\chunk-003.txt",
+          "characters": 3790
+        },
+        {
+          "index": 4,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-20\\chunk-004.txt",
+          "characters": 3356
+        },
+        {
+          "index": 5,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-20\\chunk-005.txt",
+          "characters": 3795
+        },
+        {
+          "index": 6,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-20\\chunk-006.txt",
+          "characters": 3708
+        },
+        {
+          "index": 7,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-20\\chunk-007.txt",
+          "characters": 3155
+        }
+      ]
+    },
+    {
+      "book": "book-21",
+      "source": "H:\\My Drive\\agent-journal\\odyssey\\audiobook-source\\book-21.md",
+      "clean_text": "audiobook-build-onyx-pron\\clean\\book-21.txt",
+      "characters": 23824,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-21\\chunk-001.txt",
+          "characters": 78
+        },
+        {
+          "index": 2,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-21\\chunk-002.txt",
+          "characters": 3731
+        },
+        {
+          "index": 3,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-21\\chunk-003.txt",
+          "characters": 3523
+        },
+        {
+          "index": 4,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-21\\chunk-004.txt",
+          "characters": 3741
+        },
+        {
+          "index": 5,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-21\\chunk-005.txt",
+          "characters": 1141
+        },
+        {
+          "index": 6,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-21\\chunk-006.txt",
+          "characters": 3702
+        },
+        {
+          "index": 7,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-21\\chunk-007.txt",
+          "characters": 3778
+        },
+        {
+          "index": 8,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-21\\chunk-008.txt",
+          "characters": 3753
+        },
+        {
+          "index": 9,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-21\\chunk-009.txt",
+          "characters": 603
+        }
+      ]
+    },
+    {
+      "book": "book-22",
+      "source": "H:\\My Drive\\agent-journal\\odyssey\\audiobook-source\\book-22.md",
+      "clean_text": "audiobook-build-onyx-pron\\clean\\book-22.txt",
+      "characters": 27280,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-22\\chunk-001.txt",
+          "characters": 45
+        },
+        {
+          "index": 2,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-22\\chunk-002.txt",
+          "characters": 3782
+        },
+        {
+          "index": 3,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-22\\chunk-003.txt",
+          "characters": 3773
+        },
+        {
+          "index": 4,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-22\\chunk-004.txt",
+          "characters": 1241
+        },
+        {
+          "index": 5,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-22\\chunk-005.txt",
+          "characters": 3759
+        },
+        {
+          "index": 6,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-22\\chunk-006.txt",
+          "characters": 3729
+        },
+        {
+          "index": 7,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-22\\chunk-007.txt",
+          "characters": 1846
+        },
+        {
+          "index": 8,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-22\\chunk-008.txt",
+          "characters": 3797
+        },
+        {
+          "index": 9,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-22\\chunk-009.txt",
+          "characters": 3679
+        },
+        {
+          "index": 10,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-22\\chunk-010.txt",
+          "characters": 1903
+        }
+      ]
+    },
+    {
+      "book": "book-23",
+      "source": "H:\\My Drive\\agent-journal\\odyssey\\audiobook-source\\book-23.md",
+      "clean_text": "audiobook-build-onyx-pron\\clean\\book-23.txt",
+      "characters": 20408,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-23\\chunk-001.txt",
+          "characters": 82
+        },
+        {
+          "index": 2,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-23\\chunk-002.txt",
+          "characters": 3749
+        },
+        {
+          "index": 3,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-23\\chunk-003.txt",
+          "characters": 3427
+        },
+        {
+          "index": 4,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-23\\chunk-004.txt",
+          "characters": 3675
+        },
+        {
+          "index": 5,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-23\\chunk-005.txt",
+          "characters": 389
+        },
+        {
+          "index": 6,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-23\\chunk-006.txt",
+          "characters": 3793
+        },
+        {
+          "index": 7,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-23\\chunk-007.txt",
+          "characters": 3770
+        },
+        {
+          "index": 8,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-23\\chunk-008.txt",
+          "characters": 1718
+        }
+      ]
+    },
+    {
+      "book": "book-24",
+      "source": "H:\\My Drive\\agent-journal\\odyssey\\audiobook-source\\book-24.md",
+      "clean_text": "audiobook-build-onyx-pron\\clean\\book-24.txt",
+      "characters": 29869,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-24\\chunk-001.txt",
+          "characters": 81
+        },
+        {
+          "index": 2,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-24\\chunk-002.txt",
+          "characters": 3721
+        },
+        {
+          "index": 3,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-24\\chunk-003.txt",
+          "characters": 3720
+        },
+        {
+          "index": 4,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-24\\chunk-004.txt",
+          "characters": 2786
+        },
+        {
+          "index": 5,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-24\\chunk-005.txt",
+          "characters": 3690
+        },
+        {
+          "index": 6,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-24\\chunk-006.txt",
+          "characters": 3775
+        },
+        {
+          "index": 7,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-24\\chunk-007.txt",
+          "characters": 3013
+        },
+        {
+          "index": 8,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-24\\chunk-008.txt",
+          "characters": 3772
+        },
+        {
+          "index": 9,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-24\\chunk-009.txt",
+          "characters": 3729
+        },
+        {
+          "index": 10,
+          "path": "audiobook-build-onyx-pron\\chunks\\book-24\\chunk-010.txt",
+          "characters": 1886
+        }
+      ]
+    }
+  ],
+  "total_characters": 657937,
+  "total_chunks": 234
+}

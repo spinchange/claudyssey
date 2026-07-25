@@ -1,0 +1,42 @@
+﻿[Script Info]
+Title: Odyssey Book I — Living Manuscript Preview
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Title,Georgia,74,&H006AB3D7,&H006AB3D7,&HCC130D08,&H80000000,0,0,0,0,100,100,7,0,1,3,2,5,120,120,0,1
+Style: Deck,Georgia,35,&H00C7DDE8,&H00C7DDE8,&HCC130D08,&H80000000,0,1,0,0,100,100,1,0,1,2.5,1,5,210,210,0,1
+Style: Header,Georgia,23,&H005594B8,&H005594B8,&H80130D08,&H00000000,0,0,0,0,100,100,3,0,1,1.5,0,8,80,80,54,1
+Style: Narration,Georgia,49,&H006AB3D7,&H00D8E7EE,&HE0130D08,&H70000000,0,0,0,0,100,100,0.4,0,1,3,1,2,170,170,185,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.70,Title,,0,0,0,,{\fad(700,500)\bord3\blur0.5}ODYSSEY — BOOK I
+Dialogue: 0,0:00:03.70,0:00:09.73,Deck,,0,0,0,,{\fad(500,700)}Athena comes to Ithaca;\NTelemachus resolves to seek his father.
+Dialogue: 0,0:00:09.73,0:01:35.00,Header,,0,0,0,,{\fad(800,500)}HOMER’S ODYSSEY  ·  BOOK I
+Dialogue: 1,0:00:09.73,0:00:14.74,Narration,,0,0,0,,{\fad(180,220)}{\kf53}Tell {\kf26}me {\kf40}the {\kf40}man, {\kf53}Muse {\kf26}—\N{\kf40}the {\kf40}man {\kf26}of {\kf53}many {\kf104}turnings,
+Dialogue: 1,0:00:14.74,0:00:18.31,Narration,,0,0,0,,{\fad(180,220)}{\kf27}who {\kf27}was {\kf55}driven {\kf82}wandering {\kf27}far,\N{\kf37}once {\kf18}he {\kf27}had {\kf57}sacked
+Dialogue: 1,0:00:18.31,0:00:21.27,Narration,,0,0,0,,{\fad(180,220)}{\kf104}Troy’s {\kf70}holy {\kf122}citadel:
+Dialogue: 1,0:00:21.27,0:00:25.35,Narration,,0,0,0,,{\fad(180,220)}{\kf33}many {\kf33}were {\kf25}the {\kf50}cities {\kf17}of {\kf25}men {\kf17}he {\kf25}saw,\N{\kf25}and {\kf17}he {\kf58}learned {\kf42}their {\kf41}minds,
+Dialogue: 1,0:00:25.35,0:00:28.94,Narration,,0,0,0,,{\fad(180,220)}{\kf34}many {\kf26}the {\kf51}griefs {\kf17}he {\kf68}suffered {\kf17}at {\kf43}heart\N{\kf17}on {\kf26}the {\kf34}open {\kf26}sea,
+Dialogue: 1,0:00:28.94,0:00:32.20,Narration,,0,0,0,,{\fad(180,220)}{\kf52}striving {\kf13}to {\kf20}win {\kf20}his {\kf20}own {\kf26}life\N{\kf20}and {\kf20}his {\kf72}companions’ {\kf63}homecoming.
+Dialogue: 1,0:00:32.20,0:00:34.73,Narration,,0,0,0,,{\fad(180,220)}{\kf42}Even {\kf21}so {\kf21}he {\kf53}could {\kf32}not {\kf42}save {\kf42}them,
+Dialogue: 1,0:00:34.73,0:00:37.42,Narration,,0,0,0,,{\fad(180,220)}{\kf60}hard {\kf90}though {\kf30}he {\kf89}strove:
+Dialogue: 1,0:00:37.42,0:00:40.22,Narration,,0,0,0,,{\fad(180,220)}{\kf33}they {\kf66}perished {\kf16}by {\kf41}their {\kf25}own {\kf99}recklessness,
+Dialogue: 1,0:00:40.22,0:00:43.43,Narration,,0,0,0,,{\fad(180,220)}{\kf45}fools, {\kf27}who {\kf27}ate {\kf27}the {\kf54}cattle\N{\kf18}of {\kf54}Helios {\kf69}Hyperion,
+Dialogue: 1,0:00:43.43,0:00:46.13,Narration,,0,0,0,,{\fad(180,220)}{\kf20}and {\kf20}the {\kf20}god {\kf26}took {\kf26}from {\kf26}them\N{\kf33}their {\kf20}day {\kf13}of {\kf66}homecoming.
+Dialogue: 1,0:00:46.13,0:00:51.55,Narration,,0,0,0,,{\fad(180,220)}{\kf48}Begin {\kf48}where {\kf29}you {\kf39}will, {\kf68}goddess, {\kf77}daughter {\kf19}of {\kf39}Zeus {\kf19}—\N{\kf39}tell {\kf19}us, {\kf29}too, {\kf29}the {\kf40}tale.
+Dialogue: 1,0:00:51.55,0:00:56.78,Narration,,0,0,0,,{\fad(180,220)}{\kf24}By {\kf49}then {\kf36}all {\kf36}the {\kf73}others,\N{\kf36}all {\kf36}who {\kf36}had {\kf85}escaped {\kf61}sheer {\kf51}ruin,
+Dialogue: 1,0:00:56.78,0:01:00.14,Narration,,0,0,0,,{\fad(180,220)}{\kf36}were {\kf36}home, {\kf54}safely {\kf36}past {\kf27}the {\kf27}war\N{\kf27}and {\kf36}past {\kf27}the {\kf30}sea.
+Dialogue: 1,0:01:00.14,0:01:05.64,Narration,,0,0,0,,{\fad(180,220)}{\kf40}Him {\kf67}alone {\kf27}— {\kf80}aching {\kf40}for {\kf134}homecoming\N{\kf40}and {\kf40}his {\kf54}wife {\kf28}—
+Dialogue: 1,0:01:05.64,0:01:10.92,Narration,,0,0,0,,{\fad(180,220)}{\kf31}the {\kf72}queenly {\kf52}nymph {\kf72}Calypso,\N{\kf72}shining {\kf52}among {\kf93}goddesses, {\kf41}held {\kf43}back
+Dialogue: 1,0:01:10.92,0:01:13.88,Narration,,0,0,0,,{\fad(180,220)}{\kf14}in {\kf22}her {\kf43}hollow {\kf36}caves,\N{\kf43}hungry {\kf14}to {\kf29}make {\kf22}him {\kf22}her {\kf51}husband.
+Dialogue: 1,0:01:13.88,0:01:18.65,Narration,,0,0,0,,{\fad(180,220)}{\kf32}But {\kf42}when {\kf32}the {\kf42}year {\kf42}came,\N{\kf21}in {\kf32}the {\kf85}wheeling {\kf53}round {\kf21}of {\kf75}seasons,
+Dialogue: 1,0:01:18.65,0:01:24.19,Narration,,0,0,0,,{\fad(180,220)}{\kf25}in {\kf62}which {\kf37}the {\kf49}gods {\kf37}had {\kf49}spun {\kf37}the {\kf74}thread\N{\kf25}of {\kf37}his {\kf74}return {\kf48}home
+Dialogue: 1,0:01:24.19,0:01:29.05,Narration,,0,0,0,,{\fad(180,220)}{\kf25}to {\kf75}Ithaca {\kf25}— {\kf37}not {\kf50}even {\kf62}there\N{\kf37}was {\kf25}he {\kf50}free {\kf25}of {\kf75}trials,
+Dialogue: 1,0:01:29.05,0:01:34.37,Narration,,0,0,0,,{\fad(180,220)}{\kf63}even {\kf78}among {\kf47}his {\kf47}own.\N{\kf47}And {\kf47}the {\kf63}gods {\kf94}pitied {\kf46}him,

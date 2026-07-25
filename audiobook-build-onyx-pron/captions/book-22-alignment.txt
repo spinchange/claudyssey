@@ -1,0 +1,393 @@
+ODYSSEY — BOOK XXII full-book caption alignment
+Duration: 1580.112s
+Narration cues: 384
+Source words: 5056
+Directly matched source words: 4819 (95.3%)
+Recognized words: 5093
+Visual lead: 0.16s
+
+Cue | Start | Anchor | Missing prefix | Caption
+  1 |    4.280 | but                |              0 | But he stripped himself of his rags, / Odysseus of the many designs,
+  2 |    9.060 | and                |              0 | and leapt to the great threshold with the bow and the / quiver full of arrows, and poured out the swift shafts
+  3 |   15.080 | there              |              0 | there at his feet, and spoke among the suitors:
+  4 |   18.660 | So,                |              0 | "So: that contest-past-all-contest is accomplished.
+  5 |   22.100 | Now                |              0 | Now for another mark — one no man has ever hit —
+  6 |   25.480 | and                |              0 | and I shall know if I strike it: / if Apollo gives me that glory."
+  7 |   29.000 | He                 |              0 | He spoke, and leveled the bitter arrow at Antinous.
+  8 |   32.580 | and                |              0 | And he — he was that instant lifting a beautiful cup, / a golden one, two-eared, turning it in his hands
+  9 |   39.160 | to                 |              0 | to drink the wine; and slaughter was not in his thoughts:
+ 10 |   42.920 | for                |              0 | for who would think, among men at dinner, that one man / in the middle of many — however strong he might be —
+ 11 |   49.140 | would              |              0 | would bring on him foul death and the black doom?
+ 12 |   52.060 | But                |              0 | But Odysseus took aim at his throat, and shot, / and the point went clean on through the soft of the neck.
+ 13 |   57.700 | He                 |              0 | He sagged to one side; the cup dropped out of his / hand as the arrow hit; and at once a thick jet came
+ 14 |   63.820 | up                 |              0 | up through his nostrils — / human blood; and quick, with a kick,
+ 15 |   68.180 | he                 |              0 | he shoved the table from him and / spilled the food to the floor:
+ 16 |   71.340 | the                |              0 | the bread and the roast meats / fouled in it. And the suitors
+ 17 |   74.940 | broke              |              0 | broke into uproar through the / house when they saw the man fallen;
+ 18 |   78.760 | Up                 |              0 | up from their chairs they started, / driven through the hall,
+ 19 |   81.940 | eyes               |              0 | eyes darting every way along the well-built walls —
+ 20 |   84.200 | and                |              0 | and nowhere was there a shield or a strong spear to seize.
+ 21 |   87.760 | and                |              0 | And they raged at Odysseus with words of fury:
+ 22 |   91.060 | stranger           |              0 | "Stranger, you shoot at men — / and it will cost you! No more contests
+ 23 |   94.640 | for                |              0 | for you: now your own sheer destruction is certain.
+ 24 |   98.000 | the                |              0 | The man you have killed was the / very noblest of the young men
+ 25 |  100.900 | of                 |              0 | of Ithaca. For this the vultures will eat you — here."
+ 26 |  104.900 | so                 |              0 | So each man guessed: for indeed they thought he had killed
+ 27 |  107.760 | the                |              0 | the man unwilling. The fools — they had not seen it yet:
+ 28 |  111.180 | that               |              0 | that on every one of them the / cords of death were fastened.
+ 29 |  114.160 | then               |              0 | Then, glaring from under his brows, / Odysseus of the many designs replied:
+ 30 |  118.220 | you                |              0 | "You dogs! You kept on saying / I would never come home again
+ 31 |  121.280 | out                |              0 | out of the land of Troy: and so you sheared away / my house, and lay with my slave-women by force,
+ 32 |  127.120 | and                |              0 | and courted my own wife while I was still alive, / fearing neither the gods who hold wide heaven
+ 33 |  132.060 | nor                |              0 | nor any vengeance of men, to come hereafter.
+ 34 |  135.240 | now                |              0 | Now on you — on all of you — / the cords of death are fastened."
+ 35 |  139.320 | so                 |              0 | So he spoke; and the pale terror took hold of them all,
+ 36 |  142.540 | and                |              0 | and every man peered round for a / way to escape sheer destruction.
+ 37 |  146.380 | only               |              0 | Only Eurymachus found words, and answered him:
+ 38 |  149.580 | if                 |              0 | "If you are truly Odysseus of Ithaca, come home again,
+ 39 |  153.120 | then               |              0 | then all you say is just — all the Achaeans have done,
+ 40 |  156.300 | reckless           |              0 | reckless things in plenty in the hall, / in plenty on the land.
+ 41 |  159.600 | but                |              0 | But there he lies — the man to blame for everything:
+ 42 |  162.620 | he                 |              1 | Antinous. He was the one who set these doings on — / not so much needing the marriage, or wanting it,
+ 43 |  167.980 | but                |              0 | but with another purpose, / which the son of Cronos never granted:
+ 44 |  171.780 | to                 |              0 | to be king himself in the land of well-built / Ithaca, and to ambush your son and kill him.
+ 45 |  176.840 | now                |              0 | Now he is killed, as was his portion. You — spare your own
+ 46 |  181.020 | people,            |              0 | people; and we hereafter, making it good through the land, / all that has been drunk and eaten in your halls,
+ 47 |  186.920 | each               |              0 | each of us bringing a payment of twenty oxen's worth, / will pay you back in bronze and gold, until your heart
+ 48 |  192.560 | is                 |              0 | is warmed. Till then, no one could blame your anger."
+ 49 |  196.080 | then               |              0 | Then, glaring from under his brows, / Odysseus of the many designs replied:
+ 50 |  200.280 | not                |              1 | "Eurymachus — not if you handed over all your patrimonies,
+ 51 |  203.560 | everything         |              0 | everything you now have, and added more from elsewhere,
+ 52 |  206.480 | not                |              0 | not even so would I hold my hands back from the killing / before the suitors had paid for the whole trespass.
+ 53 |  212.180 | now                |              0 | Now the choice lies before you: fight me face to face, / or run — whoever can slip his death and doom.
+ 54 |  218.440 | but                |              0 | But I do not think one man of / you escapes sheer destruction."
+ 55 |  221.980 | and                |              0 | And their knees went slack where / they stood, and their hearts.
+ 56 |  225.960 | and                |              0 | And Eurymachus called out among them a second time:
+ 57 |  228.920 | friends,           |              0 | "Friends — this man will not / now hold his invincible hands.
+ 58 |  232.660 | he                 |              0 | He has the polished bow and the quiver: he will shoot / from the smooth threshold until he has killed us all.
+ 59 |  239.520 | then               |              0 | Then let our minds be on battle! Draw your swords, / put up the tables against the arrows of quick death,
+ 60 |  245.880 | and                |              0 | and let us all go at him in one body — see if we can / shove him off the threshold and out of the doors,
+ 61 |  252.120 | then               |              0 | then through the town, and the alarm raised at once!
+ 62 |  255.360 | then               |              0 | Then this man would soon have shot his last."
+ 63 |  258.160 | So                 |              0 | So speaking, he drew his sharp sword, / bronze, two-edged, and leapt at him
+ 64 |  262.760 | with               |              0 | with a blood-freezing yell. / But in the same instant noble Odysseus
+ 65 |  266.620 | let                |              0 | let the arrow fly, and struck his chest beside the nipple,
+ 66 |  270.280 | and                |              0 | and drove the swift shaft into his liver. Out of his hand
+ 67 |  273.500 | the                |              0 | the sword dropped to the ground; he doubled over the table
+ 68 |  276.360 | and                |              0 | and crumpled, sprawling across it, / and spilled the food to the floor
+ 69 |  280.480 | and                |              0 | and the two-eared cup. His forehead beat the / earth in his heart's agony; both feet kicked out,
+ 70 |  286.640 | rattling           |              0 | rattling the chair; and the / mist poured down over his eyes.
+ 71 |  290.300 | Then               |              0 | Then Amphinomus went for glorious Odysseus, / charging him head-on, his sharp sword drawn,
+ 72 |  296.040 | to                 |              0 | to see if he might give way from the doors. But Telemachus
+ 73 |  299.140 | was                |              0 | was too quick: he caught him / from behind with the bronze spear
+ 74 |  302.780 | square             |              0 | square between the shoulders, / and drove it through his chest,
+ 75 |  305.740 | and                |              0 | and he fell with a crash, and struck / the ground full with his forehead.
+ 76 |  310.100 | And                |              0 | And Telemachus sprang back, / leaving the long-shadowed spear
+ 77 |  313.300 | there              |              0 | there in Amphinomus: for he feared that as he pulled / the long spear out, some Achaean might rush in
+ 78 |  318.720 | and                |              0 | and cut him with a sword, or strike him as he stooped.
+ 79 |  322.040 | He                 |              0 | He ran, and came quickly to his dear father, / and standing close he spoke winged words:
+ 80 |  327.480 | father,            |              0 | "Father — now I will bring you a shield and two spears / and a helmet all of bronze, fitted to your temples;
+ 81 |  332.740 | and                |              0 | and I will arm myself as I go, and give the swineherd / the same, and the cowherd. Armored is better."
+ 82 |  339.580 | Then               |              0 | Then Odysseus of the many designs answered him:
+ 83 |  342.380 | run,               |              0 | "Run — bring them, while I / still have arrows to fight with,
+ 84 |  344.920 | or                 |              0 | or they will force me from the doors, one man alone."
+ 85 |  348.220 | So                 |              0 | So he spoke; and Telemachus obeyed his dear father
+ 86 |  351.480 | and                |              0 | and went to the storeroom where / the famous arms were lying.
+ 87 |  354.400 | He                 |              0 | He took out four shields, and eight spears, / and four bronze helmets thick with horsehair,
+ 88 |  359.560 | and                |              0 | and came carrying them fast to his dear father.
+ 89 |  362.160 | He                 |              0 | He girded the bronze on his own body first, / and in the same way the two slaves put on the fine armor,
+ 90 |  367.540 | and                |              0 | and they took their stand around Odysseus — / the deep mind, the shifting counsels.
+ 91 |  372.040 | and                |              0 | And he, so long as he had arrows to fight with, / kept aiming, and dropping suitors in his own house,
+ 92 |  378.180 | one                |              0 | one man after another: they fell in heaps.
+ 93 |  380.780 | but                |              0 | But when the arrows failed the master archer,
+ 94 |  383.180 | he                 |              0 | he leaned the bow against the / doorpost of the strong-built hall,
+ 95 |  386.320 | and                |              8 | to stand there by the shining entrance-wall, / and threw about his shoulders a shield of four hides,
+ 96 |  392.280 | and                |              0 | and set on his mighty head a well-made helmet, / horsehair-crested, the plume nodding terror from the top,
+ 97 |  398.220 | and                |              0 | and took up two strong spears, headed with bronze.
+ 98 |  401.560 | Now                |              0 | Now there was a raised side-door in the well-built wall,
+ 99 |  404.660 | and                |              0 | and level with the top of the threshold of the strong hall
+100 |  407.340 | exit               |              1 | an exit to a passage, closed with well-fitted boards.
+101 |  411.580 | Odysseus           |              0 | Odysseus set the noble swineherd to watch it, / posted close: it was the single way out.
+102 |  416.600 | and                |              0 | And Agelaus spoke to them all, / putting the word to everyone:
+103 |  420.520 | Friends            |              0 | "Friends — could not someone climb through the side-door
+104 |  422.960 | and                |              0 | and get word to the people, / and the alarm be raised at once?
+105 |  426.300 | then               |              0 | Then this man would soon have shot his last."
+106 |  428.960 | Then               |              0 | Then Melanthius the goatherd answered him:
+107 |  431.240 | no                 |              0 | "No way, Agelaus, Zeus-nurtured: / the fine gates of the courtyard
+108 |  434.900 | are                |              0 | are terribly near, and the mouth of the passage is cruel:
+109 |  438.100 | one                |              0 | one man could hold it against all comers — / any man with strength in him.
+110 |  442.420 | No,                |              0 | No — wait: let me bring you armor from the storeroom
+111 |  445.340 | to                 |              0 | to harness you. For it is in there, / I am certain — nowhere else —
+112 |  449.000 | that               |              0 | that Odysseus and his shining son have stowed the arms."
+113 |  452.740 | So                 |              0 | So speaking, Melanthius the goatherd climbed up
+114 |  455.260 | through            |              0 | through the smoke-vents of the / hall to the storerooms of Odysseus,
+115 |  459.020 | and                |              0 | and took out twelve shields, as many spears, / as many bronze helmets thick with horsehair,
+116 |  464.360 | and                |              0 | and came back fast and gave them to the suitors.
+117 |  467.660 | And                |              0 | And then the knees of Odysseus went slack, and his heart,
+118 |  470.700 | when               |              0 | when he saw them buckling on the armor and brandishing
+119 |  473.460 | the                |              0 | the long spears in their hands: / the work now looked great to him.
+120 |  477.700 | And                |              0 | And quickly he spoke winged words to Telemachus:
+121 |  480.600 | one                |              1 | "Telemachus — one of the women in the halls is stoking / the evil war against us — that, or it is Melanthius."
+122 |  487.120 | Then               |              0 | Then clear-headed Telemachus answered him:
+123 |  489.520 | father,            |              0 | "Father, the fault is mine — my own, no other's — / I left the storeroom's close-fitted door
+124 |  494.720 | standing           |              0 | standing ajar. Their lookout was sharper than I was.
+125 |  497.720 | go                 |              0 | Go, noble Eumaeus: close the storeroom door, / and find out whether it is one of the women doing this,
+126 |  503.940 | or                 |              0 | or Dolius' son Melanthius — he is the one I think it is."
+127 |  508.160 | So                 |              0 | So they spoke to one another of such things.
+128 |  510.520 | and                |              0 | And Melanthius the goatherd went again to the storeroom
+129 |  513.480 | to                 |              0 | to bring out more fine armor. / But the noble swineherd marked him,
+130 |  517.720 | and                |              0 | and quickly said to Odysseus, standing near:
+131 |  520.700 | Zeus               |              0 | "Zeus-born son of Laertes, Odysseus of the many devices —
+132 |  524.840 | there              |              0 | there he goes again, that ruinous man, the one we guessed:
+133 |  528.600 | into               |              0 | into the storeroom. Tell me straight out:
+134 |  530.740 | do                 |              0 | do I kill him — if I prove the better man — / or bring him here to you, to pay for the trespasses,
+135 |  536.540 | the                |              0 | the many, that man has schemed in your house?"
+136 |  539.060 | Then               |              0 | Then Odysseus of the many designs answered him:
+137 |  542.000 | I                  |              0 | "I and Telemachus will hold the lordly suitors / penned inside the hall, rage as they may.
+138 |  547.660 | You                |              0 | You two: twist his feet and hands behind him, / throw him into the storeroom, tie boards fast at his back,
+139 |  554.000 | make               |              0 | make a braided rope fast to him, and haul him / up the tall pillar, up close to the roof-beams —
+140 |  559.060 | so                 |              0 | so that he lives on a long while, suffering hard pains."
+141 |  562.360 | So                 |              0 | So he spoke; and they listened well and obeyed:
+142 |  564.680 | they               |              0 | they went to the storeroom — / the man inside did not see them —
+143 |  568.080 | and                |              0 | and there he was, hunting armor in the room's far corner,
+144 |  571.580 | while              |              0 | while the two of them stood waiting / either side of the doorposts.
+145 |  575.080 | And                |              0 | And as Melanthius the goatherd came over the threshold, / in one hand carrying a beautiful helmet,
+146 |  580.240 | the                |              1 | in the other a broad shield, / an old one, mottled with mildew —
+147 |  584.120 | the                |              0 | the hero Laertes' shield, / which he carried in his young days,
+148 |  587.660 | long               |              0 | long since laid by, / the stitches of its straps rotted out —
+149 |  590.820 | the                |              0 | the two of them sprang and seized him, / and dragged him in by the hair,
+150 |  594.480 | and                |              0 | and threw him to the floor for all his anguish of heart,
+151 |  597.280 | and                |              0 | and bound his feet and hands with a heart-grieving knot,
+152 |  599.980 | wrenched           |              0 | wrenched hard behind him, through and through, / as ordered by Laertes' son, much-enduring noble Odysseus;
+153 |  605.840 | then               |              0 | then they made a braided rope fast to him, and hauled / him up the tall pillar, up close to the roof-beams.
+154 |  611.380 | and                |              0 | And taunting him you spoke, Eumaeus the swineherd:
+155 |  614.420 | now                |              0 | "Now you will keep watch indeed, / Melanthius — the whole night through,
+156 |  618.060 | stretched          |              0 | stretched out on the sort of soft bed you deserve; / and the early-born one out of Ocean's streams will not
+157 |  623.540 | slip               |              0 | slip past you as she comes, / on her golden throne, at the hour
+158 |  627.060 | you                |              0 | you drive in goats for the suitors, / to make their feast in the hall."
+159 |  630.820 | so                 |              0 | So he was left there, racked in the deadly binding; / and the two got into their armor, shut the shining door,
+160 |  636.860 | and                |              0 | and went back to Odysseus — / the deep mind, the shifting counsels.
+161 |  641.060 | there              |              0 | There they stood, breathing fury: on the threshold / four men; inside the hall, many men, and good ones.
+162 |  647.220 | and                |              0 | And now Athena, daughter of Zeus, came near them, / likened to Mentor in body and in voice.
+163 |  653.060 | Odysseus           |              0 | Odysseus was glad at the sight of her, and said:
+164 |  655.400 | mentor,            |              0 | "Mentor — beat off ruin! Remember your old companion, / who did you good service — and you my own age-mate!"
+165 |  661.340 | so                 |              0 | So he spoke, guessing it was Athena, rouser of armies.
+166 |  665.180 | and                |              0 | And the suitors on their side bellowed through the hall, / Agelaus, Damastor's son, first to threaten her:
+167 |  671.240 | Mentor,            |              0 | "Mentor — don't let Odysseus talk you around / into fighting the suitors and defending him.
+168 |  675.480 | for                |              0 | For here is how I think our purpose will be accomplished:
+169 |  678.740 | When               |              0 | when we have killed these two, father and son, / you will be killed with them — for the things you are minded
+170 |  683.640 | to                 |              0 | to do in this hall. Your own head will pay the price.
+171 |  687.120 | and                |              0 | And when the bronze has stripped the force from / all of you, everything you own, indoors and out,
+172 |  692.180 | we                 |              0 | we will pool with the goods of Odysseus. Your sons / we will not let live in your halls; your daughters
+173 |  697.200 | and                |              0 | and your true-hearted wife will not / walk free in the town of Ithaca."
+174 |  701.140 | So                 |              0 | So he spoke; and Athena's heart grew angrier yet, / and she lashed Odysseus with words of fury:
+175 |  707.020 | Odysseus,          |              0 | "Odysseus — where is your strength gone? / Where is the fight in you —
+176 |  711.120 | you                |              0 | you who for Helen's sake, / the white-armed, the nobly fathered,
+177 |  714.460 | nine               |              0 | nine years on end battled the Trojans without a / break and killed many men in the terrible fighting?
+178 |  719.340 | By                 |              0 | By your counsel the wide-wayed city of Priam was taken!
+179 |  723.560 | how                |              0 | How is it that now, come home to your own house and goods,
+180 |  726.600 | face               |              0 | face to face with the suitors, / you whimper about being brave?
+181 |  730.040 | Here               |              0 | Here, old friend — stand by me and watch the work, / and learn what kind of man, among enemy fighters,
+182 |  735.980 | mentor,            |              0 | Mentor, Alcimus' son, is at repaying kindness."
+183 |  739.680 | She                |              0 | She spoke — and did not yet grant / victory outright to either side,
+184 |  744.000 | but                |              0 | but went on testing the strength and / fight of Odysseus and of his glorious son.
+185 |  748.240 | and                |              0 | And she herself darted up to the / roof-beam of the smoke-stained hall
+186 |  752.380 | and                |              0 | and perched there — like a swallow, face-on.
+187 |  755.480 | Now,               |              0 | Now Agelaus, Damastor's son, rallied the suitors, / with Eurynomus, Amphimedon, Demoptolemus,
+188 |  762.200 | Polyctor's         |              1 | Peisander Polyctor's son, and Polybus the shrewd:
+189 |  765.340 | for                |              0 | for these were far the best of the suitors in prowess, / of all who still lived and fought for their lives —
+190 |  771.060 | the                |              0 | the rest the bow and the crowding arrows had brought down.
+191 |  774.220 | and                |              0 | And Agelaus spoke to them all, / putting the word to everyone:
+192 |  778.380 | Friends,           |              0 | "Friends — now this man's invincible hands will stop.
+193 |  781.500 | Mentor             |              0 | Mentor has left him — after the empty boasting — / and they are alone at the outer doors.
+194 |  786.060 | so                 |              0 | So do not throw your long spears all together:
+195 |  788.540 | Come,              |              0 | come — you six throw first, and see if Zeus will / grant that Odysseus be hit, and we win the glory.
+196 |  794.720 | The                |              0 | The rest are no concern, once that man falls."
+197 |  797.940 | So                 |              0 | So he spoke; and they all threw as he ordered, / hungry for it. And Athena made every cast come to nothing:
+198 |  804.220 | One                |              0 | one man's spear struck the doorpost of the strong-built hall, / another's the close-fitted door itself,
+199 |  809.760 | another's          |              0 | another's ash shaft, heavy with / bronze, slammed into the wall.
+200 |  813.640 | and                |              0 | And when they had weathered the suitors' spears, / much-enduring noble Odysseus began among his men:
+201 |  819.440 | Friends,           |              0 | "Friends — now it is mine to say it: throw!
+202 |  821.880 | into               |              0 | Into the crowd of the suitors — men wild to strip / our corpses on top of the wrongs they did before."
+203 |  826.920 | so                 |              0 | So he spoke; and they all threw their sharp spears, / aiming straight ahead: Odysseus killed Demoptolemus;
+204 |  833.300 | the                |              2 | Telemachus, Euryades; the swineherd, Elatus; / and the man in charge of the cattle killed Peisander.
+205 |  839.560 | All                |              0 | All of those together bit the vast floor with their teeth,
+206 |  842.520 | and                |              0 | and the suitors fell back into the deep of the hall;
+207 |  844.960 | and                |              0 | and the others charged, / and pulled their spears from the corpses.
+208 |  848.620 | Again,             |              0 | Again the suitors threw their sharp spears, hungry for it; / and Athena made the many casts come to nothing:
+209 |  854.180 | One                |              0 | one man's spear struck the doorpost of the strong-built hall, / another's the close-fitted door itself,
+210 |  859.560 | another's          |              0 | another's ash shaft, heavy with / bronze, slammed into the wall.
+211 |  863.580 | but                |              0 | But Amphimedon caught Telemachus on the wrist — / a graze: the bronze just broke the surface of the skin;
+212 |  869.540 | and                |              0 | and Ctesippus, over the shield, scratched Eumaeus
+213 |  872.200 | on                 |              0 | on the shoulder with his long spear: / it skipped and fell to earth.
+214 |  876.020 | Then               |              0 | Then those around Odysseus — / the deep mind, the shifting counsels —
+215 |  879.880 | threw              |              0 | threw their sharp spears into the crowd of the suitors:
+216 |  882.400 | and                |              0 | and this time Eurydamas fell / to Odysseus, sacker of cities;
+217 |  886.480 | to                 |              1 | Amphimedon to Telemachus; Polybus to the swineherd;
+218 |  890.180 | And                |              0 | and then Ctesippus fell to the / man in charge of the cattle,
+219 |  893.440 | struck             |              0 | struck full in the chest; and he crowed over him:
+220 |  896.380 | son                |              0 | "Son of Polytherses — you lover / of a good jeer! — never again
+221 |  900.060 | give               |              0 | give way to your folly and talk big. Leave the / word to the gods: they are far stronger than you.
+222 |  905.920 | This               |              0 | This is your guest-gift in return — to match the ox-hoof
+223 |  909.020 | you                |              0 | you gave godlike Odysseus once, / when he begged through his own hall."
+224 |  912.940 | so                 |              0 | So spoke the herdsman of the / spiral-horned cattle. And Odysseus
+225 |  916.380 | wounded            |              0 | wounded Damastor's son, close in, with the long spear; / and Telemachus wounded Leocritus, Evenor's son,
+226 |  923.620 | clean              |              0 | clean in the flank with his spear, / and drove the bronze through:
+227 |  926.860 | he                 |              0 | he pitched forward and struck the / ground full with his forehead.
+228 |  930.360 | And                |              0 | And now Athena raised the aegis that wastes mankind, / high from the roof; and their wits scattered in terror,
+229 |  936.540 | and                |              0 | and they stampeded through the hall like a herd of cattle
+230 |  939.580 | when               |              0 | when the darting gadfly falls on them and whirls them wild
+231 |  943.000 | in                 |              0 | in the season of spring, when the long days come in.
+232 |  946.780 | And                |              0 | And the others — like vultures / with hooked claws and curving beaks
+233 |  950.580 | that               |              0 | that come down out of the mountains on the smaller birds:
+234 |  953.760 | these              |              0 | these skim the plain, cowering away from the clouds, / but the vultures stoop and kill them; no defense,
+235 |  960.320 | no                 |              0 | no flight — and men delight to watch the hunting:
+236 |  963.440 | so                 |              0 | so those four, rushing the suitors through the house,
+237 |  966.940 | struck             |              0 | struck them down left and right; and hideous groaning rose
+238 |  970.060 | as                 |              0 | as heads were smashed, and the / whole floor smoked with blood.
+239 |  973.940 | but                |              0 | But Leodes ran in and caught Odysseus by the knees, / and clasping them in supplication spoke winged words:
+240 |  981.100 | your               |              1 | "By your knees, Odysseus — respect me, pity me!
+241 |  984.760 | I                  |              0 | I tell you I never said a word to any woman in your halls, / never did one reckless thing — no: I kept trying
+242 |  991.000 | to                 |              0 | to stop the others, the suitors, / when one would do such things.
+243 |  994.840 | but                |              0 | But they would not listen, / would not hold their hands from evil,
+244 |  998.280 | and                |              0 | and so through their own recklessness / they have met an ugly fate.
+245 | 1001.500 | and                |              0 | And I, their sacrifice-diviner, having done nothing,
+246 | 1004.780 | to                 |              1 | am to lie down with them: no thanks, / hereafter, for good service!"
+247 | 1008.900 | then               |              0 | Then, glaring from under his brows, / Odysseus of the many designs replied:
+248 | 1013.520 | if                 |              0 | "If you declare yourself their sacrifice-diviner,
+249 | 1016.420 | then               |              0 | then many a time, no doubt, / you must have prayed in my halls
+250 | 1019.620 | the                |              1 | that the accomplishment of my / sweet homecoming be far away —
+251 | 1023.380 | my                 |              1 | that my dear wife go with you, and bear you children.
+252 | 1026.500 | for                |              0 | For that you shall not slip / beneath a death that lays men low."
+253 | 1029.740 | so                 |              0 | So speaking, he took up in his strong hand a sword / that lay there — Agelaus had dropped it to the ground
+254 | 1035.220 | as                 |              0 | as he was killed — and drove it / through the middle of his neck:
+255 | 1038.500 | and                |              0 | and while he was still speaking, / his head mixed with the dust.
+256 | 1042.180 | but                |              0 | But the singer still dodged the black doom — Terpes' son,
+257 | 1046.380 | who                |              1 | Phemius, who sang among the suitors under compulsion.
+258 | 1049.840 | he                 |              0 | He stood with the clear lyre in his hands close / by the side-door, and his mind was split two ways:
+259 | 1056.300 | whether            |              0 | whether to slip out of the hall to the great altar of Zeus
+260 | 1059.220 | of                 |              0 | of the Courtyard, and sit there on the masoned / stone where Laertes and Odysseus had burned so many
+261 | 1065.120 | of                 |              1 | thighbones of oxen — or rush / forward and clasp Odysseus' knees.
+262 | 1069.660 | and                |              0 | And as he weighed it, this seemed to him the better way:
+263 | 1073.020 | to                 |              0 | to take hold of the knees of Laertes' son Odysseus.
+264 | 1076.580 | so                 |              0 | So he set the hollow lyre down on the ground between / the mixing-bowl and the silver-studded chair,
+265 | 1082.300 | and                |              0 | and rushed forward himself and / caught Odysseus by the knees,
+266 | 1086.020 | and                |              0 | and clasping them in supplication spoke winged words:
+267 | 1089.720 | by                 |              0 | "By your knees, Odysseus — respect me, pity me!
+268 | 1093.080 | on                 |              0 | On you yourself the grief will fall hereafter, / if you kill a singer — me — who sing for gods and for men.
+269 | 1099.380 | I                  |              0 | I am self-taught: a god has planted in my heart all / the pathways of song; and I am fit to sing beside you
+270 | 1105.660 | as                 |              0 | as beside a god. Do not be hungry to cut my throat.
+271 | 1109.340 | and                |              0 | And Telemachus would tell you this — your own dear son:
+272 | 1112.520 | that               |              0 | that it was never by my will, never for want of mine,
+273 | 1115.500 | that               |              0 | that I came to your house to sing at the suitors' feasts:
+274 | 1118.560 | they               |              0 | they were more, and stronger — / they marched me here by force."
+275 | 1122.480 | and                |              0 | And the sacred strength of Telemachus heard him, / and quickly spoke to his father, standing near:
+276 | 1128.340 | stop,              |              0 | "Stop! He is guiltless — do not cut him with the bronze.
+277 | 1131.900 | and                |              0 | And Medon the herald let us save as well, / who always cared for me in our house when I was a child —
+278 | 1137.200 | unless             |              0 | unless Philoetius has killed him already, or the swineherd, / or he met you as you stormed along the hall."
+279 | 1143.000 | so                 |              0 | So he spoke; and Medon heard him — a man of sensible / mind — for he lay cowering under a chair, wrapped up
+280 | 1149.460 | in                 |              0 | in a fresh-flayed oxhide, dodging the black doom.
+281 | 1152.880 | Up                 |              0 | Up from under the chair he came / at once, stripped off the oxhide,
+282 | 1156.920 | and                |              0 | and rushed forward and caught Telemachus by the knees, / and clasping them in supplication spoke winged words:
+283 | 1162.940 | friend,            |              0 | "Friend — here I am: myself! / Hold back, and tell your father,
+284 | 1167.000 | before             |              0 | before in his overmastering strength / he cuts me down with the sharp bronze
+285 | 1170.720 | in                 |              0 | in his rage at the suitor-men — the men who sheared away
+286 | 1173.440 | his                |              0 | his goods in the halls, / and honored you not at all, the fools."
+287 | 1177.520 | and                |              0 | And Odysseus of the many designs smiled at him and said:
+288 | 1180.920 | take               |              0 | "Take heart: this man has pulled you clear and saved you —
+289 | 1184.720 | so                 |              0 | so you may know in your heart, and tell another too, / how doing good outruns doing evil, and by far.
+290 | 1190.980 | now                |              0 | Now out of the hall with you, and sit in the courtyard,
+291 | 1193.480 | away               |              0 | away from the slaughter — / you and the singer of many songs —
+292 | 1197.040 | while              |              0 | while I finish in the house the work that I must."
+293 | 1199.680 | so                 |              0 | So he spoke; and the two of them went out of the / hall and sat down by the altar of great Zeus,
+294 | 1205.140 | peering            |              0 | peering about on every side, expecting death each moment.
+295 | 1208.240 | and                |              0 | And Odysseus peered through his own house, for any man / still living, hiding there, dodging the black doom.
+296 | 1214.840 | but                |              0 | But he saw them all, the whole count of them, / in blood and dust fallen — so many, like fish that fishermen
+297 | 1221.040 | have               |              0 | have hauled from the gray sea in the mesh of a net / onto the curved beach: heaped on the sand they lie,
+298 | 1226.860 | all                |              0 | all of them, aching for the waves of the sea, / and the shining Sun takes the life out of them:
+299 | 1232.360 | so                 |              0 | so the suitors lay heaped on one another.
+300 | 1234.840 | then               |              0 | Then Odysseus of the many designs said to Telemachus:
+301 | 1237.880 | Telemachus,        |              0 | "Telemachus — go, call me the nurse Eurycleia, / so I can tell her the word that is on my mind."
+302 | 1243.460 | so                 |              0 | So he spoke; and Telemachus obeyed his dear father, / and rattling the door he called the nurse Eurycleia:
+303 | 1249.720 | up                 |              0 | "Up with you, and come, old woman born long ago — / you who are overseer of our serving-women in the halls.
+304 | 1255.920 | come,              |              0 | Come: my father calls you; he has something to say."
+305 | 1259.200 | so                 |              0 | So he spoke; and for her the word stayed wingless.
+306 | 1262.720 | she                |              0 | She opened the doors of the well-settled halls / and came; and Telemachus led the way before her.
+307 | 1268.680 | and                |              0 | And she found Odysseus among the bodies of the slain, / spattered with blood and gore, like a lion
+308 | 1273.720 | that               |              0 | that comes from feeding on an ox of the farmstead:
+309 | 1276.760 | all                |              0 | all his chest, and his cheeks on either side, / are bloody, and he is terrible to look in the face:
+310 | 1282.720 | so                 |              0 | so was Odysseus spattered — feet, and hands above them.
+311 | 1286.980 | and                |              0 | And she — when she saw the corpses and the sea of blood,
+312 | 1290.160 | she                |              0 | she opened her mouth to raise / the cry of triumph: such a work
+313 | 1294.060 | she                |              0 | she saw accomplished. But Odysseus / checked her, and held her back,
+314 | 1298.740 | she                |              2 | hot as she was, and spoke winged words to her:
+315 | 1302.120 | In                 |              0 | "In your own heart rejoice, / old woman — and hold it in: no cries.
+316 | 1306.140 | it                 |              0 | It is unholy to glory over slaughtered men.
+317 | 1308.880 | These              |              0 | These men the doom of the gods has broken, / and their own ruthless deeds:
+318 | 1312.940 | for                |              0 | for they honored nobody on this earth, / bad man or good, whoever came among them —
+319 | 1317.660 | and                |              0 | and so through their own recklessness / they have met an ugly fate.
+320 | 1321.520 | But                |              0 | But come now, name me the women of the halls:
+321 | 1324.320 | which              |              0 | which of them dishonor me, and which are guiltless."
+322 | 1327.600 | Then               |              0 | Then the dear nurse Eurycleia answered him:
+323 | 1330.060 | then               |              0 | "Then I will tell you, child, the whole truth of it.
+324 | 1332.800 | you                |              0 | You have fifty serving-women in your halls — / slave-women we have taught to work their work,
+325 | 1337.300 | to                 |              0 | to card the wool and to bear the lot of slavery.
+326 | 1340.120 | Of                 |              0 | Of these, twelve in all have / walked the road of shamelessness:
+327 | 1343.740 | no                 |              0 | no respect for me — none for Penelope herself.
+328 | 1347.180 | Telemachus         |              0 | Telemachus is only newly grown; his mother would / not let him give commands to the serving-women.
+329 | 1352.420 | But                |              0 | But come — let me climb to the bright upper room and / tell your wife. Some god has laid a sleep on her."
+330 | 1358.240 | Then               |              0 | Then Odysseus of the many designs answered her:
+331 | 1361.000 | Do                 |              0 | "Do not wake her yet. Tell them to come here — / the women who all this while contrived their shamelessness."
+332 | 1367.340 | So                 |              0 | So he spoke; and the old woman went off down the / hall to carry word to the women and hurry them along.
+333 | 1372.640 | and                |              0 | And he called Telemachus to his side, and the cowherd, / and the swineherd, and spoke winged words to them:
+334 | 1378.940 | Begin              |              0 | "Begin carrying out the dead, and set the women to it; / and after that, the beautiful chairs and the tables —
+335 | 1384.020 | have               |              0 | have them cleaned with water and porous sponges.
+336 | 1386.860 | and                |              0 | And when you have set the whole house in order, / lead the serving-women out of the strong-built hall
+337 | 1390.980 | to                 |              0 | to the spot between the roundhouse / and the good courtyard fence,
+338 | 1394.560 | and                |              0 | and cut them down with the long / swords, till you have stripped
+339 | 1397.460 | the                |              0 | the life from all of them, / and they have forgotten Aphrodite —
+340 | 1400.760 | the                |              0 | the sweetness they took under / the suitors, coupling in secret."
+341 | 1404.420 | So                 |              0 | So he spoke; and the women came in a huddle, all of them, / wailing terribly, the big tears streaming down.
+342 | 1410.680 | First              |              0 | First they carried out the corpses of the dead and laid / them under the portico of the well-fenced courtyard,
+343 | 1416.040 | propping           |              0 | propping them against each other; and Odysseus commanded,
+344 | 1419.240 | hurrying           |              0 | hurrying the work himself; / and they carried them out — under force.
+345 | 1422.760 | and                |              0 | And after that they cleaned the beautiful chairs / and the tables with water and porous sponges;
+346 | 1427.540 | and                |              0 | and Telemachus, with the cowherd and the swineherd, / scraped the floor of the strong-founded house
+347 | 1433.060 | with               |              0 | with hoes, and the slave-women / carried the scrapings out of doors.
+348 | 1436.940 | and                |              0 | And when they had set the whole hall in order, / they led the serving-women out of the strong-built hall
+349 | 1441.760 | to                 |              0 | to the spot between the roundhouse / and the good courtyard fence,
+350 | 1445.760 | and                |              0 | and penned them in the narrow place, / where there was no way out.
+351 | 1448.640 | and                |              0 | And clear-headed Telemachus began, and spoke among them:
+352 | 1452.680 | By                 |              0 | "By no clean death will I take the lives of these — / these who poured their insults on my head,
+353 | 1457.660 | on                 |              0 | on my own mother, and slept beside the suitors."
+354 | 1461.060 | So                 |              0 | So he spoke; and he made the cable of a dark-prowed ship
+355 | 1464.220 | fast               |              0 | fast to a great pillar, and flung it round the roundhouse,
+356 | 1467.660 | stretched          |              0 | stretched taut, up high, / so no foot could reach the ground.
+357 | 1471.400 | and                |              0 | And as when thrushes with their long wings, / or doves, strike into a snare set up in a thicket,
+358 | 1477.520 | heading            |              0 | heading in to roost, and a hateful bed receives them:
+359 | 1480.820 | so                 |              0 | so the women held their heads in a row, and round every
+360 | 1483.900 | neck               |              0 | neck a noose was laid, that they might die most pitiably.
+361 | 1487.820 | They               |              0 | They kicked out with their feet / a little while — not very long.
+362 | 1491.300 | and                |              0 | And Melanthius they dragged out / through the porch and the courtyard:
+363 | 1494.620 | They               |              0 | they sliced away his nose and / ears with the pitiless bronze
+364 | 1498.240 | and                |              0 | and tore out his genitals, raw meat for the dogs to share,
+365 | 1501.940 | and                |              0 | and lopped off his hands and feet in their fury of heart.
+366 | 1505.020 | then               |              0 | Then they washed their own hands and feet and went / into the house to Odysseus: the work was accomplished.
+367 | 1510.800 | and                |              0 | And he spoke to the dear nurse Eurycleia:
+368 | 1513.480 | bring              |              0 | "Bring sulfur, old woman — / the cure of evils — and bring me fire,
+369 | 1517.260 | so                 |              0 | so I can fume the hall with it. And bid Penelope / come down to me, with her attendant women;
+370 | 1522.460 | and                |              0 | and rouse all the serving-women in the house to come."
+371 | 1525.620 | Then               |              0 | Then the dear nurse Eurycleia answered him:
+372 | 1528.040 | yes                |              0 | "Yes, my child — all this you have said as it should be.
+373 | 1531.560 | But                |              0 | But come, let me bring you clothes, a cloak and a tunic:
+374 | 1535.300 | do                 |              0 | do not stand in your halls like this, / with your broad shoulders
+375 | 1538.340 | wrapped            |              0 | wrapped in rags. That would be a thing to blame."
+376 | 1541.760 | Then               |              0 | Then Odysseus of the many designs answered her:
+377 | 1544.500 | first              |              0 | "First of all: let there be fire for me in the hall."
+378 | 1547.560 | so                 |              0 | So he spoke; and the dear nurse Eurycleia did not disobey, / but brought the fire and the sulfur; and Odysseus
+379 | 1553.820 | fumed              |              0 | fumed through and through the hall, / the house, the courtyard.
+380 | 1557.340 | and                |              0 | And the old woman went off up through / the beautiful house of Odysseus
+381 | 1560.740 | to                 |              0 | to carry word to the women and hurry them along; / and out of the hall they came, torches in their hands,
+382 | 1567.140 | and                |              0 | and they poured around Odysseus, and embraced him, / and kissed his head and his shoulders, welcoming him,
+383 | 1573.100 | catching           |              0 | catching and clasping his hands; / and a sweet longing seized him
+384 | 1576.560 | to                 |              0 | to weep and to sob: for in his heart he knew them all.

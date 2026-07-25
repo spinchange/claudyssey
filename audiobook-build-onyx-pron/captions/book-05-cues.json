@@ -1,0 +1,1839 @@
+{
+  "book": "book-05",
+  "duration": 1586.426,
+  "visual_lead": 0.16,
+  "cues": [
+    {
+      "start": 0.0,
+      "end": 7.82,
+      "kind": "title",
+      "text": "ODYSSEY — BOOK V"
+    },
+    {
+      "start": 0.0,
+      "end": 7.82,
+      "kind": "deck",
+      "text": "Calypso's island: the raft, Poseidon's storm, the landing on Scheria."
+    },
+    {
+      "start": 7.82,
+      "end": 14.96,
+      "text": "And Dawn rose from her bed beside lordly Tithonus\\nto carry light to the immortals and to mortals;"
+    },
+    {
+      "start": 14.96,
+      "end": 21.96,
+      "text": "and the gods were sitting down in council, among them\\nZeus who thunders on high, whose power is greatest."
+    },
+    {
+      "start": 21.96,
+      "end": 25.06,
+      "text": "And Athena was telling over the many cares of Odysseus,"
+    },
+    {
+      "start": 25.06,
+      "end": 29.92,
+      "text": "remembering: it galled her that\\nhe was still in the nymph's house:"
+    },
+    {
+      "start": 29.92,
+      "end": 33.22,
+      "text": "\"Father Zeus, and you other blessed gods who are forever:"
+    },
+    {
+      "start": 33.22,
+      "end": 39.02,
+      "text": "let no sceptered king ever again be willingly kind\\nand gentle, or know the right way in his heart;"
+    },
+    {
+      "start": 39.02,
+      "end": 44.24,
+      "text": "let him rather be harsh always, and act outrage —\\nsince no one remembers godlike Odysseus"
+    },
+    {
+      "start": 44.24,
+      "end": 47.78,
+      "text": "among the people he ruled, and he was gentle as a father."
+    },
+    {
+      "start": 47.78,
+      "end": 53.12,
+      "text": "No — he lies on an island suffering strong pains in\\nthe halls of the nymph Calypso, who holds him there"
+    },
+    {
+      "start": 53.12,
+      "end": 59.56,
+      "text": "by force; and he cannot come to his own fatherland,\\nfor he has no ships at hand, no oars, no companions"
+    },
+    {
+      "start": 59.56,
+      "end": 62.38,
+      "text": "to carry him over the broad back of the sea."
+    },
+    {
+      "start": 62.38,
+      "end": 68.26,
+      "text": "And now, besides, men are bent on killing his beloved\\nson on his way home: he went for news of his father"
+    },
+    {
+      "start": 68.26,
+      "end": 71.9,
+      "text": "to holy Pylos and to shining Lacedaemon.\""
+    },
+    {
+      "start": 71.9,
+      "end": 74.8,
+      "text": "Then Zeus who gathers the clouds answered her:"
+    },
+    {
+      "start": 74.8,
+      "end": 78.36,
+      "text": "\"My child, what a word has\\nslipped the fence of your teeth!"
+    },
+    {
+      "start": 78.36,
+      "end": 80.76,
+      "text": "Was it not you who framed this plan yourself —"
+    },
+    {
+      "start": 80.76,
+      "end": 84.4,
+      "text": "that Odysseus should come home\\nand take vengeance on those men?"
+    },
+    {
+      "start": 84.4,
+      "end": 88.26,
+      "text": "As for Telemachus: guide him with\\nyour skill — you have the power —"
+    },
+    {
+      "start": 88.26,
+      "end": 93.58,
+      "text": "so that he reaches his own fatherland untouched,\\nand the suitors come back in their ship with nothing done.\""
+    },
+    {
+      "start": 93.58,
+      "end": 96.88,
+      "text": "He spoke, and turned to Hermes, his dear son:"
+    },
+    {
+      "start": 96.88,
+      "end": 99.68,
+      "text": "\"Hermes — you are our messenger in all things else:"
+    },
+    {
+      "start": 99.68,
+      "end": 102.88,
+      "text": "tell the nymph of the lovely braids our fixed decree:"
+    },
+    {
+      "start": 102.88,
+      "end": 106.38,
+      "text": "the homecoming of enduring-hearted\\nOdysseus — that he shall return"
+    },
+    {
+      "start": 106.38,
+      "end": 109.14,
+      "text": "with no escort of gods and none of mortal men:"
+    },
+    {
+      "start": 109.14,
+      "end": 112.6,
+      "text": "on a raft bound plank to plank, and suffering pains,"
+    },
+    {
+      "start": 112.6,
+      "end": 115.72,
+      "text": "on the twentieth day he shall reach rich-soiled Scheria,"
+    },
+    {
+      "start": 115.72,
+      "end": 119.4,
+      "text": "the land of the Phaeacians,\\nwho are born close kin to the gods."
+    },
+    {
+      "start": 119.4,
+      "end": 125.26,
+      "text": "They will honor him with all their hearts, like a god,\\nand send him in a ship to his own dear fatherland,"
+    },
+    {
+      "start": 125.26,
+      "end": 130.9,
+      "text": "giving him bronze and gold and clothing in plenty,\\nmore than Odysseus would ever have carried out of Troy"
+    },
+    {
+      "start": 130.9,
+      "end": 134.28,
+      "text": "had he come home untouched with\\nhis fair share of the spoils."
+    },
+    {
+      "start": 134.28,
+      "end": 140.72,
+      "text": "For so it is his portion: to see his own people and\\ncome to his high-roofed house and his own fatherland.\""
+    },
+    {
+      "start": 140.72,
+      "end": 145.76,
+      "text": "So he spoke, and the guide,\\nthe slayer of Argus, did not disobey."
+    },
+    {
+      "start": 145.76,
+      "end": 152.14,
+      "text": "At once he bound beneath his feet the beautiful sandals,\\nambrosial, golden, that carry him over the water"
+    },
+    {
+      "start": 152.14,
+      "end": 154.76,
+      "text": "and over the boundless earth with the breath of the wind;"
+    },
+    {
+      "start": 154.76,
+      "end": 157.34,
+      "text": "and he took up the rod with which he charms men's eyes"
+    },
+    {
+      "start": 157.34,
+      "end": 161.9,
+      "text": "to sleep, whose eyes he wills,\\nand wakes others from their slumber."
+    },
+    {
+      "start": 161.9,
+      "end": 165.3,
+      "text": "With this in his hands the strong slayer of Argus flew."
+    },
+    {
+      "start": 165.3,
+      "end": 169.34,
+      "text": "He stepped down on Pieria,\\nthen dropped from the high air to the sea"
+    },
+    {
+      "start": 169.34,
+      "end": 174.24,
+      "text": "and skimmed along the waves like a shearwater,\\nthe bird that down the terrible troughs of the barren sea"
+    },
+    {
+      "start": 174.24,
+      "end": 177.08,
+      "text": "hunts fish, and wets its beating wings in the brine:"
+    },
+    {
+      "start": 177.08,
+      "end": 180.2,
+      "text": "like that bird Hermes rode the crowding waves."
+    },
+    {
+      "start": 180.2,
+      "end": 185.38,
+      "text": "But when he reached the island, far away,\\nhe stepped from the violet sea onto dry land"
+    },
+    {
+      "start": 185.38,
+      "end": 188.44,
+      "text": "and went on till he came to the great cave where the nymph"
+    },
+    {
+      "start": 188.44,
+      "end": 191.74,
+      "text": "of the lovely braids was living; he found her within."
+    },
+    {
+      "start": 191.74,
+      "end": 198.3,
+      "text": "A great fire was burning on the hearth, and the smell\\nof split cedar and citron-wood burning carried far,"
+    },
+    {
+      "start": 198.3,
+      "end": 202.96,
+      "text": "all over the island. Inside,\\nshe was singing in a beautiful voice,"
+    },
+    {
+      "start": 202.96,
+      "end": 206.84,
+      "text": "moving to and fro at the loom,\\nweaving with a golden shuttle."
+    },
+    {
+      "start": 206.84,
+      "end": 209.92,
+      "text": "And around the cave a wood grew tall and flourishing:"
+    },
+    {
+      "start": 209.92,
+      "end": 215.84,
+      "text": "alder and black poplar and sweet-smelling cypress,\\nwhere long-winged birds made their roosts,"
+    },
+    {
+      "start": 215.84,
+      "end": 220.86,
+      "text": "little owls and hawks and long-tongued crows\\nof the sea, whose business is the waters."
+    },
+    {
+      "start": 220.86,
+      "end": 226.94,
+      "text": "And there, trained over the hollow of the cave,\\nspread a garden vine in its prime, heavy with clusters;"
+    },
+    {
+      "start": 226.94,
+      "end": 233.12,
+      "text": "and four springs in a row ran with bright water,\\nclose by one another, turned each its own way;"
+    },
+    {
+      "start": 233.12,
+      "end": 239.7,
+      "text": "and around them soft meadows of violet and wild celery\\nwere blooming. There even a deathless one, arriving,"
+    },
+    {
+      "start": 239.7,
+      "end": 243.5,
+      "text": "would gaze in wonder at the\\nsight and be gladdened at heart."
+    },
+    {
+      "start": 243.5,
+      "end": 247.04,
+      "text": "There the guide, the slayer of Argus, stood gazing."
+    },
+    {
+      "start": 247.04,
+      "end": 252.78,
+      "text": "And when his heart had wondered at it all,\\nhe went straight into the wide cave. Nor did Calypso,"
+    },
+    {
+      "start": 252.78,
+      "end": 256.2,
+      "text": "shining among goddesses, fail to know him face to face:"
+    },
+    {
+      "start": 256.2,
+      "end": 261.9,
+      "text": "for the deathless gods are not unknown to one another,\\nnot even one whose dwelling lies far off."
+    },
+    {
+      "start": 261.9,
+      "end": 265.2,
+      "text": "But great-hearted Odysseus he did not find within:"
+    },
+    {
+      "start": 265.2,
+      "end": 271.26,
+      "text": "he sat weeping on the shore, where he always sat,\\nshredding his heart with tears and groans and pains,"
+    },
+    {
+      "start": 271.26,
+      "end": 275.4,
+      "text": "and over the barren sea he would gaze,\\nletting the tears run."
+    },
+    {
+      "start": 275.4,
+      "end": 281.92,
+      "text": "And Calypso, shining among goddesses, questioned Hermes,\\nseating him on a chair all bright and gleaming:"
+    },
+    {
+      "start": 281.92,
+      "end": 285.0,
+      "text": "\"Why have you come to me, Hermes of the golden rod,"
+    },
+    {
+      "start": 285.0,
+      "end": 288.26,
+      "text": "honored guest and dear?\\nYou have not been used to come before."
+    },
+    {
+      "start": 288.26,
+      "end": 293.72,
+      "text": "Say what is in your mind: my heart bids me do it\\nif I can do it — if it is a thing that can be done."
+    },
+    {
+      "start": 293.72,
+      "end": 297.26,
+      "text": "But follow me in first, and let me set out guest-fare.\""
+    },
+    {
+      "start": 297.26,
+      "end": 303.12,
+      "text": "So speaking the goddess drew up a table for him,\\nheaping it with ambrosia, and mixed the red nectar;"
+    },
+    {
+      "start": 303.12,
+      "end": 306.28,
+      "text": "and the guide, the slayer of Argus, drank and ate."
+    },
+    {
+      "start": 306.28,
+      "end": 311.82,
+      "text": "And when he had supped, and steadied his heart with food,\\nthen he spoke out in answer to her question:"
+    },
+    {
+      "start": 311.82,
+      "end": 317.58,
+      "text": "\"You ask me why I come — goddess to god; and I will\\ntell you the whole of it truly, since you bid me."
+    },
+    {
+      "start": 317.58,
+      "end": 320.68,
+      "text": "Zeus ordered me here. I did not want to come:"
+    },
+    {
+      "start": 320.68,
+      "end": 324.0,
+      "text": "who would choose to cross so vast a stretch of salt water,"
+    },
+    {
+      "start": 324.0,
+      "end": 329.96,
+      "text": "past speaking? And no city of mortals near,\\nto offer the gods their victims and their choice hecatombs."
+    },
+    {
+      "start": 329.96,
+      "end": 335.62,
+      "text": "But there is no way for another god to slip past\\nor thwart the mind of Zeus who bears the aegis."
+    },
+    {
+      "start": 335.62,
+      "end": 338.6,
+      "text": "He says there is a man with you —\\nthe most miserable of all"
+    },
+    {
+      "start": 338.6,
+      "end": 344.48,
+      "text": "the men who fought nine years around the city of Priam\\nand in the tenth year sacked it, and turned for home."
+    },
+    {
+      "start": 344.48,
+      "end": 351.0,
+      "text": "But on the way home they sinned against Athena,\\nand she roused an evil wind against them, and long seas."
+    },
+    {
+      "start": 351.0,
+      "end": 356.26,
+      "text": "There all the rest of his brave companions\\nperished, but wind and wave carried him here."
+    },
+    {
+      "start": 356.26,
+      "end": 359.16,
+      "text": "That man Zeus bids you send on his way — and quickly:"
+    },
+    {
+      "start": 359.16,
+      "end": 362.8,
+      "text": "it is not his portion to die here,\\nfar from his own people;"
+    },
+    {
+      "start": 362.8,
+      "end": 368.7,
+      "text": "it is still his portion to see his own people and\\ncome to his high-roofed house and his own fatherland.\""
+    },
+    {
+      "start": 368.7,
+      "end": 372.64,
+      "text": "So he spoke; and Calypso,\\nshining among goddesses, shivered,"
+    },
+    {
+      "start": 372.64,
+      "end": 375.5,
+      "text": "and lifting her voice she spoke winged words to him:"
+    },
+    {
+      "start": 375.5,
+      "end": 381.22,
+      "text": "\"You are merciless, you gods — jealous beyond all beings —\\nwho begrudge goddesses their sleeping with men"
+    },
+    {
+      "start": 381.22,
+      "end": 384.86,
+      "text": "openly, if one takes a man as her own dear husband."
+    },
+    {
+      "start": 384.86,
+      "end": 390.46,
+      "text": "So when Dawn of the rose-red fingers took Orion,\\nyou gods who live at ease begrudged it to her,"
+    },
+    {
+      "start": 390.46,
+      "end": 396.56,
+      "text": "until in Ortygia chaste Artemis of the golden throne\\ncame at him with her gentle arrows and killed him."
+    },
+    {
+      "start": 396.56,
+      "end": 402.12,
+      "text": "So when Demeter of the lovely braids gave way to\\nher heart and lay with Iasion in love in the bed"
+    },
+    {
+      "start": 402.12,
+      "end": 405.14,
+      "text": "of a thrice-plowed fallow field — Zeus was not long"
+    },
+    {
+      "start": 405.14,
+      "end": 408.54,
+      "text": "in hearing, and he killed him with\\na hurl of the white lightning."
+    },
+    {
+      "start": 408.54,
+      "end": 412.8,
+      "text": "And so now me, you gods:\\nyou begrudge me a mortal man beside me."
+    },
+    {
+      "start": 412.8,
+      "end": 418.98,
+      "text": "I saved him — riding astride his keel, alone,\\nafter Zeus with a hurl of the white lightning had shattered"
+    },
+    {
+      "start": 418.98,
+      "end": 422.24,
+      "text": "his fast ship apart in the middle of the wine-dark sea."
+    },
+    {
+      "start": 422.24,
+      "end": 426.98,
+      "text": "There all the rest of his brave companions\\nperished, but wind and wave carried him here."
+    },
+    {
+      "start": 426.98,
+      "end": 432.36,
+      "text": "And I loved him, and I fed him, and I promised\\nto make him deathless and unaging all his days."
+    },
+    {
+      "start": 432.36,
+      "end": 438.54,
+      "text": "But since there is no way for another god to slip\\npast or thwart the mind of Zeus who bears the aegis —"
+    },
+    {
+      "start": 438.54,
+      "end": 444.7,
+      "text": "let him go, if that one urges it and commands,\\nout over the barren sea. Only I will not convey him:"
+    },
+    {
+      "start": 444.7,
+      "end": 452.14,
+      "text": "I have no ships at hand, no oars, no companions\\nto carry him over the broad back of the sea."
+    },
+    {
+      "start": 452.14,
+      "end": 455.62,
+      "text": "But with a willing heart I will\\ncounsel him, and hide nothing,"
+    },
+    {
+      "start": 455.62,
+      "end": 459.32,
+      "text": "so that he may reach his own fatherland untouched.\""
+    },
+    {
+      "start": 459.32,
+      "end": 462.66,
+      "text": "Then the guide, the slayer of Argus, answered her:"
+    },
+    {
+      "start": 462.66,
+      "end": 466.14,
+      "text": "\"Send him so, then — and beware the wrath of Zeus:"
+    },
+    {
+      "start": 466.14,
+      "end": 470.34,
+      "text": "let him not turn against you\\nafterward and bear hard on you.\""
+    },
+    {
+      "start": 470.34,
+      "end": 473.48,
+      "text": "So speaking, the strong slayer of Argus went away."
+    },
+    {
+      "start": 473.48,
+      "end": 479.4,
+      "text": "And the queenly nymph went to great-hearted Odysseus,\\nnow that she had heard the message of Zeus."
+    },
+    {
+      "start": 479.4,
+      "end": 485.78,
+      "text": "She found him sitting on the shore. His eyes were\\nnever dry of tears; his sweet life was draining away"
+    },
+    {
+      "start": 485.78,
+      "end": 489.92,
+      "text": "in mourning for his homecoming —\\nthe nymph no longer pleased him."
+    },
+    {
+      "start": 489.92,
+      "end": 493.6,
+      "text": "True, at night he would sleep beside her — he had to —"
+    },
+    {
+      "start": 493.6,
+      "end": 497.04,
+      "text": "in the hollow caves, unwilling man by willing goddess;"
+    },
+    {
+      "start": 497.04,
+      "end": 500.26,
+      "text": "but all his days he sat out on the rocks and the beaches,"
+    },
+    {
+      "start": 500.26,
+      "end": 503.3,
+      "text": "shredding his heart with tears and groans and pains,"
+    },
+    {
+      "start": 503.3,
+      "end": 507.38,
+      "text": "and over the barren sea he would gaze,\\nletting the tears run."
+    },
+    {
+      "start": 507.38,
+      "end": 511.16,
+      "text": "Standing near him, she spoke, shining among goddesses:"
+    },
+    {
+      "start": 511.16,
+      "end": 514.48,
+      "text": "\"Luckless man, do not sit grieving\\nhere any longer; do not let"
+    },
+    {
+      "start": 514.48,
+      "end": 519.46,
+      "text": "your life waste away. I am ready now —\\nwholly — to send you off."
+    },
+    {
+      "start": 519.46,
+      "end": 524.78,
+      "text": "Come: cut long timbers, and join with bronze\\na wide raft; and fix an upper half-deck to it,"
+    },
+    {
+      "start": 524.78,
+      "end": 527.94,
+      "text": "raised high, to carry you over the misted sea."
+    },
+    {
+      "start": 527.94,
+      "end": 533.04,
+      "text": "And I will put in bread and water and red wine\\nto your heart's content, to keep hunger from you,"
+    },
+    {
+      "start": 533.04,
+      "end": 535.86,
+      "text": "and I will clothe you, and send a fair wind behind you,"
+    },
+    {
+      "start": 535.86,
+      "end": 541.2,
+      "text": "so that you may reach your own fatherland untouched —\\nif the gods are willing, who hold wide heaven,"
+    },
+    {
+      "start": 541.2,
+      "end": 544.38,
+      "text": "who are stronger than I to purpose and accomplish.\""
+    },
+    {
+      "start": 544.38,
+      "end": 548.34,
+      "text": "So she spoke; and much-enduring noble Odysseus shuddered,"
+    },
+    {
+      "start": 548.34,
+      "end": 551.4,
+      "text": "and lifting his voice he spoke winged words to her:"
+    },
+    {
+      "start": 551.4,
+      "end": 555.26,
+      "text": "\"Something else you are plotting here,\\ngoddess — not my sending —"
+    },
+    {
+      "start": 555.26,
+      "end": 558.54,
+      "text": "you who bid me cross the great gulf of the sea on a raft,"
+    },
+    {
+      "start": 558.54,
+      "end": 562.18,
+      "text": "that terror, that misery: not even the trim fast-running"
+    },
+    {
+      "start": 562.18,
+      "end": 565.62,
+      "text": "ships cross it, for all their joy in the wind of Zeus."
+    },
+    {
+      "start": 565.62,
+      "end": 568.54,
+      "text": "I will not set foot on any raft against your will —"
+    },
+    {
+      "start": 568.54,
+      "end": 571.82,
+      "text": "not unless you bring yourself,\\ngoddess, to swear me the great oath"
+    },
+    {
+      "start": 571.82,
+      "end": 575.48,
+      "text": "that you are not planning some new evil against me.\""
+    },
+    {
+      "start": 575.48,
+      "end": 579.3,
+      "text": "So he spoke; and Calypso, shining among goddesses, smiled,"
+    },
+    {
+      "start": 579.3,
+      "end": 582.8,
+      "text": "and stroked him with her hand,\\nand spoke a word, and named him:"
+    },
+    {
+      "start": 582.8,
+      "end": 588.3,
+      "text": "\"You are a rogue indeed — no lightweight in cunning —\\nto have thought of a speech like that to say to me."
+    },
+    {
+      "start": 588.3,
+      "end": 594.54,
+      "text": "Now let Earth be witness, and the wide Heaven above,\\nand the down-dripping water of Styx — the greatest oath"
+    },
+    {
+      "start": 594.54,
+      "end": 600.04,
+      "text": "and the most terrible the blessed gods can swear —\\nthat I am not planning some new evil against you."
+    },
+    {
+      "start": 600.04,
+      "end": 606.44,
+      "text": "No: I am thinking and advising exactly what I would\\ndevise for my own self, if such need came on me."
+    },
+    {
+      "start": 606.44,
+      "end": 613.8,
+      "text": "My mind is honest through and through, and the heart\\nin my breast is not made of iron. It knows pity.\""
+    },
+    {
+      "start": 613.8,
+      "end": 620.94,
+      "text": "So speaking she led the way, shining among goddesses,\\nswiftly, and he followed in the footsteps of the god."
+    },
+    {
+      "start": 620.94,
+      "end": 626.64,
+      "text": "They came to the hollow cave, the goddess and the man,\\nand he sat down there on the chair from which Hermes"
+    },
+    {
+      "start": 626.64,
+      "end": 630.16,
+      "text": "had risen, and the nymph set out\\nall manner of food beside him,"
+    },
+    {
+      "start": 630.16,
+      "end": 637.38,
+      "text": "to eat and drink, such things as mortal men eat;\\nand she took her seat facing godlike Odysseus,"
+    },
+    {
+      "start": 637.38,
+      "end": 640.72,
+      "text": "and slave-women set ambrosia and nectar beside her."
+    },
+    {
+      "start": 640.72,
+      "end": 644.04,
+      "text": "And their hands went out to the\\ngood things spread before them."
+    },
+    {
+      "start": 644.04,
+      "end": 650.1,
+      "text": "But when they had had their joy of food and drink,\\nCalypso began, shining among goddesses:"
+    },
+    {
+      "start": 650.1,
+      "end": 654.1,
+      "text": "\"Zeus-born son of Laertes, Odysseus of the many devices —"
+    },
+    {
+      "start": 654.1,
+      "end": 657.16,
+      "text": "so you would go home now, home to your own dear country,"
+    },
+    {
+      "start": 657.16,
+      "end": 662.38,
+      "text": "at once, this moment? Go, then —\\nand joy go with you even so."
+    },
+    {
+      "start": 662.38,
+      "end": 667.24,
+      "text": "But if you knew in your heart how full your measure\\nof sorrow is before you reach your own country,"
+    },
+    {
+      "start": 667.24,
+      "end": 672.2,
+      "text": "you would stay here with me and keep this house,\\nand be deathless — for all your longing to see"
+    },
+    {
+      "start": 672.2,
+      "end": 675.38,
+      "text": "that wife of yours, whom you ache for all your days."
+    },
+    {
+      "start": 675.38,
+      "end": 681.14,
+      "text": "And yet I dare say I am not beneath her —\\nnot in form, not in stature: it is in no way seemly"
+    },
+    {
+      "start": 681.14,
+      "end": 684.92,
+      "text": "for mortal women to vie with immortals in body and looks.\""
+    },
+    {
+      "start": 684.92,
+      "end": 687.74,
+      "text": "Then Odysseus of the many designs answered her:"
+    },
+    {
+      "start": 687.74,
+      "end": 691.6,
+      "text": "\"Goddess and queen, do not be angry\\nwith me for this. I know it all"
+    },
+    {
+      "start": 691.6,
+      "end": 697.64,
+      "text": "myself, well enough: watchful-minded Penelope is\\nless than you — slighter to look at, smaller —"
+    },
+    {
+      "start": 697.64,
+      "end": 700.68,
+      "text": "for she is mortal, and you are deathless and unaging."
+    },
+    {
+      "start": 700.68,
+      "end": 706.44,
+      "text": "But even so I wish — and all my days I long —\\nto go home, and to look upon my day of homecoming."
+    },
+    {
+      "start": 706.44,
+      "end": 709.3,
+      "text": "And if some god wrecks me again on the wine-dark sea,"
+    },
+    {
+      "start": 709.3,
+      "end": 712.6,
+      "text": "I will endure it, with a heart\\nschooled in enduring sorrows."
+    },
+    {
+      "start": 712.6,
+      "end": 718.46,
+      "text": "Much have I suffered already, much have I labored\\nthrough waves and war. Let this be added to the rest.\""
+    },
+    {
+      "start": 718.46,
+      "end": 721.92,
+      "text": "So he spoke; and the sun went down, and the dusk came on;"
+    },
+    {
+      "start": 721.92,
+      "end": 724.58,
+      "text": "and the two of them went into the inner hollow of the cave"
+    },
+    {
+      "start": 724.58,
+      "end": 727.94,
+      "text": "and took their joy of love, and stayed side by side."
+    },
+    {
+      "start": 727.94,
+      "end": 734.22,
+      "text": "When Dawn appeared, the early-born, with fingers of rose,\\nstraightway Odysseus put on a cloak and tunic,"
+    },
+    {
+      "start": 734.22,
+      "end": 737.98,
+      "text": "and she, the nymph, put on a great silver-shining mantle,"
+    },
+    {
+      "start": 737.98,
+      "end": 741.56,
+      "text": "fine-woven and graceful, and cast about her waist a belt,"
+    },
+    {
+      "start": 741.56,
+      "end": 744.98,
+      "text": "beautiful, golden, and set a veil on her head above."
+    },
+    {
+      "start": 744.98,
+      "end": 748.48,
+      "text": "Then she turned her mind to the\\nsending of great-hearted Odysseus."
+    },
+    {
+      "start": 748.48,
+      "end": 754.44,
+      "text": "She gave him a great axe, fitted to his palms,\\nof bronze, sharpened on both edges, and set in it"
+    },
+    {
+      "start": 754.44,
+      "end": 760.66,
+      "text": "a beautiful handle of olive-wood, made firm and fast;\\nthen she gave him a polished adze, and led the way"
+    },
+    {
+      "start": 760.66,
+      "end": 764.26,
+      "text": "to the island's farthest edge, where the tall trees grew:"
+    },
+    {
+      "start": 764.26,
+      "end": 767.22,
+      "text": "alder and black poplar, and fir that reached the sky,"
+    },
+    {
+      "start": 767.22,
+      "end": 770.76,
+      "text": "long dry, dead-seasoned, that would ride for him lightly."
+    },
+    {
+      "start": 770.76,
+      "end": 773.54,
+      "text": "And when she had shown him where the tall trees grew,"
+    },
+    {
+      "start": 773.54,
+      "end": 776.98,
+      "text": "Calypso went back to her house, shining among goddesses,"
+    },
+    {
+      "start": 776.98,
+      "end": 780.92,
+      "text": "and he set to cutting timbers,\\nand the work went quickly under him."
+    },
+    {
+      "start": 780.92,
+      "end": 784.74,
+      "text": "Twenty trees in all he felled,\\nand trimmed them with the bronze,"
+    },
+    {
+      "start": 784.74,
+      "end": 788.62,
+      "text": "and dressed them smooth with skill,\\nand trued them to the line."
+    },
+    {
+      "start": 788.62,
+      "end": 792.48,
+      "text": "Meanwhile Calypso, shining\\namong goddesses, brought augers,"
+    },
+    {
+      "start": 792.48,
+      "end": 798.48,
+      "text": "and he bored through every piece and fitted each to each,\\nand drove her together with pegs and joinery."
+    },
+    {
+      "start": 798.48,
+      "end": 804.12,
+      "text": "As wide as a man lays out the round of the hull of\\na broad cargo ship — a man who knows his craft —"
+    },
+    {
+      "start": 804.12,
+      "end": 807.38,
+      "text": "so wide Odysseus built his raft."
+    },
+    {
+      "start": 807.38,
+      "end": 813.2,
+      "text": "He set up half-decks, fitting them to close-set ribs,\\nand finished with long gunwale planks."
+    },
+    {
+      "start": 813.2,
+      "end": 819.26,
+      "text": "He made a mast in her, and a yard fitted to it,\\nand he made besides a steering-oar to hold her straight,"
+    },
+    {
+      "start": 819.26,
+      "end": 822.3,
+      "text": "and fenced her round from stem\\nto stern with plaited willow"
+    },
+    {
+      "start": 822.3,
+      "end": 826.12,
+      "text": "to break the wave, and heaped down brush for ballast."
+    },
+    {
+      "start": 826.12,
+      "end": 832.92,
+      "text": "Meanwhile Calypso, shining among goddesses, brought\\ncloth to make a sail; and he made that too, with craft,"
+    },
+    {
+      "start": 832.92,
+      "end": 836.64,
+      "text": "and lashed into her the braces,\\nthe halyards, and the sheets."
+    },
+    {
+      "start": 836.64,
+      "end": 840.08,
+      "text": "Then on rollers he hauled her\\ndown to the bright salt water."
+    },
+    {
+      "start": 840.08,
+      "end": 846.32,
+      "text": "It was the fourth day, and all his work was done;\\nand on the fifth shining Calypso sent him from the island,"
+    },
+    {
+      "start": 846.32,
+      "end": 849.5,
+      "text": "having bathed him and dressed him in fragrant clothes."
+    },
+    {
+      "start": 849.5,
+      "end": 856.24,
+      "text": "And the goddess put a skin of dark wine aboard, one skin,\\nand another, a great one, of water, and provisions"
+    },
+    {
+      "start": 856.24,
+      "end": 863.36,
+      "text": "in a sack, and set in plenty of comforting meats;\\nand she sent up a fair wind for him, harmless and warm."
+    },
+    {
+      "start": 863.36,
+      "end": 866.72,
+      "text": "Rejoicing in the wind, noble Odysseus spread his sail,"
+    },
+    {
+      "start": 866.72,
+      "end": 872.5,
+      "text": "and with the steering-oar he steered her, craftsmanlike,\\nsitting there; and sleep never fell on his eyelids"
+    },
+    {
+      "start": 872.5,
+      "end": 876.26,
+      "text": "as he watched the Pleiades, and Boötes that sets late,"
+    },
+    {
+      "start": 876.26,
+      "end": 878.94,
+      "text": "and the Bear, that men also call by the name of the Wagon,"
+    },
+    {
+      "start": 878.94,
+      "end": 885.32,
+      "text": "who turns in her place and keeps her watch on Orion,\\nand alone has no share in the baths of Ocean:"
+    },
+    {
+      "start": 885.32,
+      "end": 892.02,
+      "text": "for Calypso, shining among goddesses, had told him\\nto keep her on his left hand as he crossed the sea."
+    },
+    {
+      "start": 892.02,
+      "end": 897.42,
+      "text": "Seventeen days he sailed on, crossing the water,\\nand on the eighteenth appeared the shadowy mountains"
+    },
+    {
+      "start": 897.42,
+      "end": 900.58,
+      "text": "of the Phaeacians' land, where it lay nearest him:"
+    },
+    {
+      "start": 900.58,
+      "end": 902.98,
+      "text": "it looked like a shield laid on the misted sea."
+    },
+    {
+      "start": 902.98,
+      "end": 906.52,
+      "text": "But the strong earth-shaker,\\ncoming back from the Ethiopians,"
+    },
+    {
+      "start": 906.52,
+      "end": 909.92,
+      "text": "saw him far off, from the\\nmountains of the Solymi: he showed"
+    },
+    {
+      "start": 909.92,
+      "end": 914.6,
+      "text": "to his eye, sailing the sea.\\nAnd the god's heart grew the angrier,"
+    },
+    {
+      "start": 914.6,
+      "end": 917.3,
+      "text": "and shaking his head he spoke to his own heart:"
+    },
+    {
+      "start": 917.3,
+      "end": 923.12,
+      "text": "\"Damnation! So the gods have changed their counsels\\nabout Odysseus while I was among the Ethiopians —"
+    },
+    {
+      "start": 923.12,
+      "end": 927.24,
+      "text": "and here he is, close to the Phaeacians' land,\\nwhere it is his portion"
+    },
+    {
+      "start": 927.24,
+      "end": 930.88,
+      "text": "to slip the great noose of misery that has come upon him."
+    },
+    {
+      "start": 930.88,
+      "end": 934.78,
+      "text": "But I say I will yet drive him deep enough in trouble.\""
+    },
+    {
+      "start": 934.78,
+      "end": 938.4,
+      "text": "So speaking he herded the clouds\\ntogether, and stirred up the sea,"
+    },
+    {
+      "start": 938.4,
+      "end": 941.58,
+      "text": "the trident in his hands; and he roused all the squalls"
+    },
+    {
+      "start": 941.58,
+      "end": 947.52,
+      "text": "of every wind there is, and covered land and sea\\nalike with cloud; and night rose up out of heaven."
+    },
+    {
+      "start": 947.52,
+      "end": 951.46,
+      "text": "East Wind and South fell on him together,\\nand the hard-blowing West,"
+    },
+    {
+      "start": 951.46,
+      "end": 955.34,
+      "text": "and the North Wind born of the\\nclear sky, rolling a great wave."
+    },
+    {
+      "start": 955.34,
+      "end": 961.68,
+      "text": "And then Odysseus' knees went loose, and his heart;\\nand deeply stirred he spoke to his own great heart:"
+    },
+    {
+      "start": 961.68,
+      "end": 964.36,
+      "text": "\"Ah, wretch that I am — what happens to me at the last?"
+    },
+    {
+      "start": 964.36,
+      "end": 970.24,
+      "text": "I fear the goddess spoke it all unerringly,\\nwho said that on the sea, before I reached my own country,"
+    },
+    {
+      "start": 970.24,
+      "end": 974.2,
+      "text": "I would fill my measure of pains.\\nNow it is all coming to pass:"
+    },
+    {
+      "start": 974.2,
+      "end": 977.34,
+      "text": "look how Zeus crowns the wide heaven with cloud on cloud,"
+    },
+    {
+      "start": 977.34,
+      "end": 979.94,
+      "text": "and has stirred up the sea, and the squalls of every wind"
+    },
+    {
+      "start": 979.94,
+      "end": 983.68,
+      "text": "there is come driving.\\nNow my sheer destruction is certain."
+    },
+    {
+      "start": 983.68,
+      "end": 987.1,
+      "text": "Three times blessed the Danaans, and four times, who died"
+    },
+    {
+      "start": 987.1,
+      "end": 990.78,
+      "text": "in those years in wide Troy,\\ndoing the Atreidae's pleasure!"
+    },
+    {
+      "start": 990.78,
+      "end": 995.86,
+      "text": "Would that I too had died so, met my doom,\\non the day the Trojans in their hundreds hurled"
+    },
+    {
+      "start": 995.86,
+      "end": 999.46,
+      "text": "their bronze-tipped spears at\\nme over the dead son of Peleus."
+    },
+    {
+      "start": 999.46,
+      "end": 1003.32,
+      "text": "Then I would have had my death-rites,\\nand the Achaeans carried my fame;"
+    },
+    {
+      "start": 1003.32,
+      "end": 1006.36,
+      "text": "now it is my lot to be taken in a miserable death.\""
+    },
+    {
+      "start": 1006.36,
+      "end": 1012.36,
+      "text": "As he said it, a great wave drove down on him from\\nabove, rushing terribly, and spun the raft around."
+    },
+    {
+      "start": 1012.36,
+      "end": 1017.76,
+      "text": "Far from the raft he fell, and the steering-oar\\nflew from his hands; the mast snapped in the middle"
+    },
+    {
+      "start": 1017.76,
+      "end": 1024.02,
+      "text": "under the terrible squall of winds meeting from all\\nquarters, and sail and yard fell far off in the sea."
+    },
+    {
+      "start": 1024.02,
+      "end": 1029.6,
+      "text": "And the wave held him under a long time: he could not\\nrise quickly from beneath the great sea's downrush,"
+    },
+    {
+      "start": 1029.6,
+      "end": 1033.06,
+      "text": "for the clothes weighed on him that shining Calypso gave."
+    },
+    {
+      "start": 1033.06,
+      "end": 1036.26,
+      "text": "At long last he came up,\\nspitting from his mouth the bitter"
+    },
+    {
+      "start": 1036.26,
+      "end": 1039.08,
+      "text": "brine that ran streaming in torrents down his head."
+    },
+    {
+      "start": 1039.08,
+      "end": 1042.66,
+      "text": "Yet even so, ground down as he was,\\nhe did not forget his raft:"
+    },
+    {
+      "start": 1042.66,
+      "end": 1045.78,
+      "text": "he lunged after her through the waves and caught hold,"
+    },
+    {
+      "start": 1045.78,
+      "end": 1049.08,
+      "text": "and sat down in the middle of her,\\ndodging the end that is death,"
+    },
+    {
+      "start": 1049.08,
+      "end": 1052.46,
+      "text": "while the great wave carried her\\nwith the current, here and there."
+    },
+    {
+      "start": 1052.46,
+      "end": 1054.68,
+      "text": "As when the North Wind of autumn carries thistledown"
+    },
+    {
+      "start": 1054.68,
+      "end": 1057.98,
+      "text": "across the plain, and the tufts\\ncling close to one another,"
+    },
+    {
+      "start": 1057.98,
+      "end": 1061.42,
+      "text": "so the winds carried her over\\nthe open water, here and there:"
+    },
+    {
+      "start": 1061.42,
+      "end": 1064.4,
+      "text": "now the South Wind would toss her to the North to carry,"
+    },
+    {
+      "start": 1064.4,
+      "end": 1068.4,
+      "text": "now again the East would yield her to the West to chase."
+    },
+    {
+      "start": 1068.4,
+      "end": 1072.54,
+      "text": "But the daughter of Cadmus saw him —\\nIno of the beautiful ankles,"
+    },
+    {
+      "start": 1072.54,
+      "end": 1076.18,
+      "text": "the White Goddess, who once was\\nmortal, with a mortal voice,"
+    },
+    {
+      "start": 1076.18,
+      "end": 1080.14,
+      "text": "and now in the salt depths has\\nher share of honor from the gods."
+    },
+    {
+      "start": 1080.14,
+      "end": 1084.06,
+      "text": "She pitied Odysseus, driven wandering, worn with pains,"
+    },
+    {
+      "start": 1084.06,
+      "end": 1088.28,
+      "text": "and in the likeness of a shearwater\\nshe rose on the wing from the water,"
+    },
+    {
+      "start": 1088.28,
+      "end": 1090.94,
+      "text": "and perched on the close-bound raft, and said:"
+    },
+    {
+      "start": 1090.94,
+      "end": 1094.16,
+      "text": "\"Luckless man, why is Poseidon the earth-shaker"
+    },
+    {
+      "start": 1094.16,
+      "end": 1098.84,
+      "text": "so terribly at odds with you,\\nthat he plants all these evils for you?"
+    },
+    {
+      "start": 1098.84,
+      "end": 1101.78,
+      "text": "Yet he shall not destroy you, for all his fury."
+    },
+    {
+      "start": 1101.78,
+      "end": 1105.48,
+      "text": "Only do exactly this —\\nyou do not seem to me short of sense."
+    },
+    {
+      "start": 1105.48,
+      "end": 1108.26,
+      "text": "Strip off these clothes, and leave the raft for the winds"
+    },
+    {
+      "start": 1108.26,
+      "end": 1111.5,
+      "text": "to carry; strike out swimming\\nwith your hands for a homecoming"
+    },
+    {
+      "start": 1111.5,
+      "end": 1115.18,
+      "text": "on the Phaeacians' land,\\nwhere it is your portion to escape."
+    },
+    {
+      "start": 1115.18,
+      "end": 1117.42,
+      "text": "Here — spread this veil under your chest."
+    },
+    {
+      "start": 1117.42,
+      "end": 1120.14,
+      "text": "It is immortal: no fear then of suffering or death."
+    },
+    {
+      "start": 1120.14,
+      "end": 1126.52,
+      "text": "But the moment your hands take hold of dry land,\\nuntie it again and throw it into the wine-dark sea,"
+    },
+    {
+      "start": 1126.52,
+      "end": 1130.14,
+      "text": "far out from land, and turn your own face away.\""
+    },
+    {
+      "start": 1130.14,
+      "end": 1135.08,
+      "text": "So speaking the goddess gave him the veil,\\nand she herself sank back into the surging sea"
+    },
+    {
+      "start": 1135.08,
+      "end": 1139.4,
+      "text": "in the likeness of a shearwater,\\nand the black wave closed over her."
+    },
+    {
+      "start": 1139.4,
+      "end": 1145.1,
+      "text": "But much-enduring noble Odysseus pondered,\\nand deeply stirred he spoke to his own great heart:"
+    },
+    {
+      "start": 1145.1,
+      "end": 1151.8,
+      "text": "\"Ah me — let this not be some new snare of the immortals\\nwoven against me, when she bids me abandon my raft."
+    },
+    {
+      "start": 1151.8,
+      "end": 1157.3,
+      "text": "No: I will not obey her yet. Far off with my own\\neyes I saw the land where she said my refuge is."
+    },
+    {
+      "start": 1157.3,
+      "end": 1160.34,
+      "text": "I will do this instead — it seems to me the best:"
+    },
+    {
+      "start": 1160.34,
+      "end": 1166.28,
+      "text": "as long as the timbers hold in their fastenings,\\nso long I stay aboard and endure my sufferings where I am;"
+    },
+    {
+      "start": 1166.28,
+      "end": 1171.92,
+      "text": "but the moment the wave shakes the raft to pieces,\\nI swim. There is no better plan to see.\""
+    },
+    {
+      "start": 1171.92,
+      "end": 1175.1,
+      "text": "While he was turning this over\\nin his mind and in his heart,"
+    },
+    {
+      "start": 1175.1,
+      "end": 1181.38,
+      "text": "Poseidon the earth-shaker heaved up a great wave,\\nterrible and grim, arching over him, and drove it down."
+    },
+    {
+      "start": 1181.38,
+      "end": 1186.48,
+      "text": "And as a violent wind tosses a heap of dry chaff\\nand scatters the wisps this way and that way,"
+    },
+    {
+      "start": 1186.48,
+      "end": 1193.28,
+      "text": "so it scattered the raft's long timbers. But Odysseus\\ngot astride one beam, like a man riding a racehorse,"
+    },
+    {
+      "start": 1193.28,
+      "end": 1198.68,
+      "text": "and stripped off the clothes that shining Calypso gave,\\nand spread the veil at once beneath his chest,"
+    },
+    {
+      "start": 1198.68,
+      "end": 1205.32,
+      "text": "and plunged headfirst in the sea, arms spread wide,\\nhungry to swim. And the strong earth-shaker saw him,"
+    },
+    {
+      "start": 1205.32,
+      "end": 1207.68,
+      "text": "and shaking his head he spoke to his own heart:"
+    },
+    {
+      "start": 1207.68,
+      "end": 1213.16,
+      "text": "\"So — now suffer your many evils and drift the sea,\\nuntil you come among a people nurtured of Zeus."
+    },
+    {
+      "start": 1213.16,
+      "end": 1216.48,
+      "text": "But even so I do not think you\\nwill make light of your trouble.\""
+    },
+    {
+      "start": 1216.48,
+      "end": 1222.46,
+      "text": "So speaking he lashed his horses of the beautiful\\nmanes and came to Aegae, where his famous house is."
+    },
+    {
+      "start": 1222.46,
+      "end": 1226.28,
+      "text": "But Athena, daughter of Zeus, thought of other things."
+    },
+    {
+      "start": 1226.28,
+      "end": 1230.88,
+      "text": "She bound up the courses of all the other winds\\nand commanded every one to rest and fall asleep,"
+    },
+    {
+      "start": 1230.88,
+      "end": 1235.5,
+      "text": "and roused the quick North Wind,\\nand broke the waves before him,"
+    },
+    {
+      "start": 1235.5,
+      "end": 1239.48,
+      "text": "so that Zeus-born Odysseus might come among the oar-loving"
+    },
+    {
+      "start": 1239.48,
+      "end": 1242.1,
+      "text": "Phaeacians, having slipped past death and the dooms."
+    },
+    {
+      "start": 1242.1,
+      "end": 1245.02,
+      "text": "Two nights then and two days on the close-packed swell"
+    },
+    {
+      "start": 1245.02,
+      "end": 1249.2,
+      "text": "he drifted, and many times his heart\\nlooked destruction in the face."
+    },
+    {
+      "start": 1249.2,
+      "end": 1252.58,
+      "text": "But when Dawn of the lovely braids\\nbrought the third day round,"
+    },
+    {
+      "start": 1252.58,
+      "end": 1258.8,
+      "text": "then at last the wind fell, and a windless\\ncalm came on; and he saw the land close by,"
+    },
+    {
+      "start": 1258.8,
+      "end": 1262.18,
+      "text": "casting a sharp glance forward, lifted on a great wave."
+    },
+    {
+      "start": 1262.18,
+      "end": 1265.56,
+      "text": "As when a father's life shows\\ndear and welcome to his children —"
+    },
+    {
+      "start": 1265.56,
+      "end": 1272.26,
+      "text": "a father who lies in sickness suffering strong pains,\\nlong wasting away, some hateful power upon him,"
+    },
+    {
+      "start": 1272.26,
+      "end": 1276.04,
+      "text": "and then, dear and welcome,\\nthe gods set him free of his evil —"
+    },
+    {
+      "start": 1276.04,
+      "end": 1279.06,
+      "text": "so welcome to Odysseus showed the land and the trees,"
+    },
+    {
+      "start": 1279.06,
+      "end": 1283.04,
+      "text": "and he swam hard, straining to set foot on solid earth."
+    },
+    {
+      "start": 1283.04,
+      "end": 1289.54,
+      "text": "But when he was as far offshore as a man's shout carries,\\nhe heard the boom of sea against the rock-teeth:"
+    },
+    {
+      "start": 1289.54,
+      "end": 1292.52,
+      "text": "the great swell thundered on the dry land's edge,"
+    },
+    {
+      "start": 1292.52,
+      "end": 1296.24,
+      "text": "belching terribly, and everything\\nwas shrouded in salt spray."
+    },
+    {
+      "start": 1296.24,
+      "end": 1300.06,
+      "text": "For there were no harbors there\\nto hold ships, no roadsteads —"
+    },
+    {
+      "start": 1300.06,
+      "end": 1303.78,
+      "text": "only jutting headlands, rock-teeth, and cliff-faces."
+    },
+    {
+      "start": 1303.78,
+      "end": 1310.04,
+      "text": "And then Odysseus' knees went loose, and his heart,\\nand deeply stirred he spoke to his own great heart:"
+    },
+    {
+      "start": 1310.04,
+      "end": 1316.38,
+      "text": "\"Ah me — now that Zeus has given me sight of land\\nunhoped for, and I have won across this gulf at last,"
+    },
+    {
+      "start": 1316.38,
+      "end": 1319.26,
+      "text": "no way out of the gray salt water shows anywhere:"
+    },
+    {
+      "start": 1319.26,
+      "end": 1325.3,
+      "text": "sharp crags offshore, and all around them the wave\\nroaring and churning, and the rock running up sheer,"
+    },
+    {
+      "start": 1325.3,
+      "end": 1330.2,
+      "text": "and the sea deep close in — nowhere to\\nstand on both my feet and escape the evil."
+    },
+    {
+      "start": 1330.2,
+      "end": 1332.74,
+      "text": "If I try to climb out, the great wave may snatch me"
+    },
+    {
+      "start": 1332.74,
+      "end": 1336.16,
+      "text": "and hurl me on the standing stone,\\nand my try go for nothing."
+    },
+    {
+      "start": 1336.16,
+      "end": 1342.14,
+      "text": "But if I swim along still farther, hoping to find\\nshelving beaches somewhere, and harbors of the sea,"
+    },
+    {
+      "start": 1342.14,
+      "end": 1348.24,
+      "text": "I fear the storm-squall snatches me up again and carries me,\\ngroaning heavily, over the fish-filled sea —"
+    },
+    {
+      "start": 1348.24,
+      "end": 1354.6,
+      "text": "or some power looses a monster on me out of the brine,\\none of the swarm that famous Amphitrite pastures:"
+    },
+    {
+      "start": 1354.6,
+      "end": 1357.72,
+      "text": "for I know how the famous shaker\\nof earth is at odds with me.\""
+    },
+    {
+      "start": 1357.72,
+      "end": 1363.48,
+      "text": "While he was turning this over in his mind and in his heart,\\na great wave carried him onto the jagged shore."
+    },
+    {
+      "start": 1363.48,
+      "end": 1366.94,
+      "text": "There his skin would have been\\nstripped, his bones smashed in,"
+    },
+    {
+      "start": 1366.94,
+      "end": 1370.2,
+      "text": "had not the goddess, gray-eyed\\nAthena, put a thought in him:"
+    },
+    {
+      "start": 1370.2,
+      "end": 1375.98,
+      "text": "lunging in, he seized the rock with both hands and\\nclung there groaning while the great wave went past."
+    },
+    {
+      "start": 1375.98,
+      "end": 1382.26,
+      "text": "That one he escaped so; but its backwash leapt on him\\nagain and struck him and threw him far out to sea."
+    },
+    {
+      "start": 1382.26,
+      "end": 1387.16,
+      "text": "As when an octopus is dragged out of its den\\nand thick pebbles cling in the cups of its arms,"
+    },
+    {
+      "start": 1387.16,
+      "end": 1394.02,
+      "text": "so from his bold hands the skin was stripped away\\nagainst the rocks; and the great wave closed over him."
+    },
+    {
+      "start": 1394.02,
+      "end": 1397.4,
+      "text": "There, before his time,\\nwretched Odysseus would have perished,"
+    },
+    {
+      "start": 1397.4,
+      "end": 1400.62,
+      "text": "had not gray-eyed Athena given him clear sense."
+    },
+    {
+      "start": 1400.62,
+      "end": 1403.56,
+      "text": "Coming up out of the surf where it belches at the land,"
+    },
+    {
+      "start": 1403.56,
+      "end": 1407.12,
+      "text": "he swam along outside it,\\nlooking to the shore in hope of finding"
+    },
+    {
+      "start": 1407.12,
+      "end": 1410.38,
+      "text": "shelving beaches somewhere, and harbors of the sea."
+    },
+    {
+      "start": 1410.38,
+      "end": 1413.74,
+      "text": "But when, swimming, he came to\\nthe mouth of a fair-flowing river,"
+    },
+    {
+      "start": 1413.74,
+      "end": 1419.32,
+      "text": "there at last the ground seemed best to him,\\nclear of stones, and there was shelter from the wind."
+    },
+    {
+      "start": 1419.32,
+      "end": 1422.3,
+      "text": "He felt the current flowing and prayed in his heart:"
+    },
+    {
+      "start": 1422.3,
+      "end": 1426.86,
+      "text": "\"Hear me, lord, whoever you are.\\nI come to you — the much-prayed-to —"
+    },
+    {
+      "start": 1426.86,
+      "end": 1430.0,
+      "text": "a fugitive out of the sea, from the threats of Poseidon."
+    },
+    {
+      "start": 1430.0,
+      "end": 1434.98,
+      "text": "Even to the deathless gods that man is\\nsacred who comes as a wanderer, as I come now"
+    },
+    {
+      "start": 1434.98,
+      "end": 1438.18,
+      "text": "to your stream and to your knees, after much labor."
+    },
+    {
+      "start": 1438.18,
+      "end": 1441.22,
+      "text": "Pity me, lord: I declare myself your suppliant.\""
+    },
+    {
+      "start": 1441.22,
+      "end": 1446.02,
+      "text": "And at once the god stayed his\\ncurrent, held back the wave,"
+    },
+    {
+      "start": 1446.02,
+      "end": 1452.42,
+      "text": "and made the water calm before him, and brought him\\nsafe into the river's mouth. And he bent both knees"
+    },
+    {
+      "start": 1452.42,
+      "end": 1457.44,
+      "text": "and let his strong hands fall:\\nthe sea had crushed the heart in him."
+    },
+    {
+      "start": 1457.44,
+      "end": 1461.04,
+      "text": "All his flesh was swollen, and the sea oozed in streams"
+    },
+    {
+      "start": 1461.04,
+      "end": 1464.78,
+      "text": "up through his mouth and nostrils.\\nBreathless and speechless"
+    },
+    {
+      "start": 1464.78,
+      "end": 1468.98,
+      "text": "he lay, barely alive,\\nand a terrible weariness came over him."
+    },
+    {
+      "start": 1468.98,
+      "end": 1473.04,
+      "text": "But when he got his breath again,\\nand the spirit gathered in his chest,"
+    },
+    {
+      "start": 1473.04,
+      "end": 1478.68,
+      "text": "then he unbound the goddess's veil from his body\\nand let it go into the river running seaward,"
+    },
+    {
+      "start": 1478.68,
+      "end": 1482.28,
+      "text": "and the great wave carried it back\\ndown the current, and quickly Ino"
+    },
+    {
+      "start": 1482.28,
+      "end": 1486.28,
+      "text": "took it in her own dear hands.\\nAnd he turned from the river,"
+    },
+    {
+      "start": 1486.28,
+      "end": 1489.5,
+      "text": "sank down in the reeds, and kissed the grain-giving earth;"
+    },
+    {
+      "start": 1489.5,
+      "end": 1492.84,
+      "text": "and deeply stirred he spoke to his own great heart:"
+    },
+    {
+      "start": 1492.84,
+      "end": 1496.36,
+      "text": "\"Ah me, what now? What happens to me at the last?"
+    },
+    {
+      "start": 1496.36,
+      "end": 1499.54,
+      "text": "If I keep watch through the\\nanxious night here by the river,"
+    },
+    {
+      "start": 1499.54,
+      "end": 1506.38,
+      "text": "the two together — the evil frost and the soaking dew —\\nmay finish me: weak as I am, my spirit gasping;"
+    },
+    {
+      "start": 1506.38,
+      "end": 1509.48,
+      "text": "and toward dawn a cold breeze blows off a river."
+    },
+    {
+      "start": 1509.48,
+      "end": 1514.74,
+      "text": "But if I climb the slope to the shadowy wood and\\nfall asleep in the thick brush — supposing cold"
+    },
+    {
+      "start": 1514.74,
+      "end": 1521.54,
+      "text": "and weariness release me, and sweet sleep comes —\\nI fear I become spoil and carrion for wild beasts.\""
+    },
+    {
+      "start": 1521.54,
+      "end": 1524.06,
+      "text": "Yet as he weighed it, this seemed the better way:"
+    },
+    {
+      "start": 1524.06,
+      "end": 1526.8,
+      "text": "he went up toward the wood, and found it near the water"
+    },
+    {
+      "start": 1526.8,
+      "end": 1530.12,
+      "text": "on a rise in the open. He crept in under a double thicket"
+    },
+    {
+      "start": 1530.12,
+      "end": 1534.8,
+      "text": "grown from a single stock —\\none wild olive, one the planted tree."
+    },
+    {
+      "start": 1534.8,
+      "end": 1537.8,
+      "text": "Through these no strength of\\nwet-blowing winds could pierce,"
+    },
+    {
+      "start": 1537.8,
+      "end": 1543.82,
+      "text": "nor could the shining sun strike through with its rays,\\nnor rain soak through them, so close they grew,"
+    },
+    {
+      "start": 1543.82,
+      "end": 1549.06,
+      "text": "laced into one another. Under these Odysseus\\ncrept, and heaped himself at once a wide bed"
+    },
+    {
+      "start": 1549.06,
+      "end": 1555.02,
+      "text": "with his own hands: for there was a drift of fallen\\nleaves there, deep, enough to shelter two men or three"
+    },
+    {
+      "start": 1555.02,
+      "end": 1558.26,
+      "text": "in the winter season, however hard it blew."
+    },
+    {
+      "start": 1558.26,
+      "end": 1561.58,
+      "text": "Seeing it, much-enduring noble Odysseus rejoiced,"
+    },
+    {
+      "start": 1561.58,
+      "end": 1565.56,
+      "text": "and he lay down in the middle and\\npoured the fallen leaves over him."
+    },
+    {
+      "start": 1565.56,
+      "end": 1568.48,
+      "text": "As when a man buries a burning log in a black ash-heap"
+    },
+    {
+      "start": 1568.48,
+      "end": 1572.52,
+      "text": "at the far edge of the fields —\\na man with no neighbors near —"
+    },
+    {
+      "start": 1572.52,
+      "end": 1576.12,
+      "text": "saving the seed of fire,\\nso as not to seek a light elsewhere,"
+    },
+    {
+      "start": 1576.12,
+      "end": 1582.14,
+      "text": "so Odysseus buried himself in the leaves.\\nAnd Athena poured sleep upon his eyes, to free him soonest"
+    },
+    {
+      "start": 1582.14,
+      "end": 1586.426,
+      "text": "from his toil-worn weariness,\\nwhen she had folded his dear eyelids shut."
+    }
+  ]
+}

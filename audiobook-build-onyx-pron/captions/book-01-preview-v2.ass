@@ -1,0 +1,46 @@
+﻿[Script Info]
+Title: Odyssey Book I — Living Manuscript Preview
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Title,Georgia,74,&H006AB3D7,&H006AB3D7,&HCC130D08,&H80000000,0,0,0,0,100,100,7,0,1,3,2,5,120,120,0,1
+Style: Deck,Georgia,35,&H00C7DDE8,&H00C7DDE8,&HCC130D08,&H80000000,0,1,0,0,100,100,1,0,1,2.5,1,5,210,210,0,1
+Style: Header,Georgia,23,&H005594B8,&H005594B8,&H80130D08,&H00000000,0,0,0,0,100,100,3,0,1,1.5,0,8,80,80,54,1
+Style: Narration,Georgia,49,&H006AB3D7,&H00D8E7EE,&HE0130D08,&H70000000,0,0,0,0,100,100,0.4,0,1,3,1,2,170,170,185,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.25,Title,,0,0,0,,{\fad(700,500)\bord3\blur0.5}ODYSSEY — BOOK I
+Dialogue: 0,0:00:03.25,0:00:06.30,Deck,,0,0,0,,{\fad(500,700)}Athena comes to Ithaca;\NTelemachus resolves to seek his father.
+Dialogue: 0,0:00:06.30,0:01:38.00,Header,,0,0,0,,{\fad(800,500)}HOMER’S ODYSSEY  ·  BOOK I
+Dialogue: 1,0:00:06.30,0:00:09.65,Narration,,0,0,0,,{\fad(60,120)}{\c&H006AB3D7&}Tell{\c&H00D8E7EE&} me the man, Muse —\Nthe man of many turnings,
+Dialogue: 1,0:00:09.65,0:00:14.85,Narration,,0,0,0,,{\fad(60,120)}{\c&H006AB3D7&}who{\c&H00D8E7EE&} was driven wandering far, once he had sacked\NTroy’s holy citadel:
+Dialogue: 1,0:00:14.85,0:00:18.40,Narration,,0,0,0,,{\fad(60,120)}{\c&H006AB3D7&}many{\c&H00D8E7EE&} were the cities of men he saw,\Nand he learned their minds,
+Dialogue: 1,0:00:18.40,0:00:21.10,Narration,,0,0,0,,{\fad(60,120)}{\c&H006AB3D7&}many{\c&H00D8E7EE&} the griefs he suffered at heart\Non the open sea,
+Dialogue: 1,0:00:21.10,0:00:25.45,Narration,,0,0,0,,{\fad(60,120)}{\c&H006AB3D7&}striving{\c&H00D8E7EE&} to win his own life\Nand his companions’ homecoming.
+Dialogue: 1,0:00:25.45,0:00:28.85,Narration,,0,0,0,,{\fad(60,120)}{\c&H006AB3D7&}Even{\c&H00D8E7EE&} so he could not save them,\Nhard though he strove:
+Dialogue: 1,0:00:28.85,0:00:31.05,Narration,,0,0,0,,{\fad(60,120)}{\c&H006AB3D7&}they{\c&H00D8E7EE&} perished by their own recklessness,
+Dialogue: 1,0:00:31.05,0:00:34.75,Narration,,0,0,0,,{\fad(60,120)}{\c&H006AB3D7&}fools,{\c&H00D8E7EE&} who ate the cattle\Nof Helios Hyperion,
+Dialogue: 1,0:00:34.75,0:00:37.50,Narration,,0,0,0,,{\fad(60,120)}{\c&H006AB3D7&}and{\c&H00D8E7EE&} the god took from them\Ntheir day of homecoming.
+Dialogue: 1,0:00:37.50,0:00:41.70,Narration,,0,0,0,,{\fad(60,120)}{\c&H006AB3D7&}Begin{\c&H00D8E7EE&} where you will, goddess, daughter of Zeus —\Ntell us, too, the tale.
+Dialogue: 1,0:00:41.70,0:00:45.35,Narration,,0,0,0,,{\fad(60,120)}{\c&H006AB3D7&}By{\c&H00D8E7EE&} then all the others,\Nall who had escaped sheer ruin,
+Dialogue: 1,0:00:45.35,0:00:47.55,Narration,,0,0,0,,{\fad(60,120)}{\c&H006AB3D7&}were{\c&H00D8E7EE&} home, safely past the war\Nand past the sea.
+Dialogue: 1,0:00:47.55,0:00:51.40,Narration,,0,0,0,,{\fad(60,120)}{\c&H006AB3D7&}Him{\c&H00D8E7EE&} alone — aching for homecoming\Nand his wife —
+Dialogue: 1,0:00:51.40,0:00:55.10,Narration,,0,0,0,,{\fad(60,120)}{\c&H006AB3D7&}the{\c&H00D8E7EE&} queenly nymph Calypso,\Nshining among goddesses, held back
+Dialogue: 1,0:00:55.10,0:00:58.65,Narration,,0,0,0,,{\fad(60,120)}{\c&H006AB3D7&}in{\c&H00D8E7EE&} her hollow caves,\Nhungry to make him her husband.
+Dialogue: 1,0:00:58.65,0:01:01.85,Narration,,0,0,0,,{\fad(60,120)}{\c&H006AB3D7&}But{\c&H00D8E7EE&} when the year came,\Nin the wheeling round of seasons,
+Dialogue: 1,0:01:01.85,0:01:05.50,Narration,,0,0,0,,{\fad(60,120)}{\c&H006AB3D7&}in{\c&H00D8E7EE&} which the gods had spun the thread\Nof his return home to Ithaca —
+Dialogue: 1,0:01:05.50,0:01:09.70,Narration,,0,0,0,,{\fad(60,120)}{\c&H006AB3D7&}not{\c&H00D8E7EE&} even there was he free of trials,\Neven among his own.
+Dialogue: 1,0:01:09.70,0:01:14.80,Narration,,0,0,0,,{\fad(60,120)}{\c&H006AB3D7&}And{\c&H00D8E7EE&} the gods pitied him, all but Poseidon:\Nhe raged without rest
+Dialogue: 1,0:01:14.80,0:01:19.80,Narration,,0,0,0,,{\fad(60,120)}{\c&H006AB3D7&}against{\c&H00D8E7EE&} godlike Odysseus,\Nuntil the day he reached his own land.
+Dialogue: 1,0:01:19.80,0:01:22.70,Narration,,0,0,0,,{\fad(60,120)}{\c&H006AB3D7&}But{\c&H00D8E7EE&} now Poseidon was gone\Namong the far-off Ethiopians —
+Dialogue: 1,0:01:22.70,0:01:27.00,Narration,,0,0,0,,{\fad(60,120)}{\c&H006AB3D7&}the{\c&H00D8E7EE&} Ethiopians, sundered in two,\Nremotest of mankind,
+Dialogue: 1,0:01:27.00,0:01:29.45,Narration,,0,0,0,,{\fad(60,120)}{\c&H006AB3D7&}half{\c&H00D8E7EE&} where Hyperion sets\Nand half where he rises —
+Dialogue: 1,0:01:29.45,0:01:34.20,Narration,,0,0,0,,{\fad(60,120)}{\c&H006AB3D7&}to{\c&H00D8E7EE&} receive a hecatomb of bulls and rams,\Nand there he sat at the feast, delighting.
+Dialogue: 1,0:01:34.20,0:01:38.00,Narration,,0,0,0,,{\fad(60,120)}{\c&H006AB3D7&}But{\c&H00D8E7EE&} the other gods were gathered together\Nin the halls of Olympian Zeus,

@@ -1,0 +1,416 @@
+ODYSSEY — BOOK XIV full-book caption alignment
+Duration: 1720.248s
+Narration cues: 407
+Source words: 5595
+Directly matched source words: 5322 (95.1%)
+Recognized words: 5586
+Visual lead: 0.16s
+
+Cue | Start | Anchor | Missing prefix | Caption
+  1 |    8.200 | But                |              0 | But he went up from the harbor by a rough track / through wooded country, along the heights, where Athena
+  2 |   13.760 | had                |              0 | had shown him the noble swineherd — the man who cared
+  3 |   17.060 | for                |              0 | for his substance beyond all the / house-slaves noble Odysseus had acquired.
+  4 |   21.500 | He                 |              0 | He found him sitting in the fore-court, where his yard
+  5 |   23.820 | was                |              0 | was built up high, in a place / with a clear view all around,
+  6 |   27.640 | Big                |              0 | big and handsome, with a cleared / run round it. The swineherd
+  7 |   31.540 | had                |              0 | had built it himself for the swine of his absent master — / without his mistress, without old Laertes —
+  8 |   37.640 | out                |              0 | out of quarried stones, and coped it with wild pear;
+  9 |   41.260 | And                |              0 | and outside he had driven stakes the / whole circuit, this way and that,
+ 10 |   45.020 | close              |              0 | close-set and thick, split out of the black heart of / the oak; and inside the yard he had made twelve sties
+ 11 |   50.860 | hard               |              0 | hard by one another, bedding for the swine; / and in each one fifty wallowing sows were penned,
+ 12 |   56.560 | breeding           |              0 | breeding females. The boars slept outside, / far fewer: for the godlike suitors kept thinning them
+ 13 |   63.120 | at                 |              0 | at their feasts — the swineherd forever / sending in the best of all the fatted hogs;
+ 14 |   67.800 | and                |              0 | and these numbered three hundred and sixty.
+ 15 |   70.140 | them               |              2 | And beside them four dogs always slept — like wild / beasts, raised by the swineherd, a leader of men.
+ 16 |   76.600 | He                 |              0 | He himself was fitting sandals to his feet, / cutting them from a well-tanned oxhide. The others
+ 17 |   81.980 | had                |              0 | had gone their ways, this man here, / that man there, with the herded swine —
+ 18 |   86.720 | three              |              0 | three of them; the fourth he had sent off to the city
+ 19 |   89.200 | to                 |              0 | to bring a hog to the overweening suitors — forced to it —
+ 20 |   92.680 | so                 |              0 | so they might slaughter it and / glut their hearts with meat.
+ 21 |   95.760 | Suddenly           |              0 | Suddenly the baying dogs caught sight of Odysseus:
+ 22 |   98.460 | they               |              0 | they rushed him, yelping. And Odysseus sat down — / pure craft — and the staff dropped from his hand.
+ 23 |  105.180 | There              |              0 | There, at his own farm, / he would have suffered shameful hurt,
+ 24 |  108.320 | but                |              0 | but the swineherd came fast on his quick feet after them,
+ 25 |  111.380 | darting            |              0 | darting through the gateway — / the hide flew from his hand —
+ 26 |  114.640 | and                |              0 | and shouting he scattered the dogs this way and that / with a shower of stones. And he addressed his master:
+ 27 |  120.660 | Old                |              0 | "Old man — the dogs came one breath short of tearing you
+ 28 |  123.540 | to                 |              0 | to pieces, and the shame of it would have poured on me.
+ 29 |  126.660 | and                |              0 | And the gods have given me griefs / enough besides, and groaning:
+ 30 |  130.300 | Here               |              0 | here I sit, mourning a godlike master, / and fatten hogs for other men
+ 31 |  134.180 | to                 |              0 | to eat, while he, perhaps, is starving for bread and / wanders the lands and towns of men of alien speech —
+ 32 |  140.320 | if                 |              0 | if indeed he lives still, and sees the light of the sun.
+ 33 |  143.580 | But                |              0 | But follow me — into the hut, old man, so that you too, / when you have had your fill of bread and wine,
+ 34 |  148.560 | may                |              0 | may say where you come from, / and all the cares you have borne."
+ 35 |  152.220 | So                 |              0 | So speaking the noble swineherd led him to the hut,
+ 36 |  155.160 | brought            |              0 | brought him in and set him down: / he heaped springy brushwood
+ 37 |  158.520 | and                |              0 | and spread on it the skin of a shaggy wild goat — / his own bedding, big and thick. And Odysseus was glad
+ 38 |  164.660 | that               |              0 | that he received him so, and spoke a word, and named him:
+ 39 |  168.540 | may                |              0 | "May Zeus grant you, stranger, / and the other deathless gods,
+ 40 |  171.340 | whatever           |              0 | whatever you wish most — since you / welcomed me with all your heart."
+ 41 |  175.360 | And                |              0 | And you answered him, Eumaeus the swineherd:
+ 42 |  178.040 | stranger           |              0 | "Stranger, it is not right for me — / not though a worse man came —
+ 43 |  181.260 | to                 |              0 | to slight a stranger: / for from Zeus they come, all of them,
+ 44 |  185.660 | strangers          |              0 | strangers and beggars; and a gift, though small, is dear —
+ 45 |  188.720 | from               |              0 | from such as we are: for that is the way of slaves, / always afraid, when the masters who hold the power
+ 46 |  193.980 | are                |              0 | are the young ones. As for him — / the gods have bound his homecoming,
+ 47 |  198.280 | the                |              0 | the man who would have loved me devotedly, / and given me possessions —
+ 48 |  201.780 | a                  |              0 | a house, a plot of land, / a wife that many men had courted —
+ 49 |  205.500 | such               |              0 | such things as a kind-hearted master gives his house-slave
+ 50 |  208.080 | who                |              0 | who has labored hard for him, / whose work a god makes prosper,
+ 51 |  211.680 | the                |              0 | the way this work of mine prospers, / at which I hold my post.
+ 52 |  215.360 | for                |              0 | For that my master would have paid / me richly, had he grown old here.
+ 53 |  218.820 | but                |              0 | But he is dead. — And I wish / Helen's whole breed had gone down
+ 54 |  223.600 | on                 |              0 | on its knees to destruction, / for she loosed the knees of many men:
+ 55 |  228.060 | He                 |              0 | he too went off for the sake of Agamemnon's honor / to Ilium of the fine horses, to fight the Trojans."
+ 56 |  235.300 | So                 |              0 | So speaking he quickly belted in his tunic with his sash
+ 57 |  238.340 | and                |              0 | and went to the sties, where the / tribes of young pigs were penned.
+ 58 |  242.360 | He                 |              0 | He took two out of there, and slaughtered them both,
+ 59 |  244.840 | singed             |              0 | singed them, cut them small, and threaded them on spits,
+ 60 |  248.300 | and                |              0 | and when he had roasted all of it, / he brought and set it by Odysseus
+ 61 |  251.600 | hot                |              0 | hot on the spits themselves, / and dusted it with white barley,
+ 62 |  255.420 | and                |              0 | and mixed honey-sweet wine in an ivy-wood bowl, / and sat down facing him, and pressed him on:
+ 63 |  261.560 | Eat                |              0 | "Eat now, stranger — what house-slaves have to offer:
+ 64 |  264.480 | young              |              0 | young pig. The fatted hogs — the suitors eat those,
+ 65 |  268.260 | with               |              0 | with no thought in their hearts of / the gods' watching eye, no mercy.
+ 66 |  272.200 | yet                |              0 | Yet the blessed gods love no ruthless dealing:
+ 67 |  275.080 | they               |              0 | they honor justice, and the right acts of men.
+ 68 |  277.740 | Why                |              0 | Why — even enemies, even raiders, who land on / a foreign coast, and Zeus grants them plunder,
+ 69 |  283.120 | and                |              0 | and they fill their ships and set off home — even on / their hearts falls the strong fear of the watching eye.
+ 70 |  288.820 | But                |              0 | But these men — these men know something; / they have heard some god's own voice
+ 71 |  292.740 | telling            |              0 | telling his grim death: that is why they will not woo
+ 72 |  295.320 | in                 |              0 | in the right way, nor go home / to their own, but at their ease
+ 73 |  298.620 | they               |              0 | they devour the goods, high-handed, and spare nothing.
+ 74 |  302.180 | For                |              0 | For every night and every day that comes from Zeus, / they slaughter victims — never one, and never only two —
+ 75 |  308.580 | and                |              0 | and wine they draw off past all measure, and waste it.
+ 76 |  311.720 | For                |              0 | For his livelihood was past speaking. No hero / anywhere had so much — not on the dark mainland,
+ 77 |  317.860 | not                |              0 | not on Ithaca itself; no twenty men together have / wealth so great. I will count it through for you:
+ 78 |  323.840 | Twelve             |              0 | twelve herds of cattle on the mainland; / as many flocks of sheep;
+ 79 |  327.440 | as                 |              0 | as many droves of pigs; as many ranging herds of goats
+ 80 |  330.600 | in                 |              0 | in the care of foreigners and of his own herdsmen there.
+ 81 |  333.840 | and                |              0 | And here, at the island's end, wide-ranging herds of goats
+ 82 |  336.760 | graze,             |              0 | graze, eleven in all, with good men watching over them,
+ 83 |  340.260 | and                |              0 | and every day each man of them / drives up a beast for those others —
+ 84 |  343.740 | whichever          |              0 | whichever of the fatted goats looks best; / and I keep guard over these sows, and protect them,
+ 85 |  348.700 | and                |              0 | and choose out the best of the swine, and send it in."
+ 86 |  352.020 | So                 |              0 | So he spoke; and Odysseus ate his meat and drank his wine,
+ 87 |  355.800 | ravenous           |              0 | ravenous, silent — planting evils for the suitors.
+ 88 |  358.900 | but                |              0 | But when he had supped, and steadied his heart with food, / the swineherd filled the cup he drank from himself
+ 89 |  364.020 | brim               |              0 | brim-full of wine and gave it; / and he took it, glad at heart,
+ 90 |  368.200 | and                |              0 | and lifting his voice he spoke winged words to him:
+ 91 |  371.080 | Friend,            |              0 | "Friend — who was the man who bought you with his goods, / the master rich and powerful as you describe?
+ 92 |  376.620 | You                |              0 | You say he perished for the sake of Agamemnon's honor:
+ 93 |  379.380 | name               |              0 | name him — I may know him, being such a one as he was.
+ 94 |  383.140 | for                |              0 | For Zeus knows, I suppose, and the other deathless gods,
+ 95 |  386.400 | whether            |              0 | whether I have seen him. I have wandered far."
+ 96 |  389.580 | Then               |              0 | Then the swineherd answered him, a leader of men:
+ 97 |  392.580 | Old                |              0 | "Old man — no wanderer coming with news of him / could persuade his wife now, or his dear son.
+ 98 |  398.260 | drifters           |              0 | Drifters in need of keep — they lie at random, / and have no wish to speak the truth.
+ 99 |  402.900 | Every              |              0 | Every vagrant who finds his way to the land of / Ithaca goes to my mistress and babbles his deceits;
+100 |  408.260 | and                |              0 | and she receives him kindly, / and treats him well, and questions everything,
+101 |  412.620 | and                |              0 | and as she grieves the tears come falling from her lids,
+102 |  415.640 | as                 |              0 | as is the right way of a wife whose husband dies far off.
+103 |  419.060 | You                |              0 | You too, old man, would have a / story stitched together fast enough
+104 |  422.800 | if                 |              0 | if someone would give you clothing — a cloak and a tunic.
+105 |  426.120 | But                |              0 | But him — by now the dogs and the quick birds
+106 |  428.660 | have               |              0 | have torn the skin from his bones, / and the life has gone out of him;
+107 |  432.180 | Or                 |              0 | or the fish have eaten him in the sea, and his bones
+108 |  435.240 | lie                |              0 | lie on a shore somewhere, wrapped deep in drifting sand.
+109 |  439.500 | So                 |              0 | So he is dead and gone over there, / and grief is left behind
+110 |  443.080 | for                |              0 | for all who loved him — for me above all: for never / again will I find a master so gentle, wherever I go —
+111 |  450.780 | not                |              0 | not though I came again to my father's and my mother's / house, where I was born, and where they reared me.
+112 |  456.980 | And                |              0 | And it is not even for them I / mourn so much, for all my longing
+113 |  460.460 | to                 |              0 | to see them with my eyes again in my own country:
+114 |  463.460 | No,                |              0 | no — it is longing for Odysseus, / who is gone, that takes hold of me.
+115 |  467.800 | I                  |              0 | I shrink from naming him, stranger, even now he is absent,
+116 |  471.120 | for                |              0 | for he loved me beyond measure, and cared for me at heart.
+117 |  474.400 | I                  |              0 | I call him 'my beloved lord,' even far away."
+118 |  477.780 | Then               |              0 | Then much-enduring noble Odysseus spoke to him again:
+119 |  481.100 | Friend,            |              0 | "Friend — since you deny it flat, and say that he will / come no more, and your heart is set in disbelief —
+120 |  487.120 | Then               |              0 | then I will say it not just so, but with an oath upon it:
+121 |  490.280 | Odysseus           |              0 | Odysseus is coming home. And let my reward for the / good news come the moment he arrives at his own halls:
+122 |  496.560 | Dress              |              0 | dress me then in a cloak and a tunic, fine clothing.
+123 |  499.880 | Before             |              0 | Before that — though I stand in / sore need — I will take nothing.
+124 |  503.940 | For                |              0 | For hateful to me as the very gates of Hades is / the man who yields to poverty and babbles deceits.
+125 |  510.520 | now                |              0 | Now Zeus be my witness, first of the gods, / and this table of friendship,
+126 |  515.020 | and                |              0 | and the hearth of blameless Odysseus, / to which I have come:
+127 |  518.340 | all                |              0 | all this shall be accomplished exactly as I say.
+128 |  521.880 | Within             |              0 | Within this very turning of the / light Odysseus will be here:
+129 |  525.480 | Between            |              0 | between this month's waning and the rising of the next, / he will come home; and he will punish whoever
+130 |  530.840 | dishonors          |              0 | dishonors his wife and his shining son in this place."
+131 |  534.560 | And                |              0 | And you answered him, Eumaeus the swineherd:
+132 |  537.460 | Old                |              0 | "Old man, I will never be paying / that reward for good news,
+133 |  540.680 | and                |              0 | and Odysseus will come home no more. Drink your wine
+134 |  543.640 | in                 |              0 | in peace, and let us turn our / minds to other things. Do not
+135 |  546.880 | my                 |              9 | remind me of all this: for the heart in my breast / aches whenever anyone recalls my faithful master.
+136 |  552.460 | As                 |              0 | As for the oath — we will let it be. But may / Odysseus come — as I wish it, as Penelope wishes,
+137 |  557.960 | and                |              0 | and old Laertes, and godlike Telemachus.
+138 |  561.040 | And                |              0 | And now it is the boy I mourn / without ceasing — Odysseus' own son
+139 |  564.740 | Telemachus.        |              0 | Telemachus. The gods reared him like a young tree, / and I thought he would stand among men no whit behind
+140 |  570.520 | his                |              0 | his own dear father, a wonder in build and beauty — / and some immortal crippled the balanced mind within him,
+141 |  576.580 | or                 |              0 | or some man did: he has gone for news of his father / to holy Pylos. And the lordly suitors lie in wait
+142 |  582.980 | for                |              0 | for his homecoming — so that the line of godlike / Arceisius may perish out of Ithaca and leave no name.
+143 |  589.660 | Well,              |              0 | Well — we will let him be, whether he is taken or escapes, / and the son of Cronos stretches a hand over him.
+144 |  595.800 | But                |              0 | But come, old man, tell me your own troubles now; / and tell me this too, honestly, so that I may know it:
+145 |  602.220 | What               |              0 | What man are you, and from where? / Where are your city and your parents?
+146 |  605.900 | On                 |              0 | On what kind of ship did you come? And how did / sailors bring you to Ithaca? Who did they claim to be?
+147 |  613.020 | For                |              0 | For I hardly think you came here on foot."
+148 |  615.800 | Then               |              0 | Then Odysseus of the many designs answered him:
+149 |  618.760 | Then               |              0 | "Then I will tell you all of it, and truly.
+150 |  621.040 | If                 |              0 | If only there were food for the two of us, / for a good while, and sweet wine here inside the hut,
+151 |  626.620 | to                 |              0 | to feast on quietly while others did the work — / then I could go on easily for a full year
+152 |  631.860 | and                |              0 | and still not finish out the tale of my heart's cares, / all that I have labored through by the gods' will.
+153 |  637.940 | Out                |              0 | Out of wide Crete I claim my lineage:
+154 |  640.960 | a                  |              0 | a rich man's son. Many other sons besides / were born and bred in his hall, true-born,
+155 |  646.800 | sons               |              0 | sons of his wife. My mother was bought — a concubine.
+156 |  650.580 | Yet                |              0 | Yet Castor, Hylax' son — the man whose blood I claim — / honored me equally with his lawful sons.
+157 |  656.980 | In                 |              0 | In those days the Cretan people honored him like a god / for his fortune, his wealth, and his glorious sons.
+158 |  663.760 | But                |              0 | But the death-spirits came and carried him away / to the house of Hades. And his high-hearted sons
+159 |  669.440 | divided            |              0 | divided up the living and cast lots for it, / and to me they gave a pittance, and allotted me a house.
+160 |  675.720 | Still,             |              0 | Still, I won myself a wife from a family of wide / holdings — by my own worth: for I was no empty man,
+161 |  682.220 | no                 |              0 | no shirker of the fight. Now it is all gone from me; / but even so, I think, looking at the stubble
+162 |  688.120 | since              |              6 | you can tell the standing grain. Since then, / trouble past measure has held me.
+163 |  693.080 | Ares               |              0 | Ares and Athena, yes, they gave me boldness and the / strength that breaks men's ranks. Whenever I picked
+164 |  698.680 | the                |              0 | the best men for an ambush, sowing evils for the enemy, / my proud heart never once looked forward to death:
+165 |  705.300 | Far                |              0 | far the first, I would leap out / and take my man with the spear —
+166 |  708.800 | whichever          |              0 | whichever of the enemy gave me his back in flight.
+167 |  711.420 | Such               |              0 | Such I was in war. But field-work I never loved, / nor the housekeeping that rears shining children:
+168 |  717.460 | what               |              0 | what I loved, always, was the oared ships, / and wars, and polished javelins, and arrows —
+169 |  723.920 | grim               |              0 | grim things, that other men shudder at.
+170 |  726.500 | But                |              0 | But I loved what the god, I suppose, set in my heart:
+171 |  729.980 | One                |              0 | one man delights in one work, another in another.
+172 |  733.040 | For                |              0 | For before the sons of the Achaeans set foot on Troy, / nine times I led men and fast-running ships
+173 |  738.620 | against            |              0 | against foreign peoples, and rich takings came my way.
+174 |  741.660 | From               |              0 | From it I drew out my pleasure, and much fell to me
+175 |  745.120 | by                 |              0 | by lot besides. My house grew great at once, / and thereafter I walked among the Cretans feared and respected.
+176 |  752.180 | But                |              0 | But when Zeus of the wide voice devised at last / that hateful road that loosed the knees of many men,
+177 |  758.060 | then               |              0 | then they pressed me and glorious Idomeneus to / lead the ships to Ilium. There was no device
+178 |  763.340 | for                |              0 | for refusing: the people's hard talk held us to it.
+179 |  766.880 | There              |              0 | There we sons of the Achaeans made war nine years, / and in the tenth we sacked Priam's city and set off
+180 |  772.540 | home               |              0 | home with our ships; and a god scattered the Achaeans.
+181 |  775.940 | But                |              0 | But for me — wretched me — / Zeus the deviser designed evils.
+182 |  780.260 | One                |              0 | One month, no more, I stayed, delighting in my children, / my wedded wife, and my possessions. And then
+183 |  785.900 | my                 |              0 | my heart bade me fit out ships and sail / for Egypt, with my godlike companions.
+184 |  790.760 | Nine               |              0 | Nine ships I fitted out, and the crews gathered fast.
+185 |  794.120 | Six                |              0 | Six days after that my trusted companions / feasted, and I gave victims in plenty
+186 |  798.400 | for                |              0 | for sacrifice to the gods, / and for the men to make their feast.
+187 |  802.220 | On                 |              0 | On the seventh we boarded, and from wide Crete / we sailed with a fresh fair North Wind behind us,
+188 |  807.620 | easily             |              0 | easily, as if downstream. No ship / of mine took harm: unhurt and whole
+189 |  812.540 | we                 |              0 | we sat, and the wind and the / steersmen held them on course.
+190 |  815.880 | On                 |              0 | On the fifth day we reached the / fair-flowing river of Egypt,
+191 |  819.360 | and                |              0 | and in the river of Egypt I moored my curved ships.
+192 |  822.840 | Then               |              0 | Then, you may be sure, I ordered my trusted companions / to stay there by the ships and guard the ships,
+193 |  829.000 | and                |              0 | and I sent out scouts to the lookout places.
+194 |  831.480 | But                |              0 | But they gave way to arrogance — / followed their own force —
+195 |  834.580 | and                |              0 | and straightway began to pillage the beautiful fields
+196 |  837.040 | of                 |              0 | of the Egyptian men: they carried / off the women and small children,
+197 |  840.820 | and                |              0 | and killed the men. And quickly the cry reached the city.
+198 |  844.320 | Hearing            |              0 | Hearing the shout, at the showing of dawn the people
+199 |  846.860 | came,              |              0 | came; and the whole plain filled with infantry and horses
+200 |  850.560 | and                |              0 | and the lightning of bronze. / And Zeus who delights in thunder
+201 |  853.980 | an                 |              1 | threw an evil panic on my companions, and no man dared
+202 |  857.600 | stand              |              0 | stand and face it: for destruction ringed us everywhere.
+203 |  860.880 | there              |              0 | There they killed many of us with the sharp bronze,
+204 |  863.760 | and                |              0 | and others they led up alive, to slave for them by force.
+205 |  868.100 | But                |              0 | But as for me — Zeus himself put this thought in / my mind (would I had died instead, and met my doom
+206 |  874.320 | there              |              0 | there, in Egypt! for more grief / stood waiting to receive me):
+207 |  877.880 | At                 |              0 | at once I took the well-made helmet from my head,
+208 |  881.020 | and                |              0 | and the shield from my shoulders, / and dropped the spear from my hand,
+209 |  884.740 | and                |              0 | and went straight toward the king's chariot,
+210 |  886.920 | and                |              0 | and clasped his knees and kissed them. / He spared me, and had mercy,
+211 |  891.160 | and                |              0 | and sat me in his car, and took me, weeping, to his house.
+212 |  894.840 | Truly,             |              0 | Truly, man after man came / lunging at me with the ash spear,
+213 |  899.120 | raging             |              0 | raging to kill me — for they / were angered beyond all measure —
+214 |  902.360 | but                |              0 | but he held them off: he feared the wrath of Zeus of / Strangers, who above all feels fury at evil deeds.
+215 |  909.420 | There              |              0 | There I stayed seven years, and I gathered much / wealth among the Egyptian men: for all of them gave.
+216 |  915.660 | But                |              0 | But when the eighth year came wheeling round for me,
+217 |  918.300 | then               |              0 | then there came a Phoenician, / a man well-schooled in deceits —
+218 |  922.240 | a                  |              0 | a gnawer of men, who had already done the world much harm.
+219 |  925.620 | He                 |              0 | He talked me round, that one, and took me with him to / Phoenicia, where his house and his possessions lay,
+220 |  931.000 | and                |              0 | and there I stayed with him for the full round of a year.
+221 |  934.040 | But                |              0 | But when at last the months and the / days were coming to fulfillment,
+222 |  937.340 | as                 |              0 | as the year rolled round and the seasons came again, / he put me aboard a seagoing ship for Libya —
+223 |  943.200 | a                  |              0 | a lying scheme: I was to help him run a cargo there,
+224 |  946.520 | but                |              0 | but there he meant to sell me, and take a boundless price.
+225 |  950.100 | I                  |              0 | I went with him aboard — suspecting it, but forced.
+226 |  953.640 | and                |              0 | And she ran on with a fresh fair North Wind behind her,
+227 |  956.840 | on                 |              0 | on the mid-sea track above Crete. / And Zeus was devising their destruction:
+228 |  961.600 | for                |              0 | for when we had left Crete behind, / and no other land showed anywhere — only sky and sea —
+229 |  967.080 | Then               |              0 | then the son of Cronos set a dark-blue cloud over / the hollow ship, and the deep went black beneath it.
+230 |  972.660 | And                |              0 | And Zeus thundered in the same instant, / and hurled his bolt into the ship,
+231 |  976.600 | and                |              0 | and she shivered stem to stern, / struck by the bolt of Zeus,
+232 |  980.640 | and                |              0 | and filled with the reek of sulfur; / and all the men fell from the ship.
+233 |  984.140 | Like               |              0 | Like sea-crows around the black hull
+234 |  986.860 | they               |              0 | they were carried off on the waves; / and the god took away their homecoming.
+235 |  990.940 | But                |              0 | But as for me — Zeus himself, / though my heart was full of anguish,
+236 |  994.620 | put                |              0 | put the huge mast of the dark-blue-prowed ship into / my two hands, so that I might yet escape the evil.
+237 | 1000.840 | Wrapped            |              0 | Wrapped around it I was carried before the deadly winds.
+238 | 1003.980 | Nine               |              0 | Nine days I was carried; / and on the tenth, in the black night,
+239 | 1007.880 | a                  |              0 | a great rolling wave brought / me near the Thesprotians' land.
+240 | 1010.820 | There              |              0 | There the king of the Thesprotians, the hero Pheidon, / took me in — and asked no price: his own dear son
+241 | 1017.900 | had                |              0 | had found me beaten down by cold / and weariness, and led me home,
+242 | 1021.920 | raising            |              0 | raising me up by the hand, / until we reached his father's halls;
+243 | 1025.640 | and                |              0 | and he put clothing on me, a cloak and a tunic.
+244 | 1028.540 | It                 |              0 | It was there I heard of Odysseus. For the king said
+245 | 1031.540 | he                 |              0 | he had hosted him, a guest and friend, / on his way home to his fathers' land,
+246 | 1036.420 | and                |              0 | and he showed me all the treasure Odysseus had gathered — / bronze and gold and iron worked with labor —
+247 | 1042.920 | enough             |              0 | enough to feed a man's line to the tenth generation, / such a store of it lay in the lord's halls.
+248 | 1048.620 | Odysseus,          |              0 | Odysseus, he said, was gone to Dodona, to hear the / will of Zeus out of the god's own high-crowned oak:
+249 | 1055.140 | how                |              0 | how he should come home to the rich land of Ithaca, / openly or in secret, after so long away.
+250 | 1061.080 | and                |              0 | And he swore an oath to me, / pouring the libation in his house,
+251 | 1064.320 | that               |              0 | that a ship was hauled down and a crew standing / ready to convey him home to his own dear fatherland.
+252 | 1070.300 | But                |              0 | But me he sent off first: for a Thesprotian ship / happened to be sailing for Dulichium, rich in wheat.
+253 | 1076.920 | He                 |              0 | He charged them to bring me there, / with all care, to King Acastus.
+254 | 1081.200 | But                |              0 | But an evil counsel about me / pleased their hearts instead —
+255 | 1084.980 | so                 |              0 | so that I might yet come down to the last dregs of misery.
+256 | 1088.940 | When               |              0 | When the seagoing ship was far out from the land,
+257 | 1091.820 | they               |              0 | they set about contriving, / then and there, my day of slavery.
+258 | 1095.880 | They               |              0 | They stripped me of my clothing, cloak and tunic both, / and threw around me different gear — this foul rag
+259 | 1102.420 | and                |              0 | and this torn tunic — the very / ones you see with your own eyes;
+260 | 1106.980 | and                |              0 | and at evening they reached the / tilled fields of clear-skied Ithaca.
+261 | 1111.380 | There              |              0 | There they lashed me tight in the well-benched ship / with a twisted rope, and went ashore themselves
+262 | 1116.260 | and                |              0 | and hurried their supper along the margin of the sea.
+263 | 1119.460 | But                |              0 | But the gods themselves undid my lashing — / easily. And wrapping my rag about my head,
+264 | 1124.760 | I                  |              0 | I slid down the polished lading-plank, breasted the sea, / then struck out with both arms, swimming,
+265 | 1130.960 | and                |              0 | and very soon I was out of the water, clear of them.
+266 | 1134.340 | I                  |              0 | I climbed up where a thicket of flowering brush stood, / and lay there, crouched. And they, groaning loud,
+267 | 1140.720 | cast               |              0 | cast about; but there seemed no profit for them / in searching further, so they went back again
+268 | 1145.800 | aboard             |              0 | aboard their hollow ship. And the gods hid me easily, / and brought me on my way to the steading
+269 | 1151.240 | of                 |              0 | of an understanding man. / For it is still my portion to live."
+270 | 1155.960 | And                |              0 | And you answered him, Eumaeus the swineherd:
+271 | 1158.720 | Poor               |              0 | "Poor luckless stranger — / truly you have stirred the heart in me,
+272 | 1162.160 | telling            |              0 | telling all this through, all you / have suffered, all your wandering.
+273 | 1166.120 | But                |              0 | But one part is not in order, / and you will never persuade me —
+274 | 1169.740 | that               |              0 | that about Odysseus. Why should a man like you / lie into the empty air? I know it well myself,
+275 | 1175.460 | my                 |              0 | my master's homecoming: how the gods all hated him,
+276 | 1178.260 | utterly,           |              0 | utterly — since they did not / bring him down among the Trojans,
+277 | 1181.140 | or                 |              0 | or in the arms of his friends, / once he had wound the war to its end.
+278 | 1185.340 | Then               |              0 | Then the whole Achaean people would have built him a tomb,
+279 | 1188.100 | and                |              0 | and he would have won great fame in / time to come for his son as well.
+280 | 1192.060 | Instead,           |              0 | Instead the whirlwinds have / snatched him away without glory.
+281 | 1195.480 | And                |              0 | And I — I keep apart, with my pigs. I do not go to / the city, unless perhaps watchful-minded Penelope
+282 | 1201.980 | bids               |              0 | bids me come, when news arrives from somewhere;
+283 | 1205.380 | Then               |              0 | then they all sit around the newcomer and question / everything — those who grieve for their long-gone lord,
+284 | 1211.020 | and                |              0 | and those who rejoice, eating up his living unpunished.
+285 | 1214.780 | But                |              0 | But I have no love of asking and inquiring, / ever since an Aetolian cheated me with his tale —
+286 | 1220.020 | a                  |              0 | a man who had killed someone, / and wandered over the wide earth,
+287 | 1223.400 | and                |              0 | and came to my house; and I received him with open arms.
+288 | 1226.900 | He                 |              0 | He said he had seen him among / the Cretans, at Idomeneus' side,
+289 | 1230.960 | mending            |              0 | mending the ships the storms had shattered on him, / and said he would come by summer, or by harvest-time,
+290 | 1236.380 | much               |              1 | bringing much wealth, / together with his godlike companions.
+291 | 1239.780 | So                 |              0 | So you, old man of many sorrows — / since some power has brought you to me —
+292 | 1243.740 | do                 |              0 | do not court my favor with lies, do not charm me:
+293 | 1246.860 | it                 |              0 | it is not for that I will respect you or befriend you,
+294 | 1249.920 | And                |              0 | And out of pity for yourself."
+295 | 1252.100 | Then               |              0 | Then Odysseus of the many designs answered him:
+296 | 1255.300 | Truly              |              0 | "Truly the heart in your breast is past all persuading —
+297 | 1258.120 | such               |              0 | such a man you are: not even my oath / won you over; nothing convinces you.
+298 | 1263.320 | Come               |              0 | Come then, let us make a bargain / of it — and above the two of us
+299 | 1266.460 | let                |              0 | let the gods who hold Olympus stand witness on both sides.
+300 | 1270.200 | If                 |              0 | If your master comes home, to this very house, / you dress me in a cloak and a tunic, and send me on
+301 | 1275.520 | to                 |              0 | to Dulichium, where my own heart longs to be; / and if your master does not come as I say he will,
+302 | 1281.000 | set                |              0 | set your slaves on me: pitch me down from the great rock —
+303 | 1284.300 | so                 |              0 | so that the next beggar too may / think twice before he cheats."
+304 | 1288.020 | And                |              0 | And the noble swineherd answered him, and said:
+305 | 1290.740 | stranger,          |              0 | "Stranger — and a fine name I would win among / mankind for goodness, now and ever after,
+306 | 1297.160 | I                  |              0 | I who led you to my hut and gave you a guest's due, / if then I killed you and took the dear life out of you:
+307 | 1304.260 | with               |              0 | with a clean heart, after that, / I could pray to Zeus the son of Cronos!
+308 | 1309.560 | But                |              0 | But it is supper time. Soon now my companions should / be in, so we can make a savory supper in the hut."
+309 | 1315.980 | So                 |              0 | So the two of them spoke such things to one another; / and the swine came near, and the men who herd them.
+310 | 1321.900 | They               |              0 | They shut the sows in their pens for the night's sleep,
+311 | 1324.800 | and                |              0 | and a clamor past speech went up as the swine were folded.
+312 | 1328.180 | Then               |              0 | Then the noble swineherd called to his companions:
+313 | 1331.100 | bring              |              0 | "Bring the best of the hogs, / so I may slaughter it for a guest
+314 | 1334.260 | from               |              0 | from far away. And we will have some good of it ourselves,
+315 | 1337.820 | who                |              0 | who bear the misery of these / white-tusked swine and suffer for it
+316 | 1341.240 | so                 |              0 | so long, while others eat our labor and pay nothing."
+317 | 1345.020 | So                 |              0 | So speaking, he split the / firewood with the pitiless bronze,
+318 | 1348.860 | and                |              0 | and they brought in a hog, well fattened, five years old, / and stood it by the hearth. Nor did the swineherd
+319 | 1355.300 | forget             |              0 | forget the deathless ones: for his mind was set on good.
+320 | 1358.840 | No,                |              0 | No — beginning the rite, / he cast into the fire the head-bristles
+321 | 1362.040 | of                 |              0 | of the white-tusked hog, and prayed to all the gods / that wise Odysseus might come home to his own house.
+322 | 1368.200 | Then               |              0 | Then he lifted an oak billet, / left over from the splitting,
+323 | 1371.500 | and                |              0 | and struck: and the life left the hog; / and the others cut the throat,
+324 | 1375.420 | and                |              0 | and singed it, and quickly / quartered it out. And the swineherd,
+325 | 1378.600 | beginning          |              0 | beginning the offering, laid raw flesh from every / limb in the rich fat, and cast the pieces in the fire,
+326 | 1384.740 | sprinkled          |              0 | sprinkled over with barley meal; and they carved the rest
+327 | 1388.080 | and                |              0 | and threaded it on spits, and roasted it with care,
+328 | 1391.020 | and                |              0 | and drew it all off, and heaped it / on the platters. And the swineherd
+329 | 1394.940 | stood              |              0 | stood up to divide it: for his mind knew what was fair.
+330 | 1398.200 | Into               |              0 | Into seven portions he divided the whole:
+331 | 1400.540 | one                |              0 | one he set aside, with a prayer, / for the Nymphs and for Hermes,
+332 | 1403.960 | son.               |              1 | Maia's son; the rest he served out to each man; / and Odysseus he honored with the long unbroken chine
+333 | 1409.880 | of                 |              0 | of the white-tusked hog — / and made his master's heart proud.
+334 | 1413.640 | Odysseus           |              1 | And Odysseus of the many designs / lifted his voice and said:
+335 | 1416.600 | may                |              1 | "Eumaeus — may you be as dear to father Zeus
+336 | 1419.520 | as                 |              0 | as you are to me: for you honor such / a man as I am now with the best."
+337 | 1423.860 | And                |              0 | And you answered him, Eumaeus the swineherd:
+338 | 1426.520 | eat                |              0 | "Eat, my god-touched guest, / and take your pleasure in such things
+339 | 1429.640 | as                 |              0 | as are here. The god will give / one thing and let another go,
+340 | 1433.320 | whatever           |              0 | whatever his own heart wills: for he can do all things."
+341 | 1436.780 | He                 |              0 | He spoke, and burned the first-cuts / to the gods who are forever,
+342 | 1440.440 | and                |              0 | and poured the fire-bright wine, / and set the cup in the hands
+343 | 1443.280 | of                 |              0 | of Odysseus, sacker of cities; / and sat down to his own portion.
+344 | 1447.580 | And                |              0 | And Mesaulius served them bread — a man the swineherd / had got for himself, alone, while his master was away,
+345 | 1454.100 | without            |              0 | without his mistress, without old Laertes:
+346 | 1456.080 | he                 |              0 | he had bought him from the Taphians with goods of his own.
+347 | 1460.260 | And                |              0 | And their hands went out to the / good things spread before them.
+348 | 1463.480 | but                |              0 | But when they had put away desire for food and drink, / Mesaulius took away the bread; and they, filled
+349 | 1468.860 | full               |              0 | full of bread and meat, bestirred themselves for bed.
+350 | 1472.440 | And                |              0 | And the night came on, foul, / at the moon's dark, and Zeus rained
+351 | 1476.520 | the                |              0 | the whole night through, and the wet / West Wind blew big without ceasing.
+352 | 1481.200 | Then               |              0 | Then Odysseus spoke among them, testing the swineherd —
+353 | 1484.800 | whether            |              0 | whether he would strip off his own cloak and give it,
+354 | 1487.720 | or                 |              0 | or urge it out of one of his companions, / since he cared for him so:
+355 | 1491.980 | Hear               |              0 | "Hear me now, Eumaeus, and all you other companions,
+356 | 1495.300 | while              |              0 | while I speak a word of boasting: it is the crazing wine
+357 | 1498.740 | that               |              0 | that commands me — wine, / that sets even the deep-minded singing
+358 | 1502.360 | and                |              0 | and giggling softly, and stirs him up to dance, / and tosses out many a word better left unspoken.
+359 | 1509.000 | Still,             |              0 | Still, since I have blurted once, I will hide nothing.
+360 | 1513.120 | I                  |              1 | Would I were young, and my strength stood firm in me,
+361 | 1515.740 | as                 |              0 | as on the day we laid our ambush and led it under Troy.
+362 | 1519.380 | Odysseus           |              0 | Odysseus led, and Atreus' son Menelaus, and with them / I was third in command: they asked it themselves.
+363 | 1525.540 | When               |              0 | When we had come up to the city and the steep wall, / we lay around the town in the dense brushwood,
+364 | 1530.500 | crouched           |              0 | crouched under our arms among the reeds and marsh-grass,
+365 | 1533.400 | and                |              0 | and a foul night came on, the North Wind dropping down,
+366 | 1537.100 | freezing,          |              0 | freezing; and snow came falling on us like hoarfrost, / bitter cold, and ice crusted thick on the shields.
+367 | 1543.800 | Then,              |              0 | Then all the others had their cloaks and tunics,
+368 | 1546.820 | and                |              0 | and slept at their ease, / shoulders wrapped in their shields;
+369 | 1549.660 | but                |              0 | but I had left my cloak behind with my companions — / fool that I was — never thinking I would freeze:
+370 | 1555.600 | come               |              2 | I had come with only my shield and my shining waist-guard.
+371 | 1559.120 | But                |              0 | But in the night's third watch, / when the stars had crossed their height,
+372 | 1562.100 | then               |              0 | then I spoke to Odysseus — he was there beside me —
+373 | 1565.460 | nudging            |              0 | nudging him with my elbow; and he listened on the instant:
+374 | 1568.760 | born               |              1 | 'Zeus-born son of Laertes, Odysseus of the many devices, / I shall not be among the living long: this cold
+375 | 1574.820 | is                 |              0 | is killing me. I have no cloak. Some power tricked / me into a single tunic. And now there is no way out.'
+376 | 1581.300 | So                 |              0 | So I spoke; and he then held this plan in his heart — / such a man he was for counsel, and for fighting —
+377 | 1587.480 | and                |              0 | and speaking low, close in my ear, he said:
+378 | 1590.140 | now                |              1 | 'Quiet now, lest some other Achaean hear you.'
+379 | 1592.580 | Then               |              0 | Then he propped his head on his elbow and spoke out:
+380 | 1595.300 | me                 |              1 | 'Hear me, friends. A divine dream came to me in my sleep.
+381 | 1598.640 | We                 |              0 | We have come out too far from the ships. Let someone go
+382 | 1601.520 | and                |              0 | and tell Atreus' son Agamemnon, shepherd of the people, / to send more men from the ships to join us here.'
+383 | 1607.560 | So                 |              0 | So he spoke; and up jumped Thoas, Andraemon's son, / fast, and flung off his purple cloak,
+384 | 1613.080 | and                |              0 | and set off running for the ships. / And I, in that man's garment,
+385 | 1616.440 | lay                |              0 | lay glad until Dawn shone on her golden throne.
+386 | 1619.860 | Would              |              0 | Would I were young like that now, / and my strength stood firm:
+387 | 1622.900 | then               |              0 | then someone in this steading / might give a swineherd's cloak —
+388 | 1625.860 | both               |              0 | both ways at once: in kindness, / and in respect for a good man.
+389 | 1629.940 | As                 |              0 | As it is, they scorn me for the foul clothes on my skin."
+390 | 1633.220 | And                |              0 | And you answered him, Eumaeus the swineherd:
+391 | 1635.420 | old                |              0 | "Old man — that is a blameless fable you have told:
+392 | 1637.980 | not                |              0 | not one word of it off the measure; / nothing said without its profit.
+393 | 1641.400 | So,                |              0 | So you shall not lack for clothing, nor for anything / else that is owed a hard-worn suppliant when he comes —
+394 | 1648.220 | tonight.           |              0 | tonight. But at dawn you will knock / about in those rags of yours again:
+395 | 1652.300 | for                |              0 | for there are not many cloaks here, or changes / of tunic, to put on — one only for each man.
+396 | 1657.940 | but                |              0 | But when the dear son of Odysseus comes, / he will give you clothing himself, a cloak and a tunic,
+397 | 1663.540 | and                |              0 | and send you wherever your heart and spirit bid you go."
+398 | 1666.520 | So                 |              0 | So speaking he sprang up and set a bed for him close / by the fire, and threw on it skins of sheep and goats.
+399 | 1672.860 | there              |              0 | There Odysseus lay down; and over / him the swineherd threw a cloak,
+400 | 1676.880 | thick              |              0 | thick-woven and big, that he kept by him for a change / of clothing, to put on when some terrible storm arose.
+401 | 1683.120 | So                 |              0 | So Odysseus slept there, and beside him slept the / young men. But the swineherd — a bed in that place
+402 | 1689.160 | did                |              0 | did not please him, to sleep apart from his swine; / he armed himself to go outside. And Odysseus was glad
+403 | 1696.240 | that               |              0 | that he took such care of his / substance while he was far away.
+404 | 1700.660 | First              |              0 | First he slung his sharp sword over his sturdy shoulders,
+405 | 1704.340 | then               |              0 | then wrapped himself in a / wind-breaking cloak, thick-woven,
+406 | 1707.980 | and                |              0 | and took up the fleece of a big well-fattened goat, / and took his sharp javelin, to hold off dogs and men,
+407 | 1714.080 | and                |              0 | and went out to lie where the white-tusked boars slept, / under a hollow rock, in the lee of the North Wind.

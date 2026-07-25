@@ -1,0 +1,2169 @@
+{
+  "book": "book-09",
+  "duration": 1839.506,
+  "visual_lead": 0.16,
+  "cues": [
+    {
+      "start": 0.0,
+      "end": 6.84,
+      "kind": "title",
+      "text": "ODYSSEY — BOOK IX"
+    },
+    {
+      "start": 0.0,
+      "end": 6.84,
+      "kind": "deck",
+      "text": "\"I am Odysseus\": the Cicones, the Lotus-eaters, and the Cyclops."
+    },
+    {
+      "start": 6.84,
+      "end": 9.82,
+      "text": "Then Odysseus of the many designs answered him:"
+    },
+    {
+      "start": 9.82,
+      "end": 14.78,
+      "text": "\"Lord Alcinous, most renowned among all peoples,\\ntruly it is a fine thing to hear a singer"
+    },
+    {
+      "start": 14.78,
+      "end": 18.34,
+      "text": "such as this man is, with a voice like the gods'."
+    },
+    {
+      "start": 18.34,
+      "end": 23.48,
+      "text": "For I say there is no accomplishment more\\ngraceful than when joy holds a whole people,"
+    },
+    {
+      "start": 23.48,
+      "end": 26.62,
+      "text": "and feasters up and down the\\nhall sit listening to a singer,"
+    },
+    {
+      "start": 26.62,
+      "end": 32.18,
+      "text": "seated in order, and beside them the tables are loaded\\nwith bread and meats, and the cupbearer draws wine"
+    },
+    {
+      "start": 32.18,
+      "end": 35.5,
+      "text": "from the bowl and carries it round and fills the cups:"
+    },
+    {
+      "start": 35.5,
+      "end": 38.18,
+      "text": "this seems to my mind the fairest thing there is."
+    },
+    {
+      "start": 38.18,
+      "end": 44.06,
+      "text": "But your heart has turned to asking after my grievous\\ncares — so that I may mourn and groan the more."
+    },
+    {
+      "start": 44.06,
+      "end": 47.14,
+      "text": "What first, then, what last shall I tell through?"
+    },
+    {
+      "start": 47.14,
+      "end": 50.88,
+      "text": "For the gods of heaven have\\ngiven me sorrows past counting."
+    },
+    {
+      "start": 50.88,
+      "end": 57.28,
+      "text": "Now first I will tell my name, so that you too may know it —\\nand I hereafter, if I escape the pitiless day,"
+    },
+    {
+      "start": 57.28,
+      "end": 60.54,
+      "text": "may be your guest-friend, though my home is far away."
+    },
+    {
+      "start": 60.54,
+      "end": 67.64,
+      "text": "I am Odysseus, son of Laertes — known to all mankind\\nfor my cunning designs; and my fame has reached heaven."
+    },
+    {
+      "start": 67.64,
+      "end": 70.46,
+      "text": "My home is Ithaca, clear-skied under its mountain,"
+    },
+    {
+      "start": 70.46,
+      "end": 76.86,
+      "text": "Neriton, tall in its shivering leaves; and around\\nit islands lie in a cluster, close to one another —"
+    },
+    {
+      "start": 76.86,
+      "end": 79.88,
+      "text": "Dulichium and Same and wooded Zacynthus."
+    },
+    {
+      "start": 79.88,
+      "end": 86.74,
+      "text": "Ithaca itself lies low, farthest out in the sea toward\\nthe dark of sunset — the rest face dawn and the sun —"
+    },
+    {
+      "start": 86.74,
+      "end": 89.36,
+      "text": "rough ground, but a good nurse of men. I cannot"
+    },
+    {
+      "start": 89.36,
+      "end": 93.28,
+      "text": "see any sweeter sight, for my part,\\nthan a man's own country."
+    },
+    {
+      "start": 93.28,
+      "end": 96.08,
+      "text": "The queenly goddess Calypso would\\nhave kept me there beside her"
+    },
+    {
+      "start": 96.08,
+      "end": 102.62,
+      "text": "in her hollow caves, hungry to make me her husband,\\nand so, in the same way, Circe detained me in her halls,"
+    },
+    {
+      "start": 102.62,
+      "end": 106.0,
+      "text": "the guileful lady of Aeaea, hungry to make me her husband:"
+    },
+    {
+      "start": 106.0,
+      "end": 108.88,
+      "text": "but they never once persuaded the heart in my breast."
+    },
+    {
+      "start": 108.88,
+      "end": 112.06,
+      "text": "So true it is that nothing is\\nsweeter than a man's own country"
+    },
+    {
+      "start": 112.06,
+      "end": 118.64,
+      "text": "and his own parents, even if he lives in a rich house\\nfar away in a strange land, cut off from his parents."
+    },
+    {
+      "start": 118.64,
+      "end": 122.48,
+      "text": "But come — let me tell you also my\\njourney home, and all its cares,"
+    },
+    {
+      "start": 122.48,
+      "end": 125.02,
+      "text": "which Zeus laid on me on the way from Troy."
+    },
+    {
+      "start": 125.02,
+      "end": 131.02,
+      "text": "From Ilium the wind bore me to the Cicones — to Ismarus.\\nThere I sacked the city and destroyed the men;"
+    },
+    {
+      "start": 131.02,
+      "end": 133.48,
+      "text": "and out of the city we took their wives and much substance"
+    },
+    {
+      "start": 133.48,
+      "end": 137.44,
+      "text": "and divided all, so that no man\\nmight go cheated of his share by me."
+    },
+    {
+      "start": 137.44,
+      "end": 142.28,
+      "text": "Then, you may be sure, I ordered a quick-footed retreat —\\nand they, the great fools, would not obey."
+    },
+    {
+      "start": 142.28,
+      "end": 145.72,
+      "text": "There and then much wine was being drunk, and many sheep"
+    },
+    {
+      "start": 145.72,
+      "end": 149.36,
+      "text": "they slaughtered along the shore,\\nand shambling crook-horned cattle;"
+    },
+    {
+      "start": 149.36,
+      "end": 155.44,
+      "text": "and meanwhile Cicones went crying to Cicones,\\ntheir neighbors inland — more of them, and better men,"
+    },
+    {
+      "start": 155.44,
+      "end": 159.44,
+      "text": "skilled at fighting men from chariots and,\\nwhere need was, on foot."
+    },
+    {
+      "start": 159.44,
+      "end": 163.04,
+      "text": "They came, then, thick as leaves\\nand flowers come in their season,"
+    },
+    {
+      "start": 163.04,
+      "end": 169.46,
+      "text": "in the morning mist. Then an evil doom of Zeus stood by us,\\nluckless men, to load us with pains in plenty."
+    },
+    {
+      "start": 169.46,
+      "end": 172.92,
+      "text": "They set their battle-line and fought by the fast ships,"
+    },
+    {
+      "start": 172.92,
+      "end": 175.82,
+      "text": "and each side pelted each with bronze-tipped spears."
+    },
+    {
+      "start": 175.82,
+      "end": 179.18,
+      "text": "As long as it was morning,\\nand the sacred day still growing,"
+    },
+    {
+      "start": 179.18,
+      "end": 182.76,
+      "text": "so long we stood them off and held\\nour ground, though they were more;"
+    },
+    {
+      "start": 182.76,
+      "end": 188.96,
+      "text": "but when the sun turned over toward unyoking-time,\\nthen the Cicones broke the Achaeans, and mastered them."
+    },
+    {
+      "start": 188.96,
+      "end": 194.84,
+      "text": "Six from each ship, six strong-greaved companions\\nwere killed; the rest of us fled from death and doom."
+    },
+    {
+      "start": 194.84,
+      "end": 202.28,
+      "text": "From there we sailed on further, grieved at heart,\\nglad to be out of death, having lost our dear companions."
+    },
+    {
+      "start": 202.28,
+      "end": 208.6,
+      "text": "But my curved ships would not go forward before we had\\ncalled three times on each of those poor companions"
+    },
+    {
+      "start": 208.6,
+      "end": 212.16,
+      "text": "who died on the plain, cut down by the Cicones."
+    },
+    {
+      "start": 212.16,
+      "end": 215.88,
+      "text": "And Zeus who gathers the clouds roused\\nthe North Wind against the ships"
+    },
+    {
+      "start": 215.88,
+      "end": 222.12,
+      "text": "in a howling squall, and covered land and sea\\nalike with cloud; and night rose up out of heaven."
+    },
+    {
+      "start": 222.12,
+      "end": 225.16,
+      "text": "The ships were swept along slantwise, their sails"
+    },
+    {
+      "start": 225.16,
+      "end": 228.84,
+      "text": "ripped into three and four rags\\nby the strength of the wind."
+    },
+    {
+      "start": 228.84,
+      "end": 234.66,
+      "text": "We lowered them into the hulls, in terror of death,\\nand rowed the ships hard in toward the shore."
+    },
+    {
+      "start": 234.66,
+      "end": 236.96,
+      "text": "There for two nights and two days without a break"
+    },
+    {
+      "start": 236.96,
+      "end": 241.22,
+      "text": "we lay, eating our hearts with\\nweariness and pain together."
+    },
+    {
+      "start": 241.22,
+      "end": 244.06,
+      "text": "But when Dawn of the lovely braids\\nbrought the third day round,"
+    },
+    {
+      "start": 244.06,
+      "end": 247.4,
+      "text": "we set up the masts and hauled the white sails open"
+    },
+    {
+      "start": 247.4,
+      "end": 251.36,
+      "text": "and sat, and the wind and the\\nsteersmen held them on course."
+    },
+    {
+      "start": 251.36,
+      "end": 257.7,
+      "text": "And now I would have come unharmed to my own country,\\nbut the wave and the current, as I rounded Malea,"
+    },
+    {
+      "start": 257.7,
+      "end": 262.0,
+      "text": "and the North Wind beat me off\\ncourse and drove me wide of Cythera."
+    },
+    {
+      "start": 262.0,
+      "end": 264.86,
+      "text": "From there for nine days I was carried by ruinous winds"
+    },
+    {
+      "start": 264.86,
+      "end": 268.56,
+      "text": "across the fish-filled sea;\\nand on the tenth we stepped ashore"
+    },
+    {
+      "start": 268.56,
+      "end": 272.54,
+      "text": "in the land of the Lotus-eaters,\\nwho eat a flower for food."
+    },
+    {
+      "start": 272.54,
+      "end": 275.32,
+      "text": "There we set foot on the mainland and drew water,"
+    },
+    {
+      "start": 275.32,
+      "end": 278.98,
+      "text": "and the companions quickly took\\ntheir meal beside the fast ships."
+    },
+    {
+      "start": 278.98,
+      "end": 283.68,
+      "text": "And when we had tasted food and drink,\\nthen I sent companions ahead to learn"
+    },
+    {
+      "start": 283.68,
+      "end": 286.66,
+      "text": "what men they were who ate bread upon this earth:"
+    },
+    {
+      "start": 286.66,
+      "end": 290.16,
+      "text": "two men I chose, and sent a third with them as herald."
+    },
+    {
+      "start": 290.16,
+      "end": 293.74,
+      "text": "They went their way at once,\\nand fell in with the Lotus-eater men;"
+    },
+    {
+      "start": 293.74,
+      "end": 299.3,
+      "text": "and the Lotus-eaters had no thought of killing our\\ncompanions — but they gave them lotus to taste."
+    },
+    {
+      "start": 299.3,
+      "end": 305.54,
+      "text": "And whoever of them ate the honey-sweet fruit of the\\nlotus no longer wished to bring back word or to return:"
+    },
+    {
+      "start": 305.54,
+      "end": 312.24,
+      "text": "there they wanted to stay, among the Lotus-eater men,\\nbrowsing the lotus, and to forget their homecoming."
+    },
+    {
+      "start": 312.24,
+      "end": 314.8,
+      "text": "These men I forced back weeping to the ships,"
+    },
+    {
+      "start": 314.8,
+      "end": 317.74,
+      "text": "dragged them under the benches of\\nthe hollow ships and bound them,"
+    },
+    {
+      "start": 317.74,
+      "end": 322.24,
+      "text": "and I ordered the rest of my trusted\\ncompanions to hurry and board the fast ships —"
+    },
+    {
+      "start": 322.24,
+      "end": 326.22,
+      "text": "for fear some other might eat of\\nthe lotus and forget his homecoming."
+    },
+    {
+      "start": 326.22,
+      "end": 329.6,
+      "text": "And they came aboard at once and\\ntook their places at the oarlocks,"
+    },
+    {
+      "start": 329.6,
+      "end": 333.4,
+      "text": "and sitting in order they struck\\nthe gray salt water with their oars."
+    },
+    {
+      "start": 333.4,
+      "end": 336.32,
+      "text": "From there we sailed on further, grieved at heart."
+    },
+    {
+      "start": 336.32,
+      "end": 340.02,
+      "text": "And we came to the land of the Cyclopes — the overweening,"
+    },
+    {
+      "start": 340.02,
+      "end": 345.48,
+      "text": "the lawless — who, trusting in the deathless gods,\\nplant no crop with their hands, and plow nothing:"
+    },
+    {
+      "start": 345.48,
+      "end": 350.78,
+      "text": "everything springs up for them unsown,\\nunplowed, wheat and barley, and vines that carry"
+    },
+    {
+      "start": 350.78,
+      "end": 354.48,
+      "text": "wine in their heavy clusters,\\nand Zeus' rain swells it for them."
+    },
+    {
+      "start": 354.48,
+      "end": 359.88,
+      "text": "They have no counsel-bearing assemblies, no established laws,\\nbut live on the crests of the high mountains"
+    },
+    {
+      "start": 359.88,
+      "end": 363.28,
+      "text": "in hollow caves, and each man lays down the law"
+    },
+    {
+      "start": 363.28,
+      "end": 366.82,
+      "text": "to his own wives and children —\\nand they care nothing for one another."
+    },
+    {
+      "start": 366.82,
+      "end": 374.06,
+      "text": "Now a scrubby island stretches outside the harbor there,\\nneither close in to the Cyclopes' land nor far out,"
+    },
+    {
+      "start": 374.06,
+      "end": 381.04,
+      "text": "wooded; and on it goats past counting breed,\\nwild goats: no tread of men scares them away,"
+    },
+    {
+      "start": 381.04,
+      "end": 386.72,
+      "text": "no hunters push through to it, men who suffer hard\\ndays in the timber, working the mountain crests;"
+    },
+    {
+      "start": 386.72,
+      "end": 392.7,
+      "text": "it is held by no flocks and no plowed fields,\\nbut unsown and unplowed all its days"
+    },
+    {
+      "start": 392.7,
+      "end": 396.6,
+      "text": "the island is widowed of men,\\nand feeds its bleating goats."
+    },
+    {
+      "start": 396.6,
+      "end": 402.02,
+      "text": "For the Cyclopes have no red-cheeked ships,\\nand no shipwrights among them who might labor out"
+    },
+    {
+      "start": 402.02,
+      "end": 407.16,
+      "text": "well-benched vessels to accomplish every need,\\ncrossing to the cities of the world, the way men"
+    },
+    {
+      "start": 407.16,
+      "end": 410.56,
+      "text": "so often traverse the sea in ships to one another:"
+    },
+    {
+      "start": 410.56,
+      "end": 413.98,
+      "text": "such craftsmen would have made\\nthe island a fair settlement too."
+    },
+    {
+      "start": 413.98,
+      "end": 418.44,
+      "text": "For it is not a bad island at all:\\nit would bear every crop in season."
+    },
+    {
+      "start": 418.44,
+      "end": 421.78,
+      "text": "There are meadows in it along the\\nshores of the gray salt water,"
+    },
+    {
+      "start": 421.78,
+      "end": 428.52,
+      "text": "soft, well-watered; vines there would never die;\\nthere is level plowland, and a deep standing harvest always"
+    },
+    {
+      "start": 428.52,
+      "end": 432.38,
+      "text": "ready for the scythe in season,\\nfor the soil beneath is rich."
+    },
+    {
+      "start": 432.38,
+      "end": 436.8,
+      "text": "And there is a harbor with safe anchorage,\\nwhere there is no need of mooring-line —"
+    },
+    {
+      "start": 436.8,
+      "end": 440.74,
+      "text": "no anchor-stones to throw, no stern-cables to make fast:"
+    },
+    {
+      "start": 440.74,
+      "end": 445.66,
+      "text": "you beach her, and wait until the sailors'\\nhearts prompt them, and the breezes blow."
+    },
+    {
+      "start": 445.66,
+      "end": 451.86,
+      "text": "And at the harbor's head runs shining water,\\na spring under a cave, with black poplars growing round it."
+    },
+    {
+      "start": 451.86,
+      "end": 458.06,
+      "text": "There we sailed in — and some god was guiding us —\\nthrough the dead of night, with nothing to be seen ahead:"
+    },
+    {
+      "start": 458.06,
+      "end": 463.82,
+      "text": "a fog lay thick around the ships, and the moon\\nshowed nothing from heaven, shut in by clouds."
+    },
+    {
+      "start": 463.82,
+      "end": 469.08,
+      "text": "No one's eyes made out that island then, nor did we\\nsee the long combers rolling in against the shore"
+    },
+    {
+      "start": 469.08,
+      "end": 471.9,
+      "text": "before the well-benched ships ran up the beach."
+    },
+    {
+      "start": 471.9,
+      "end": 475.24,
+      "text": "And with the ships beached, we took down all the sails"
+    },
+    {
+      "start": 475.24,
+      "end": 478.12,
+      "text": "and stepped out ourselves onto the surf-line of the sea,"
+    },
+    {
+      "start": 478.12,
+      "end": 481.74,
+      "text": "and there we dropped asleep, and waited for shining Dawn."
+    },
+    {
+      "start": 481.74,
+      "end": 488.74,
+      "text": "When Dawn appeared, the early-born, with fingers of rose,\\nwe walked that island marveling, all through it."
+    },
+    {
+      "start": 488.74,
+      "end": 491.84,
+      "text": "And the nymphs, daughters of aegis-bearing Zeus, started"
+    },
+    {
+      "start": 491.84,
+      "end": 495.68,
+      "text": "the mountain goats,\\nso my companions might have their meal."
+    },
+    {
+      "start": 495.68,
+      "end": 499.3,
+      "text": "At once we fetched our curved\\nbows and long-socketed goat-spears"
+    },
+    {
+      "start": 499.3,
+      "end": 501.8,
+      "text": "out of the ships, and forming in three bands"
+    },
+    {
+      "start": 501.8,
+      "end": 506.34,
+      "text": "we shot; and quickly the god gave\\nus game to our hearts' content."
+    },
+    {
+      "start": 506.34,
+      "end": 512.66,
+      "text": "Twelve ships followed with me, and to each nine\\ngoats fell by lot; for me alone they picked out ten."
+    },
+    {
+      "start": 512.66,
+      "end": 519.12,
+      "text": "So then all day long till the setting of the sun we\\nsat feasting on meat past counting and sweet wine."
+    },
+    {
+      "start": 519.12,
+      "end": 521.7,
+      "text": "For the red wine was not from out our ships:"
+    },
+    {
+      "start": 521.7,
+      "end": 524.66,
+      "text": "there was still some left,\\nfor each crew had drawn off much"
+    },
+    {
+      "start": 524.66,
+      "end": 528.42,
+      "text": "in two-handled jars when we\\ntook the Cicones' holy citadel."
+    },
+    {
+      "start": 528.42,
+      "end": 532.02,
+      "text": "And we looked across at the land\\nof the Cyclopes, who were near:"
+    },
+    {
+      "start": 532.02,
+      "end": 535.4,
+      "text": "smoke, and voices — theirs, and their sheep's and goats'."
+    },
+    {
+      "start": 535.4,
+      "end": 540.98,
+      "text": "And when the sun went down and the dusk came on,\\nthen we lay down to sleep on the surf-line of the sea."
+    },
+    {
+      "start": 540.98,
+      "end": 544.36,
+      "text": "When Dawn appeared, the early-born, with fingers of rose,"
+    },
+    {
+      "start": 544.36,
+      "end": 547.46,
+      "text": "then I called an assembly, and spoke among them all:"
+    },
+    {
+      "start": 547.46,
+      "end": 552.9,
+      "text": "'The rest of you stay here now, my trusted companions,\\nwhile I with my own ship and my own crew"
+    },
+    {
+      "start": 552.9,
+      "end": 556.28,
+      "text": "go and make trial of those men over there — what they are:"
+    },
+    {
+      "start": 556.28,
+      "end": 562.68,
+      "text": "whether violent, savage, without justice,\\nor kind to strangers, with hearts that fear the gods.'"
+    },
+    {
+      "start": 562.68,
+      "end": 568.88,
+      "text": "So speaking I went aboard, and ordered my companions\\nto board in their turn and loose the stern-cables."
+    },
+    {
+      "start": 568.88,
+      "end": 572.32,
+      "text": "And they came aboard at once and\\ntook their places at the oarlocks,"
+    },
+    {
+      "start": 572.32,
+      "end": 576.0,
+      "text": "and sitting in order they struck\\nthe gray salt water with their oars."
+    },
+    {
+      "start": 576.0,
+      "end": 582.46,
+      "text": "But when we reached the place — it was not far —\\nthere on the land's edge, close by the sea, we saw a cave,"
+    },
+    {
+      "start": 582.46,
+      "end": 588.96,
+      "text": "high, overhung with laurels. There many flocks —\\nsheep and goats — were penned at night; around it a yard"
+    },
+    {
+      "start": 588.96,
+      "end": 594.96,
+      "text": "ran high-built, of stones set deep in the earth,\\nand tall pines, and oaks with lofty crowns."
+    },
+    {
+      "start": 594.96,
+      "end": 600.96,
+      "text": "And there a man slept, a monster of a man, who shepherded\\nhis flocks alone and far apart; he kept no company"
+    },
+    {
+      "start": 600.96,
+      "end": 604.68,
+      "text": "with others, but held aloof, and his heart knew no law."
+    },
+    {
+      "start": 604.68,
+      "end": 609.86,
+      "text": "For he was built a monstrous wonder — nothing\\nlike a man who eats bread, but like a wooded crag"
+    },
+    {
+      "start": 609.86,
+      "end": 613.2,
+      "text": "of the high mountains, standing clear of all the rest."
+    },
+    {
+      "start": 613.2,
+      "end": 618.58,
+      "text": "Then I ordered the rest of my trusted companions\\nto stay there by the ship and guard the ship,"
+    },
+    {
+      "start": 618.58,
+      "end": 624.1,
+      "text": "while I picked the twelve best of my companions\\nand went. And I took a goatskin of dark wine,"
+    },
+    {
+      "start": 624.1,
+      "end": 630.78,
+      "text": "sweet wine, that Maron gave me, Euanthes' son,\\nthe priest of Apollo, the god who watches over Ismarus —"
+    },
+    {
+      "start": 630.78,
+      "end": 634.04,
+      "text": "because we had protected him, with his child and his wife,"
+    },
+    {
+      "start": 634.04,
+      "end": 639.62,
+      "text": "out of reverence: for he lived in the wooded grove\\nof Phoebus Apollo. And he gave me shining gifts:"
+    },
+    {
+      "start": 639.62,
+      "end": 644.94,
+      "text": "he gave me seven talents of well-wrought gold,\\nand he gave me a mixing-bowl all of silver, and then"
+    },
+    {
+      "start": 644.94,
+      "end": 651.22,
+      "text": "wine, drawn off in two-handled jars, twelve in all,\\nsweet and unmixed, a drink for gods. Not one"
+    },
+    {
+      "start": 651.22,
+      "end": 654.28,
+      "text": "of the slaves or handmaids in his house knew of it —"
+    },
+    {
+      "start": 654.28,
+      "end": 658.36,
+      "text": "only himself and his dear wife, and one housekeeper only."
+    },
+    {
+      "start": 658.36,
+      "end": 663.6,
+      "text": "Whenever they drank that honey-sweet red wine,\\nhe would fill one cup and pour it into twenty measures"
+    },
+    {
+      "start": 663.6,
+      "end": 670.12,
+      "text": "of water, and a sweet smell would rise from the bowl,\\na marvel: no joy then in holding back."
+    },
+    {
+      "start": 670.12,
+      "end": 673.3,
+      "text": "Of this I filled a great skin and\\nbrought it, and provisions too"
+    },
+    {
+      "start": 673.3,
+      "end": 677.04,
+      "text": "in a sack: for my proud heart had a foreboding, even then,"
+    },
+    {
+      "start": 677.04,
+      "end": 679.98,
+      "text": "that a man would come against\\nme clothed in great strength,"
+    },
+    {
+      "start": 679.98,
+      "end": 683.48,
+      "text": "a savage, knowing nothing of judgments or of laws."
+    },
+    {
+      "start": 683.48,
+      "end": 690.02,
+      "text": "Quickly we came to the cave, and did not find him within:\\nhe was herding his fat flocks in the pasture."
+    },
+    {
+      "start": 690.02,
+      "end": 692.92,
+      "text": "We went into the cave and stared in wonder at everything:"
+    },
+    {
+      "start": 692.92,
+      "end": 700.16,
+      "text": "crates sagging with cheeses; pens crowded with\\nlambs and kids — each sort folded separately,"
+    },
+    {
+      "start": 700.16,
+      "end": 706.94,
+      "text": "the firstlings apart, apart the middle-born,\\napart again the newborn; and every vessel swimming with whey,"
+    },
+    {
+      "start": 706.94,
+      "end": 711.0,
+      "text": "the pails and bowls, all made\\nby hand, that he milked into."
+    },
+    {
+      "start": 711.0,
+      "end": 714.08,
+      "text": "There first my companions begged me, pleading:"
+    },
+    {
+      "start": 714.08,
+      "end": 719.0,
+      "text": "take some cheeses and go back; then quickly,\\ndriving the kids and lambs out of their pens"
+    },
+    {
+      "start": 719.0,
+      "end": 722.73,
+      "text": "down to the fast ship, sail away over the salt water."
+    },
+    {
+      "start": 722.73,
+      "end": 725.91,
+      "text": "But I would not listen — it would have been far better —"
+    },
+    {
+      "start": 725.91,
+      "end": 729.37,
+      "text": "not until I saw him, and whether\\nhe would give me guest-gifts."
+    },
+    {
+      "start": 729.37,
+      "end": 732.31,
+      "text": "And his appearing was to be no joy to my companions."
+    },
+    {
+      "start": 732.31,
+      "end": 736.39,
+      "text": "We lit a fire there and made an\\noffering, and helped ourselves"
+    },
+    {
+      "start": 736.39,
+      "end": 743.69,
+      "text": "to cheeses, and ate, and sat inside waiting for him,\\nuntil he came back herding. He carried a huge weight"
+    },
+    {
+      "start": 743.69,
+      "end": 749.79,
+      "text": "of dry wood, to serve him at supper-time,\\nand flung it down inside the cave with a crash;"
+    },
+    {
+      "start": 749.79,
+      "end": 753.37,
+      "text": "and we in terror shrank away into the cave's far corner."
+    },
+    {
+      "start": 753.37,
+      "end": 758.95,
+      "text": "He drove his fat flocks into the wide cavern —\\nall those he milked; the males he left outside,"
+    },
+    {
+      "start": 758.95,
+      "end": 762.29,
+      "text": "the rams and he-goats, out in the deep yard."
+    },
+    {
+      "start": 762.29,
+      "end": 768.27,
+      "text": "Then he lifted high and set in place a huge door-stone,\\na massive thing: twenty-two carts, good ones,"
+    },
+    {
+      "start": 768.27,
+      "end": 771.31,
+      "text": "four-wheeled, could not have levered it off the ground —"
+    },
+    {
+      "start": 771.31,
+      "end": 774.43,
+      "text": "such a towering cliff of rock he set in the doorway."
+    },
+    {
+      "start": 774.43,
+      "end": 781.19,
+      "text": "Then, sitting, he milked the ewes and bleating goats,\\nall in due order, and set the young under each."
+    },
+    {
+      "start": 781.19,
+      "end": 786.37,
+      "text": "And straightway he curdled half the white milk and\\ngathered it and stored it in the plaited baskets,"
+    },
+    {
+      "start": 786.37,
+      "end": 791.73,
+      "text": "and half he stood in vessels, so it might be there for\\nhim to take and drink, and serve him at supper-time."
+    },
+    {
+      "start": 791.73,
+      "end": 797.61,
+      "text": "And when at last he had hurried through his work,\\nthen he lit the fire — and saw us, and asked:"
+    },
+    {
+      "start": 797.61,
+      "end": 801.41,
+      "text": "'Strangers, who are you?\\nFrom where do you sail the watery ways?"
+    },
+    {
+      "start": 801.41,
+      "end": 806.29,
+      "text": "Is it on some business — or do you rove at\\nrandom, the way sea-raiders do, who wander"
+    },
+    {
+      "start": 806.29,
+      "end": 810.07,
+      "text": "staking their own lives, bearing evil to strangers?'"
+    },
+    {
+      "start": 810.07,
+      "end": 816.79,
+      "text": "So he spoke, and our own hearts broke within us in\\nterror of the deep voice and the monster himself."
+    },
+    {
+      "start": 816.79,
+      "end": 819.13,
+      "text": "Even so I answered him, and said:"
+    },
+    {
+      "start": 819.13,
+      "end": 825.15,
+      "text": "'We are Achaeans, blown off course from Troy by every\\nwind there is, across the great gulf of the sea,"
+    },
+    {
+      "start": 825.15,
+      "end": 832.07,
+      "text": "making for home — but by other routes, other roads\\nwe came: so Zeus, I suppose, chose to devise it."
+    },
+    {
+      "start": 832.07,
+      "end": 835.39,
+      "text": "We declare ourselves the people of Agamemnon, Atreus' son,"
+    },
+    {
+      "start": 835.39,
+      "end": 840.31,
+      "text": "whose fame is now the greatest thing under heaven,\\nso vast the city he sacked, so many the peoples"
+    },
+    {
+      "start": 840.31,
+      "end": 843.85,
+      "text": "he destroyed. But we, for our part,\\nhave come to your knees"
+    },
+    {
+      "start": 843.85,
+      "end": 846.59,
+      "text": "in hope you may offer guest-friendship — or give besides"
+    },
+    {
+      "start": 846.59,
+      "end": 850.47,
+      "text": "some gift, as is the right and custom done for strangers."
+    },
+    {
+      "start": 850.47,
+      "end": 853.65,
+      "text": "Respect the gods, mighty one. We are your suppliants,"
+    },
+    {
+      "start": 853.65,
+      "end": 856.61,
+      "text": "and Zeus is the avenger of suppliants and of strangers —"
+    },
+    {
+      "start": 856.61,
+      "end": 860.33,
+      "text": "Zeus of Strangers, who walks beside honored guests.'"
+    },
+    {
+      "start": 860.33,
+      "end": 863.95,
+      "text": "So I spoke, and he answered me\\nat once, with pitiless heart:"
+    },
+    {
+      "start": 863.95,
+      "end": 867.37,
+      "text": "'You are a fool, stranger —\\nor you have come from far away —"
+    },
+    {
+      "start": 867.37,
+      "end": 870.53,
+      "text": "you who tell me to fear the gods or shun their anger."
+    },
+    {
+      "start": 870.53,
+      "end": 873.81,
+      "text": "The Cyclopes pay no heed to Zeus who bears the aegis,"
+    },
+    {
+      "start": 873.81,
+      "end": 877.21,
+      "text": "nor to the blessed gods: for we are the better men by far."
+    },
+    {
+      "start": 877.21,
+      "end": 883.39,
+      "text": "I would not spare you or your companions to dodge\\nthe hatred of Zeus — not unless my own heart bade me."
+    },
+    {
+      "start": 883.39,
+      "end": 886.67,
+      "text": "But tell me: where did you moor\\nyour well-made ship when you came?"
+    },
+    {
+      "start": 886.67,
+      "end": 890.59,
+      "text": "At the far end of the shore, or near? I want to know.'"
+    },
+    {
+      "start": 890.59,
+      "end": 897.15,
+      "text": "So he spoke, testing; but I knew too much, and he did\\nnot catch me; I answered him back with words of guile:"
+    },
+    {
+      "start": 897.15,
+      "end": 900.71,
+      "text": "'My ship — Poseidon the\\nearth-shaker smashed her to pieces,"
+    },
+    {
+      "start": 900.71,
+      "end": 903.33,
+      "text": "driving her on the rocks at the border of your country:"
+    },
+    {
+      "start": 903.33,
+      "end": 906.27,
+      "text": "and the wind carried her in from the sea."
+    },
+    {
+      "start": 906.27,
+      "end": 909.59,
+      "text": "But I, with these men here, escaped sheer destruction.'"
+    },
+    {
+      "start": 909.59,
+      "end": 913.41,
+      "text": "So I spoke; and out of his\\npitiless heart he answered nothing,"
+    },
+    {
+      "start": 913.41,
+      "end": 916.57,
+      "text": "but sprang up and reached his hands out at my companions,"
+    },
+    {
+      "start": 916.57,
+      "end": 919.17,
+      "text": "snatched up two together, and dashed them like puppies"
+    },
+    {
+      "start": 919.17,
+      "end": 923.37,
+      "text": "against the ground: their brains\\nran out on the earth, and wetted it."
+    },
+    {
+      "start": 923.37,
+      "end": 926.23,
+      "text": "He tore them limb from limb and made ready his supper,"
+    },
+    {
+      "start": 926.23,
+      "end": 929.49,
+      "text": "and he ate like a mountain-bred lion, and left nothing —"
+    },
+    {
+      "start": 929.49,
+      "end": 933.15,
+      "text": "the entrails, the flesh, the bones with their marrow."
+    },
+    {
+      "start": 933.15,
+      "end": 939.73,
+      "text": "And we, weeping, lifted up our hands to Zeus at the\\nhorror we watched, helplessness holding our hearts."
+    },
+    {
+      "start": 939.73,
+      "end": 945.99,
+      "text": "And when the Cyclops had filled his great belly,\\nfeeding on man-flesh and washing it down with unmixed milk,"
+    },
+    {
+      "start": 945.99,
+      "end": 949.23,
+      "text": "he lay stretched out in the cave among his sheep."
+    },
+    {
+      "start": 949.23,
+      "end": 956.35,
+      "text": "And I made a plan in my own great heart to steal close,\\ndraw the sharp sword from beside my thigh,"
+    },
+    {
+      "start": 956.35,
+      "end": 959.91,
+      "text": "and stab him in the chest,\\nwhere the midriff holds the liver,"
+    },
+    {
+      "start": 959.91,
+      "end": 963.99,
+      "text": "feeling for the place with my hand.\\nBut a second thought held me:"
+    },
+    {
+      "start": 963.99,
+      "end": 969.73,
+      "text": "there we too would have perished in sheer destruction,\\nfor we could never have pushed back with our hands"
+    },
+    {
+      "start": 969.73,
+      "end": 973.09,
+      "text": "the massive stone he had set in the high doorway."
+    },
+    {
+      "start": 973.09,
+      "end": 976.43,
+      "text": "So then, groaning, we waited for shining Dawn."
+    },
+    {
+      "start": 976.43,
+      "end": 980.09,
+      "text": "When Dawn appeared, the early-born, with fingers of rose,"
+    },
+    {
+      "start": 980.09,
+      "end": 987.13,
+      "text": "then he lit the fire, and milked his famous flocks,\\nall in due order, and set the young under each."
+    },
+    {
+      "start": 987.13,
+      "end": 989.35,
+      "text": "And when at last he had hurried through his work,"
+    },
+    {
+      "start": 989.35,
+      "end": 993.43,
+      "text": "he snatched up two men together\\nagain, and made his meal ready."
+    },
+    {
+      "start": 993.43,
+      "end": 997.21,
+      "text": "And having fed, he drove his fat flocks out of the cave,"
+    },
+    {
+      "start": 997.21,
+      "end": 1003.89,
+      "text": "lifting off the great door-stone with ease — and then\\nset it back, the way a man sets the lid on a quiver."
+    },
+    {
+      "start": 1003.89,
+      "end": 1006.83,
+      "text": "With a great whistling the Cyclops turned his fat flocks"
+    },
+    {
+      "start": 1006.83,
+      "end": 1011.23,
+      "text": "toward the mountain; and I was left\\nbrooding evil deep in my heart:"
+    },
+    {
+      "start": 1011.23,
+      "end": 1015.51,
+      "text": "if somehow I might pay him back,\\nand Athena grant me the glory."
+    },
+    {
+      "start": 1015.51,
+      "end": 1019.77,
+      "text": "And this, as I turned it over, seemed to me the best plan."
+    },
+    {
+      "start": 1019.77,
+      "end": 1025.49,
+      "text": "There lay beside a pen a great club of the Cyclops',\\ngreen olive-wood: he had cut it to carry"
+    },
+    {
+      "start": 1025.49,
+      "end": 1031.47,
+      "text": "once it seasoned. Looking it over we judged it\\nbig as the mast of a black twenty-oared ship,"
+    },
+    {
+      "start": 1031.47,
+      "end": 1035.15,
+      "text": "a broad-beamed freighter, that crosses the great gulf:"
+    },
+    {
+      "start": 1035.15,
+      "end": 1038.47,
+      "text": "that was its length, that its thickness to the eye."
+    },
+    {
+      "start": 1038.47,
+      "end": 1041.89,
+      "text": "Standing to it, I cut off about a fathom's measure"
+    },
+    {
+      "start": 1041.89,
+      "end": 1045.53,
+      "text": "and handed it to my companions,\\nand told them to dress it down;"
+    },
+    {
+      "start": 1045.53,
+      "end": 1048.97,
+      "text": "and they made it smooth,\\nwhile standing by I brought it to a point"
+    },
+    {
+      "start": 1048.97,
+      "end": 1053.31,
+      "text": "at the tip, and then took it and\\nhardened it in the blazing fire."
+    },
+    {
+      "start": 1053.31,
+      "end": 1056.35,
+      "text": "And I laid it carefully by, hiding it under the dung"
+    },
+    {
+      "start": 1056.35,
+      "end": 1059.93,
+      "text": "that was strewn in a great deep litter through the cave."
+    },
+    {
+      "start": 1059.93,
+      "end": 1065.17,
+      "text": "And I told the others to shake lots among them for\\nwho would dare, together with me, to lift the stake"
+    },
+    {
+      "start": 1065.17,
+      "end": 1068.93,
+      "text": "and grind it in his eye, when sweet sleep came on him."
+    },
+    {
+      "start": 1068.93,
+      "end": 1071.61,
+      "text": "The lot fell on the very men I would have chosen —"
+    },
+    {
+      "start": 1071.61,
+      "end": 1075.81,
+      "text": "four of them, and I counted\\nmyself in with them, the fifth."
+    },
+    {
+      "start": 1075.81,
+      "end": 1079.23,
+      "text": "At evening he came back, herding his fair-fleeced flocks,"
+    },
+    {
+      "start": 1079.23,
+      "end": 1082.21,
+      "text": "and drove those fat flocks straight into the wide cavern,"
+    },
+    {
+      "start": 1082.21,
+      "end": 1086.11,
+      "text": "all of them: he left not one outside in the deep yard,"
+    },
+    {
+      "start": 1086.11,
+      "end": 1089.47,
+      "text": "whether some foreboding moved him, or a god so ordered it."
+    },
+    {
+      "start": 1089.47,
+      "end": 1092.77,
+      "text": "Then he lifted high and set in place the great door-stone,"
+    },
+    {
+      "start": 1092.77,
+      "end": 1098.67,
+      "text": "and sitting, he milked the ewes and bleating goats,\\nall in due order, and set the young under each."
+    },
+    {
+      "start": 1098.67,
+      "end": 1100.97,
+      "text": "And when at last he had hurried through his work,"
+    },
+    {
+      "start": 1100.97,
+      "end": 1105.21,
+      "text": "he snatched up two men together again,\\nand made his supper ready."
+    },
+    {
+      "start": 1105.21,
+      "end": 1111.91,
+      "text": "And then I came up close and spoke to the Cyclops,\\nholding in my hands an ivy-wood bowl of the dark wine:"
+    },
+    {
+      "start": 1111.91,
+      "end": 1115.55,
+      "text": "'Cyclops — here, drink wine,\\nnow you have fed on man-flesh:"
+    },
+    {
+      "start": 1115.55,
+      "end": 1117.45,
+      "text": "so you may know what kind of drink our ship"
+    },
+    {
+      "start": 1117.45,
+      "end": 1121.45,
+      "text": "carried stored. I was bringing it\\nas an offering for you, in hope"
+    },
+    {
+      "start": 1121.45,
+      "end": 1126.05,
+      "text": "you might pity me and send me home.\\nBut your madness is past all bearing."
+    },
+    {
+      "start": 1126.05,
+      "end": 1128.61,
+      "text": "Merciless one — how will any other man of all the many"
+    },
+    {
+      "start": 1128.61,
+      "end": 1132.87,
+      "text": "ever come near you again?\\nWhat you have done is past all measure.'"
+    },
+    {
+      "start": 1132.87,
+      "end": 1137.69,
+      "text": "So I spoke; and he took it, and drank it down;\\nand it pleased him — terribly —"
+    },
+    {
+      "start": 1137.69,
+      "end": 1140.85,
+      "text": "the sweet drink; and he demanded a second helping:"
+    },
+    {
+      "start": 1140.85,
+      "end": 1143.91,
+      "text": "'Give me more — be generous. And tell me your name,"
+    },
+    {
+      "start": 1143.91,
+      "end": 1147.69,
+      "text": "here, now, so I can give you a\\nguest-gift that will make you glad."
+    },
+    {
+      "start": 1147.69,
+      "end": 1151.15,
+      "text": "The grain-giving plowland bears\\nwine for the Cyclopes too —"
+    },
+    {
+      "start": 1151.15,
+      "end": 1159.59,
+      "text": "fine clusters, and Zeus' rain swells them for us;\\nbut this — this is a rivulet of ambrosia and nectar!'"
+    },
+    {
+      "start": 1159.59,
+      "end": 1163.09,
+      "text": "So he spoke, and I handed him the fire-bright wine again."
+    },
+    {
+      "start": 1163.09,
+      "end": 1167.93,
+      "text": "Three times I brought and gave it;\\nthree times, in his folly, he drained it."
+    },
+    {
+      "start": 1167.93,
+      "end": 1173.91,
+      "text": "And when the wine had come circling round the Cyclops' wits,\\nthen I spoke to him with honeyed words:"
+    },
+    {
+      "start": 1173.91,
+      "end": 1180.21,
+      "text": "'Cyclops, you ask my glorious name? Then I will tell it —\\nand you give me the guest-gift, as you promised."
+    },
+    {
+      "start": 1180.21,
+      "end": 1186.47,
+      "text": "Nobody is my name. Nobody is what they call me —\\nmy mother and my father and all my companions.'"
+    },
+    {
+      "start": 1186.47,
+      "end": 1190.15,
+      "text": "So I spoke, and he answered me\\nat once, with pitiless heart:"
+    },
+    {
+      "start": 1190.15,
+      "end": 1196.51,
+      "text": "'Nobody I will eat last of all his company,\\nand the others before him. That shall be your guest-gift.'"
+    },
+    {
+      "start": 1196.51,
+      "end": 1202.47,
+      "text": "He spoke — and reeling back he fell flat, and lay there\\nwith his thick neck lolled over sideways; and sleep"
+    },
+    {
+      "start": 1202.47,
+      "end": 1206.59,
+      "text": "the all-subduer took him. And from his gullet gushed wine"
+    },
+    {
+      "start": 1206.59,
+      "end": 1211.05,
+      "text": "and gobbets of human flesh,\\nas he belched in his drunkenness."
+    },
+    {
+      "start": 1211.05,
+      "end": 1216.41,
+      "text": "And then I drove the stake under the deep ash-heap\\nto heat; and with my words I put courage in all"
+    },
+    {
+      "start": 1216.41,
+      "end": 1220.95,
+      "text": "my companions, so no man might flinch and hang back."
+    },
+    {
+      "start": 1220.95,
+      "end": 1224.05,
+      "text": "But when that olive stake in\\nthe fire, green though it was,"
+    },
+    {
+      "start": 1224.05,
+      "end": 1228.07,
+      "text": "was on the point of catching,\\nand glowed clean through, terrible —"
+    },
+    {
+      "start": 1228.07,
+      "end": 1230.91,
+      "text": "then I brought it close out of the fire, and my companions"
+    },
+    {
+      "start": 1230.91,
+      "end": 1234.89,
+      "text": "stood round me; and a great\\npower breathed courage into us."
+    },
+    {
+      "start": 1234.89,
+      "end": 1237.99,
+      "text": "They took up the olive stake, sharpened at its point,"
+    },
+    {
+      "start": 1237.99,
+      "end": 1241.81,
+      "text": "and rammed it in his eye; and I,\\nthrowing my weight on from above,"
+    },
+    {
+      "start": 1241.81,
+      "end": 1247.05,
+      "text": "spun it — the way a man bores a ship-timber with\\na drill, and his mates below keep it running"
+    },
+    {
+      "start": 1247.05,
+      "end": 1251.61,
+      "text": "with a strap they hold at either end,\\nand it spins on without stopping:"
+    },
+    {
+      "start": 1251.61,
+      "end": 1257.79,
+      "text": "so we took the fire-pointed stake and spun it in his eye,\\nand the blood came boiling up round its heat,"
+    },
+    {
+      "start": 1257.79,
+      "end": 1260.67,
+      "text": "and the blast singed all his lids and brows away"
+    },
+    {
+      "start": 1260.67,
+      "end": 1264.49,
+      "text": "as the eyeball burned, and the\\nroots of it crackled in the fire."
+    },
+    {
+      "start": 1264.49,
+      "end": 1270.55,
+      "text": "As when a smith dips a great axe-head or an\\nadze in cold water, and it hisses loud and high,"
+    },
+    {
+      "start": 1270.55,
+      "end": 1275.73,
+      "text": "tempering it — for that is what gives iron its strength —\\nso his eye hissed round the olive stake."
+    },
+    {
+      "start": 1275.73,
+      "end": 1279.53,
+      "text": "And he let out a huge and hideous howl,\\nand the rock rang round it,"
+    },
+    {
+      "start": 1279.53,
+      "end": 1285.13,
+      "text": "and we shrank back in terror. He wrenched the stake\\nout of his eye, all fouled with streaming blood,"
+    },
+    {
+      "start": 1285.13,
+      "end": 1290.99,
+      "text": "and flung it from him, flailing his arms in agony,\\nand set up a great bellowing to the Cyclopes who lived"
+    },
+    {
+      "start": 1290.99,
+      "end": 1293.79,
+      "text": "around him in caves along the windy heights."
+    },
+    {
+      "start": 1293.79,
+      "end": 1297.07,
+      "text": "And they heard his cry and came thronging from every side,"
+    },
+    {
+      "start": 1297.07,
+      "end": 1300.57,
+      "text": "and standing round the cave they asked him what was wrong:"
+    },
+    {
+      "start": 1300.57,
+      "end": 1303.91,
+      "text": "'What in the world, Polyphemus?\\nWhat hurt, that you cry out so"
+    },
+    {
+      "start": 1303.91,
+      "end": 1306.69,
+      "text": "through the ambrosial night and make us sleepless?"
+    },
+    {
+      "start": 1306.69,
+      "end": 1310.23,
+      "text": "Surely no mortal is driving off\\nyour flocks against your will?"
+    },
+    {
+      "start": 1310.23,
+      "end": 1313.75,
+      "text": "Surely no one is killing you — by cunning or by force?'"
+    },
+    {
+      "start": 1313.75,
+      "end": 1316.63,
+      "text": "And out of the cave strong Polyphemus answered them:"
+    },
+    {
+      "start": 1316.63,
+      "end": 1320.29,
+      "text": "'Friends — Nobody is killing me,\\nby cunning and not by force!'"
+    },
+    {
+      "start": 1320.29,
+      "end": 1322.93,
+      "text": "And they answered with winged words, and gave it back:"
+    },
+    {
+      "start": 1322.93,
+      "end": 1326.15,
+      "text": "'If nobody is forcing you, then — alone as you are —"
+    },
+    {
+      "start": 1326.15,
+      "end": 1329.99,
+      "text": "it must be sickness from great Zeus,\\nand there is no escaping that."
+    },
+    {
+      "start": 1329.99,
+      "end": 1332.67,
+      "text": "Pray to our father, the lord Poseidon.'"
+    },
+    {
+      "start": 1332.67,
+      "end": 1335.59,
+      "text": "So they spoke as they went; and my own heart laughed,"
+    },
+    {
+      "start": 1335.59,
+      "end": 1340.37,
+      "text": "how my name had utterly deceived him —\\nthe name, and the flawless cunning."
+    },
+    {
+      "start": 1340.37,
+      "end": 1343.39,
+      "text": "But the Cyclops, groaning and heaving in his agonies,"
+    },
+    {
+      "start": 1343.39,
+      "end": 1346.81,
+      "text": "groped with his hands and lifted\\nthe stone from the doorway,"
+    },
+    {
+      "start": 1346.81,
+      "end": 1349.87,
+      "text": "and sat himself down in the door with both arms spread,"
+    },
+    {
+      "start": 1349.87,
+      "end": 1353.43,
+      "text": "in hope of catching anyone who\\ntried to slip out with the sheep:"
+    },
+    {
+      "start": 1353.43,
+      "end": 1356.11,
+      "text": "such a fool, I suppose, he hoped to find in me."
+    },
+    {
+      "start": 1356.11,
+      "end": 1358.85,
+      "text": "But I was planning how it might all come out best —"
+    },
+    {
+      "start": 1358.85,
+      "end": 1365.11,
+      "text": "if I could find some release from death for my companions\\nand for myself; and I wove every guile and design,"
+    },
+    {
+      "start": 1365.11,
+      "end": 1369.21,
+      "text": "as a man does for his very life:\\nfor the great evil was close."
+    },
+    {
+      "start": 1369.21,
+      "end": 1372.81,
+      "text": "And this, as I turned it over, seemed to me the best plan."
+    },
+    {
+      "start": 1372.81,
+      "end": 1379.99,
+      "text": "There were rams there, well-fed, thick in the fleece,\\nfine big animals, their wool dark as violets."
+    },
+    {
+      "start": 1379.99,
+      "end": 1383.63,
+      "text": "These, working quietly, I lashed\\ntogether with plaited withies —"
+    },
+    {
+      "start": 1383.63,
+      "end": 1387.33,
+      "text": "the ones that monster slept on, the outlaw — in threes:"
+    },
+    {
+      "start": 1387.33,
+      "end": 1393.31,
+      "text": "the middle one of each three carried a man, and the\\nother two walked either side, protecting my companions."
+    },
+    {
+      "start": 1393.31,
+      "end": 1399.83,
+      "text": "So three sheep to each man. But for myself —\\nthere was one ram, far the finest of all the flock;"
+    },
+    {
+      "start": 1399.83,
+      "end": 1402.97,
+      "text": "I caught him along the back and\\ncurled under his shaggy belly"
+    },
+    {
+      "start": 1402.97,
+      "end": 1410.11,
+      "text": "and lay there; and in that wondrous fleece, with my\\nhands twisted fast, I hung on, with an enduring heart."
+    },
+    {
+      "start": 1410.11,
+      "end": 1413.29,
+      "text": "So then, groaning, we waited for shining Dawn."
+    },
+    {
+      "start": 1413.29,
+      "end": 1420.61,
+      "text": "When Dawn appeared, the early-born, with fingers of rose,\\nthen the male flocks poured out toward pasture,"
+    },
+    {
+      "start": 1420.61,
+      "end": 1426.17,
+      "text": "and the unmilked females bleated about the pens with\\ntheir udders bursting. And their lord, worn down"
+    },
+    {
+      "start": 1426.17,
+      "end": 1429.65,
+      "text": "by evil agonies, ran his hands\\nalong the backs of all his sheep"
+    },
+    {
+      "start": 1429.65,
+      "end": 1433.29,
+      "text": "as they stood up straight — and never sensed it, the fool:"
+    },
+    {
+      "start": 1433.29,
+      "end": 1436.73,
+      "text": "my men bound under the breasts of his own fleecy sheep."
+    },
+    {
+      "start": 1436.73,
+      "end": 1439.91,
+      "text": "Last of the flock the great ram walked toward the doorway,"
+    },
+    {
+      "start": 1439.91,
+      "end": 1443.59,
+      "text": "heavy with his wool — and with me,\\nand my crowding thoughts."
+    },
+    {
+      "start": 1443.59,
+      "end": 1447.47,
+      "text": "And strong Polyphemus, running his hands over him, said:"
+    },
+    {
+      "start": 1447.47,
+      "end": 1451.05,
+      "text": "'Old sweetheart — my ram — why last of all the flock"
+    },
+    {
+      "start": 1451.05,
+      "end": 1454.93,
+      "text": "through the cave this time? Before,\\nyou were never one to lag behind:"
+    },
+    {
+      "start": 1454.93,
+      "end": 1461.69,
+      "text": "first, always first, striding out to graze the soft\\nflowering grass, first to reach the running rivers,"
+    },
+    {
+      "start": 1461.69,
+      "end": 1467.91,
+      "text": "first in your longing to turn home to the fold at\\nevening. And now — last of all. Grieving, are you,"
+    },
+    {
+      "start": 1467.91,
+      "end": 1470.79,
+      "text": "for your master's eye, that a coward of a man put out,"
+    },
+    {
+      "start": 1470.79,
+      "end": 1474.71,
+      "text": "with his miserable companions,\\nwhen he had crushed my wits with wine —"
+    },
+    {
+      "start": 1474.71,
+      "end": 1478.77,
+      "text": "Nobody — who is not yet, I promise, clear of destruction."
+    },
+    {
+      "start": 1478.77,
+      "end": 1484.19,
+      "text": "If only you could think with me, if only you had a\\nvoice to say where that man is dodging from my fury:"
+    },
+    {
+      "start": 1484.19,
+      "end": 1487.05,
+      "text": "then his brains would be dashed\\nagainst the floor and spattered"
+    },
+    {
+      "start": 1487.05,
+      "end": 1489.93,
+      "text": "this way and that through the cave,\\nand my heart would find"
+    },
+    {
+      "start": 1489.93,
+      "end": 1493.61,
+      "text": "some ease from the evils this\\nworthless Nobody has brought me.'"
+    },
+    {
+      "start": 1493.61,
+      "end": 1496.75,
+      "text": "So speaking he sent the ram away from him, out the door."
+    },
+    {
+      "start": 1496.75,
+      "end": 1499.77,
+      "text": "And when we had gone a little\\nway from the cave and the yard,"
+    },
+    {
+      "start": 1499.77,
+      "end": 1504.49,
+      "text": "first I loosed myself from under the ram,\\nand then set my companions free."
+    },
+    {
+      "start": 1504.49,
+      "end": 1508.51,
+      "text": "Swiftly then we drove those\\nlong-shanked sheep, deep in fat,"
+    },
+    {
+      "start": 1508.51,
+      "end": 1511.17,
+      "text": "turning again and again to look behind, until we came"
+    },
+    {
+      "start": 1511.17,
+      "end": 1514.71,
+      "text": "to the ship. And a welcome sight\\nwe were to our dear companions —"
+    },
+    {
+      "start": 1514.71,
+      "end": 1518.55,
+      "text": "we who had escaped death —\\nbut the others they wept and wailed for."
+    },
+    {
+      "start": 1518.55,
+      "end": 1521.93,
+      "text": "I would not have it: I frowned each man's tears back"
+    },
+    {
+      "start": 1521.93,
+      "end": 1524.29,
+      "text": "and ordered them quickly to fling the fine-fleeced sheep"
+    },
+    {
+      "start": 1524.29,
+      "end": 1527.59,
+      "text": "aboard in numbers, and sail out over the salt water."
+    },
+    {
+      "start": 1527.59,
+      "end": 1531.21,
+      "text": "And they came aboard at once and\\ntook their places at the oarlocks,"
+    },
+    {
+      "start": 1531.21,
+      "end": 1534.89,
+      "text": "and sitting in order they struck\\nthe gray salt water with their oars."
+    },
+    {
+      "start": 1534.89,
+      "end": 1541.08,
+      "text": "But when I was as far offshore as a man's shout carries,\\nthen I called to the Cyclops with jeering words:"
+    },
+    {
+      "start": 1541.08,
+      "end": 1544.38,
+      "text": "'Cyclops! Not so weak a man's companions, after all,"
+    },
+    {
+      "start": 1544.38,
+      "end": 1547.59,
+      "text": "were those you meant to eat by\\nmain force in your hollow cave."
+    },
+    {
+      "start": 1547.59,
+      "end": 1550.35,
+      "text": "And your own evil deeds were bound to find you out —"
+    },
+    {
+      "start": 1550.35,
+      "end": 1553.09,
+      "text": "merciless one — you who did not shrink from eating guests"
+    },
+    {
+      "start": 1553.09,
+      "end": 1557.79,
+      "text": "in your own house. For that Zeus\\nhas paid you, and the other gods.'"
+    },
+    {
+      "start": 1557.79,
+      "end": 1560.89,
+      "text": "So I spoke, and the anger in his heart grew fiercer,"
+    },
+    {
+      "start": 1560.89,
+      "end": 1564.17,
+      "text": "and he tore off the peak of a\\ngreat mountain and hurled it,"
+    },
+    {
+      "start": 1564.17,
+      "end": 1569.77,
+      "text": "and brought it down just ahead of the dark-blue prow —\\nbarely — it missed the tip of the steering-oar;"
+    },
+    {
+      "start": 1569.77,
+      "end": 1575.21,
+      "text": "and the sea heaved up under the falling rock, and the\\nbackwash carried the ship straight in toward the land,"
+    },
+    {
+      "start": 1575.21,
+      "end": 1578.43,
+      "text": "a flood-surge out of the deep,\\nand drove her toward the shore."
+    },
+    {
+      "start": 1578.43,
+      "end": 1584.13,
+      "text": "But I seized a long pole in my hands and shoved\\nher off and out, and roused my companions,"
+    },
+    {
+      "start": 1584.13,
+      "end": 1587.81,
+      "text": "ordering them to fall to their\\noars and get us clear of the evil,"
+    },
+    {
+      "start": 1587.81,
+      "end": 1591.37,
+      "text": "nodding hard with my head; and they bent to it and rowed."
+    },
+    {
+      "start": 1591.37,
+      "end": 1594.13,
+      "text": "But when we were twice as far out over the sea,"
+    },
+    {
+      "start": 1594.13,
+      "end": 1598.03,
+      "text": "then I made to call to the Cyclops\\nagain; and around me my companions"
+    },
+    {
+      "start": 1598.03,
+      "end": 1602.01,
+      "text": "tried to hold me back with honeyed\\nwords, this one and that one:"
+    },
+    {
+      "start": 1602.01,
+      "end": 1604.65,
+      "text": "'Merciless man — why must you provoke a savage"
+    },
+    {
+      "start": 1604.65,
+      "end": 1608.29,
+      "text": "who even now, with that shot\\ninto the sea, has driven the ship"
+    },
+    {
+      "start": 1608.29,
+      "end": 1611.55,
+      "text": "straight back ashore — and we thought we died there!"
+    },
+    {
+      "start": 1611.55,
+      "end": 1614.47,
+      "text": "If he had heard a voice, heard any one of us speaking,"
+    },
+    {
+      "start": 1614.47,
+      "end": 1617.43,
+      "text": "he would have smashed our heads\\nand the ship's timbers together"
+    },
+    {
+      "start": 1617.43,
+      "end": 1620.71,
+      "text": "with one jagged boulder: he throws that far.'"
+    },
+    {
+      "start": 1620.71,
+      "end": 1626.93,
+      "text": "So they spoke, but they could not persuade my great heart,\\nand I called back to him with fury in my breast:"
+    },
+    {
+      "start": 1626.93,
+      "end": 1632.67,
+      "text": "'Cyclops — if any mortal man ever asks you\\nwho put the shameful blinding on your eye,"
+    },
+    {
+      "start": 1632.67,
+      "end": 1640.25,
+      "text": "tell him: Odysseus, sacker of cities, blinded me —\\nthe son of Laertes, who has his home in Ithaca.'"
+    },
+    {
+      "start": 1640.25,
+      "end": 1643.77,
+      "text": "So I spoke, and he groaned aloud, and answered:"
+    },
+    {
+      "start": 1643.77,
+      "end": 1646.89,
+      "text": "'Ah, then it comes home to me — the old prophecy!"
+    },
+    {
+      "start": 1646.89,
+      "end": 1653.85,
+      "text": "There was a seer here once, a great man and a good one,\\nTelemus, Eurymus' son, who excelled in prophecy"
+    },
+    {
+      "start": 1653.85,
+      "end": 1655.87,
+      "text": "and grew old prophesying among the Cyclopes."
+    },
+    {
+      "start": 1655.87,
+      "end": 1659.65,
+      "text": "He told me all this would come to pass in time:"
+    },
+    {
+      "start": 1659.65,
+      "end": 1663.11,
+      "text": "that I would lose my sight at the hands of an Odysseus."
+    },
+    {
+      "start": 1663.11,
+      "end": 1669.03,
+      "text": "But I always watched for some big man, a handsome one,\\nto come here, clothed in great strength;"
+    },
+    {
+      "start": 1669.03,
+      "end": 1675.47,
+      "text": "and now a little man, a worthless thing, a weakling,\\nhas put out my eye — after he crushed me with wine."
+    },
+    {
+      "start": 1675.47,
+      "end": 1679.23,
+      "text": "But come here, Odysseus —\\nlet me set out a guest-gift for you,"
+    },
+    {
+      "start": 1679.23,
+      "end": 1682.43,
+      "text": "and press the famous earth-shaker\\nto give you passage home."
+    },
+    {
+      "start": 1682.43,
+      "end": 1685.87,
+      "text": "For I am his son, and he declares himself my father."
+    },
+    {
+      "start": 1685.87,
+      "end": 1692.91,
+      "text": "He himself, if he wills it, will heal me — and no one else,\\nnone of the blessed gods, and no mortal man.'"
+    },
+    {
+      "start": 1692.91,
+      "end": 1695.87,
+      "text": "So he spoke; and I answered him and said:"
+    },
+    {
+      "start": 1695.87,
+      "end": 1700.19,
+      "text": "'Would to god I could strip you of breath and\\nlife and send you down to the house of Hades"
+    },
+    {
+      "start": 1700.19,
+      "end": 1704.13,
+      "text": "as surely as not even the\\nearth-shaker will ever heal that eye.'"
+    },
+    {
+      "start": 1704.13,
+      "end": 1710.01,
+      "text": "So I spoke; and he then prayed to the lord Poseidon,\\nstretching out his hands to the starry heaven:"
+    },
+    {
+      "start": 1710.01,
+      "end": 1713.45,
+      "text": "'Hear me, Poseidon who hold the earth, dark-haired one:"
+    },
+    {
+      "start": 1713.45,
+      "end": 1717.19,
+      "text": "if I am truly yours, and you declare yourself my father,"
+    },
+    {
+      "start": 1717.19,
+      "end": 1723.65,
+      "text": "grant that Odysseus, sacker of cities, never come home —\\nthe son of Laertes, who has his home in Ithaca."
+    },
+    {
+      "start": 1723.65,
+      "end": 1729.47,
+      "text": "But if it is his portion to see his own people,\\nto reach his well-built house and his own fatherland,"
+    },
+    {
+      "start": 1729.47,
+      "end": 1732.97,
+      "text": "late may he come, and in evil case, all companions lost,"
+    },
+    {
+      "start": 1732.97,
+      "end": 1736.27,
+      "text": "on another man's ship — and find trouble in his house.'"
+    },
+    {
+      "start": 1736.27,
+      "end": 1739.75,
+      "text": "So he spoke in prayer, and the dark-haired god heard him."
+    },
+    {
+      "start": 1739.75,
+      "end": 1742.73,
+      "text": "Then once again he lifted a stone — far bigger —"
+    },
+    {
+      "start": 1742.73,
+      "end": 1746.93,
+      "text": "whirled it, and let it fly, putting\\nhis measureless strength behind it,"
+    },
+    {
+      "start": 1746.93,
+      "end": 1752.65,
+      "text": "and brought it down just astern of the dark-blue ship —\\nbarely — it missed the tip of the steering-oar;"
+    },
+    {
+      "start": 1752.65,
+      "end": 1755.01,
+      "text": "and the sea heaved up under the falling rock,"
+    },
+    {
+      "start": 1755.01,
+      "end": 1759.07,
+      "text": "and the wave carried her forward,\\nand drove her toward the far shore."
+    },
+    {
+      "start": 1759.07,
+      "end": 1761.51,
+      "text": "But when we came back to the island where the other"
+    },
+    {
+      "start": 1761.51,
+      "end": 1764.41,
+      "text": "well-benched ships waited all\\ntogether, with the companions"
+    },
+    {
+      "start": 1764.41,
+      "end": 1769.97,
+      "text": "sitting round them weeping, watching for us without end,\\nthere we ran the ship up on the sands"
+    },
+    {
+      "start": 1769.97,
+      "end": 1773.13,
+      "text": "and stepped out ourselves onto the surf-line of the sea."
+    },
+    {
+      "start": 1773.13,
+      "end": 1776.25,
+      "text": "And taking the Cyclops' flocks out of the hollow ship"
+    },
+    {
+      "start": 1776.25,
+      "end": 1780.95,
+      "text": "we divided all, so that no man\\nmight go cheated of his share by me."
+    },
+    {
+      "start": 1780.95,
+      "end": 1784.21,
+      "text": "But the great ram — my strong-greaved companions gave him"
+    },
+    {
+      "start": 1784.21,
+      "end": 1788.43,
+      "text": "to me alone, when the flocks were shared,\\na gift apart; and on the shore"
+    },
+    {
+      "start": 1788.43,
+      "end": 1792.19,
+      "text": "I offered him to Zeus of the\\nblack cloud, the son of Cronos,"
+    },
+    {
+      "start": 1792.19,
+      "end": 1796.23,
+      "text": "lord of all, and burned the thigh-cuts.\\nBut he took no heed of my offering:"
+    },
+    {
+      "start": 1796.23,
+      "end": 1800.07,
+      "text": "he was pondering, even then, how all my well-benched ships"
+    },
+    {
+      "start": 1800.07,
+      "end": 1803.71,
+      "text": "might be destroyed, and all my trusted companions."
+    },
+    {
+      "start": 1803.71,
+      "end": 1810.31,
+      "text": "So then all day long till the setting of the sun we\\nsat feasting on meat past counting and sweet wine;"
+    },
+    {
+      "start": 1810.31,
+      "end": 1816.19,
+      "text": "and when the sun went down and the dusk came on,\\nthen we lay down to sleep on the surf-line of the sea."
+    },
+    {
+      "start": 1816.19,
+      "end": 1822.03,
+      "text": "When Dawn appeared, the early-born, with fingers of rose,\\nthen I roused my companions and ordered them"
+    },
+    {
+      "start": 1822.03,
+      "end": 1824.71,
+      "text": "to board in their turn and loose the stern-cables."
+    },
+    {
+      "start": 1824.71,
+      "end": 1829.07,
+      "text": "And they came aboard at once and\\ntook their places at the oarlocks,"
+    },
+    {
+      "start": 1829.07,
+      "end": 1832.83,
+      "text": "and sitting in order they struck\\nthe gray salt water with their oars."
+    },
+    {
+      "start": 1832.83,
+      "end": 1839.506,
+      "text": "From there we sailed on further, grieved at heart,\\nglad to be out of death, having lost our dear companions."
+    }
+  ]
+}

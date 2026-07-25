@@ -1,0 +1,456 @@
+ODYSSEY — BOOK VIII full-book caption alignment
+Duration: 1863.122s
+Narration cues: 447
+Source words: 5943
+Directly matched source words: 5663 (95.3%)
+Recognized words: 5977
+Visual lead: 0.16s
+
+Cue | Start | Anchor | Missing prefix | Caption
+  1 |    7.480 | When               |              0 | When Dawn appeared, the early-born, with fingers of rose,
+  2 |   10.860 | the                |              0 | the sacred strength of Alcinous rose up from his bed, / and up rose Zeus-born Odysseus, sacker of cities.
+  3 |   18.900 | and                |              0 | And the sacred strength of Alcinous led the way
+  4 |   21.360 | to                 |              0 | to the Phaeacians' gathering-place, / built there beside the ships.
+  5 |   25.740 | They               |              0 | They came and sat down on the polished stones side / by side. And Pallas Athena went up and down the city
+  6 |   31.400 | in                 |              0 | in the likeness of a herald of wise Alcinous, / devising the homecoming of great-hearted Odysseus,
+  7 |   37.900 | and                |              0 | and standing beside each man she spoke her word:
+  8 |   40.900 | This               |              0 | "This way, come — leaders and / counselors of the Phaeacians —
+  9 |   44.400 | to                 |              0 | to the gathering-place, to learn about the stranger / who has come new to the house of wise Alcinous
+ 10 |   49.320 | after              |              0 | after wandering the sea — / a man like the immortals in body."
+ 11 |   53.420 | so                 |              0 | So speaking she stirred the strength and spirit of each,
+ 12 |   56.740 | and                |              0 | and quickly the gathering-place and the seats were filled
+ 13 |   58.920 | with               |              0 | with men assembling; and many marveled at the / sight of Laertes' battle-wise son. For Athena
+ 14 |   65.120 | poured             |              0 | poured a wondrous grace over his head and shoulders / and made him taller to look at, and broader,
+ 15 |   70.180 | so                 |              0 | so that he might be dear to all the Phaeacians, / and dreaded, and revered, and might accomplish the many
+ 16 |   75.840 | trials             |              0 | trials in which the Phaeacians would test Odysseus.
+ 17 |   78.940 | And                |              0 | And when they were assembled, all in one gathering, / Alcinous addressed them all, and said:
+ 18 |   84.440 | me,                |              1 | "Hear me, leaders and counselors of the Phaeacians, / while I say what the heart in my breast commands.
+ 19 |   90.280 | This               |              0 | This stranger — I do not know who he is — / has come wandering to my house,
+ 20 |   94.740 | whether            |              0 | whether from the men of the east or of the west; / he presses for a sending, and pleads that it be made sure.
+ 21 |  100.740 | Let                |              0 | Let us then, as always before, speed his sending on.
+ 22 |  103.840 | For                |              0 | For no man, no — no one who ever comes to my / house waits here long, grieving for his escort.
+ 23 |  109.620 | Come,              |              0 | Come: let us haul a black ship / down to the bright salt water,
+ 24 |  113.180 | one                |              0 | one on her first voyage, and let fifty-two young men
+ 25 |  115.940 | be                 |              0 | be chosen through the town, as many as have proven best.
+ 26 |  119.620 | well               |              3 | Lash your oars well to the benches, every one, / then come ashore; and afterward come to my house
+ 27 |  124.760 | and                |              0 | and see to a feast at speed: I will provide well for all.
+ 28 |  128.580 | To                 |              0 | To the young men these are my orders. And you others, / sceptered kings, come to my beautiful house,
+ 29 |  134.640 | so                 |              0 | so we may welcome the stranger in the halls — / let no man refuse. And call the godlike singer,
+ 30 |  139.840 | for                |              1 | Demodocus: for to him the god has given song
+ 31 |  142.580 | beyond             |              0 | beyond all others, to delight men / however his heart is stirred to sing."
+ 32 |  146.880 | So                 |              0 | So speaking he led the way, and the sceptered kings
+ 33 |  149.460 | followed           |              0 | followed with him; and a herald / went for the godlike singer.
+ 34 |  152.440 | and                |              0 | And the fifty-two young men, chosen out, went, / as he commanded, to the beach of the barren sea.
+ 35 |  157.200 | And                |              0 | And when they had come down to the ship and the sea, / they hauled the black ship down to deep water,
+ 36 |  161.880 | and                |              0 | and set the mast and the sails in the black ship, / and fitted the oars into their leather slings,
+ 37 |  166.180 | all                |              0 | all in due order, and spread the white sails open.
+ 38 |  169.280 | They               |              0 | They moored her well out in the water, and then / went their way to the great house of wise Alcinous.
+ 39 |  174.480 | and                |              0 | And the porticoes and courts and halls were filled / with men assembling: there were many, young and old.
+ 40 |  180.100 | For                |              0 | For them Alcinous slaughtered twelve sheep, / eight white-tusked hogs, and two shambling oxen;
+ 41 |  185.760 | these              |              0 | these they flayed and dressed, / and made the lovely feast ready.
+ 42 |  189.300 | And                |              0 | And the herald came near, leading the trusted singer,
+ 43 |  192.880 | whom               |              0 | whom the Muse loved beyond other men, / and gave him good and evil both:
+ 44 |  197.640 | She                |              0 | she took away his eyes, and gave him sweet song.
+ 45 |  201.220 | For                |              0 | For him Pontonous set a silver-studded chair in the / middle of the feasters, leaning it on a tall pillar,
+ 46 |  207.040 | and                |              0 | and hung the clear-voiced lyre on its peg just / above his head, and showed him how to reach it
+ 47 |  211.920 | with               |              0 | with his hands; and set by him / a basket and a beautiful table,
+ 48 |  216.040 | and                |              0 | and a cup of wine beside, / to drink when his heart should bid him.
+ 49 |  219.920 | and                |              0 | And their hands went out to the / good things spread before them.
+ 50 |  223.140 | But                |              0 | But when they had put away desire for food and drink,
+ 51 |  225.960 | the                |              0 | the Muse stirred the singer to / sing the famous deeds of men,
+ 52 |  229.420 | From               |              0 | from that song whose fame had / then already reached wide heaven:
+ 53 |  233.180 | The                |              0 | the quarrel of Odysseus and Achilles, Peleus' son — / how once they clashed at the gods' rich feast
+ 54 |  238.960 | with               |              0 | with terrible words, and the lord of men Agamemnon
+ 55 |  241.880 | rejoiced           |              0 | rejoiced in his heart that the best / of the Achaeans were quarreling.
+ 56 |  245.520 | For                |              0 | For so Phoebus Apollo had told him in prophecy at / holy Pytho, when he crossed the stone threshold
+ 57 |  251.000 | to                 |              0 | to consult the god: then the / beginning of woe was rolling down
+ 58 |  254.660 | on                 |              0 | on Trojans and Danaans alike.
+ 59 |  256.860 | This               |              0 | This the famous singer sang. But Odysseus / took his great purple cloak in his heavy hands
+ 60 |  262.860 | and                |              0 | and drew it down over his head, and hid his handsome face:
+ 61 |  266.800 | He                 |              0 | he was ashamed to let the tears run / under his brows before the Phaeacians.
+ 62 |  270.960 | Whenever           |              0 | Whenever the godlike singer paused in his singing,
+ 63 |  274.040 | he                 |              0 | he would wipe the tears away, / and take the cloak from his head,
+ 64 |  277.820 | and                |              0 | and lifting the two-handled cup would pour to the gods;
+ 65 |  281.080 | But                |              0 | but whenever he began again, / and the best of the Phaeacians
+ 66 |  283.920 | urged              |              0 | urged him to sing, because they took joy in the tale, / Odysseus would cover his head again, and mourn.
+ 67 |  290.660 | From               |              0 | From all the others he hid the tears he shed; / Alcinous alone remarked him and noticed,
+ 68 |  296.320 | sitting            |              0 | sitting beside him, and heard his heavy groaning.
+ 69 |  299.280 | At                 |              0 | At once he spoke among the oar-loving Phaeacians:
+ 70 |  302.740 | hear               |              0 | "Hear me, leaders and counselors of the Phaeacians.
+ 71 |  305.820 | by                 |              0 | By now we have had our hearts' fill of the shared feast,
+ 72 |  308.860 | and                |              0 | and of the lyre, which is the companion of the rich feast.
+ 73 |  312.260 | Now                |              0 | Now let us go out and try our hands at contests, / all of them — so that the stranger may tell his own people,
+ 74 |  317.700 | when               |              0 | when he has come home, how far we surpass others at / boxing and wrestling and jumping and speed of foot."
+ 75 |  324.860 | So                 |              0 | So speaking he led the way, and they went with him.
+ 76 |  327.980 | and                |              0 | And the herald hung the clear-voiced lyre on its peg,
+ 77 |  331.120 | took               |              0 | took Demodocus by the hand, and led him out of the hall, / guiding him along the same road the others
+ 78 |  336.120 | had                |              0 | had gone, the best of the Phaeacians, / to wonder at the games.
+ 79 |  340.460 | They               |              0 | They went their way to the gathering-place, / and a huge crowd followed,
+ 80 |  344.440 | thousands,         |              0 | thousands; and many fine young men stood up.
+ 81 |  347.460 | up                 |              0 | Up rose Acroneus and Ocyalus and Elatreus, / Nauteus and Prymneus and Anchialus and Eretmeus,
+ 82 |  354.400 | and                |              1 | Ponteus and Proreus, Thoon and Anabesineus, / and Amphialus, son of Polyneus, Tecton's son;
+ 83 |  361.180 | and                |              0 | and up rose Euryalus, the equal of man-destroying Ares, / Naubolus' son, who was best in beauty and body
+ 84 |  367.400 | of                 |              0 | of all the Phaeacians after blameless Laodamas.
+ 85 |  370.940 | and                |              0 | And up stood the three sons of blameless Alcinous:
+ 86 |  373.880 | and                |              1 | Laodamas, and Halius, and godlike Clytoneus.
+ 87 |  376.940 | First              |              0 | First they made trial of one another in the footrace.
+ 88 |  380.540 | The                |              0 | The course was stretched for them from / the turning-post, and all together
+ 89 |  383.660 | they               |              0 | they flew off quickly, raising the dust of the plain; / and far the best at running was blameless Clytoneus:
+ 90 |  389.940 | by                 |              0 | by as much as the width of a / mule-team's furrow in fallow ground,
+ 91 |  393.460 | by                 |              0 | by that much he outran the rest to / the crowd, and left them behind.
+ 92 |  397.740 | Then               |              0 | Then they made trial of grinding wrestling, / and there Euryalus outdid all the best;
+ 93 |  402.480 | At                 |              0 | at the jump Amphialus was first of them all; / with the discus far the best of all was Elatreus,
+ 94 |  408.100 | and                |              0 | and at boxing Laodamas, Alcinous' good son.
+ 95 |  412.000 | and                |              0 | And when they had all taken their / hearts' pleasure in the contests,
+ 96 |  415.200 | son                |              2 | Laodamas, Alcinous' son, spoke among them:
+ 97 |  418.020 | Come               |              0 | "Come, friends, let us ask the stranger whether he knows
+ 98 |  420.660 | any                |              0 | any contest, and has learned it. / In build, at least, he is no mean man —
+ 99 |  425.480 | the                |              0 | the thighs and calves of him, the two arms above, / the massive neck, the great strength;
+100 |  430.320 | only               |              0 | only he is broken by many evils.
+101 |  432.780 | For                |              0 | For I say there is nothing worse than the / sea to shatter a man, however strong he be."
+102 |  439.020 | Then               |              0 | Then Euryalus answered him in turn, and said:
+103 |  442.040 | you                |              1 | "Laodamas, you have spoken this word in due measure.
+104 |  445.160 | now                |              0 | Now go yourself and challenge him, and speak your speech."
+105 |  448.520 | and                |              0 | And when the good son of Alcinous heard it, / he went and stood in the middle, and addressed Odysseus:
+106 |  453.880 | Come               |              0 | "Come you too, father stranger: / try your hand at the contests,
+107 |  457.480 | if                 |              0 | if you have learned any — / and it is like you to know contests:
+108 |  461.200 | for                |              0 | for there is no greater fame for a man, while he lives, / than what he achieves with his own feet and hands.
+109 |  466.520 | Come,              |              0 | Come, make a trial; scatter the cares from your heart.
+110 |  470.000 | your               |              0 | Your road will not be long delayed now: already the / ship is hauled down, and the companions are ready."
+111 |  475.820 | Then               |              0 | Then Odysseus of the many designs answered him:
+112 |  478.340 | why                |              1 | "Laodamas, why do you all urge this on me, mocking?
+113 |  482.180 | Cares              |              0 | Cares are closer to my heart than contests.
+114 |  484.520 | I                  |              0 | I have suffered much before now, much have I labored, / and now I sit in your gathering hungry for homecoming,
+115 |  490.560 | pleading           |              0 | pleading with the king and with all the people."
+116 |  492.860 | Then               |              0 | Then Euryalus answered him — and jeered to his face:
+117 |  496.000 | no                 |              0 | "No, stranger: I do not take you for a man of contests, / such as are held in plenty among mankind —
+118 |  501.880 | Rather             |              0 | rather for one who plies to and fro in a many-benched ship, / a master of sailors who are traders,
+119 |  507.500 | with               |              0 | with a memory for cargo, an eye on his freight / and his grasping profits. You are no athlete."
+120 |  512.860 | Then               |              0 | Then, glaring from under his brows, / Odysseus of the many designs replied:
+121 |  518.320 | stranger,          |              0 | "Stranger, you have not spoken well. / You are like a man blinded by folly.
+122 |  522.640 | so                 |              0 | So true it is that the gods do / not give their graces to all men
+123 |  525.760 | alike,             |              0 | alike — not build, and brains, / and speaking-skill together.
+124 |  529.540 | One                |              0 | One man is slighter to look at, but the god / crowns his shape with words, and men gaze at him
+125 |  534.580 | delighted,         |              0 | delighted, while he speaks on without a stumble, / with honeyed modesty, and shines among the gathered people,
+126 |  540.740 | and                |              0 | and when he walks the town they look on him as on a god.
+127 |  543.980 | Another            |              0 | Another again is like the immortals in beauty, / but no grace is set like a crown upon his words.
+128 |  549.300 | so                 |              0 | So with you: your looks are striking — not a god / could better them — but your mind is an empty thing.
+129 |  555.260 | You                |              0 | You have stirred the heart in my breast by speaking / out of all measure. I am no novice at contests,
+130 |  560.640 | whatever           |              0 | whatever you may say. I count myself among the first, / as long as I could trust my youth and these my hands.
+131 |  566.380 | Now                |              0 | Now I am held in misery and pain: I have endured much, / cutting through wars of men and the grinding waves.
+132 |  573.260 | But                |              0 | But even so, for all my many evils, / I will try your contests:
+133 |  577.540 | your               |              0 | your word has bitten to the heart, / and your speech has stung me to it."
+134 |  581.420 | He                 |              0 | He spoke, and cloak and all he / sprang up, and seized a discus
+135 |  585.220 | bigger             |              0 | bigger than the rest, and thick — / heavier by no small measure
+136 |  588.500 | than               |              0 | than the ones the Phaeacians threw among themselves.
+137 |  591.160 | He                 |              0 | He spun and let it fly from his massive hand, / and the stone hummed; and down to the ground they cowered —
+138 |  596.780 | the                |              0 | the Phaeacians of the long oars, men famed for ships —
+139 |  600.060 | under              |              0 | under the rush of the stone. Past all their marks it flew,
+140 |  603.400 | running            |              0 | running light off his hand. And Athena set the mark,
+141 |  606.060 | in                 |              0 | in the likeness of a man, and spoke a word, and named him:
+142 |  609.600 | Even               |              0 | "Even a blind man, stranger, could pick out your token,
+143 |  612.220 | groping,           |              0 | groping — for it is not mixed in with the crowd of them
+144 |  614.820 | but                |              0 | but far in front. Take heart, at least for this contest:
+145 |  618.300 | no                 |              0 | no Phaeacian will reach this, let alone throw beyond it."
+146 |  621.460 | so                 |              0 | So he spoke; and much-enduring noble Odysseus was glad, / rejoicing to find one true friend in the field.
+147 |  629.100 | And                |              0 | And then with a lighter heart / he spoke among the Phaeacians:
+148 |  632.560 | now                |              0 | "Now match that, young men — and soon after, I think, / I will send another as far, or farther still.
+149 |  639.580 | As                 |              0 | As for the rest of you — / whoever's heart and spirit bid him,
+150 |  642.660 | come               |              0 | come out and be tried, since you have angered me so:
+151 |  645.920 | at                 |              0 | at boxing, wrestling, running — I refuse nothing — / any Phaeacian at all, except Laodamas himself.
+152 |  652.400 | He                 |              0 | He is my host: who would fight the man who loves him?
+153 |  655.840 | witless            |              0 | Witless, worth nothing — that is the man who / challenges his own host to a bout of games
+154 |  660.400 | in                 |              0 | in a strange country: he cuts himself off at the knees.
+155 |  664.380 | But                |              0 | But of the rest I refuse no one, scorn no one:
+156 |  667.720 | I                  |              0 | I want to know you, and be tried face to face.
+157 |  670.980 | I                  |              0 | I am not bad at anything — of all the contests men keep.
+158 |  674.320 | I                  |              0 | I know well how to handle the polished bow:
+159 |  677.060 | First              |              0 | first of a company I would strike my man with an / arrow in the enemy crowd, though comrades in plenty
+160 |  681.980 | stood              |              0 | stood close beside me shooting at the men.
+161 |  684.800 | alone              |              1 | Philoctetes alone outdid me with the bow in the / Trojans' country, whenever we Achaeans shot;
+162 |  690.360 | But                |              0 | but of all others I say I am far the best, / all mortals now alive who eat their bread on earth.
+163 |  695.900 | With               |              0 | With the men of the past I will not seek to rival — / not Heracles, not Eurytus of Oechalia,
+164 |  701.280 | who                |              0 | who rivaled the very immortals with the bow.
+165 |  703.860 | That               |              0 | That is why great Eurytus died so soon — old age / never found him in his halls: Apollo in his anger
+166 |  709.660 | killed             |              0 | killed him, for daring to challenge him at the bow.
+167 |  712.980 | And                |              0 | And I hurl a spear as far as another man shoots an arrow.
+168 |  716.400 | Only               |              0 | Only at running I fear one of you might pass me — / one of the Phaeacians: I was broken past all decency
+169 |  721.700 | among              |              0 | among the many waves, with no steady keep aboard ship; / and so the joints of my limbs are loosened."
+170 |  728.140 | So                 |              0 | So he spoke, and they were all hushed in silence.
+171 |  731.280 | alone              |              1 | Alcinous alone made him this answer:
+172 |  733.660 | stranger,          |              0 | "Stranger, nothing you say among us is said ungraciously:
+173 |  737.300 | you                |              0 | you are willing to show the prowess that attends you,
+174 |  739.940 | in                 |              0 | in anger that this man stood up beside you in the field
+175 |  742.980 | and                |              0 | and taunted you — as no mortal would slight your / prowess who knew in his heart how to speak things fitly.
+176 |  748.640 | But                |              0 | But mark my word now, so that you may tell / it to another hero, when in your own halls
+177 |  753.420 | you                |              0 | you feast beside your wife and your children / and remember our prowess: what works Zeus grants
+178 |  758.440 | to                 |              0 | to us as well, unbroken from our fathers' days.
+179 |  762.120 | For                |              0 | For we are not flawless boxers, nor wrestlers:
+180 |  764.900 | but                |              0 | but we run swift-footed, and we are best with ships,
+181 |  768.180 | and                |              0 | and always dear to us is the feast, the lyre, / the dances, changes of clothing, hot baths, and beds.
+182 |  774.540 | Come               |              0 | Come then, dancers of the Phaeacians, all your best, / and play — so the stranger may tell his own people,
+183 |  780.140 | when               |              0 | when he has come home, how far we surpass others / in seamanship and running and dance and song.
+184 |  785.660 | and                |              0 | And let someone go quickly and fetch Demodocus the / clear-voiced lyre, which lies somewhere in our halls."
+185 |  791.500 | so                 |              0 | So spoke godlike Alcinous; and a herald rose / to bring the hollow lyre from the king's house.
+186 |  798.280 | and                |              0 | And chosen stewards stood up, nine in all, public men, / who at the gatherings set each thing in order:
+187 |  804.500 | They               |              0 | they smoothed a dancing-floor and widened a fine ring.
+188 |  808.120 | and                |              0 | And the herald came near, bearing the clear-voiced lyre
+189 |  811.100 | demodocus,         |              1 | for Demodocus; and he stepped to / the middle, and around him stood
+190 |  815.040 | boys               |              0 | boys in their first youth, skilled in the dance,
+191 |  818.140 | and                |              0 | and they beat the shining floor / with their feet. And Odysseus
+192 |  821.440 | gazed              |              0 | gazed at the flickerings of their feet, / and marveled in his heart.
+193 |  824.920 | and                |              0 | And the singer, striking the lyre, / struck up a beautiful song
+194 |  828.560 | of                 |              0 | of the love of Ares and Aphrodite of the lovely crown:
+195 |  832.460 | how                |              0 | how first they lay together in the house of Hephaestus,
+196 |  835.400 | in                 |              0 | in secret; and Ares gave her many gifts, / and shamed the marriage-bed
+197 |  840.020 | of                 |              0 | of the lord Hephaestus. But to him came a messenger —
+198 |  844.000 | Helios,            |              0 | Helios, the Sun, who had seen / the two of them lying in love.
+199 |  847.980 | and                |              0 | And when Hephaestus heard the heart-stinging tale,
+200 |  850.720 | he                 |              0 | he went his way to his forge, / brooding evils deep in his heart,
+201 |  854.860 | and                |              0 | and set the great anvil on the / block, and hammered out bonds
+202 |  858.180 | that               |              0 | that could not break or slip, / to hold them fast where they stood.
+203 |  862.140 | and                |              0 | And when he had made his snare, in his fury against Ares,
+204 |  865.460 | he                 |              0 | he went his way to the chamber where his own bed stood,
+205 |  869.040 | and                |              0 | and around the bedposts he poured / the bonds in a circle everywhere,
+206 |  872.880 | and                |              0 | and many hung down from above, from the roof-beam, / fine as spider-webs, which no one could so much see —
+207 |  879.520 | not                |              0 | not even the blessed gods: / for they were made past all cunning.
+208 |  883.680 | and                |              0 | And when he had poured his whole snare around the bed,
+209 |  886.560 | he                 |              0 | he made as if to go to Lemnos, that strong-founded city, / which is dearest to him by far of all lands.
+210 |  892.680 | of                 |              2 | And Ares of the golden reins kept no blind watch:
+211 |  896.280 | he                 |              0 | he saw Hephaestus, famed for craft, going off, / and went his way to the house of famous Hephaestus,
+212 |  902.420 | hungry             |              0 | hungry for the love of Cytherea of the lovely crown.
+213 |  905.900 | She                |              0 | She was newly come from her father, / the mighty son of Cronos,
+214 |  909.140 | and                |              0 | and had just sat down; and he came inside the house
+215 |  911.820 | and                |              0 | and clamped a hand on hers, / and spoke a word, and named her:
+216 |  915.320 | come,              |              0 | "Come, love — to bed, and take / our joy together lying close:
+217 |  919.860 | Hephaestus         |              0 | Hephaestus is no longer at home; by now, I think, / he is off to Lemnos, among the wild-tongued Sintians."
+218 |  925.920 | so                 |              0 | So he spoke; and welcome it seemed to her to lie with him.
+219 |  929.480 | so                 |              0 | So the two went to the bed and / lay down; and around them poured
+220 |  932.560 | the                |              0 | the artful bonds of Hephaestus of the many designs,
+221 |  935.640 | and                |              0 | and they could not move a limb, / could not lift themselves —
+222 |  938.840 | and                |              0 | and then they knew it: there was no escaping now.
+223 |  941.680 | and                |              0 | And near them came the famous god of the two strong arms,
+224 |  944.320 | turned             |              0 | turned back on his road before ever reaching Lemnos:
+225 |  947.860 | Helios             |              0 | Helios had kept the watch for him, and told him the tale.
+226 |  951.360 | He                 |              0 | He went his way to his house, his heart heavy within him,
+227 |  954.660 | and                |              0 | and stood in the gateway, and savage anger gripped him,
+228 |  957.660 | and                |              0 | and he cried out terribly, and called to all the gods:
+229 |  961.040 | Father             |              0 | "Father Zeus, and you other blessed gods who are forever:
+230 |  963.820 | Come               |              0 | come here — see something for laughter, deeds past / bearing — how Aphrodite, Zeus' daughter, forever
+231 |  970.000 | dishonors          |              0 | dishonors me for being lame, and loves that destroyer Ares
+232 |  973.820 | because            |              0 | because he is handsome and straight of limb, while I / was born crippled. And whose fault is that? No one's
+233 |  979.360 | but                |              0 | but my two parents' — I wish they had never bred me!
+234 |  982.880 | Look,              |              0 | Look, see where the two of them sleep in love, / climbed into my own bed. And I watch, and it eats my heart.
+235 |  989.040 | Yet                |              0 | Yet I do not think they will / want to lie so one minute longer,
+236 |  992.180 | however            |              0 | however much in love: / soon enough the two of them will lose
+237 |  995.460 | their              |              0 | their taste for sleeping. But the / snare and the bond will hold them
+238 |  999.260 | until              |              0 | until her father pays me back the bride-gifts, / every one, all I handed over for his bitch-eyed girl —
+239 | 1005.160 | because            |              0 | because his daughter is beautiful, / and cannot hold her heart."
+240 | 1008.680 | So                 |              0 | So he spoke, and the gods gathered / to the bronze-floored house:
+241 | 1012.640 | Poseidon           |              0 | Poseidon came, who holds the earth; and the runner / Hermes came; and the lord who works from far, Apollo.
+242 | 1018.660 | but                |              0 | But the goddesses stayed at home, / for shame, every one of them.
+243 | 1022.360 | So                 |              0 | So they stood in the gateway, / the gods, the givers of good things,
+244 | 1026.080 | and                |              0 | and unquenchable laughter rose among the blessed gods
+245 | 1029.200 | as                 |              0 | as they gazed on the craft of / Hephaestus of the many designs.
+246 | 1033.440 | and                |              0 | And thus one would say, with a glance at his neighbor:
+247 | 1036.140 | bad                |              0 | "Bad deeds do not prosper. / The slow one catches the swift —
+248 | 1040.000 | Look,              |              0 | look, Hephaestus now, slow as he is, has taken Ares, / the swiftest of the gods who hold Olympus:
+249 | 1047.460 | lame,              |              0 | lame, and by craft. Now the adulterer's fine is owing."
+250 | 1051.820 | So                 |              0 | So they spoke such things to one another.
+251 | 1053.760 | but                |              0 | But the lord Apollo, son of Zeus, said to Hermes:
+252 | 1058.380 | Hermes,            |              0 | "Hermes, son of Zeus, guide, giver of good things:
+253 | 1061.340 | would              |              0 | would you be willing, pressed hard in strong bonds, / to sleep in that bed beside golden Aphrodite?"
+254 | 1067.860 | Then               |              0 | Then the guide, the slayer of Argus, answered him:
+255 | 1070.740 | if                 |              0 | "If only that could be, lord Apollo of the far arrows!
+256 | 1074.380 | Let                |              0 | Let three times as many bonds hold me, past all number,
+257 | 1077.740 | and                |              0 | and you gods look on — yes, and all the goddesses too:
+258 | 1080.840 | I                  |              0 | I would still sleep beside golden Aphrodite."
+259 | 1083.820 | so                 |              0 | So he spoke, and laughter rose among the deathless gods.
+260 | 1087.420 | But                |              0 | But Poseidon did not laugh; he kept pleading with / Hephaestus, the famous worker, to set Ares free,
+261 | 1093.780 | and                |              0 | and lifting his voice he spoke winged words to him:
+262 | 1097.000 | release            |              0 | "Release him. I promise you, before the deathless gods, / he shall pay all that is fair, as you demand."
+263 | 1103.240 | Then               |              0 | Then the famous god of the two strong arms answered him:
+264 | 1106.200 | do                 |              0 | "Do not ask this of me, Poseidon who hold the earth.
+265 | 1109.620 | worthless          |              0 | Worthless the pledges you take for worthless men.
+266 | 1112.660 | How                |              0 | How could I hold you bound before the deathless gods / if Ares slips both debt and bond and goes his way?"
+267 | 1119.200 | Then               |              0 | Then Poseidon the earth-shaker answered him:
+268 | 1121.660 | Hephaestus,        |              0 | "Hephaestus, if Ares does slip his debt and / vanishes, I will pay you the fine myself."
+269 | 1127.140 | Then               |              0 | Then the famous god of the two strong arms replied:
+270 | 1130.080 | it                 |              0 | "It cannot be, and it would not be / right, that I refuse your word."
+271 | 1134.360 | So                 |              0 | So speaking, the strength of Hephaestus undid the bond.
+272 | 1137.720 | and                |              0 | And the two of them, loosed from the bond, / strong as it was, sprang up at once: he was gone to Thrace,
+273 | 1144.280 | and                |              0 | and she came to Cyprus, laughter-loving Aphrodite —
+274 | 1147.360 | to                 |              0 | to Paphos, where her precinct is, / and her altar fragrant with smoke.
+275 | 1151.820 | There              |              0 | There the Graces bathed her and rubbed her with oil,
+276 | 1154.880 | the                |              0 | the immortal oil that blooms on the gods who are forever,
+277 | 1158.140 | and                |              0 | and dressed her in lovely clothing, a wonder to see.
+278 | 1161.540 | This               |              0 | This the famous singer sang; and Odysseus took delight / in his heart as he listened, and so did the others,
+279 | 1167.540 | the                |              0 | the Phaeacians of the long oars, men famed for ships.
+280 | 1171.340 | Then               |              0 | Then Alcinous told Halius and Laodamas to / dance alone, since no one could rival them.
+281 | 1177.740 | and                |              0 | And when they had taken in their hands the beautiful ball, / purple, which wise Polybus had made them,
+282 | 1183.960 | one                |              0 | one would bend far back and hurl / it up toward the shadowy clouds,
+283 | 1187.860 | and                |              0 | and the other, leaping high off the ground, would catch it
+284 | 1191.280 | lightly            |              0 | lightly, with ease, before his feet came back to earth.
+285 | 1194.640 | and                |              0 | And when they had tried their skill / at the ball thrown straight up,
+286 | 1198.200 | then               |              0 | then the two of them danced on the nourishing earth,
+287 | 1201.180 | passing            |              0 | passing it swiftly back and forth; and the other young men
+288 | 1204.220 | beat               |              0 | beat time, standing around the ring, / and a great din went up.
+289 | 1208.320 | and                |              0 | And then noble Odysseus addressed Alcinous:
+290 | 1211.240 | Lord               |              0 | "Lord Alcinous, most renowned among all peoples, / you promised your dancers were the best,
+291 | 1216.400 | and                |              0 | and here it stands accomplished. / Awe takes me, looking at it."
+292 | 1221.220 | So                 |              0 | So he spoke; and the sacred strength of Alcinous was glad,
+293 | 1225.060 | and                |              0 | and at once he spoke among the oar-loving Phaeacians:
+294 | 1228.180 | Hear               |              0 | "Hear me, leaders and counselors of the Phaeacians.
+295 | 1230.980 | This               |              0 | This stranger seems to me a man of clear-headed sense.
+296 | 1234.200 | Come,              |              0 | Come, let us give him a guest-gift, as is fitting.
+297 | 1237.440 | Twelve             |              0 | Twelve glorious kings hold sway through this / land as leaders, and I myself am the thirteenth:
+298 | 1243.040 | let                |              0 | let each of you bring a fresh-washed mantle / and a tunic and a talent of precious gold;
+299 | 1247.900 | and                |              0 | and let us bring it all together / at once, so that the stranger
+300 | 1250.900 | may                |              0 | may take it in his hands and go to supper glad at heart.
+301 | 1253.980 | and                |              0 | And let Euryalus make it up to him, man to man, with words
+302 | 1256.940 | and                |              0 | and with a gift: for his word / was not spoken in due measure."
+303 | 1260.640 | So                 |              0 | So he spoke, and they all approved it and urged it on, / and each sent off a herald to bring his gifts.
+304 | 1266.540 | and                |              0 | And Euryalus answered him in turn, and said:
+305 | 1269.180 | Lord               |              0 | "Lord Alcinous, most renowned among all peoples, / I will make it up to the stranger, as you command.
+306 | 1275.140 | I                  |              0 | I will give him this sword, all bronze, with a hilt / of silver on it, and a scabbard of fresh-sawn ivory
+307 | 1281.000 | turned             |              0 | turned round it: it will be worth much to him."
+308 | 1284.200 | So                 |              0 | So saying he set the silver-studded sword in his hands, / and lifting his voice he spoke winged words to him:
+309 | 1290.780 | Hail               |              0 | "Hail, father stranger. If some word was blurted out
+310 | 1293.660 | too                |              0 | too harsh, may the storm-winds / snatch it up and carry it away.
+311 | 1296.900 | and                |              0 | And may the gods grant you to see your wife, and to come
+312 | 1300.280 | to                 |              0 | to your fatherland: for long, far from / your own people, you have suffered pains."
+313 | 1305.240 | Then               |              0 | Then Odysseus of the many designs answered him:
+314 | 1307.860 | and                |              0 | "And to you, friend: hail, and warmly. / May the gods give you fortune,
+315 | 1311.840 | and                |              0 | and may you never feel the lack, hereafter, of this sword
+316 | 1314.620 | you                |              0 | you have given me — you who made it up to me with words."
+317 | 1317.940 | He                 |              0 | He spoke, and slung the silver-studded / sword about his shoulders.
+318 | 1321.840 | and                |              0 | And the sun went down, and the / famous gifts lay there before him.
+319 | 1325.780 | The                |              0 | The lordly heralds carried them to the house of Alcinous, / and the sons of blameless Alcinous received them
+320 | 1331.560 | and                |              0 | and set the beautiful gifts before their honored mother.
+321 | 1333.920 | and                |              0 | And the sacred strength of Alcinous led the way, / and they came and sat down on the high seats.
+322 | 1340.060 | and                |              0 | And then the strength of Alcinous said to Arete:
+323 | 1343.080 | bring              |              0 | "Bring here a glorious chest, wife — the best one —
+324 | 1346.940 | and                |              0 | and set in it yourself a fresh-washed mantle and a tunic.
+325 | 1350.480 | and                |              0 | And heat the bronze cauldron / over the fire, and warm water,
+326 | 1354.000 | so                 |              0 | so that once he has bathed, / and seen well laid together all
+327 | 1357.220 | the                |              0 | the gifts the blameless Phaeacians have brought him here,
+328 | 1360.500 | he                 |              0 | he may take joy in the feast, / and in hearing the singer's strain.
+329 | 1364.400 | and                |              0 | And I will give him this beautiful cup of mine, / golden, so that remembering me all his days
+330 | 1369.580 | he                 |              0 | he may pour in his hall to Zeus and the other gods."
+331 | 1372.880 | so                 |              0 | So he spoke, and Arete told her slave-women to set a / great three-legged cauldron on the fire with all speed.
+332 | 1379.600 | they               |              0 | They set the bath-cauldron on the blazing fire and / poured water in, and fed the wood beneath till it flamed:
+333 | 1385.760 | the                |              0 | the fire wrapped round the belly of / the cauldron, and the water warmed.
+334 | 1389.740 | meanwhile          |              0 | Meanwhile Arete brought out from / her chamber a beautiful chest
+335 | 1392.680 | for                |              0 | for the stranger, and laid the fine gifts in it, / the clothing and the gold the Phaeacians had given,
+336 | 1398.480 | and                |              0 | and in with them she laid a mantle and a beautiful tunic,
+337 | 1401.880 | and                |              0 | and lifting her voice she spoke winged words to him:
+338 | 1405.140 | to                 |              1 | "See to the lid yourself now, / and tie the knot on it quickly,
+339 | 1408.840 | for                |              0 | for fear someone rob you on the voyage, when later on
+340 | 1411.640 | you                |              0 | you sleep your sweet sleep as the black ship carries you."
+341 | 1414.780 | and                |              0 | And when much-enduring noble Odysseus heard it, / at once he fitted the lid, and quickly tied upon it
+342 | 1420.220 | the                |              0 | the intricate knot that the lady Circe once taught him.
+343 | 1423.380 | and                |              0 | And straightway the housekeeper called him to his bath,
+344 | 1426.480 | to                 |              0 | to step in the tub; and his heart was glad at the sight / of the hot water: for he had known no such tending
+345 | 1432.100 | since              |              0 | since he left the house of fair-haired Calypso —
+346 | 1434.940 | though             |              0 | though while he was there, / he was tended like a god without fail.
+347 | 1438.400 | and                |              0 | And when the slave-women had / bathed him and rubbed him with oil,
+348 | 1441.700 | and                |              0 | and thrown a beautiful cloak around him, and a tunic,
+349 | 1444.380 | he                 |              0 | he stepped from the bath and went / to join the men at their wine.
+350 | 1448.180 | and                |              0 | And Nausicaa, with her beauty from the gods, / stood by the pillar of the close-built roof,
+351 | 1453.260 | and                |              0 | and marveled at Odysseus as her eyes took him in, / and lifting her voice she spoke winged words to him:
+352 | 1459.360 | farewell           |              0 | "Farewell, stranger. And sometime, in your own fatherland,
+353 | 1462.580 | remember           |              0 | remember me — for to me first / you owe the price of your life."
+354 | 1466.420 | Then               |              0 | Then Odysseus of the many designs answered her:
+355 | 1469.400 | daughter           |              1 | "Nausicaa, daughter of great-hearted Alcinous:
+356 | 1472.240 | only               |              0 | only may Zeus grant it so — / the loud-thundering lord of Hera —
+357 | 1476.160 | that               |              0 | that I go home and look upon my day of homecoming:
+358 | 1479.220 | then               |              0 | then even there I would pray to you as to a god, / always, all my days. For you saved my life, girl."
+359 | 1485.340 | he                 |              0 | He spoke, and went to his seat beside King Alcinous.
+360 | 1489.100 | and                |              0 | And already they were serving / portions and mixing the wine,
+361 | 1492.180 | and                |              0 | and the herald came near, leading the trusted singer, / Demodocus, honored among the people, and seated him
+362 | 1497.720 | in                 |              0 | in the middle of the feasters, / leaning him on a tall pillar.
+363 | 1501.400 | and                |              0 | And then Odysseus of the many designs called the herald —
+364 | 1504.520 | cutting            |              0 | cutting off a slice of the chine, with more left over,
+365 | 1507.720 | of                 |              0 | of the white-tusked hog, rich fat along it either side:
+366 | 1512.140 | herald,            |              0 | "Herald — here, take this cut of meat to Demodocus,
+367 | 1513.840 | so                 |              0 | so he may eat; and I will pay my / respects to him, for all my grief.
+368 | 1519.120 | for                |              0 | For among all men upon the earth, singers have / their share of honor and reverence, because the Muse
+369 | 1523.960 | has                |              0 | has taught them her paths, / and loves the tribe of singers."
+370 | 1527.580 | so                 |              0 | So he spoke, and the herald / carried it and set it in the hands
+371 | 1530.860 | of                 |              0 | of the hero Demodocus; and he received it, / and his heart was glad.
+372 | 1535.440 | and                |              0 | And their hands went out to the / good things spread before them.
+373 | 1538.720 | but                |              0 | But when they had put away desire for food and drink, / then Odysseus of the many designs said to Demodocus:
+374 | 1545.540 | Demodocus,         |              0 | "Demodocus, I praise you beyond all mortal men.
+375 | 1548.840 | either             |              0 | Either the Muse taught you, Zeus' daughter, or Apollo:
+376 | 1552.000 | for                |              0 | for all in due order you sing the fate of the Achaeans —
+377 | 1555.720 | all                |              0 | all they did and suffered, all the Achaeans' labors —
+378 | 1558.940 | as                 |              0 | as if you had been there yourself, / or heard it from one who was.
+379 | 1562.720 | But                |              0 | But come now, change your path: / sing the making of the horse
+380 | 1565.880 | of                 |              0 | of wood, which Epeius built, and Athena with him —
+381 | 1569.340 | the                |              0 | the snare that noble Odysseus brought up into the / citadel, filled with the men who sacked Ilium.
+382 | 1575.040 | If                 |              0 | If you tell me this tale too in its due measure, / then I will proclaim at once to all mankind
+383 | 1579.980 | how                |              0 | how the god of his grace has given you divine song."
+384 | 1583.460 | So                 |              0 | So he spoke; and the singer, stirred by / the god, began, and made the song appear,
+385 | 1588.800 | taking             |              0 | taking it up where the Argives had / boarded their well-benched ships
+386 | 1591.740 | and                |              0 | and were sailing away, after casting fire on their camp, / while those others, around famous Odysseus, already
+387 | 1598.560 | sat                |              0 | sat in the Trojans' gathering-place, / hidden inside the horse:
+388 | 1602.260 | for                |              0 | for the Trojans themselves had / dragged it up into the citadel.
+389 | 1605.540 | So                 |              0 | So it stood there, and they talked on and on, undecided,
+390 | 1608.960 | sitting            |              0 | sitting around it; and three / ways the counsel pleased them:
+391 | 1612.220 | to                 |              0 | to split the hollow timber with the pitiless bronze, / or drag it to the height and hurl it down the rocks,
+392 | 1617.720 | or                 |              0 | or leave it standing, a great offering to appease the / gods — and that was the way it was to end at last:
+393 | 1623.440 | for                |              0 | for it was their portion to perish / when the city took within it
+394 | 1626.460 | the                |              0 | the great horse of wood, where all the best of the / Argives sat carrying death and doom to the Trojans.
+395 | 1632.000 | and                |              0 | And he sang how the sons of the Achaeans sacked the city,
+396 | 1635.040 | pouring            |              0 | pouring from the horse, leaving their hollow ambush;
+397 | 1638.140 | he                 |              0 | he sang how they ravaged the / steep city, each man his own way,
+398 | 1641.900 | and                |              0 | and how Odysseus went, like Ares himself, / to the house of Deiphobus, with godlike Menelaus beside him;
+399 | 1648.520 | and                |              0 | and there, he sang, he dared the grimmest fight of all —
+400 | 1651.500 | and                |              0 | and conquered, in the end, through great-hearted Athena.
+401 | 1654.220 | this               |              0 | This the famous singer sang. And Odysseus melted: / the tears from under his eyelids wet his cheeks.
+402 | 1662.660 | As                 |              0 | As a woman weeps, fallen on the body of her dear husband / who has gone down before his city and his people,
+403 | 1669.040 | warding            |              0 | warding the pitiless day from his town and his children:
+404 | 1671.960 | she                |              0 | she sees him dying, gasping his last, and pours / herself around him with a high thin cry; and behind her
+405 | 1679.240 | the                |              0 | the spearmen, beating her back / and shoulders with their spears,
+406 | 1682.960 | lead               |              0 | lead her away into slavery, to labor and misery, / and her cheeks are wasted with a grief most pitiful:
+407 | 1689.980 | so                 |              0 | so pitiful were the tears Odysseus / let fall from under his brows.
+408 | 1694.240 | From               |              0 | From all the others he hid the tears he shed; / Alcinous alone remarked him and noticed,
+409 | 1699.120 | sitting            |              0 | sitting beside him, and heard his heavy groaning.
+410 | 1702.080 | at                 |              0 | At once he spoke among the oar-loving Phaeacians:
+411 | 1705.400 | hear               |              0 | "Hear me, leaders and counselors of the Phaeacians — / and let Demodocus still his clear-voiced lyre now:
+412 | 1711.620 | for                |              0 | for what he sings does not give joy to all alike.
+413 | 1714.680 | Since              |              0 | Since the hour we supped, and the godlike singer rose, / since then the stranger has never ceased
+414 | 1719.760 | his                |              0 | his grieving lament. Great sorrow, / surely, has fenced his heart around.
+415 | 1724.520 | Come,              |              0 | Come, let the singer hold, so that we may all take / pleasure alike, hosts and guest together: far better so.
+416 | 1731.520 | For                |              0 | For all this has been made ready for our honored guest —
+417 | 1734.080 | his                |              0 | his sending, and the friendly / gifts we give him in our love.
+418 | 1737.460 | as                 |              0 | As dear as a brother is the stranger and the suppliant / to any man whose wits have even a little reach.
+419 | 1742.980 | So                 |              0 | So do not hide now, behind shrewd calculations, / whatever I ask you. To speak out is the fairer way.
+420 | 1749.560 | Tell               |              0 | Tell the name they call you there by, / your mother and your father
+421 | 1752.540 | and                |              0 | and the others, in the town and dwelling round about.
+422 | 1755.900 | For                |              0 | For no one among mankind is altogether nameless, / base man or noble, once he has come into the world:
+423 | 1761.860 | parents            |              0 | parents lay a name on every child they bear.
+424 | 1765.000 | And                |              0 | And tell me your land, your people, and your city,
+425 | 1767.820 | so                 |              0 | so that our ships may carry you there, / plotting the course by thought:
+426 | 1771.700 | For                |              0 | for the Phaeacians have no steersmen, / no steering-oars at all, such as other ships carry:
+427 | 1777.180 | The                |              0 | the ships themselves know the thoughts and minds of men, / and know the cities and rich fields of every
+428 | 1781.780 | people.            |              0 | people, and swiftest of all things / cross the gulf of the salt sea
+429 | 1786.100 | wrapped            |              0 | wrapped in mist and cloud; and never do / they fear harm or wreck on any crossing.
+430 | 1791.020 | Yet                |              0 | Yet this I once heard my father Nausithous say: / he would tell us that Poseidon looked on us with anger
+431 | 1796.180 | because            |              0 | because we are safe escorts of / all men without distinction;
+432 | 1799.420 | And                |              0 | and he said that one day, / as a well-made ship of the Phaeacian men
+433 | 1802.840 | came               |              0 | came home over the misted sea from such a sending,
+434 | 1806.100 | the                |              0 | the god would smash it, and pile / a great mountain round our city.
+435 | 1810.280 | So                 |              0 | So the old man said. And these / things the god may accomplish,
+436 | 1813.620 | may                |              1 | or may leave unaccomplished, as pleases his own heart.
+437 | 1817.280 | But                |              0 | But come, tell me this, and tell it to me truly:
+438 | 1820.760 | Where              |              0 | where have you wandered? To what countries of men have / you come — the peoples, the cities well-lived-in —
+439 | 1826.260 | both               |              0 | both the harsh among them, the savage and unjust, / and the kind to strangers, whose hearts fear the gods?
+440 | 1833.480 | and                |              0 | And tell why you weep, and mourn within your heart,
+441 | 1836.220 | when               |              0 | when you hear the fate of the Argive Danaans and of Ilium.
+442 | 1839.240 | That               |              0 | That fate the gods made; / they spun that destruction for men,
+443 | 1842.840 | so                 |              0 | so that there might be a song for those still to come.
+444 | 1846.100 | Did                |              0 | Did some kinsman of yours die before Ilium —
+445 | 1848.520 | a                  |              0 | a good man, a wife's father, a daughter's husband? — / those who stand closest after our own blood and stock;
+446 | 1855.280 | or                 |              0 | or perhaps a companion, a man dear to your heart, / a good man? For no less than a brother
+447 | 1860.620 | [manual timestamp] |              9 | is a companion who is clear-headed and true."

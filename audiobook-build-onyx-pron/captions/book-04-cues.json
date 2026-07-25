@@ -1,0 +1,3164 @@
+{
+  "book": "book-04",
+  "duration": 2642.234,
+  "visual_lead": 0.16,
+  "cues": [
+    {
+      "start": 0.0,
+      "end": 7.96,
+      "kind": "title",
+      "text": "ODYSSEY — BOOK IV"
+    },
+    {
+      "start": 0.0,
+      "end": 7.96,
+      "kind": "deck",
+      "text": "Sparta: Helen and Menelaus remember Troy;\\nProteus; the suitors set their ambush."
+    },
+    {
+      "start": 7.96,
+      "end": 14.52,
+      "text": "And they came to hollow Lacedaemon, land of ravines,\\nand drove to the house of glorious Menelaus."
+    },
+    {
+      "start": 14.52,
+      "end": 17.26,
+      "text": "They found him giving a wedding-feast to his many kinsmen"
+    },
+    {
+      "start": 17.26,
+      "end": 20.9,
+      "text": "for his son and his blameless daughter, in his own house."
+    },
+    {
+      "start": 20.9,
+      "end": 24.9,
+      "text": "The daughter he was sending to the\\nson of Achilles, breaker of ranks:"
+    },
+    {
+      "start": 24.9,
+      "end": 28.54,
+      "text": "in Troy long ago he had promised her, had bowed his head"
+    },
+    {
+      "start": 28.54,
+      "end": 33.0,
+      "text": "to give her, and now the gods were\\nbringing the marriage to pass."
+    },
+    {
+      "start": 33.0,
+      "end": 36.0,
+      "text": "So now with horses and chariots he was sending her forth"
+    },
+    {
+      "start": 36.0,
+      "end": 39.96,
+      "text": "to the famous city of the Myrmidons, whom that man ruled."
+    },
+    {
+      "start": 39.96,
+      "end": 43.68,
+      "text": "For his son he was bringing home\\nAlector's daughter out of Sparta —"
+    },
+    {
+      "start": 43.68,
+      "end": 47.0,
+      "text": "the son born to him in his strength,\\nwell-loved Megapenthes,"
+    },
+    {
+      "start": 47.0,
+      "end": 50.74,
+      "text": "out of a slave-woman. For to Helen\\nthe gods showed no more children"
+    },
+    {
+      "start": 50.74,
+      "end": 57.36,
+      "text": "after the first time, when she bore her lovely daughter\\nHermione, who had the beauty of golden Aphrodite."
+    },
+    {
+      "start": 57.36,
+      "end": 62.82,
+      "text": "So they were feasting through the great high-roofed house,\\nthe neighbors and kinsmen of glorious Menelaus,"
+    },
+    {
+      "start": 62.82,
+      "end": 68.8,
+      "text": "taking their pleasure; and among them a godlike\\nsinger sang to the lyre, and two tumblers among them,"
+    },
+    {
+      "start": 68.8,
+      "end": 71.82,
+      "text": "as he led the song, went spinning through their midst."
+    },
+    {
+      "start": 71.82,
+      "end": 75.16,
+      "text": "And the two of them halted at the\\ngateway of the house, themselves"
+    },
+    {
+      "start": 75.16,
+      "end": 80.12,
+      "text": "and their horses — the hero\\nTelemachus and Nestor's shining son."
+    },
+    {
+      "start": 80.12,
+      "end": 85.22,
+      "text": "Lord Eteoneus came out and saw them,\\nthe busy henchman of glorious Menelaus,"
+    },
+    {
+      "start": 85.22,
+      "end": 88.7,
+      "text": "and went through the house to bring\\nthe news to the shepherd of the people;"
+    },
+    {
+      "start": 88.7,
+      "end": 91.82,
+      "text": "standing close he spoke winged words to him:"
+    },
+    {
+      "start": 91.82,
+      "end": 98.02,
+      "text": "\"Two strangers here, Menelaus, nurtured of Zeus —\\ntwo men, and they look like the stock of great Zeus."
+    },
+    {
+      "start": 98.02,
+      "end": 103.76,
+      "text": "Tell me: do we unyoke their swift horses for them,\\nor send them on to another man, who may welcome them?\""
+    },
+    {
+      "start": 103.76,
+      "end": 107.06,
+      "text": "Then fair-haired Menelaus, greatly stirred, replied:"
+    },
+    {
+      "start": 107.06,
+      "end": 112.98,
+      "text": "\"You were no fool before, Eteoneus, son of Boethous —\\nbut now you are babbling nonsense like a child."
+    },
+    {
+      "start": 112.98,
+      "end": 118.3,
+      "text": "The two of us ate plenty of strangers' bread,\\nyou and I, on the road home, hoping Zeus might someday"
+    },
+    {
+      "start": 118.3,
+      "end": 122.14,
+      "text": "give us rest from misery. Unyoke the strangers' horses,"
+    },
+    {
+      "start": 122.14,
+      "end": 125.28,
+      "text": "and bring the men themselves in, to share the feast.\""
+    },
+    {
+      "start": 125.28,
+      "end": 129.3,
+      "text": "So he spoke, and the man dashed back\\nthrough the hall, and called the other"
+    },
+    {
+      "start": 129.3,
+      "end": 131.64,
+      "text": "busy henchmen to come along with him."
+    },
+    {
+      "start": 131.64,
+      "end": 136.74,
+      "text": "They loosed the sweating horses from under the\\nyoke and tied them up at the mangers of the horses,"
+    },
+    {
+      "start": 136.74,
+      "end": 139.84,
+      "text": "and threw them spelt, and mixed white barley in with it,"
+    },
+    {
+      "start": 139.84,
+      "end": 143.02,
+      "text": "and leaned the chariot against the gleaming entrance-wall,"
+    },
+    {
+      "start": 143.02,
+      "end": 145.84,
+      "text": "and led the men into the godlike house. And they stared"
+    },
+    {
+      "start": 145.84,
+      "end": 148.72,
+      "text": "in wonder through the house of the Zeus-nurtured king:"
+    },
+    {
+      "start": 148.72,
+      "end": 154.26,
+      "text": "for there was a sheen as of the sun or the moon\\nthrough the high-roofed house of glorious Menelaus."
+    },
+    {
+      "start": 154.26,
+      "end": 159.28,
+      "text": "And when they had had their joy of gazing,\\nthey stepped into the polished baths and bathed."
+    },
+    {
+      "start": 159.28,
+      "end": 162.48,
+      "text": "And when the slave-women had bathed\\nthem and rubbed them with oil,"
+    },
+    {
+      "start": 162.48,
+      "end": 169.54,
+      "text": "and thrown about them fleecy cloaks and tunics,\\nthey sat down on high seats beside Menelaus, Atreus' son."
+    },
+    {
+      "start": 169.54,
+      "end": 172.2,
+      "text": "A handmaid brought water for their hands in a pitcher,"
+    },
+    {
+      "start": 172.2,
+      "end": 175.22,
+      "text": "a beautiful golden one, and poured it over a silver basin"
+    },
+    {
+      "start": 175.22,
+      "end": 179.2,
+      "text": "for them to wash, and drew up\\na polished table beside them."
+    },
+    {
+      "start": 179.2,
+      "end": 182.84,
+      "text": "The grave housekeeper brought\\nbread and set it before them,"
+    },
+    {
+      "start": 182.84,
+      "end": 189.28,
+      "text": "laying out delicacies in plenty, giving gladly of her\\nstore; a carver lifted platters of meat of every kind"
+    },
+    {
+      "start": 189.28,
+      "end": 192.8,
+      "text": "and set them down, and placed gold cups beside them."
+    },
+    {
+      "start": 192.8,
+      "end": 195.96,
+      "text": "And fair-haired Menelaus greeted\\nthem with a wave of the hand:"
+    },
+    {
+      "start": 195.96,
+      "end": 201.22,
+      "text": "\"Take of the bread, and be welcome. And afterward,\\nwhen you have tasted supper, we will ask what men"
+    },
+    {
+      "start": 201.22,
+      "end": 207.2,
+      "text": "you are: for the stock of your parents is not lost in you —\\nyou are of the stock of scepter-bearing kings,"
+    },
+    {
+      "start": 207.2,
+      "end": 210.9,
+      "text": "nurtured of Zeus. No base men could father such sons.\""
+    },
+    {
+      "start": 210.9,
+      "end": 215.1,
+      "text": "So he spoke, and set before them\\nthe fat roast chine of an ox,"
+    },
+    {
+      "start": 215.1,
+      "end": 218.86,
+      "text": "lifting it in his hands —\\nthe portion of honor they had set for him."
+    },
+    {
+      "start": 218.86,
+      "end": 222.12,
+      "text": "And their hands went out to the\\ngood things spread before them."
+    },
+    {
+      "start": 222.12,
+      "end": 227.46,
+      "text": "But when they had put away desire for food and drink,\\nthen Telemachus spoke to the son of Nestor,"
+    },
+    {
+      "start": 227.46,
+      "end": 230.68,
+      "text": "leaning his head close, so that the others might not hear:"
+    },
+    {
+      "start": 230.68,
+      "end": 236.04,
+      "text": "\"Look, son of Nestor, delight of my heart —\\nthe lightning of bronze through these echoing halls,"
+    },
+    {
+      "start": 236.04,
+      "end": 239.78,
+      "text": "the gold and the amber, the silver and the ivory!"
+    },
+    {
+      "start": 239.78,
+      "end": 242.8,
+      "text": "Such, I think, is the court of Olympian Zeus within:"
+    },
+    {
+      "start": 242.8,
+      "end": 246.88,
+      "text": "all this here, past speaking!\\nAwe takes me, looking at it.\""
+    },
+    {
+      "start": 246.88,
+      "end": 252.78,
+      "text": "But fair-haired Menelaus caught what he was saying,\\nand lifting his voice he spoke winged words to them:"
+    },
+    {
+      "start": 252.78,
+      "end": 256.28,
+      "text": "\"Dear children, with Zeus no mortal man could vie:"
+    },
+    {
+      "start": 256.28,
+      "end": 259.06,
+      "text": "his halls and his possessions are deathless things."
+    },
+    {
+      "start": 259.06,
+      "end": 262.64,
+      "text": "Among men, another may match me in wealth — or may not."
+    },
+    {
+      "start": 262.64,
+      "end": 268.8,
+      "text": "Much I suffered for it, and far I wandered to bring\\nit home in my ships: eight years gone before I came,"
+    },
+    {
+      "start": 268.8,
+      "end": 272.36,
+      "text": "driven wandering to Cyprus and\\nPhoenicia and the Egyptians;"
+    },
+    {
+      "start": 272.36,
+      "end": 278.88,
+      "text": "I reached the Ethiopians, the Sidonians, the Erembi,\\nand Libya, where the lambs come horned from the birth,"
+    },
+    {
+      "start": 278.88,
+      "end": 282.04,
+      "text": "for the ewes bear three times\\nin the full round of the year."
+    },
+    {
+      "start": 282.04,
+      "end": 286.4,
+      "text": "There no lord and no shepherd goes wanting\\nfor cheese and meat and sweet milk:"
+    },
+    {
+      "start": 286.4,
+      "end": 290.36,
+      "text": "the flocks give milk for the milking all the year round."
+    },
+    {
+      "start": 290.36,
+      "end": 295.78,
+      "text": "But while I roamed those countries gathering\\nmuch substance, another man killed my brother —"
+    },
+    {
+      "start": 295.78,
+      "end": 299.86,
+      "text": "by stealth, off guard, through\\nthe treachery of his cursed wife."
+    },
+    {
+      "start": 299.86,
+      "end": 302.8,
+      "text": "So I take no joy in being lord of all this wealth."
+    },
+    {
+      "start": 302.8,
+      "end": 306.68,
+      "text": "You will have heard it from\\nyour fathers, whoever they are:"
+    },
+    {
+      "start": 306.68,
+      "end": 311.24,
+      "text": "I have suffered much, and I lost a house\\nwell lived-in, full of many splendid things."
+    },
+    {
+      "start": 311.24,
+      "end": 316.32,
+      "text": "Would I lived here with a third part only of all this,\\nand the men were alive who died in those years"
+    },
+    {
+      "start": 316.32,
+      "end": 320.16,
+      "text": "in wide Troy, far from horse-grazing Argos!"
+    },
+    {
+      "start": 320.16,
+      "end": 324.46,
+      "text": "And yet — though I mourn them all,\\nand grieve, often, sitting here in our halls,"
+    },
+    {
+      "start": 324.46,
+      "end": 330.62,
+      "text": "and one hour ease my heart with weeping, and the next\\nleave off, for men are quickly sated of cold lament —"
+    },
+    {
+      "start": 330.62,
+      "end": 333.38,
+      "text": "for all of them together I do not mourn so much,"
+    },
+    {
+      "start": 333.38,
+      "end": 337.78,
+      "text": "grieved though I am, as for one man,\\nwho makes sleep hateful to me,"
+    },
+    {
+      "start": 337.78,
+      "end": 344.86,
+      "text": "and food, when I remember: for no Achaean labored as\\nOdysseus labored and endured. And the end of it was"
+    },
+    {
+      "start": 344.86,
+      "end": 350.7,
+      "text": "sorrow for him, and for me a grief never to be forgotten —\\nthat he is gone so long, and we know nothing,"
+    },
+    {
+      "start": 350.7,
+      "end": 357.36,
+      "text": "whether he lives or is dead. They must be mourning\\nhim now, old Laertes, and steady-hearted Penelope,"
+    },
+    {
+      "start": 357.36,
+      "end": 360.68,
+      "text": "and Telemachus, whom he left new-born in the house.\""
+    },
+    {
+      "start": 360.68,
+      "end": 364.86,
+      "text": "So he spoke, and stirred in the boy\\nthe ache to weep for his father:"
+    },
+    {
+      "start": 364.86,
+      "end": 368.04,
+      "text": "tears fell from his eyelids to\\nthe ground at his father's name,"
+    },
+    {
+      "start": 368.04,
+      "end": 373.74,
+      "text": "and he lifted the purple cloak before his eyes\\nwith both hands. And Menelaus noticed him,"
+    },
+    {
+      "start": 373.74,
+      "end": 378.92,
+      "text": "and pondered then in his mind and in his heart\\nwhether to leave it to him to name his father,"
+    },
+    {
+      "start": 378.92,
+      "end": 382.0,
+      "text": "or to question him first and test him point by point."
+    },
+    {
+      "start": 382.0,
+      "end": 385.8,
+      "text": "While he was turning this over\\nin his mind and in his heart,"
+    },
+    {
+      "start": 385.8,
+      "end": 392.14,
+      "text": "out of her fragrant high-roofed chamber came Helen,\\nlooking like Artemis of the golden distaff;"
+    },
+    {
+      "start": 392.14,
+      "end": 398.56,
+      "text": "and with her Adreste set out her well-made\\nreclining chair, Alcippe brought a rug of soft wool,"
+    },
+    {
+      "start": 398.56,
+      "end": 404.9,
+      "text": "and Phylo brought her silver basket, given her\\nby Alcandre, wife of Polybus, who lived in Thebes"
+    },
+    {
+      "start": 404.9,
+      "end": 408.84,
+      "text": "of Egypt, where the greatest wealth lies stored in houses:"
+    },
+    {
+      "start": 408.84,
+      "end": 414.2,
+      "text": "he gave Menelaus two silver baths and a\\npair of tripods and ten talents of gold;"
+    },
+    {
+      "start": 414.2,
+      "end": 418.24,
+      "text": "and apart from these his wife gave\\nHelen beautiful gifts of her own —"
+    },
+    {
+      "start": 418.24,
+      "end": 425.02,
+      "text": "a golden distaff she gave, and a basket on wheels,\\nsilver, its rims finished off in gold."
+    },
+    {
+      "start": 425.02,
+      "end": 430.66,
+      "text": "This the handmaid Phylo brought and set beside her,\\nstuffed with fine-spun yarn, and across it"
+    },
+    {
+      "start": 430.66,
+      "end": 434.84,
+      "text": "lay the distaff, wound with wool of violet darkness."
+    },
+    {
+      "start": 434.84,
+      "end": 438.26,
+      "text": "She sat down on the chair, with a footstool for her feet,"
+    },
+    {
+      "start": 438.26,
+      "end": 442.04,
+      "text": "and at once began asking her husband about everything:"
+    },
+    {
+      "start": 442.04,
+      "end": 445.4,
+      "text": "\"Do we know yet, Menelaus, nurtured of Zeus, who these men"
+    },
+    {
+      "start": 445.4,
+      "end": 448.66,
+      "text": "declare themselves to be, who have come to our house?"
+    },
+    {
+      "start": 448.66,
+      "end": 452.68,
+      "text": "Shall I lie, or speak the truth? My heart bids me speak."
+    },
+    {
+      "start": 452.68,
+      "end": 459.18,
+      "text": "For never yet, I say, have I seen such a likeness,\\nin man or woman — awe takes me, looking at him —"
+    },
+    {
+      "start": 459.18,
+      "end": 462.36,
+      "text": "as this boy is like the son of great-hearted Odysseus:"
+    },
+    {
+      "start": 462.36,
+      "end": 465.8,
+      "text": "Telemachus, whom that man left new-born in the house"
+    },
+    {
+      "start": 465.8,
+      "end": 472.68,
+      "text": "when for my sake — bitch-faced that I was —\\nyou Achaeans came up under Troy, with bold war in your hearts.\""
+    },
+    {
+      "start": 472.68,
+      "end": 475.54,
+      "text": "Then fair-haired Menelaus answered her:"
+    },
+    {
+      "start": 475.54,
+      "end": 479.0,
+      "text": "\"I too see it now, wife, just as you liken him:"
+    },
+    {
+      "start": 479.0,
+      "end": 485.02,
+      "text": "those were the very feet of the man, the very hands,\\nthe glance of his eyes, the head, the hair above."
+    },
+    {
+      "start": 485.02,
+      "end": 488.84,
+      "text": "And just now, remembering Odysseus,\\nI was telling of all he labored and endured"
+    },
+    {
+      "start": 488.84,
+      "end": 493.26,
+      "text": "for my sake — and the boy shed a\\nbitter tear from under his brows,"
+    },
+    {
+      "start": 493.26,
+      "end": 495.92,
+      "text": "holding the purple cloak up before his eyes.\""
+    },
+    {
+      "start": 495.92,
+      "end": 499.56,
+      "text": "Then Peisistratus, Nestor's son, answered him:"
+    },
+    {
+      "start": 499.56,
+      "end": 506.44,
+      "text": "\"Menelaus, son of Atreus, Zeus-nurtured, leader of\\npeoples, this is indeed that man's son, as you say."
+    },
+    {
+      "start": 506.44,
+      "end": 510.86,
+      "text": "But he is modest, and his heart is shy of\\nsplashing forth big words on a first arrival"
+    },
+    {
+      "start": 510.86,
+      "end": 515.1,
+      "text": "in front of you, whose voice\\ndelights us both like a god's."
+    },
+    {
+      "start": 515.1,
+      "end": 520.02,
+      "text": "Gerenian Nestor the horseman sent me out to\\ncome with him as escort: he longed to see you,"
+    },
+    {
+      "start": 520.02,
+      "end": 522.72,
+      "text": "in hope you might set some word or work before him."
+    },
+    {
+      "start": 522.72,
+      "end": 528.54,
+      "text": "For a son has many sorrows in the house when his\\nfather is gone and no other helpers stand by him —"
+    },
+    {
+      "start": 528.54,
+      "end": 534.54,
+      "text": "as now with Telemachus: the father gone,\\nand no others in all the land to beat trouble away.\""
+    },
+    {
+      "start": 534.54,
+      "end": 536.94,
+      "text": "Then fair-haired Menelaus answered him:"
+    },
+    {
+      "start": 536.94,
+      "end": 543.92,
+      "text": "\"Well now! Truly the son of a beloved man is in my house,\\na man who fought through many trials for my sake;"
+    },
+    {
+      "start": 543.92,
+      "end": 546.96,
+      "text": "and I used to say that when he\\ncame I would welcome him beyond all"
+    },
+    {
+      "start": 546.96,
+      "end": 550.1,
+      "text": "the other Argives — if Olympian Zeus of the wide voice"
+    },
+    {
+      "start": 550.1,
+      "end": 554.28,
+      "text": "gave the two of us a homecoming\\nover the sea in our fast ships."
+    },
+    {
+      "start": 554.28,
+      "end": 557.78,
+      "text": "I would have settled him a city\\nin Argos, and built him a house,"
+    },
+    {
+      "start": 557.78,
+      "end": 563.46,
+      "text": "and brought him out of Ithaca with his goods and\\nhis son and all his people — emptying out one town"
+    },
+    {
+      "start": 563.46,
+      "end": 566.86,
+      "text": "of those that lie around and own me as their lord."
+    },
+    {
+      "start": 566.86,
+      "end": 569.6,
+      "text": "Being here, we would have mingled often; and nothing"
+    },
+    {
+      "start": 569.6,
+      "end": 573.36,
+      "text": "would have parted us then,\\nloving and delighting in each other,"
+    },
+    {
+      "start": 573.36,
+      "end": 576.14,
+      "text": "until death's black cloud came folding round us."
+    },
+    {
+      "start": 576.14,
+      "end": 580.4,
+      "text": "But such things, I suppose,\\nthe god himself must have grudged,"
+    },
+    {
+      "start": 580.4,
+      "end": 585.42,
+      "text": "who made that unlucky man — him alone —\\nthe man who never came home.\""
+    },
+    {
+      "start": 585.42,
+      "end": 589.02,
+      "text": "So he spoke, and stirred in them all the ache of lament."
+    },
+    {
+      "start": 589.02,
+      "end": 595.26,
+      "text": "Argive Helen wept, the daughter of Zeus,\\nand Telemachus wept, and Menelaus, Atreus' son,"
+    },
+    {
+      "start": 595.26,
+      "end": 597.82,
+      "text": "nor could the son of Nestor keep his eyes dry:"
+    },
+    {
+      "start": 597.82,
+      "end": 603.54,
+      "text": "for his heart remembered blameless Antilochus,\\nwhom the shining son of bright Dawn had killed."
+    },
+    {
+      "start": 603.54,
+      "end": 606.12,
+      "text": "Remembering him, he spoke winged words:"
+    },
+    {
+      "start": 606.12,
+      "end": 608.48,
+      "text": "\"Son of Atreus, old Nestor always said"
+    },
+    {
+      "start": 608.48,
+      "end": 611.62,
+      "text": "you were clear-headed beyond other\\nmortals, whenever we remembered you"
+    },
+    {
+      "start": 611.62,
+      "end": 614.62,
+      "text": "in his halls, and questioned one another."
+    },
+    {
+      "start": 614.62,
+      "end": 620.9,
+      "text": "So now, if it may be, listen to me. I take no\\npleasure in weeping after supper — and dawn"
+    },
+    {
+      "start": 620.9,
+      "end": 627.94,
+      "text": "will come, early-born, soon enough. Not that I grudge\\nlament for any mortal who dies and meets his doom:"
+    },
+    {
+      "start": 627.94,
+      "end": 633.98,
+      "text": "this is the only honor left to miserable mortals,\\nto cut a lock of hair and let a tear fall down the cheek."
+    },
+    {
+      "start": 633.98,
+      "end": 639.64,
+      "text": "For my brother died too — hardly the meanest of\\nthe Argives. You would know him. I myself never"
+    },
+    {
+      "start": 639.64,
+      "end": 643.94,
+      "text": "met him, never saw him. But beyond other men, they say,"
+    },
+    {
+      "start": 643.94,
+      "end": 647.4,
+      "text": "Antilochus was surpassing swift of foot, and a fighter.\""
+    },
+    {
+      "start": 647.4,
+      "end": 649.68,
+      "text": "Then fair-haired Menelaus answered him:"
+    },
+    {
+      "start": 649.68,
+      "end": 654.92,
+      "text": "\"Dear friend — you have said all a clear-headed\\nman could say or do, even a man older than you."
+    },
+    {
+      "start": 654.92,
+      "end": 659.14,
+      "text": "From such a father you come;\\nhence your clear-headed speech."
+    },
+    {
+      "start": 659.14,
+      "end": 662.24,
+      "text": "Easily known is the seed of a\\nman for whom the son of Cronos"
+    },
+    {
+      "start": 662.24,
+      "end": 668.38,
+      "text": "spins out happiness at his marriage and his begetting —\\nas now he has granted Nestor, through all his days,"
+    },
+    {
+      "start": 668.38,
+      "end": 673.84,
+      "text": "to grow old sleek in his own halls,\\nand his sons to be wise and the best of spearmen."
+    },
+    {
+      "start": 673.84,
+      "end": 679.48,
+      "text": "So we will let the weeping go, which came on us before,\\nand think again of supper. Let them pour water"
+    },
+    {
+      "start": 679.48,
+      "end": 685.42,
+      "text": "over our hands. And at dawn there will be tales again\\nfor Telemachus and me to tell through to each other.\""
+    },
+    {
+      "start": 685.42,
+      "end": 691.42,
+      "text": "So he spoke, and Asphalion poured water over their\\nhands, the busy henchman of glorious Menelaus,"
+    },
+    {
+      "start": 691.42,
+      "end": 695.26,
+      "text": "and their hands went out to the\\ngood things spread before them."
+    },
+    {
+      "start": 695.26,
+      "end": 699.22,
+      "text": "Then Helen, daughter of Zeus, thought of one thing more:"
+    },
+    {
+      "start": 699.22,
+      "end": 702.02,
+      "text": "into the wine they were drinking\\nshe straightway cast a drug"
+    },
+    {
+      "start": 702.02,
+      "end": 706.7,
+      "text": "that undoes grief and anger and\\nbrings forgetfulness of every evil."
+    },
+    {
+      "start": 706.7,
+      "end": 712.76,
+      "text": "Whoever swallowed it down, once mixed in the bowl,\\nwould let no tear fall down his cheeks that day,"
+    },
+    {
+      "start": 712.76,
+      "end": 715.66,
+      "text": "not though his mother and his father lay there dead,"
+    },
+    {
+      "start": 715.66,
+      "end": 721.32,
+      "text": "not though before his face men put his brother or\\nhis own son to the bronze, and his own eyes saw it."
+    },
+    {
+      "start": 721.32,
+      "end": 728.2,
+      "text": "Such were the subtle drugs the daughter of Zeus possessed,\\ngood drugs, given her by Polydamna, wife of Thon,"
+    },
+    {
+      "start": 728.2,
+      "end": 731.3,
+      "text": "the Egyptian — for there the grain-giving plowland bears"
+    },
+    {
+      "start": 731.3,
+      "end": 737.84,
+      "text": "drugs in greatest plenty, many good in the mixing,\\nmany baneful; and every man there is a healer beyond all"
+    },
+    {
+      "start": 737.84,
+      "end": 741.24,
+      "text": "humankind: for they are of the race of Paeeon."
+    },
+    {
+      "start": 741.24,
+      "end": 747.18,
+      "text": "When she had cast it in, and bidden the wine be\\npoured, she took up the talk again, and said:"
+    },
+    {
+      "start": 747.18,
+      "end": 753.7,
+      "text": "\"Menelaus, son of Atreus, nurtured of Zeus — and you,\\nsons of good men. To this man and that Zeus gives"
+    },
+    {
+      "start": 753.7,
+      "end": 757.9,
+      "text": "good and evil, now one, now another:\\nfor he can do all things."
+    },
+    {
+      "start": 757.9,
+      "end": 760.32,
+      "text": "So now — feast where you sit in the halls"
+    },
+    {
+      "start": 760.32,
+      "end": 764.56,
+      "text": "and take your pleasure in tales.\\nAnd I will tell one that fits the hour."
+    },
+    {
+      "start": 764.56,
+      "end": 770.1,
+      "text": "All of it I could not tell, could not so much as number —\\nall the trials of enduring-hearted Odysseus;"
+    },
+    {
+      "start": 770.1,
+      "end": 772.34,
+      "text": "but here is one thing that mighty man did and dared"
+    },
+    {
+      "start": 772.34,
+      "end": 776.54,
+      "text": "in the Trojans' country,\\nwhere you Achaeans suffered your pains."
+    },
+    {
+      "start": 776.54,
+      "end": 782.36,
+      "text": "He beat his own body with disfiguring blows,\\nthrew a foul rag over his shoulders, and like a house-slave"
+    },
+    {
+      "start": 782.36,
+      "end": 787.62,
+      "text": "he slipped into the wide-wayed city of his enemies —\\nhiding himself, in the likeness of another man,"
+    },
+    {
+      "start": 787.62,
+      "end": 791.84,
+      "text": "a beggar: he who was nothing of\\nthe kind by the Achaean ships."
+    },
+    {
+      "start": 791.84,
+      "end": 794.92,
+      "text": "In that shape he slipped into the\\nTrojans' city, and all of them"
+    },
+    {
+      "start": 794.92,
+      "end": 797.82,
+      "text": "were taken in. I alone knew him for what he was,"
+    },
+    {
+      "start": 797.82,
+      "end": 801.6,
+      "text": "and questioned him; and he in\\nhis cunning kept slipping away."
+    },
+    {
+      "start": 801.6,
+      "end": 804.74,
+      "text": "But when at last I was bathing\\nhim and rubbing him with oil,"
+    },
+    {
+      "start": 804.74,
+      "end": 809.38,
+      "text": "and had put clothes on him, and sworn a strong\\noath not to reveal Odysseus to the Trojans"
+    },
+    {
+      "start": 809.38,
+      "end": 815.76,
+      "text": "before he reached the fast ships and the huts,\\nthen at last he told me all the Achaeans had in mind."
+    },
+    {
+      "start": 815.76,
+      "end": 818.2,
+      "text": "And he killed many Trojans with the long-edged bronze"
+    },
+    {
+      "start": 818.2,
+      "end": 822.22,
+      "text": "on his way back to the Argives,\\nand brought back a harvest of knowledge."
+    },
+    {
+      "start": 822.22,
+      "end": 825.18,
+      "text": "Then the other women of Troy wailed shrill. But my heart"
+    },
+    {
+      "start": 825.18,
+      "end": 828.12,
+      "text": "rejoiced — for my heart had turned already toward going"
+    },
+    {
+      "start": 828.12,
+      "end": 831.16,
+      "text": "home again, and I mourned too late the madness Aphrodite"
+    },
+    {
+      "start": 831.16,
+      "end": 834.9,
+      "text": "gave me, when she led me there from my own dear country,"
+    },
+    {
+      "start": 834.9,
+      "end": 840.56,
+      "text": "forsaking my child, my bridal chamber,\\nand a husband lacking nothing, in mind or in beauty.\""
+    },
+    {
+      "start": 840.56,
+      "end": 842.76,
+      "text": "Then fair-haired Menelaus answered her:"
+    },
+    {
+      "start": 842.76,
+      "end": 846.42,
+      "text": "\"Yes, wife: all this you have\\ntold rightly, in due measure."
+    },
+    {
+      "start": 846.42,
+      "end": 851.28,
+      "text": "By now I have learned the counsel and the mind of\\nmany heroes, and traveled over much of the earth,"
+    },
+    {
+      "start": 851.28,
+      "end": 855.82,
+      "text": "but never yet have my eyes looked on such a\\none as the heart of enduring-hearted Odysseus."
+    },
+    {
+      "start": 855.82,
+      "end": 861.54,
+      "text": "Here is one more thing that mighty man did and dared\\ninside the carved horse, where we sat, all the best"
+    },
+    {
+      "start": 861.54,
+      "end": 865.1,
+      "text": "of the Argives, carrying death and doom to the Trojans."
+    },
+    {
+      "start": 865.1,
+      "end": 870.72,
+      "text": "Then you came there — some spirit must have moved you,\\none that willed to hand glory to the Trojans —"
+    },
+    {
+      "start": 870.72,
+      "end": 873.56,
+      "text": "and godlike Deiphobus came following after you."
+    },
+    {
+      "start": 873.56,
+      "end": 879.54,
+      "text": "Three times you circled the hollow ambush, stroking it,\\nand you called by name the best of the Danaans,"
+    },
+    {
+      "start": 879.54,
+      "end": 882.32,
+      "text": "making your voice the voice of each Argive's wife."
+    },
+    {
+      "start": 882.32,
+      "end": 888.5,
+      "text": "And I and the son of Tydeus and noble Odysseus,\\nsitting in the middle of them, heard you calling;"
+    },
+    {
+      "start": 888.5,
+      "end": 893.16,
+      "text": "and the two of us were wild to spring up\\nand come out, or answer at once from within."
+    },
+    {
+      "start": 893.16,
+      "end": 896.98,
+      "text": "But Odysseus held us down,\\nand checked us for all our longing."
+    },
+    {
+      "start": 896.98,
+      "end": 902.66,
+      "text": "Then all the other sons of the Achaeans kept silence;\\nAnticlus alone was bent on giving you an answer —"
+    },
+    {
+      "start": 902.66,
+      "end": 905.16,
+      "text": "but Odysseus clamped his great hands over his mouth"
+    },
+    {
+      "start": 905.16,
+      "end": 909.5,
+      "text": "and held them there, unyielding,\\nand saved all the Achaeans:"
+    },
+    {
+      "start": 909.5,
+      "end": 914.18,
+      "text": "he held him so until Pallas Athena led you away.\""
+    },
+    {
+      "start": 914.18,
+      "end": 917.36,
+      "text": "Then clear-headed Telemachus answered him:"
+    },
+    {
+      "start": 917.36,
+      "end": 921.96,
+      "text": "\"Menelaus, son of Atreus,\\nZeus-nurtured, leader of peoples —"
+    },
+    {
+      "start": 921.96,
+      "end": 928.54,
+      "text": "the more grief: for none of this kept bitter death from him,\\nnot though the heart inside him had been iron."
+    },
+    {
+      "start": 928.54,
+      "end": 935.3,
+      "text": "But come — send us to bed now, so that at last\\nwe may lie down and take our joy of sweet sleep.\""
+    },
+    {
+      "start": 935.3,
+      "end": 938.04,
+      "text": "So he spoke; and Argive Helen ordered the slave-women"
+    },
+    {
+      "start": 938.04,
+      "end": 944.98,
+      "text": "to set out bedsteads under the porch, and to lay on\\nthem beautiful purple blankets, and spread rugs above,"
+    },
+    {
+      "start": 944.98,
+      "end": 948.24,
+      "text": "and fleecy cloaks on top of all, for cover."
+    },
+    {
+      "start": 948.24,
+      "end": 954.52,
+      "text": "Out of the hall they went with torches in their hands\\nand made the beds; and a herald led the guests out."
+    },
+    {
+      "start": 954.52,
+      "end": 960.14,
+      "text": "So they slept there in the forecourt of the house,\\nthe hero Telemachus and Nestor's shining son;"
+    },
+    {
+      "start": 960.14,
+      "end": 963.58,
+      "text": "but Atreus' son slept in the inner room of the high house,"
+    },
+    {
+      "start": 963.58,
+      "end": 967.56,
+      "text": "and beside him lay long-robed Helen, shining among women."
+    },
+    {
+      "start": 967.56,
+      "end": 971.44,
+      "text": "When Dawn appeared, the early-born, with fingers of rose,"
+    },
+    {
+      "start": 971.44,
+      "end": 974.38,
+      "text": "Menelaus of the great war-cry rose up from his bed,"
+    },
+    {
+      "start": 974.38,
+      "end": 978.6,
+      "text": "put on his clothes, slung his\\nsharp sword about his shoulder,"
+    },
+    {
+      "start": 978.6,
+      "end": 984.72,
+      "text": "bound the beautiful sandals beneath his shining feet,\\nand came out of his bedroom looking like a god."
+    },
+    {
+      "start": 984.72,
+      "end": 989.46,
+      "text": "He sat down beside Telemachus,\\nand spoke a word, and named him:"
+    },
+    {
+      "start": 989.46,
+      "end": 995.58,
+      "text": "\"What need has brought you here, hero Telemachus,\\nto shining Lacedaemon, over the broad back of the sea?"
+    },
+    {
+      "start": 995.58,
+      "end": 999.84,
+      "text": "A public matter or private?\\nTell me the plain truth of it.\""
+    },
+    {
+      "start": 999.84,
+      "end": 1002.58,
+      "text": "Then clear-headed Telemachus answered him:"
+    },
+    {
+      "start": 1002.58,
+      "end": 1006.72,
+      "text": "\"Menelaus, son of Atreus,\\nZeus-nurtured, leader of peoples,"
+    },
+    {
+      "start": 1006.72,
+      "end": 1010.04,
+      "text": "I came in hope you might tell me some word of my father."
+    },
+    {
+      "start": 1010.04,
+      "end": 1016.66,
+      "text": "My house is being eaten; my rich fields are ruined;\\nthe house is packed with enemies, who day upon day"
+    },
+    {
+      "start": 1016.66,
+      "end": 1020.58,
+      "text": "slaughter my thronging flocks and\\nmy shambling crook-horned cattle —"
+    },
+    {
+      "start": 1020.58,
+      "end": 1022.96,
+      "text": "my mother's suitors, with their overweening insolence."
+    },
+    {
+      "start": 1022.96,
+      "end": 1029.38,
+      "text": "That is why I come now to your knees: in hope you will\\nconsent to tell his bitter death — whether you saw it"
+    },
+    {
+      "start": 1029.38,
+      "end": 1032.88,
+      "text": "with your own eyes, or heard the tale of him from another"
+    },
+    {
+      "start": 1032.88,
+      "end": 1035.74,
+      "text": "wanderer. Beyond all men his mother bore him for sorrow."
+    },
+    {
+      "start": 1035.74,
+      "end": 1038.58,
+      "text": "Do not soften anything from courtesy or pity:"
+    },
+    {
+      "start": 1038.58,
+      "end": 1041.26,
+      "text": "tell me fully whatever sight you came upon."
+    },
+    {
+      "start": 1041.26,
+      "end": 1046.5,
+      "text": "I beg you — if ever my father, good Odysseus,\\npromised you word or work and made it good"
+    },
+    {
+      "start": 1046.5,
+      "end": 1049.66,
+      "text": "in the Trojans' country,\\nwhere you Achaeans suffered your pains,"
+    },
+    {
+      "start": 1049.66,
+      "end": 1053.6,
+      "text": "remember it for me now: tell me the unerring truth.\""
+    },
+    {
+      "start": 1053.6,
+      "end": 1056.84,
+      "text": "Then fair-haired Menelaus, greatly stirred, replied:"
+    },
+    {
+      "start": 1056.84,
+      "end": 1059.96,
+      "text": "\"Shame on them! Truly in the bed of a strong-hearted man"
+    },
+    {
+      "start": 1059.96,
+      "end": 1063.58,
+      "text": "they want to lie — the spineless creatures that they are!"
+    },
+    {
+      "start": 1063.58,
+      "end": 1068.34,
+      "text": "As when a deer beds down her newborn suckling\\nfawns in the thicket-lair of a mighty lion,"
+    },
+    {
+      "start": 1068.34,
+      "end": 1074.22,
+      "text": "and goes questing the spurs and grassy hollows,\\ngrazing — and then the lion comes back to his own bed"
+    },
+    {
+      "start": 1074.22,
+      "end": 1076.9,
+      "text": "and lets an ugly doom loose on them both:"
+    },
+    {
+      "start": 1076.9,
+      "end": 1080.14,
+      "text": "so Odysseus will let an ugly doom loose on those men."
+    },
+    {
+      "start": 1080.14,
+      "end": 1086.56,
+      "text": "If only — father Zeus, Athena, Apollo! —\\nthe man he was long ago in strong-founded Lesbos,"
+    },
+    {
+      "start": 1086.56,
+      "end": 1092.72,
+      "text": "when he rose on a challenge and wrestled Philomeleides\\nand threw him hard, and all the Achaeans cheered:"
+    },
+    {
+      "start": 1092.72,
+      "end": 1096.58,
+      "text": "such as he was then, let that\\nOdysseus close with the suitors:"
+    },
+    {
+      "start": 1096.58,
+      "end": 1099.78,
+      "text": "quick would their fates be then,\\nand bitter their weddings."
+    },
+    {
+      "start": 1099.78,
+      "end": 1106.08,
+      "text": "As for what you ask of me and beg me: I will not talk\\naround it, swerving aside, and I will not deceive you."
+    },
+    {
+      "start": 1106.08,
+      "end": 1111.14,
+      "text": "What the unerring Old Man of the Sea told me,\\nnot one word of it will I hide or cover from you."
+    },
+    {
+      "start": 1111.14,
+      "end": 1114.9,
+      "text": "In Egypt the gods still held me, hungry as I was for home,"
+    },
+    {
+      "start": 1114.9,
+      "end": 1117.44,
+      "text": "because I had not offered them their full hecatombs —"
+    },
+    {
+      "start": 1117.44,
+      "end": 1120.6,
+      "text": "and the gods will always have\\ntheir commandments remembered."
+    },
+    {
+      "start": 1120.6,
+      "end": 1125.78,
+      "text": "Now there is an island in the much-surging sea\\noff the mouth of Egypt — Pharos, men call it,"
+    },
+    {
+      "start": 1125.78,
+      "end": 1129.96,
+      "text": "as far out as a hollow ship runs in a whole\\nday with a whistling wind astern of her —"
+    },
+    {
+      "start": 1129.96,
+      "end": 1133.12,
+      "text": "and in it a harbor, good anchorage, from which men launch"
+    },
+    {
+      "start": 1133.12,
+      "end": 1136.8,
+      "text": "their trim ships to sea, once they have drawn black water."
+    },
+    {
+      "start": 1136.8,
+      "end": 1142.22,
+      "text": "There the gods held me twenty days: never once\\nthe sea-winds blowing fair, that speed ships"
+    },
+    {
+      "start": 1142.22,
+      "end": 1144.22,
+      "text": "over the broad back of the sea."
+    },
+    {
+      "start": 1144.22,
+      "end": 1147.5,
+      "text": "And now all our stores would have\\nbeen spent, and the men's strength,"
+    },
+    {
+      "start": 1147.5,
+      "end": 1151.0,
+      "text": "had not one of the gods pitied me and saved me:"
+    },
+    {
+      "start": 1151.0,
+      "end": 1157.72,
+      "text": "the daughter of mighty Proteus, the Old Man of the Sea —\\nEidothea. For I stirred her heart beyond the rest"
+    },
+    {
+      "start": 1157.72,
+      "end": 1161.28,
+      "text": "when she met me wandering alone,\\napart from my companions —"
+    },
+    {
+      "start": 1161.28,
+      "end": 1167.06,
+      "text": "for they were forever roving round the island,\\nfishing with bent hooks, their bellies pinched with hunger."
+    },
+    {
+      "start": 1167.06,
+      "end": 1169.54,
+      "text": "She stood close by me and spoke, and said:"
+    },
+    {
+      "start": 1169.54,
+      "end": 1173.24,
+      "text": "'Are you a fool, stranger — so slack, so loose of wit?"
+    },
+    {
+      "start": 1173.24,
+      "end": 1176.6,
+      "text": "Or do you slacken by choice, and enjoy your suffering?"
+    },
+    {
+      "start": 1176.6,
+      "end": 1182.4,
+      "text": "So long you are held on the island, and can find no\\nending of it, while your companions' hearts grow small.'"
+    },
+    {
+      "start": 1182.4,
+      "end": 1184.06,
+      "text": "So she spoke, and I answered her:"
+    },
+    {
+      "start": 1184.06,
+      "end": 1188.06,
+      "text": "'I will say this straight,\\nwhichever of the goddesses you are:"
+    },
+    {
+      "start": 1188.06,
+      "end": 1194.64,
+      "text": "I am not held here by any will of mine. I must have\\nsinned against the deathless ones who hold wide heaven."
+    },
+    {
+      "start": 1194.64,
+      "end": 1200.7,
+      "text": "But tell me — for the gods know all things — which of\\nthe immortals shackles me here and has bound my road,"
+    },
+    {
+      "start": 1200.7,
+      "end": 1204.32,
+      "text": "and my homecoming — how I shall\\ngo over the fish-filled sea.'"
+    },
+    {
+      "start": 1204.32,
+      "end": 1208.22,
+      "text": "So I spoke, and the shining goddess answered at once:"
+    },
+    {
+      "start": 1208.22,
+      "end": 1210.96,
+      "text": "'Then I will tell you, stranger, and tell you truly."
+    },
+    {
+      "start": 1210.96,
+      "end": 1216.78,
+      "text": "There haunts this place an unerring Old Man of the Sea,\\ndeathless Proteus of Egypt, who knows the depths"
+    },
+    {
+      "start": 1216.78,
+      "end": 1219.94,
+      "text": "of every sea — Poseidon's under-servant."
+    },
+    {
+      "start": 1219.94,
+      "end": 1222.86,
+      "text": "He, they say, is my father, who begot me."
+    },
+    {
+      "start": 1222.86,
+      "end": 1225.74,
+      "text": "If you could somehow set an ambush and take hold of him,"
+    },
+    {
+      "start": 1225.74,
+      "end": 1228.54,
+      "text": "he would tell you the road,\\nand the measures of your journey,"
+    },
+    {
+      "start": 1228.54,
+      "end": 1232.1,
+      "text": "and your homecoming — how you\\nshall go over the fish-filled sea."
+    },
+    {
+      "start": 1232.1,
+      "end": 1236.88,
+      "text": "And he would tell you too, Zeus-nurtured, if you wish,\\nwhatever evil and good have been done in your halls"
+    },
+    {
+      "start": 1236.88,
+      "end": 1240.24,
+      "text": "while you have been gone on your long and grinding road.'"
+    },
+    {
+      "start": 1240.24,
+      "end": 1242.62,
+      "text": "So she spoke, and I answered her:"
+    },
+    {
+      "start": 1242.62,
+      "end": 1249.22,
+      "text": "'Devise the ambush yourself, for this old god —\\nor he will see me first, or know beforehand, and escape me."
+    },
+    {
+      "start": 1249.22,
+      "end": 1251.76,
+      "text": "A god is hard for a mortal man to master.'"
+    },
+    {
+      "start": 1251.76,
+      "end": 1254.7,
+      "text": "So I spoke, and the shining goddess answered at once:"
+    },
+    {
+      "start": 1254.7,
+      "end": 1257.62,
+      "text": "'Then I will tell you, stranger, and tell you truly."
+    },
+    {
+      "start": 1257.62,
+      "end": 1263.42,
+      "text": "When the sun bestrides the middle of heaven,\\nthen the unerring Old Man of the Sea comes out of the water"
+    },
+    {
+      "start": 1263.42,
+      "end": 1266.84,
+      "text": "under the West Wind's breath,\\nhidden in the dark shiver of the sea,"
+    },
+    {
+      "start": 1266.84,
+      "end": 1269.6,
+      "text": "and coming out he beds down under the hollow caves;"
+    },
+    {
+      "start": 1269.6,
+      "end": 1272.68,
+      "text": "and around him seals, the brood\\nof the sea's lovely daughter,"
+    },
+    {
+      "start": 1272.68,
+      "end": 1278.46,
+      "text": "sleep in a crowd, come up out of the gray salt water,\\nbreathing out the sharp smell of the deep brine."
+    },
+    {
+      "start": 1278.46,
+      "end": 1284.14,
+      "text": "There I will bring you at the showing of dawn and bed\\nyou down in the row. Choose well three companions,"
+    },
+    {
+      "start": 1284.14,
+      "end": 1286.28,
+      "text": "the best you have by the well-benched ships."
+    },
+    {
+      "start": 1286.28,
+      "end": 1288.34,
+      "text": "And I will tell you all the old man's tricks."
+    },
+    {
+      "start": 1288.34,
+      "end": 1294.16,
+      "text": "First he will count his seals, and go over them;\\nand when he has told them off by fives and seen them all,"
+    },
+    {
+      "start": 1294.16,
+      "end": 1297.3,
+      "text": "he will lie down in their midst,\\nlike a herdsman in his flocks."
+    },
+    {
+      "start": 1297.3,
+      "end": 1301.52,
+      "text": "The moment you see him settled down,\\nthen let strength and force be all your thought:"
+    },
+    {
+      "start": 1301.52,
+      "end": 1305.38,
+      "text": "hold him there for all his struggling,\\nhowever he strains to escape."
+    },
+    {
+      "start": 1305.38,
+      "end": 1308.16,
+      "text": "He will make trial of everything, turning into all things"
+    },
+    {
+      "start": 1308.16,
+      "end": 1312.08,
+      "text": "that creep upon the earth —\\ninto water, into god-kindled fire;"
+    },
+    {
+      "start": 1312.08,
+      "end": 1314.72,
+      "text": "but hold him unshakably, and press him the harder."
+    },
+    {
+      "start": 1314.72,
+      "end": 1319.84,
+      "text": "And when at last he questions you with words himself,\\nin the same shape you saw him settle to sleep,"
+    },
+    {
+      "start": 1319.84,
+      "end": 1325.64,
+      "text": "then leave off your force, hero: set the old man loose,\\nand ask him which of the gods bears hard on you,"
+    },
+    {
+      "start": 1325.64,
+      "end": 1329.22,
+      "text": "and your homecoming — how you\\nshall go over the fish-filled sea.'"
+    },
+    {
+      "start": 1329.22,
+      "end": 1332.0,
+      "text": "So speaking she plunged under the surging sea."
+    },
+    {
+      "start": 1332.0,
+      "end": 1337.32,
+      "text": "And I went to the ships where they stood in the sand,\\nand my heart ran dark with many things as I went."
+    },
+    {
+      "start": 1337.32,
+      "end": 1342.8,
+      "text": "And when I had come down to the ship and the sea,\\nwe made our supper, and ambrosial night came on,"
+    },
+    {
+      "start": 1342.8,
+      "end": 1345.66,
+      "text": "and we lay down to sleep on the surf-line of the sea."
+    },
+    {
+      "start": 1345.66,
+      "end": 1351.96,
+      "text": "When Dawn appeared, the early-born, with fingers of rose,\\nI set out along the shore of the wide-wayed sea,"
+    },
+    {
+      "start": 1351.96,
+      "end": 1357.86,
+      "text": "praying hard to the gods; and I took three companions,\\nthe three I trusted most for every venture."
+    },
+    {
+      "start": 1357.86,
+      "end": 1363.14,
+      "text": "She meanwhile had slipped under the wide gulf of the\\nsea and brought up out of the deep four sealskins,"
+    },
+    {
+      "start": 1363.14,
+      "end": 1366.7,
+      "text": "all fresh-flayed: she was plotting\\nan ambush against her own father."
+    },
+    {
+      "start": 1366.7,
+      "end": 1372.22,
+      "text": "She had scooped out beds in the sea-sand and sat\\nthere waiting. And we came up close beside her,"
+    },
+    {
+      "start": 1372.22,
+      "end": 1375.78,
+      "text": "and she bedded us down in the row,\\nand threw a skin over each."
+    },
+    {
+      "start": 1375.78,
+      "end": 1378.66,
+      "text": "There our ambush would have been most horrible: the deadly"
+    },
+    {
+      "start": 1378.66,
+      "end": 1381.74,
+      "text": "stench of the salt-bred seals ground us down horribly —"
+    },
+    {
+      "start": 1381.74,
+      "end": 1384.48,
+      "text": "who would lay himself down beside a beast of the sea? —"
+    },
+    {
+      "start": 1384.48,
+      "end": 1387.98,
+      "text": "but she herself saved us; she devised a great relief:"
+    },
+    {
+      "start": 1387.98,
+      "end": 1391.26,
+      "text": "she brought ambrosia and set it under each man's nose,"
+    },
+    {
+      "start": 1391.26,
+      "end": 1394.22,
+      "text": "breathing sweetness,\\nand it killed the stench of the beast."
+    },
+    {
+      "start": 1394.22,
+      "end": 1400.84,
+      "text": "All the morning we waited, with enduring hearts,\\nand the seals came crowding up out of the sea, and then"
+    },
+    {
+      "start": 1400.84,
+      "end": 1404.04,
+      "text": "lay down in rows along the surf-line of the sea;"
+    },
+    {
+      "start": 1404.04,
+      "end": 1407.8,
+      "text": "and at midday the old man came\\nout of the sea, and found his fat"
+    },
+    {
+      "start": 1407.8,
+      "end": 1411.28,
+      "text": "seals, and went over them all, and counted the number —"
+    },
+    {
+      "start": 1411.28,
+      "end": 1417.46,
+      "text": "and among the beasts he counted us the first,\\nhis heart never guessing the trick. Then he too lay down."
+    },
+    {
+      "start": 1417.46,
+      "end": 1419.86,
+      "text": "Then we rushed him with a shout, and threw our arms"
+    },
+    {
+      "start": 1419.86,
+      "end": 1425.82,
+      "text": "around him; and the old man did not forget his cunning art,\\nbut first he turned to a great-bearded lion,"
+    },
+    {
+      "start": 1425.82,
+      "end": 1432.38,
+      "text": "and then to a serpent, a leopard, a huge boar;\\nhe turned to running water, to a tree in towering leaf;"
+    },
+    {
+      "start": 1432.38,
+      "end": 1435.54,
+      "text": "and we held on unshakably, with enduring hearts."
+    },
+    {
+      "start": 1435.54,
+      "end": 1441.68,
+      "text": "But when at last the old man wearied, for all his tricks,\\nthen he questioned me with words, and said:"
+    },
+    {
+      "start": 1441.68,
+      "end": 1444.2,
+      "text": "'Which of the gods, son of Atreus, laid the plan with you"
+    },
+    {
+      "start": 1444.2,
+      "end": 1448.04,
+      "text": "to take me by ambush against my will? What do you need?'"
+    },
+    {
+      "start": 1448.04,
+      "end": 1449.94,
+      "text": "So he spoke, and I answered him:"
+    },
+    {
+      "start": 1449.94,
+      "end": 1455.62,
+      "text": "'You know, old man — why ask me sideways? —\\nhow long I am held on this island, and can find"
+    },
+    {
+      "start": 1455.62,
+      "end": 1458.86,
+      "text": "no ending of it, and the heart inside me grows small."
+    },
+    {
+      "start": 1458.86,
+      "end": 1465.04,
+      "text": "But tell me — for the gods know all things — which of\\nthe immortals shackles me here and has bound my road,"
+    },
+    {
+      "start": 1465.04,
+      "end": 1469.08,
+      "text": "and my homecoming — how I shall\\ngo over the fish-filled sea.'"
+    },
+    {
+      "start": 1469.08,
+      "end": 1471.42,
+      "text": "So I spoke, and he answered me at once:"
+    },
+    {
+      "start": 1471.42,
+      "end": 1477.1,
+      "text": "'But you should have offered fair victims to Zeus and\\nthe other gods before embarking, to come most quickly"
+    },
+    {
+      "start": 1477.1,
+      "end": 1480.44,
+      "text": "to your own country, sailing the wine-dark sea."
+    },
+    {
+      "start": 1480.44,
+      "end": 1486.38,
+      "text": "For it is not your portion to see your own people,\\nto reach your well-built house and your own fatherland,"
+    },
+    {
+      "start": 1486.38,
+      "end": 1492.02,
+      "text": "before you go back again to the waters of Egypt,\\nthe river fallen from Zeus, and offer holy hecatombs"
+    },
+    {
+      "start": 1492.02,
+      "end": 1495.04,
+      "text": "to the deathless gods who hold wide heaven."
+    },
+    {
+      "start": 1495.04,
+      "end": 1497.86,
+      "text": "Then the gods will give you the road you long for.'"
+    },
+    {
+      "start": 1497.86,
+      "end": 1502.6,
+      "text": "So he spoke, and my heart broke within me,\\nbecause he sent me back over the misted sea"
+    },
+    {
+      "start": 1502.6,
+      "end": 1505.88,
+      "text": "to Egypt again — the long and grinding road."
+    },
+    {
+      "start": 1505.88,
+      "end": 1507.86,
+      "text": "Even so I answered him and said:"
+    },
+    {
+      "start": 1507.86,
+      "end": 1511.34,
+      "text": "'All this I will do, old man, just as you command."
+    },
+    {
+      "start": 1511.34,
+      "end": 1514.28,
+      "text": "But come, tell me this, and tell it to me truly:"
+    },
+    {
+      "start": 1514.28,
+      "end": 1517.24,
+      "text": "did all the Achaeans come home unharmed in their ships,"
+    },
+    {
+      "start": 1517.24,
+      "end": 1520.58,
+      "text": "all whom Nestor and I left\\nbehind when we sailed from Troy?"
+    },
+    {
+      "start": 1520.58,
+      "end": 1523.34,
+      "text": "Or did any die a bitter death aboard his ship,"
+    },
+    {
+      "start": 1523.34,
+      "end": 1527.3,
+      "text": "or in the arms of his friends,\\nonce he had wound the war to its end?'"
+    },
+    {
+      "start": 1527.3,
+      "end": 1529.68,
+      "text": "So I spoke, and he answered me at once:"
+    },
+    {
+      "start": 1529.68,
+      "end": 1535.74,
+      "text": "'Son of Atreus, why ask me this? You have no need to know,\\nno need to learn my mind. Not long, I tell you,"
+    },
+    {
+      "start": 1535.74,
+      "end": 1538.86,
+      "text": "will you keep from tears,\\nonce you have heard the whole of it."
+    },
+    {
+      "start": 1538.86,
+      "end": 1543.86,
+      "text": "Many of them were broken, and many were left;\\nbut of the leaders of the bronze-shirted Achaeans, two"
+    },
+    {
+      "start": 1543.86,
+      "end": 1547.38,
+      "text": "alone died on the homeward way —\\nthe fighting you saw yourself —"
+    },
+    {
+      "start": 1547.38,
+      "end": 1551.06,
+      "text": "and one, still living somewhere,\\nis held back on the wide sea."
+    },
+    {
+      "start": 1551.06,
+      "end": 1554.06,
+      "text": "Ajax was broken among his long-oared ships."
+    },
+    {
+      "start": 1554.06,
+      "end": 1558.78,
+      "text": "Poseidon drove him first against the great rocks\\nof Gyrae — and yet he saved him from the sea;"
+    },
+    {
+      "start": 1558.78,
+      "end": 1562.4,
+      "text": "and he would have escaped his doom,\\nthough Athena hated him,"
+    },
+    {
+      "start": 1562.4,
+      "end": 1566.3,
+      "text": "had he not flung out an overweening\\nword in his great blindness:"
+    },
+    {
+      "start": 1566.3,
+      "end": 1570.86,
+      "text": "he said it was in the gods' despite he\\nhad escaped the great gulf of the sea."
+    },
+    {
+      "start": 1570.86,
+      "end": 1575.56,
+      "text": "Poseidon heard his loud boasting,\\nand straightway took his trident in his massive hands"
+    },
+    {
+      "start": 1575.56,
+      "end": 1579.3,
+      "text": "and struck the rock of Gyrae, and split it apart:"
+    },
+    {
+      "start": 1579.3,
+      "end": 1582.96,
+      "text": "one part held its place,\\nbut the broken piece fell in the sea —"
+    },
+    {
+      "start": 1582.96,
+      "end": 1586.28,
+      "text": "the piece where Ajax sat when\\nthe great blindness took him —"
+    },
+    {
+      "start": 1586.28,
+      "end": 1589.72,
+      "text": "and it carried him down into the boundless surging deep."
+    },
+    {
+      "start": 1589.72,
+      "end": 1592.82,
+      "text": "So he died there, when he had drunk the salt water."
+    },
+    {
+      "start": 1592.82,
+      "end": 1599.08,
+      "text": "But your brother somehow slipped the fates,\\nescaped them in his hollow ships: the lady Hera saved him."
+    },
+    {
+      "start": 1599.08,
+      "end": 1604.06,
+      "text": "Yet when he was all but come to the steep height\\nof Malea, then a storm-wind snatched him up"
+    },
+    {
+      "start": 1604.06,
+      "end": 1610.42,
+      "text": "and carried him, groaning heavily, over the fish-filled\\nsea to the border of the country where Thyestes once"
+    },
+    {
+      "start": 1610.42,
+      "end": 1615.0,
+      "text": "had his house, and now Thyestes' son Aegisthus lived."
+    },
+    {
+      "start": 1615.0,
+      "end": 1621.94,
+      "text": "But when from there too a safe homecoming showed,\\nand the gods turned the wind fair, and they reached home —"
+    },
+    {
+      "start": 1621.94,
+      "end": 1627.94,
+      "text": "oh, rejoicing he set foot on his fathers' land,\\nand touched his country and kissed it: the hot tears"
+    },
+    {
+      "start": 1627.94,
+      "end": 1631.68,
+      "text": "streamed from him, so glad he was to see his land."
+    },
+    {
+      "start": 1631.68,
+      "end": 1634.8,
+      "text": "But from a lookout a watchman saw him — posted there"
+    },
+    {
+      "start": 1634.8,
+      "end": 1638.1,
+      "text": "by Aegisthus of the crooked counsels, who had promised him"
+    },
+    {
+      "start": 1638.1,
+      "end": 1642.16,
+      "text": "two talents of gold for wages: a full year he had watched,"
+    },
+    {
+      "start": 1642.16,
+      "end": 1647.1,
+      "text": "so the king might not slip past unseen\\nand remember his fighting strength."
+    },
+    {
+      "start": 1647.1,
+      "end": 1650.66,
+      "text": "The man went with his news to the house,\\nto the shepherd of the people,"
+    },
+    {
+      "start": 1650.66,
+      "end": 1653.76,
+      "text": "and at once Aegisthus laid his treacherous craft:"
+    },
+    {
+      "start": 1653.76,
+      "end": 1655.76,
+      "text": "he picked the twenty best men in the land"
+    },
+    {
+      "start": 1655.76,
+      "end": 1660.5,
+      "text": "and set an ambush, and across the\\nhall he ordered a feast made ready;"
+    },
+    {
+      "start": 1660.5,
+      "end": 1663.9,
+      "text": "and then he went to summon Agamemnon,\\nshepherd of the people,"
+    },
+    {
+      "start": 1663.9,
+      "end": 1668.16,
+      "text": "with horses and chariots —\\nand unspeakable things in his mind."
+    },
+    {
+      "start": 1668.16,
+      "end": 1674.52,
+      "text": "He led him up unwitting of his death, and killed him\\nat the dinner — as a man cuts down an ox at the manger."
+    },
+    {
+      "start": 1674.52,
+      "end": 1678.36,
+      "text": "Not one of the companions of Atreus'\\nson was left, who followed him,"
+    },
+    {
+      "start": 1678.36,
+      "end": 1682.54,
+      "text": "and not one of Aegisthus' men:\\nthey were killed in the halls.'"
+    },
+    {
+      "start": 1682.54,
+      "end": 1688.04,
+      "text": "So he spoke, and my heart broke within me,\\nand I wept, sitting there in the sand; my heart"
+    },
+    {
+      "start": 1688.04,
+      "end": 1691.12,
+      "text": "had no more will to live and see the light of the sun."
+    },
+    {
+      "start": 1691.12,
+      "end": 1696.8,
+      "text": "But when I had had my fill of weeping and writhing,\\nthen the unerring Old Man of the Sea said to me:"
+    },
+    {
+      "start": 1696.8,
+      "end": 1703.84,
+      "text": "'No more now, son of Atreus, this long unbending weeping:\\nwe shall find no cure in it. Quick as you can,"
+    },
+    {
+      "start": 1703.84,
+      "end": 1706.44,
+      "text": "try how you may come back to your own fatherland."
+    },
+    {
+      "start": 1706.44,
+      "end": 1708.88,
+      "text": "Either you will find him alive — or Orestes"
+    },
+    {
+      "start": 1708.88,
+      "end": 1712.88,
+      "text": "has already killed him first,\\nand you may come in time for the burying.'"
+    },
+    {
+      "start": 1712.88,
+      "end": 1718.26,
+      "text": "So he spoke; and the heart and the proud spirit in\\nmy breast, for all my grieving, were warmed again,"
+    },
+    {
+      "start": 1718.26,
+      "end": 1721.36,
+      "text": "and lifting my voice I spoke winged words to him:"
+    },
+    {
+      "start": 1721.36,
+      "end": 1724.48,
+      "text": "'These men I now know of. But name the third man:"
+    },
+    {
+      "start": 1724.48,
+      "end": 1730.18,
+      "text": "the one still living, held back on the wide sea —\\nor dead. Grieved as I am, I want to hear it.'"
+    },
+    {
+      "start": 1730.18,
+      "end": 1732.6,
+      "text": "So I spoke, and he answered me at once:"
+    },
+    {
+      "start": 1732.6,
+      "end": 1735.24,
+      "text": "'The son of Laertes, whose home is in Ithaca."
+    },
+    {
+      "start": 1735.24,
+      "end": 1740.76,
+      "text": "I saw him on an island, letting the big tears fall,\\nin the halls of the nymph Calypso, who holds him there"
+    },
+    {
+      "start": 1740.76,
+      "end": 1747.8,
+      "text": "by force; and he cannot come to his own fatherland,\\nfor he has no ships at hand, no oars, no companions"
+    },
+    {
+      "start": 1747.8,
+      "end": 1750.92,
+      "text": "to carry him over the broad back of the sea."
+    },
+    {
+      "start": 1750.92,
+      "end": 1757.8,
+      "text": "But for you, Zeus-nurtured Menelaus, it is not fated\\nto die in horse-grazing Argos and meet your doom:"
+    },
+    {
+      "start": 1757.8,
+      "end": 1760.16,
+      "text": "the deathless ones will carry you to the Elysian plain"
+    },
+    {
+      "start": 1760.16,
+      "end": 1766.16,
+      "text": "and the ends of the earth — where fair-haired\\nRhadamanthus is, where life is easiest of all for men:"
+    },
+    {
+      "start": 1766.16,
+      "end": 1772.44,
+      "text": "no snow, no heavy winter, never rain, but always\\nOcean sends up the breath of the singing West Wind"
+    },
+    {
+      "start": 1772.44,
+      "end": 1777.76,
+      "text": "to bring men coolness — because Helen is\\nyours, and you are son-in-law to Zeus.'"
+    },
+    {
+      "start": 1777.76,
+      "end": 1780.46,
+      "text": "So speaking he plunged under the surging sea."
+    },
+    {
+      "start": 1780.46,
+      "end": 1786.54,
+      "text": "And I went to the ships with my godlike companions,\\nand my heart ran dark with many things as I went."
+    },
+    {
+      "start": 1786.54,
+      "end": 1789.6,
+      "text": "We made our supper, and ambrosial night came on,"
+    },
+    {
+      "start": 1789.6,
+      "end": 1792.76,
+      "text": "and we lay down to sleep on the surf-line of the sea."
+    },
+    {
+      "start": 1792.76,
+      "end": 1795.84,
+      "text": "When Dawn appeared, the early-born, with fingers of rose,"
+    },
+    {
+      "start": 1795.84,
+      "end": 1799.04,
+      "text": "first of all we hauled our ships\\ndown to the bright salt water"
+    },
+    {
+      "start": 1799.04,
+      "end": 1801.74,
+      "text": "and set the masts and the sails in the trim ships,"
+    },
+    {
+      "start": 1801.74,
+      "end": 1805.3,
+      "text": "and the men came aboard and took\\ntheir places at the oarlocks,"
+    },
+    {
+      "start": 1805.3,
+      "end": 1808.88,
+      "text": "and sitting in order they struck\\nthe gray salt water with their oars."
+    },
+    {
+      "start": 1808.88,
+      "end": 1814.48,
+      "text": "Back to Egypt I brought the ships, to the river\\nfallen from Zeus, and I offered the full hecatombs;"
+    },
+    {
+      "start": 1814.48,
+      "end": 1817.14,
+      "text": "and when I had put to rest the\\nanger of the gods who are forever,"
+    },
+    {
+      "start": 1817.14,
+      "end": 1821.88,
+      "text": "I heaped a mound for Agamemnon,\\nthat his fame might never be quenched."
+    },
+    {
+      "start": 1821.88,
+      "end": 1824.66,
+      "text": "That done, I sailed for home, and the immortals gave me"
+    },
+    {
+      "start": 1824.66,
+      "end": 1827.86,
+      "text": "a wind, and brought me quickly to my own dear country."
+    },
+    {
+      "start": 1827.86,
+      "end": 1832.04,
+      "text": "But come now — stay on in my halls\\nuntil the eleventh day, or the twelfth;"
+    },
+    {
+      "start": 1832.04,
+      "end": 1836.12,
+      "text": "then I will send you off with honor,\\nand give you shining gifts:"
+    },
+    {
+      "start": 1836.12,
+      "end": 1842.02,
+      "text": "three horses and a polished chariot; and besides I\\nwill give you a beautiful cup, so that you may pour"
+    },
+    {
+      "start": 1842.02,
+      "end": 1845.64,
+      "text": "to the deathless gods and remember me all your days.\""
+    },
+    {
+      "start": 1845.64,
+      "end": 1848.66,
+      "text": "Then clear-headed Telemachus answered him:"
+    },
+    {
+      "start": 1848.66,
+      "end": 1851.68,
+      "text": "\"Son of Atreus, do not hold me here for long."
+    },
+    {
+      "start": 1851.68,
+      "end": 1856.24,
+      "text": "A year I could gladly sit here at your side\\nand no ache for home or parents would take me:"
+    },
+    {
+      "start": 1856.24,
+      "end": 1862.68,
+      "text": "such strange delight I have in hearing your tales\\nand your words. But my companions chafe already"
+    },
+    {
+      "start": 1862.68,
+      "end": 1866.52,
+      "text": "in holy Pylos, and you would hold me long here."
+    },
+    {
+      "start": 1866.52,
+      "end": 1869.94,
+      "text": "As for the gift you would give me —\\nlet it be some treasure."
+    },
+    {
+      "start": 1869.94,
+      "end": 1873.04,
+      "text": "The horses I will not take to\\nIthaca: I will leave them here"
+    },
+    {
+      "start": 1873.04,
+      "end": 1880.92,
+      "text": "for you, for your own glory. For you are lord of a\\nwide plain, where lotus grows in plenty, and galingale,"
+    },
+    {
+      "start": 1880.92,
+      "end": 1882.9,
+      "text": "and wheat and spelt and broad white barley."
+    },
+    {
+      "start": 1882.9,
+      "end": 1887.46,
+      "text": "In Ithaca there are no wide courses, no meadowland at all:"
+    },
+    {
+      "start": 1887.46,
+      "end": 1891.42,
+      "text": "goat-pasture — and lovelier to me than horse-pasture."
+    },
+    {
+      "start": 1891.42,
+      "end": 1894.8,
+      "text": "Not one of the islands that lean on\\nthe sea is fit for driving horses,"
+    },
+    {
+      "start": 1894.8,
+      "end": 1898.44,
+      "text": "or rich in meadows — and Ithaca beyond them all.\""
+    },
+    {
+      "start": 1898.44,
+      "end": 1902.24,
+      "text": "So he spoke; and Menelaus of the great war-cry smiled,"
+    },
+    {
+      "start": 1902.24,
+      "end": 1905.8,
+      "text": "and stroked him with his hand,\\nand spoke a word, and named him:"
+    },
+    {
+      "start": 1905.8,
+      "end": 1909.26,
+      "text": "\"You are of good blood, dear child — such things you say!"
+    },
+    {
+      "start": 1909.26,
+      "end": 1912.32,
+      "text": "Then I will change the gifts for you; well I can."
+    },
+    {
+      "start": 1912.32,
+      "end": 1918.22,
+      "text": "Of all the treasures lying stored in my house I\\nwill give you the most beautiful, the most honored:"
+    },
+    {
+      "start": 1918.22,
+      "end": 1923.26,
+      "text": "I will give you a wrought mixing-bowl —\\nall silver it is, and its rims are finished off in gold —"
+    },
+    {
+      "start": 1923.26,
+      "end": 1929.62,
+      "text": "the work of Hephaestus. The hero Phaedimus gave it,\\nking of the Sidonians, when his house sheltered me"
+    },
+    {
+      "start": 1929.62,
+      "end": 1933.46,
+      "text": "on my way home there. This I would send with you.\""
+    },
+    {
+      "start": 1933.46,
+      "end": 1939.5,
+      "text": "So the two of them spoke such things to one another,\\nwhile the feasters came up to the godlike king's house,"
+    },
+    {
+      "start": 1939.5,
+      "end": 1943.8,
+      "text": "driving sheep before them,\\ncarrying wine that puts heart in men,"
+    },
+    {
+      "start": 1943.8,
+      "end": 1946.68,
+      "text": "and their fair-veiled wives sent bread along with them."
+    },
+    {
+      "start": 1946.68,
+      "end": 1952.34,
+      "text": "But the suitors, in front of Odysseus' hall,\\nwere amusing themselves with discus and javelin throws"
+    },
+    {
+      "start": 1952.34,
+      "end": 1957.02,
+      "text": "on the leveled ground, insolent as ever,\\nwhere they always played."
+    },
+    {
+      "start": 1957.02,
+      "end": 1963.44,
+      "text": "There Antinous sat, and godlike Eurymachus,\\nchiefs of the suitors, in prowess far the best of them all."
+    },
+    {
+      "start": 1963.44,
+      "end": 1969.08,
+      "text": "To them Noemon, Phronius' son,\\ncame up and questioned Antinous, and said:"
+    },
+    {
+      "start": 1969.08,
+      "end": 1973.3,
+      "text": "\"Antinous, do we know at all — or not —\\nwhen Telemachus comes back from sandy Pylos?"
+    },
+    {
+      "start": 1973.3,
+      "end": 1975.56,
+      "text": "He went off with my ship, and now I need her"
+    },
+    {
+      "start": 1975.56,
+      "end": 1979.14,
+      "text": "to cross to Elis of the wide\\ndancing-grounds, where I keep twelve"
+    },
+    {
+      "start": 1979.14,
+      "end": 1985.22,
+      "text": "brood mares, with hard-working mules at the teat,\\nunbroken: I would drive one off and break him in.\""
+    },
+    {
+      "start": 1985.22,
+      "end": 1988.72,
+      "text": "So he spoke, and their hearts were\\nastonished: they had never thought"
+    },
+    {
+      "start": 1988.72,
+      "end": 1991.94,
+      "text": "he had gone to Neleian Pylos —\\nsurely he was somewhere near,"
+    },
+    {
+      "start": 1991.94,
+      "end": 1995.48,
+      "text": "out at the farms with the flocks, or with the swineherd."
+    },
+    {
+      "start": 1995.48,
+      "end": 1998.32,
+      "text": "Then Antinous, Eupeithes' son, answered him:"
+    },
+    {
+      "start": 1998.32,
+      "end": 2001.08,
+      "text": "\"Tell me the truth of it:\\nwhen did he go, and what young men"
+    },
+    {
+      "start": 2001.08,
+      "end": 2007.46,
+      "text": "went with him? Picked men of Ithaca — or his own\\nhired hands and slaves? He could manage even that!"
+    },
+    {
+      "start": 2007.46,
+      "end": 2010.78,
+      "text": "And tell me this too, honestly, so that I may know it:"
+    },
+    {
+      "start": 2010.78,
+      "end": 2014.26,
+      "text": "did he take the black ship from\\nyou by force, against your will,"
+    },
+    {
+      "start": 2014.26,
+      "end": 2017.9,
+      "text": "or did you give it freely,\\nbecause he begged you with fine words?\""
+    },
+    {
+      "start": 2017.9,
+      "end": 2020.48,
+      "text": "Then Noemon, Phronius' son, answered him:"
+    },
+    {
+      "start": 2020.48,
+      "end": 2025.26,
+      "text": "\"I gave it freely, myself. What would any man do\\nwhen such a man, with cares heavy on his heart,"
+    },
+    {
+      "start": 2025.26,
+      "end": 2028.36,
+      "text": "asked? It would be hard to refuse the gift."
+    },
+    {
+      "start": 2028.36,
+      "end": 2032.92,
+      "text": "The young men who went with him are the best in the\\nland after ourselves. And for their leader I marked"
+    },
+    {
+      "start": 2032.92,
+      "end": 2037.1,
+      "text": "Mentor going aboard — or a god, the very image of him."
+    },
+    {
+      "start": 2037.1,
+      "end": 2039.7,
+      "text": "But here is what I wonder at: I saw noble Mentor"
+    },
+    {
+      "start": 2039.7,
+      "end": 2044.36,
+      "text": "yesterday at dawn, right here —\\nand he had boarded the ship for Pylos.\""
+    },
+    {
+      "start": 2044.36,
+      "end": 2047.08,
+      "text": "So he spoke, and went away to his father's house."
+    },
+    {
+      "start": 2047.08,
+      "end": 2049.58,
+      "text": "And the proud hearts of the two of them were stunned."
+    },
+    {
+      "start": 2049.58,
+      "end": 2055.46,
+      "text": "They sat the suitors down in a body and stopped their\\ngames, and among them spoke Antinous, Eupeithes' son,"
+    },
+    {
+      "start": 2055.46,
+      "end": 2061.64,
+      "text": "in anger: his black-brimming heart was hugely filled\\nwith fury, and his eyes were like blazing fire:"
+    },
+    {
+      "start": 2061.64,
+      "end": 2064.82,
+      "text": "\"Damn it all — a great work insolently accomplished,"
+    },
+    {
+      "start": 2064.82,
+      "end": 2068.18,
+      "text": "this voyage of Telemachus!\\nAnd we said it would come to nothing."
+    },
+    {
+      "start": 2068.18,
+      "end": 2071.78,
+      "text": "In the teeth of all of us, a mere boy has simply gone:"
+    },
+    {
+      "start": 2071.78,
+      "end": 2074.52,
+      "text": "hauled down a ship, and picked the best men in the land."
+    },
+    {
+      "start": 2074.52,
+      "end": 2077.92,
+      "text": "He will begin to be our ruin, and soon. May Zeus"
+    },
+    {
+      "start": 2077.92,
+      "end": 2081.18,
+      "text": "destroy his strength before he\\nreaches the measure of manhood!"
+    },
+    {
+      "start": 2081.18,
+      "end": 2086.94,
+      "text": "But come, give me a fast ship and twenty companions,\\nso I may watch for him and ambush him on his way home,"
+    },
+    {
+      "start": 2086.94,
+      "end": 2089.64,
+      "text": "in the strait between Ithaca and rugged Samos —"
+    },
+    {
+      "start": 2089.64,
+      "end": 2093.52,
+      "text": "so this sailing after his father\\nmay cost him grim and dear.\""
+    },
+    {
+      "start": 2093.52,
+      "end": 2096.58,
+      "text": "So he spoke, and they all approved it and urged it on."
+    },
+    {
+      "start": 2096.58,
+      "end": 2100.12,
+      "text": "They rose at once and went into the house of Odysseus."
+    },
+    {
+      "start": 2100.12,
+      "end": 2105.74,
+      "text": "Nor was Penelope long in ignorance of the schemes\\nthe suitors were brewing deep in their hearts:"
+    },
+    {
+      "start": 2105.74,
+      "end": 2109.34,
+      "text": "for the herald Medon told her,\\nwho had overheard their plans,"
+    },
+    {
+      "start": 2109.34,
+      "end": 2113.06,
+      "text": "standing outside the court while\\nthey wove their plot within."
+    },
+    {
+      "start": 2113.06,
+      "end": 2116.12,
+      "text": "He went through the house to bring the news to Penelope,"
+    },
+    {
+      "start": 2116.12,
+      "end": 2119.94,
+      "text": "and as he crossed the threshold Penelope said to him:"
+    },
+    {
+      "start": 2119.94,
+      "end": 2122.64,
+      "text": "\"Herald, why have the lordly suitors sent you in?"
+    },
+    {
+      "start": 2122.64,
+      "end": 2128.24,
+      "text": "To tell the slave-women of godlike Odysseus to\\nleave their work and make the feast ready for them?"
+    },
+    {
+      "start": 2128.24,
+      "end": 2135.26,
+      "text": "May they never woo again, never gather anywhere else —\\nmay this be the last supper they ever eat here,"
+    },
+    {
+      "start": 2135.26,
+      "end": 2138.66,
+      "text": "they who swarm in day after day and shear away the living,"
+    },
+    {
+      "start": 2138.66,
+      "end": 2142.38,
+      "text": "the substance of clear-headed\\nTelemachus! Did you never hear,"
+    },
+    {
+      "start": 2142.38,
+      "end": 2146.24,
+      "text": "in years gone by, when you were\\nchildren, from your fathers,"
+    },
+    {
+      "start": 2146.24,
+      "end": 2150.12,
+      "text": "what kind of man Odysseus was\\namong your parents' generation?"
+    },
+    {
+      "start": 2150.12,
+      "end": 2156.8,
+      "text": "Never a deed out of measure, never an unjust word in\\nall the land — though that is the way of godlike kings:"
+    },
+    {
+      "start": 2156.8,
+      "end": 2163.14,
+      "text": "one mortal a king will hate, another he may love;\\nbut that man never did outrage to a single soul."
+    },
+    {
+      "start": 2163.14,
+      "end": 2166.38,
+      "text": "No — your hearts are on show, and your ugly works:"
+    },
+    {
+      "start": 2166.38,
+      "end": 2170.5,
+      "text": "there is no gratitude left,\\nafterward, for good deeds done.\""
+    },
+    {
+      "start": 2170.5,
+      "end": 2174.18,
+      "text": "Then Medon answered her, a man of clear-headed sense:"
+    },
+    {
+      "start": 2174.18,
+      "end": 2177.04,
+      "text": "\"Would to god, my queen, that this were the worst of it."
+    },
+    {
+      "start": 2177.04,
+      "end": 2179.82,
+      "text": "A greater evil by far, and harder to bear,"
+    },
+    {
+      "start": 2179.82,
+      "end": 2184.3,
+      "text": "the suitors are plotting now —\\nmay the son of Cronos never accomplish it:"
+    },
+    {
+      "start": 2184.3,
+      "end": 2187.3,
+      "text": "they are bent on cutting Telemachus\\ndown with the sharp bronze"
+    },
+    {
+      "start": 2187.3,
+      "end": 2193.58,
+      "text": "on his way home. He went for news of his father\\nto holy Pylos and to shining Lacedaemon.\""
+    },
+    {
+      "start": 2193.58,
+      "end": 2198.1,
+      "text": "So he spoke, and there where she stood\\nher knees went loose, and her heart;"
+    },
+    {
+      "start": 2198.1,
+      "end": 2201.54,
+      "text": "for a long time speechlessness held her words; her eyes"
+    },
+    {
+      "start": 2201.54,
+      "end": 2205.68,
+      "text": "filled up with tears; the flower of her voice was stopped."
+    },
+    {
+      "start": 2205.68,
+      "end": 2208.84,
+      "text": "At long last she found words to answer him:"
+    },
+    {
+      "start": 2208.84,
+      "end": 2214.18,
+      "text": "\"Herald, why is my child gone? There was no need to\\nboard the fast-running ships, that are men's horses"
+    },
+    {
+      "start": 2214.18,
+      "end": 2217.64,
+      "text": "of the salt water, and cross the great wet waste."
+    },
+    {
+      "start": 2217.64,
+      "end": 2221.5,
+      "text": "Is it so that not even his name should be left among men?\""
+    },
+    {
+      "start": 2221.5,
+      "end": 2224.76,
+      "text": "Then Medon answered her, a man of clear-headed sense:"
+    },
+    {
+      "start": 2224.76,
+      "end": 2230.08,
+      "text": "\"I do not know whether some god stirred him,\\nor whether his own heart drove him to go to Pylos, to learn"
+    },
+    {
+      "start": 2230.08,
+      "end": 2233.38,
+      "text": "either his father's homecoming, or what doom he met.\""
+    },
+    {
+      "start": 2233.38,
+      "end": 2236.82,
+      "text": "So he spoke, and went away down\\nthrough the house of Odysseus."
+    },
+    {
+      "start": 2236.82,
+      "end": 2240.16,
+      "text": "And heart-eating anguish poured\\naround her; she could no longer"
+    },
+    {
+      "start": 2240.16,
+      "end": 2243.18,
+      "text": "bear to sit on a chair, though the house was full of them,"
+    },
+    {
+      "start": 2243.18,
+      "end": 2246.58,
+      "text": "but sank down on the threshold\\nof her richly-worked chamber,"
+    },
+    {
+      "start": 2246.58,
+      "end": 2253.44,
+      "text": "moaning pitiably; and around her whimpered the slave-women,\\nall of them, young and old, that the house held."
+    },
+    {
+      "start": 2253.44,
+      "end": 2256.28,
+      "text": "And sobbing hard, Penelope said among them:"
+    },
+    {
+      "start": 2256.28,
+      "end": 2259.38,
+      "text": "\"Hear me, dear women. The Olympian has given me sorrows"
+    },
+    {
+      "start": 2259.38,
+      "end": 2262.68,
+      "text": "beyond all the women who were bred and born beside me."
+    },
+    {
+      "start": 2262.68,
+      "end": 2268.6,
+      "text": "Long ago I lost my noble husband, the lion-hearted,\\ngraced among the Danaans with every excellence,"
+    },
+    {
+      "start": 2268.6,
+      "end": 2273.8,
+      "text": "that noble man, whose fame goes wide\\nthrough Hellas and the heart of Argos."
+    },
+    {
+      "start": 2273.8,
+      "end": 2276.94,
+      "text": "And now again the storm-winds\\nhave snatched my beloved son,"
+    },
+    {
+      "start": 2276.94,
+      "end": 2281.34,
+      "text": "without glory, out of these halls,\\nand I never heard him go."
+    },
+    {
+      "start": 2281.34,
+      "end": 2286.86,
+      "text": "Hard-hearted! Not even you — not one of you —\\nthought to wake me from my bed, though your hearts knew well"
+    },
+    {
+      "start": 2286.86,
+      "end": 2289.94,
+      "text": "the hour he went down to the black hollow ship."
+    },
+    {
+      "start": 2289.94,
+      "end": 2292.62,
+      "text": "If I had learned that he was pondering this journey,"
+    },
+    {
+      "start": 2292.62,
+      "end": 2295.5,
+      "text": "then either he would have stayed,\\nfor all his hunger for the road,"
+    },
+    {
+      "start": 2295.5,
+      "end": 2298.88,
+      "text": "or he would have left me dead in these halls behind him."
+    },
+    {
+      "start": 2298.88,
+      "end": 2304.56,
+      "text": "But now let someone run and call old Dolius, my slave,\\nwhom my father gave me when I first came here,"
+    },
+    {
+      "start": 2304.56,
+      "end": 2311.0,
+      "text": "who keeps my orchard of many trees — so that quickly\\nhe may go sit beside Laertes and tell him all of it."
+    },
+    {
+      "start": 2311.0,
+      "end": 2316.2,
+      "text": "Perhaps Laertes may weave some plan in his heart,\\nand come out and weep before the people, who are bent"
+    },
+    {
+      "start": 2316.2,
+      "end": 2320.04,
+      "text": "on destroying his line and the line of godlike Odysseus.\""
+    },
+    {
+      "start": 2320.04,
+      "end": 2324.38,
+      "text": "Then the dear nurse Eurycleia said to her:"
+    },
+    {
+      "start": 2324.38,
+      "end": 2327.08,
+      "text": "\"Dear bride — kill me with the pitiless bronze"
+    },
+    {
+      "start": 2327.08,
+      "end": 2331.5,
+      "text": "or leave me in the house,\\nbut I will not hide the story from you."
+    },
+    {
+      "start": 2331.5,
+      "end": 2337.88,
+      "text": "I knew all of it. I gave him what he ordered,\\nbread and sweet wine. And he took a great oath from me"
+    },
+    {
+      "start": 2337.88,
+      "end": 2343.46,
+      "text": "not to tell you before the twelfth day came,\\nor you missed him yourself and heard that he was gone —"
+    },
+    {
+      "start": 2343.46,
+      "end": 2346.62,
+      "text": "so you would not mar your lovely skin with weeping."
+    },
+    {
+      "start": 2346.62,
+      "end": 2352.2,
+      "text": "Now bathe, and take clean clothing for your body,\\nand go up to your upper room with your attendant women,"
+    },
+    {
+      "start": 2352.2,
+      "end": 2355.1,
+      "text": "and pray to Athena, daughter of aegis-bearing Zeus:"
+    },
+    {
+      "start": 2355.1,
+      "end": 2358.3,
+      "text": "she may yet save him, even out of death itself."
+    },
+    {
+      "start": 2358.3,
+      "end": 2363.9,
+      "text": "And do not grieve a grieving old man more.\\nI cannot think the blessed gods have wholly hated the line"
+    },
+    {
+      "start": 2363.9,
+      "end": 2370.34,
+      "text": "of Arceisius' son: someone will yet be left to hold\\nthe high-roofed house and the fat fields far around.\""
+    },
+    {
+      "start": 2370.34,
+      "end": 2374.28,
+      "text": "So she spoke, and lulled her lament,\\nand stayed her eyes from weeping."
+    },
+    {
+      "start": 2374.28,
+      "end": 2377.4,
+      "text": "And she bathed, and took clean clothing for her body,"
+    },
+    {
+      "start": 2377.4,
+      "end": 2379.88,
+      "text": "and went up to her upper room with her attendant women,"
+    },
+    {
+      "start": 2379.88,
+      "end": 2383.44,
+      "text": "and set the barley-grains in a\\nbasket, and prayed to Athena:"
+    },
+    {
+      "start": 2383.44,
+      "end": 2387.16,
+      "text": "\"Hear me, child of aegis-bearing Zeus, Unwearied One."
+    },
+    {
+      "start": 2387.16,
+      "end": 2393.16,
+      "text": "If ever Odysseus of the many designs, in these halls,\\nburned fat thigh-cuts of ox or sheep for you,"
+    },
+    {
+      "start": 2393.16,
+      "end": 2399.14,
+      "text": "remember them for me now: save my dear son,\\nand beat away the suitors in their evil overbearing pride.\""
+    },
+    {
+      "start": 2399.14,
+      "end": 2402.56,
+      "text": "So she cried the ritual cry;\\nand the goddess heard her prayer."
+    },
+    {
+      "start": 2402.56,
+      "end": 2406.36,
+      "text": "But the suitors broke into\\nuproar through the shadowy halls,"
+    },
+    {
+      "start": 2406.36,
+      "end": 2408.82,
+      "text": "and thus would one of the arrogant young men say:"
+    },
+    {
+      "start": 2408.82,
+      "end": 2411.3,
+      "text": "\"So the much-courted queen is making ready a marriage"
+    },
+    {
+      "start": 2411.3,
+      "end": 2415.08,
+      "text": "for one of us — and knows nothing\\nof the death prepared for her son.\""
+    },
+    {
+      "start": 2415.08,
+      "end": 2417.94,
+      "text": "So they would say — knowing nothing of what was prepared."
+    },
+    {
+      "start": 2417.94,
+      "end": 2420.4,
+      "text": "And Antinous addressed them all, and said:"
+    },
+    {
+      "start": 2420.4,
+      "end": 2425.72,
+      "text": "\"Fools! Keep clear of overweening talk of any\\nkind — or someone may carry the word inside."
+    },
+    {
+      "start": 2425.72,
+      "end": 2430.16,
+      "text": "Up now, in silence, and let us accomplish\\nthe plan that pleased us all in our hearts.\""
+    },
+    {
+      "start": 2430.16,
+      "end": 2433.0,
+      "text": "So he spoke, and picked the twenty best men,"
+    },
+    {
+      "start": 2433.0,
+      "end": 2436.28,
+      "text": "and they went down to the fast\\nship and the sand-beach of the sea."
+    },
+    {
+      "start": 2436.28,
+      "end": 2441.7,
+      "text": "First of all they hauled the ship down to deep water,\\nand set the mast and the sails in the black ship,"
+    },
+    {
+      "start": 2441.7,
+      "end": 2446.74,
+      "text": "and fitted the oars into their leather slings,\\nall in due order, and spread the white sails open;"
+    },
+    {
+      "start": 2446.74,
+      "end": 2449.66,
+      "text": "and high-spirited henchmen carried down their arms."
+    },
+    {
+      "start": 2449.66,
+      "end": 2452.76,
+      "text": "They moored her well out in the water, and came ashore,"
+    },
+    {
+      "start": 2452.76,
+      "end": 2455.42,
+      "text": "and there they took their supper,\\nand waited for evening to come."
+    },
+    {
+      "start": 2455.42,
+      "end": 2462.2,
+      "text": "But she in her upper room, watchful-minded Penelope,\\nlay fasting, tasting neither food nor drink,"
+    },
+    {
+      "start": 2462.2,
+      "end": 2467.96,
+      "text": "turning it over: whether her blameless son would escape\\ndeath, or be broken under the overweening suitors."
+    },
+    {
+      "start": 2467.96,
+      "end": 2473.88,
+      "text": "As a lion turns and turns amid a crowd of men,\\nin dread, as they draw the treacherous circle round him,"
+    },
+    {
+      "start": 2473.88,
+      "end": 2476.7,
+      "text": "so she was turning when the deep sleep came upon her;"
+    },
+    {
+      "start": 2476.7,
+      "end": 2480.24,
+      "text": "and she sank back and slept,\\nand all her joints went loose."
+    },
+    {
+      "start": 2480.24,
+      "end": 2485.08,
+      "text": "Then the goddess thought of one\\nthing more, gray-eyed Athena."
+    },
+    {
+      "start": 2485.08,
+      "end": 2491.6,
+      "text": "She made a phantom, fashioned in the likeness of a woman —\\nIphthime, daughter of great-hearted Icarius,"
+    },
+    {
+      "start": 2491.6,
+      "end": 2497.48,
+      "text": "wed to Eumelus, whose home was in Pherae —\\nand sent it to the house of godlike Odysseus,"
+    },
+    {
+      "start": 2497.48,
+      "end": 2503.54,
+      "text": "so that it might bring Penelope, weeping and mourning,\\nsome pause from lamentation and tear-filled grief."
+    },
+    {
+      "start": 2503.54,
+      "end": 2509.94,
+      "text": "Into the chamber it came, past the strap of the bolt,\\nand stood above her head, and said to her:"
+    },
+    {
+      "start": 2509.94,
+      "end": 2513.04,
+      "text": "\"Do you sleep, Penelope, your heart worn with grief?"
+    },
+    {
+      "start": 2513.04,
+      "end": 2518.3,
+      "text": "No — the gods who live at ease will not have you weep\\nand be anguished: for your son has his homecoming"
+    },
+    {
+      "start": 2518.3,
+      "end": 2522.14,
+      "text": "still; he is no sinner in the sight of the gods.\""
+    },
+    {
+      "start": 2522.14,
+      "end": 2527.1,
+      "text": "Then watchful-minded Penelope answered her —\\nslumbering very sweetly at the gates of dream:"
+    },
+    {
+      "start": 2527.1,
+      "end": 2532.48,
+      "text": "\"Why have you come here, sister? You have not\\nbeen used to come before: your home is far away."
+    },
+    {
+      "start": 2532.48,
+      "end": 2537.82,
+      "text": "And you bid me leave off my misery and all\\nthe pains that crowd my mind and heart."
+    },
+    {
+      "start": 2537.82,
+      "end": 2543.48,
+      "text": "Long ago I lost my noble husband, the lion-hearted,\\ngraced among the Danaans with every excellence,"
+    },
+    {
+      "start": 2543.48,
+      "end": 2548.02,
+      "text": "that noble man, whose fame goes wide\\nthrough Hellas and the heart of Argos."
+    },
+    {
+      "start": 2548.02,
+      "end": 2551.28,
+      "text": "And now again my beloved son has gone in a hollow ship,"
+    },
+    {
+      "start": 2551.28,
+      "end": 2554.78,
+      "text": "a mere boy, unpracticed in\\nhardships and the meetings of men."
+    },
+    {
+      "start": 2554.78,
+      "end": 2557.58,
+      "text": "It is for him I mourn even more than for that other;"
+    },
+    {
+      "start": 2557.58,
+      "end": 2561.62,
+      "text": "for him I tremble, for him I fear,\\nthat something may strike him,"
+    },
+    {
+      "start": 2561.62,
+      "end": 2564.96,
+      "text": "whether among the men of the land\\nhe has gone to, or on the sea."
+    },
+    {
+      "start": 2564.96,
+      "end": 2570.46,
+      "text": "For many enemies are scheming against him, hungry to\\nkill him before he comes back to his own country.\""
+    },
+    {
+      "start": 2570.46,
+      "end": 2572.44,
+      "text": "And the dim phantom answered her:"
+    },
+    {
+      "start": 2572.44,
+      "end": 2575.6,
+      "text": "\"Take heart. Do not fear too greatly in your mind."
+    },
+    {
+      "start": 2575.6,
+      "end": 2581.24,
+      "text": "Such an escort goes with him as other men have prayed\\nto have stand beside them — for she has power —"
+    },
+    {
+      "start": 2581.24,
+      "end": 2584.52,
+      "text": "Pallas Athena. And she pities you your grieving:"
+    },
+    {
+      "start": 2584.52,
+      "end": 2586.66,
+      "text": "it is she who sent me now to tell you this.\""
+    },
+    {
+      "start": 2586.66,
+      "end": 2590.04,
+      "text": "Then watchful-minded Penelope said to her:"
+    },
+    {
+      "start": 2590.04,
+      "end": 2593.22,
+      "text": "\"If you are truly a god,\\nand have heard the voice of a god,"
+    },
+    {
+      "start": 2593.22,
+      "end": 2596.84,
+      "text": "then come — tell me also of\\nthat other, that man of sorrow:"
+    },
+    {
+      "start": 2596.84,
+      "end": 2599.9,
+      "text": "does he live still somewhere,\\nand see the light of the sun,"
+    },
+    {
+      "start": 2599.9,
+      "end": 2603.1,
+      "text": "or is he dead already, down in the house of Hades?\""
+    },
+    {
+      "start": 2603.1,
+      "end": 2605.0,
+      "text": "And the dim phantom answered her:"
+    },
+    {
+      "start": 2605.0,
+      "end": 2607.18,
+      "text": "\"Of him I will not tell the story through —"
+    },
+    {
+      "start": 2607.18,
+      "end": 2611.78,
+      "text": "whether he lives or is dead.\\nIt is evil to speak words empty as wind.\""
+    },
+    {
+      "start": 2611.78,
+      "end": 2617.36,
+      "text": "So speaking it slipped away by the doorpost bolt into\\nthe breath of the winds. And the daughter of Icarius"
+    },
+    {
+      "start": 2617.36,
+      "end": 2620.42,
+      "text": "started up out of sleep, and her heart was warmed:"
+    },
+    {
+      "start": 2620.42,
+      "end": 2624.0,
+      "text": "so vivid a dream had rushed upon\\nher in the dark hour of the night."
+    },
+    {
+      "start": 2624.0,
+      "end": 2627.44,
+      "text": "But the suitors had embarked,\\nand were sailing the watery ways,"
+    },
+    {
+      "start": 2627.44,
+      "end": 2630.46,
+      "text": "turning over in their hearts sheer murder for Telemachus."
+    },
+    {
+      "start": 2630.46,
+      "end": 2635.86,
+      "text": "There is a rocky island in the middle of the sea,\\nmidway between Ithaca and rugged Samos —"
+    },
+    {
+      "start": 2635.86,
+      "end": 2639.22,
+      "text": "Asteris, no great place; but there are harbors in it"
+    },
+    {
+      "start": 2639.22,
+      "end": 2642.234,
+      "text": "fit for ships to lurk in, open at either end.\\nThere the Achaeans waited in ambush."
+    }
+  ]
+}
