@@ -4,9 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>The Odyssey — a Claudyssey</title>
-<meta name="description" content="A complete line-for-line English translation of Homer's Odyssey from the Greek, with a scholarly annotation apparatus and a name index with pronunciations. Free EPUB, Kindle, and PDF editions.">
+<meta name="description" content="A complete line-for-line English translation of Homer's Odyssey from the Greek, with a scholarly annotation apparatus and a name index with pronunciations. Free EPUB, Kindle, and PDF editions, and a full multi-voice audiobook.">
 <meta property="og:title" content="The Odyssey — a Claudyssey">
-<meta property="og:description" content="A complete line-for-line English translation of Homer's Odyssey, with annotations and a name index. Free EPUB, Kindle, PDF.">
+<meta property="og:description" content="A complete line-for-line English translation of Homer's Odyssey, with annotations and a name index. Free EPUB, Kindle, PDF, and a multi-voice audiobook.">
 <meta property="og:image" content="cover.jpg">
 <meta property="og:type" content="book">
 <style>
@@ -60,6 +60,11 @@
   .btn span{font-size:.8rem; opacity:.8}
   .note{font-size:.82rem; opacity:.7; margin-top:14px}
 
+  .player{position:relative; width:100%; aspect-ratio:16/9; margin:18px 0 0;
+    border:1px solid rgba(201,155,63,.45); border-radius:6px; overflow:hidden;
+    background:rgba(0,0,0,.35); box-shadow:0 10px 34px rgba(0,0,0,.45)}
+  .player iframe{position:absolute; inset:0; width:100%; height:100%; border:0}
+
   section{margin:34px 0}
   section h2{font-weight:normal; font-variant:small-caps; letter-spacing:.06em;
     color:var(--gold); border-bottom:1px solid rgba(201,155,63,.3); padding-bottom:6px}
@@ -109,7 +114,7 @@
 </div>
 
 <div class="downloads">
-  <h2>Read it</h2>
+  <h2>Read it, or hear it</h2>
   <div class="btns">
     <a class="btn" href="https://github.com/spinchange/claudyssey/releases/latest/download/odyssey.epub">
       <b>EPUB</b><span>Apple Books, Kobo, Play Books</span></a>
@@ -117,10 +122,27 @@
       <b>Kindle</b><span>AZW3 · Send to Kindle</span></a>
     <a class="btn" href="https://github.com/spinchange/claudyssey/releases/latest/download/odyssey.pdf">
       <b>PDF</b><span>print-style, A5</span></a>
+    <a class="btn" href="https://www.youtube.com/playlist?list=PLDK3kTR7jPDY">
+      <b>Audiobook</b><span>all 24 books · YouTube</span></a>
   </div>
   <p class="note">The EPUB has working bidirectional footnotes and a fully linked index.
      On Apple Books &amp; Kobo the notes appear as tap-to-reveal popups.</p>
 </div>
+
+<section>
+  <h2>Listen</h2>
+  <p>The whole poem read aloud — all twenty-four books, with a separate voice for
+  each speaking character and a narrator between them. Start anywhere; the player's
+  list holds every book in order.</p>
+  <div class="player">
+    <iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=PLDK3kTR7jPDY"
+      title="The Odyssey — audiobook, all 24 books"
+      loading="lazy" allowfullscreen
+      allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"></iframe>
+  </div>
+  <p class="note">Also on <a href="https://www.youtube.com/playlist?list=PLDK3kTR7jPDY">YouTube</a>.</p>
+</section>
 
 <section>
   <h2>What's inside</h2>
@@ -133,6 +155,8 @@
       translation choices — as endnotes at the close of each book.</p></div>
     <div><h3>Indexed &amp; spoken</h3><p>Every named person and place, with a
       traditional anglicized pronunciation and links to every appearance.</p></div>
+    <div><h3>Read aloud</h3><p>A full audiobook of all twenty-four books, cast
+      with a distinct voice for each speaking character.</p></div>
   </div>
 </section>
 
