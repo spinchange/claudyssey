@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-12-227-453",
+  "record_count": 227,
+  "unresolved_count": 0,
+  "findings": [
+    {
+      "id": "O12-227-453-A-001",
+      "severity": "MINOR",
+      "category": "ADDITION"
+    },
+    {
+      "id": "O12-227-453-A-002",
+      "severity": "MINOR",
+      "category": "LEXICAL"
+    },
+    {
+      "id": "O12-227-453-A-003",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O12-227-453-A-004",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O12-227-453-A-005",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O12-227-453-A-006",
+      "severity": "MODERATE",
+      "category": "GRAMMAR"
+    }
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {
+        "review_id": "R1-001",
+        "proposal_key": "12.note-L331-two-line-cluster-called-verbatim"
+      },
+      {
+        "review_id": "R1-002",
+        "proposal_key": "12.note-L389-everything-else-eyewitness"
+      },
+      {
+        "review_id": "R1-003",
+        "proposal_key": "12.397-399-six-day-duration-shifted"
+      }
+    ],
+    "reviewer_2": [
+      {
+        "review_id": "R2-001",
+        "proposal_key": "12.note-L264-hears-before-sees-land"
+      },
+      {
+        "review_id": "R2-002",
+        "proposal_key": "12.281-282-hupno-rendered-sleeplessness"
+      },
+      {
+        "review_id": "R2-003",
+        "proposal_key": "12.note-L338-third-fatal-sleep"
+      },
+      {
+        "review_id": "R2-004",
+        "proposal_key": "12.note-L389-everything-else-eyewitness"
+      },
+      {
+        "review_id": "R2-005",
+        "proposal_key": "12.397-399-six-day-duration-shifted"
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-08-001-195",
+  "record_count": 195,
+  "unresolved_count": 0,
+  "findings": [
+    {
+      "id": "O08-001-195-A-001",
+      "severity": "MINOR",
+      "category": "ADDITION"
+    },
+    {
+      "id": "O08-001-195-A-002",
+      "severity": "MINOR",
+      "category": "LEXICAL"
+    },
+    {
+      "id": "O08-001-195-A-003",
+      "severity": "MODERATE",
+      "category": "LEXICAL"
+    },
+    {
+      "id": "O08-001-195-A-004",
+      "severity": "MINOR",
+      "category": "LEXICAL"
+    },
+    {
+      "id": "O08-001-195-A-005",
+      "severity": "MODERATE",
+      "category": "GRAMMAR"
+    }
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {
+        "review_id": "R1-001",
+        "proposal_key": "8.37-oars-rowlocks-not-benches"
+      },
+      {
+        "review_id": "R1-002",
+        "proposal_key": "8.124-mule-team-furrow-range-not-width"
+      },
+      {
+        "review_id": "R1-003",
+        "proposal_key": "8.153-keleuete-urge-this-on-me"
+      },
+      {
+        "review_id": "R1-004",
+        "proposal_key": "8.166-atasthalos-reckless-not-blinded-folly"
+      },
+      {
+        "review_id": "R1-005",
+        "proposal_key": "8.169-170-words-crowned-with-beauty"
+      }
+    ],
+    "reviewer_2": [
+      {
+        "review_id": "R2-001",
+        "proposal_key": "8.note-35-fifty-two-officers-addition"
+      },
+      {
+        "review_id": "R2-002",
+        "proposal_key": "8.124-mule-team-furrow-range-not-width"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-06-166-331",
+  "record_count": 166,
+  "unresolved_count": 0,
+  "findings": [
+    {
+      "id": "O06-166-331-A-001",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O06-166-331-A-002",
+      "severity": "MINOR",
+      "category": "ADDITION"
+    }
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {
+        "review_id": "R1-001",
+        "proposal_key": "6.216-urged-command-force"
+      },
+      {
+        "review_id": "R1-002",
+        "proposal_key": "6.note-L273-exact-sixteen-age"
+      }
+    ],
+    "reviewer_2": []
+  }
+}

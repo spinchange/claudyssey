@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-01-156-444",
+  "record_count": 289,
+  "reviewer_jaccard": 22.22,
+  "unresolved_count": 2,
+  "reviewer_proposals": {
+    "reviewer_1": [
+      { "review_id": "R1-001", "proposal_key": "1.184-note" },
+      { "review_id": "R1-002", "proposal_key": "1.191-1.362-amphipolos" },
+      { "review_id": "R1-003", "proposal_key": "1.265-formula" },
+      { "review_id": "R1-004", "proposal_key": "1.368-formula" },
+      { "review_id": "R1-005", "proposal_key": "1.398-leissato" },
+      { "review_id": "R1-006", "proposal_key": "1.435-dmoiaon" }
+    ],
+    "reviewer_2": [
+      { "review_id": "R2-001", "proposal_key": "1.191-1.362-amphipolos" },
+      { "review_id": "R2-002", "proposal_key": "1.280-rowers" },
+      { "review_id": "R2-003", "proposal_key": "1.368-formula" },
+      { "review_id": "R2-004", "proposal_key": "1.420-formula" },
+      { "review_id": "R2-005", "proposal_key": "1.436-agency" }
+    ]
+  },
+  "findings": [
+    { "id": "O01-156-444-A-001", "severity": "MODERATE", "category": "MISTRANSLATION" },
+    { "id": "O01-156-444-A-002", "severity": "MINOR", "category": "FORMULA" },
+    { "id": "O01-156-444-A-003", "severity": "MINOR", "category": "FORMULA" },
+    { "id": "O01-156-444-A-004", "severity": "MINOR", "category": "FORMULA" },
+    { "id": "O01-156-444-A-005", "severity": "MINOR", "category": "FORMULA" },
+    { "id": "O01-156-444-A-006", "severity": "MINOR", "category": "FORMULA" }
+  ]
+}

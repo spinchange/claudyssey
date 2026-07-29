@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-07-174-347",
+  "record_count": 174,
+  "unresolved_count": 0,
+  "findings": [
+    {
+      "id": "O07-174-347-A-001",
+      "severity": "MINOR",
+      "category": "GRAMMAR"
+    },
+    {
+      "id": "O07-174-347-A-002",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O07-174-347-A-003",
+      "severity": "MODERATE",
+      "category": "GRAMMAR"
+    },
+    {
+      "id": "O07-174-347-A-004",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    }
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {
+        "review_id": "R1-001",
+        "proposal_key": "7.174-175-service-recipient-number"
+      },
+      {
+        "review_id": "R1-002",
+        "proposal_key": "7.226-227-keleuo-directive-force"
+      }
+    ],
+    "reviewer_2": [
+      {
+        "review_id": "R2-001",
+        "proposal_key": "7.226-227-keleuo-directive-force"
+      },
+      {
+        "review_id": "R2-002",
+        "proposal_key": "7.317-320-sleep-voyage-simultaneity"
+      },
+      {
+        "review_id": "R2-003",
+        "proposal_key": "7.note-L346-verbatim-recurrence-claim"
+      }
+    ]
+  }
+}

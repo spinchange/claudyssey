@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-10-001-191",
+  "record_count": 191,
+  "unresolved_count": 0,
+  "findings": [
+    {
+      "id": "O10-001-191-A-001",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O10-001-191-A-002",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O10-001-191-A-003",
+      "severity": "MINOR",
+      "category": "ADDITION"
+    }
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {
+        "review_id": "R1-001",
+        "proposal_key": "10.56-mainland-on-aeolian-island"
+      },
+      {
+        "review_id": "R1-002",
+        "proposal_key": "10.note-L72-aeolus-plural-divine-hatred-endorsed"
+      },
+      {
+        "review_id": "R1-003",
+        "proposal_key": "10.note-L124-unsupported-five-hundred-men"
+      }
+    ],
+    "reviewer_2": [
+      {
+        "review_id": "R2-001",
+        "proposal_key": "10.note-L120-giants-bloodline-genealogy"
+      },
+      {
+        "review_id": "R2-002",
+        "proposal_key": "10.note-L124-unsupported-five-hundred-men"
+      }
+    ]
+  }
+}

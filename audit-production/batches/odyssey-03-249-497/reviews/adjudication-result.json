@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-03-249-497",
+  "record_count": 249,
+  "unresolved_count": 0,
+  "findings": [
+    {
+      "id": "O03-249-497-A-001",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    }
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {
+        "review_id": "R1-001",
+        "proposal_key": "3.note-372-first-understood-bird-exit"
+      },
+      {
+        "review_id": "R1-002",
+        "proposal_key": "3.408-oil-actuality-versus-comparison"
+      }
+    ],
+    "reviewer_2": [
+      {
+        "review_id": "R2-001",
+        "proposal_key": "3.note-372-first-understood-bird-exit"
+      }
+    ]
+  }
+}

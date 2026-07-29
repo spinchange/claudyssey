@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-10-192-382",
+  "record_count": 191,
+  "unresolved_count": 0,
+  "findings": [
+    {
+      "id": "O10-192-382-A-001",
+      "severity": "MINOR",
+      "category": "LEXICAL"
+    },
+    {
+      "id": "O10-192-382-A-002",
+      "severity": "MINOR",
+      "category": "ADDITION"
+    },
+    {
+      "id": "O10-192-382-A-003",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O10-192-382-A-004",
+      "severity": "MODERATE",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O10-192-382-A-005",
+      "severity": "MODERATE",
+      "category": "MISTRANSLATION"
+    }
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {
+        "review_id": "R1-001",
+        "proposal_key": "10.225-polites-dependability-collapsed-into-affection"
+      },
+      {
+        "review_id": "R1-002",
+        "proposal_key": "10.note-L205-eurylochus-standing-second-in-command"
+      },
+      {
+        "review_id": "R1-003",
+        "proposal_key": "10.notes-L297-L343-calypso-oath-sex-contract"
+      },
+      {
+        "review_id": "R1-004",
+        "proposal_key": "10.note-L304-moly-counter-drug-causality-denied"
+      }
+    ],
+    "reviewer_2": [
+      {
+        "review_id": "R2-001",
+        "proposal_key": "10.note-L277-hermes-only-divine-helper-in-wanderings"
+      }
+    ]
+  }
+}

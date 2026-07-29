@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-04-636-847",
+  "record_count": 212,
+  "unresolved_count": 0,
+  "findings": [
+    { "id": "O04-636-847-A-001", "severity": "MINOR", "category": "ADDITION" },
+    { "id": "O04-636-847-A-002", "severity": "MINOR", "category": "MISTRANSLATION" },
+    { "id": "O04-636-847-A-003", "severity": "MINOR", "category": "MISTRANSLATION" }
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      { "review_id": "R1-001", "proposal_key": "4.note-761-unsupported-nothing-to-slaughter" },
+      { "review_id": "R1-002", "proposal_key": "4.note-791-false-sixty-line-lion-simile-spacing" },
+      { "review_id": "R1-003", "proposal_key": "4.note-837-false-first-mercy-priority" },
+      { "review_id": "R1-004", "proposal_key": "4.note-847-asteris-two-mouthed-harbor" }
+    ],
+    "reviewer_2": [
+      { "review_id": "R2-001", "proposal_key": "4.note-791-false-sixty-line-lion-simile-spacing" },
+      { "review_id": "R2-002", "proposal_key": "4.note-837-false-first-mercy-priority" }
+    ]
+  }
+}

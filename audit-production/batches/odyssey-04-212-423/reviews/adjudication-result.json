@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-04-212-423",
+  "record_count": 212,
+  "unresolved_count": 0,
+  "findings": [
+    { "id": "O04-212-423-A-001", "severity": "MINOR", "category": "MISTRANSLATION" },
+    { "id": "O04-212-423-A-002", "severity": "MINOR", "category": "MISTRANSLATION" }
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [],
+    "reviewer_2": [
+      { "review_id": "R2-001", "proposal_key": "4.note-335-book17-speaker-attribution" },
+      { "review_id": "R2-002", "proposal_key": "4.note-366-nausicaa-divine-status" }
+    ]
+  }
+}

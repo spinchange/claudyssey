@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-05-001-246",
+  "record_count": 246,
+  "unresolved_count": 0,
+  "findings": [],
+  "reviewer_proposals": {
+    "reviewer_1": [],
+    "reviewer_2": [
+      { "review_id": "R2-001", "proposal_key": "5.note-51-same-seabird-identity" }
+    ]
+  }
+}

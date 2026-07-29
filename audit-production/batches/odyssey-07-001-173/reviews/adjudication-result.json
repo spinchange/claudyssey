@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-07-001-173",
+  "record_count": 173,
+  "unresolved_count": 0,
+  "findings": [
+    {
+      "id": "O07-001-173-A-001",
+      "severity": "MINOR",
+      "category": "LEXICAL"
+    }
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {
+        "review_id": "R1-001",
+        "proposal_key": "7.98-99-unfailing-provisions"
+      },
+      {
+        "review_id": "R1-002",
+        "proposal_key": "7.170-agapenor-heroic-epithet"
+      }
+    ],
+    "reviewer_2": [
+      {
+        "review_id": "R2-001",
+        "proposal_key": "7.170-agapenor-heroic-epithet"
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-08-196-390",
+  "record_count": 195,
+  "unresolved_count": 0,
+  "findings": [
+    {
+      "id": "O08-196-390-A-001",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O08-196-390-A-002",
+      "severity": "MODERATE",
+      "category": "GRAMMAR"
+    },
+    {
+      "id": "O08-196-390-A-003",
+      "severity": "MINOR",
+      "category": "LEXICAL"
+    },
+    {
+      "id": "O08-196-390-A-004",
+      "severity": "MINOR",
+      "category": "LEXICAL"
+    },
+    {
+      "id": "O08-196-390-A-005",
+      "severity": "MODERATE",
+      "category": "GRAMMAR"
+    }
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {
+        "review_id": "R1-001",
+        "proposal_key": "8.note-215-eurytus-alone-died-for-apollo-challenge"
+      },
+      {
+        "review_id": "R1-002",
+        "proposal_key": "8.229-spear-arrow-negation-omitted"
+      },
+      {
+        "review_id": "R1-003",
+        "proposal_key": "8.258-260-official-judges-not-stewards"
+      },
+      {
+        "review_id": "R1-004",
+        "proposal_key": "8.351-surety-relation-pledges-for-worthless-men"
+      },
+      {
+        "review_id": "R1-005",
+        "proposal_key": "8.note-364-divine-bath-formula-only-paphos"
+      }
+    ],
+    "reviewer_2": [
+      {
+        "review_id": "R2-001",
+        "proposal_key": "8.258-260-official-judges-not-stewards"
+      },
+      {
+        "review_id": "R2-002",
+        "proposal_key": "8.263-265-theios-dance-floor-not-shining"
+      }
+    ]
+  }
+}

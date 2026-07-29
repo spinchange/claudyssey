@@ -1,0 +1,32 @@
+# Reviewer 1 — Odyssey 12.1–226
+
+## Overall assessment
+
+The verse translation is notably controlled through Circe's route briefing and the Sirens episode, with one localized technical-vocabulary loss at the oarlocks. Most of the reportable issues occur in the expansive notes: unsupported bearings and measurements, incorrect arithmetic and interval claims, an invented total silence at the Sirens, and a compressed chronology contradicted by the coming month on Thrinacia. All are limited in scope, so each is rated MINOR. Fixed-register wording alone has not been counted.
+
+| ID | Lines | Category | Severity | Confidence | Finding | Greek evidence | Suggested direction |
+|---|---|---|---|---:|---|---|---|
+| R1-001 | 12.3 note | `ADDITION` | `MINOR` | 0.80 | The note says the crew “first came to [Aeaea] fleeing west,” but the first Aeaea approach supplies no westward bearing. The unsupported direction is then used to construct a compass contradiction with the present eastern description. | Here `ὅθι τʼ Ἠοῦς ἠριγενείης / οἰκία ... καὶ ἀντολαὶ Ἠελίοιο` locates Aeaea mythically at Dawn and the sun's risings; the earlier voyage to Aeaea states onward flight and arrival, not travel west. | Remove “fleeing west,” or explicitly label the bearing as a conjectural geographic reconstruction rather than Homeric route data. |
+| R1-002 | 12.89 note | `ADDITION` | `MINOR` | 0.92 | “Six yard-long necks” supplies an exact length absent from the Greek. The verse itself correctly says only that the necks are immensely long. | `ἓξ ... δειραὶ περιμήκεες` means “six very/immensely long necks”; no unit or one-yard measurement is expressed. | Say “six immensely long necks,” matching the verse, without a numerical length. |
+| R1-003 | 12.129 note | `MISTRANSLATION` | `MINOR` | 0.99 | The note totals seven cattle herds of fifty plus seven sheep flocks of fifty as “350 head.” The passage gives 350 cattle **and** 350 sheep, 700 animals in all. | `ἑπτὰ βοῶν ἀγέλαι, τόσα δʼ οἰῶν πώεα ... / πεντήκοντα δʼ ἕκαστα`: seven cattle herds and the same number of sheep flocks, each group containing fifty. | State “350 cattle and 350 sheep, 700 animals total”; if discussing the calendrical interpretation of one species alone, make that restriction explicit. |
+| R1-004 | 12.154 note | `MISTRANSLATION` | `MINOR` | 0.95 | The note says the full-disclosure claim at 154 and the withholding of Scylla at 223 are “sixty lines apart.” Their starting lines are sixty-nine line numbers apart, nearly seventy. | The note itself cites the two relevant locations, 12.154 and 12.223. | Replace “sixty” with “sixty-nine” or “nearly seventy.” |
+| R1-005 | 12.168–172 note | `ADDITION` | `MINOR` | 0.87 | The note turns a windless, waveless calm into “silence so total the song will be the only sound on the sea.” Homer does not state total silence, and the men immediately row, whitening the water with their oars; that action necessarily supplies another prominent sound. | `ἄνεμος ... ἐπαύσατο`, `γαλήνη ... νηνεμίη`, and `κοίμησε ... κύματα` describe stopped wind and sleeping waves; 170–172 immediately describe furling and rowing. | Describe the becalming and the prominence of the Sirens' song without claiming literal total silence or that it is the sea's only sound. |
+| R1-006 | 12.175 note | `MISTRANSLATION` | `MINOR` | 0.99 | The note says Helios' cattle will destroy the crew “within the week.” After reaching Thrinacia, the crew is held there by adverse winds for a full month before the cattle are slaughtered, so the stated interval is impossible. | The present line only describes Helios' ray warming the wax; the later Thrinacia narrative explicitly gives a month-long period of adverse wind before the sacrilege. | Replace “within the week” with “after their month on Thrinacia” or a nonnumeric “later in this book.” |
+| R1-007 | 12.214–215 | `LEXICAL` | `MINOR` | 0.94 | “Keep to your benches” replaces the explicit thole-pins/oarlocks at which the rowers sit. The delayed “with your oar-blades” represents `κώπῃσιν`, so `κληίδεσσιν` is otherwise lost; benches are a different part of the rowing arrangement. | `κώπῃσιν ... τύπτετε κληίδεσσιν ἐφήμενοι` is “strike with the oars, sitting at the thole-pins/oarlocks.” | Render the rowers as sitting “at the oarlocks/thole-pins” and retain the oars separately. |
+
+Counts: **7 findings** — 7 MINOR; 0 MODERATE; 0 MAJOR; 0 CRITICAL.
+
+## Especially successful renderings
+
+1. **12.1–20** moves cleanly from the Ocean voyage into Elpenor's precisely staged funeral and Circe's arrival with provisions.
+2. **12.39–54** preserves the Sirens' fatal welcome, the bodily horror around them, and Circe's practical wax-and-bonds solution without blurring command sequence or agency.
+3. **12.181–200** handles the approach, the Sirens' direct song, Odysseus' brow-signal, and his companions' countermeasure with exceptional clarity and momentum.
+
+## Concerns Considered
+
+| Lines | Confidence | Concern | Why not counted |
+|---|---:|---|---|
+| 12.70 note | 0.70 | Calling `Ἀργὼ πᾶσι μέλουσα` a citation of “another epic,” “the oldest literary cross-reference in Greek,” and a “rival poem” turns an allusion to the universally familiar Argonaut saga into a claim about a specific prior literary work. | The line is plainly intertraditional and may presuppose an Argonaut epic tradition; the note's literary language is interpretive, and a demonstrably false proposition about a particular text cannot be isolated with sufficient confidence. |
+| 12.104 note | 0.64 | “Not a creature at all ... pure physics” may overstate the contrast, since Charybdis is grammatically agentive and receives the divine epithet `δῖα`. | The narrative gives Charybdis no anatomy and primarily describes a scheduled whirlpool; the note's person-versus-phenomenon contrast remains a defensible reading rather than a firm denial of the Greek. |
+| 12.155 | 0.63 | “The decrees that Circe told me” may make `θέσφατα` sound like enacted rules rather than divine utterances, warnings, or oracles. | “Decrees” is within the established semantic range of divine pronouncement, and the following English accurately distinguishes Circe's commands from her route information. |
+| 12.169 | 0.61 | “Some power” weakens `δαίμων`, which can name an unidentified god or divine agency, into a less explicitly supernatural cause. | English “power” in this marked becalming context can still imply a divine power, and the actual agency remains deliberately unidentified. |

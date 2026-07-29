@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-12-001-226",
+  "record_count": 226,
+  "unresolved_count": 0,
+  "findings": [
+    {
+      "id": "O12-001-226-A-001",
+      "severity": "MINOR",
+      "category": "ADDITION"
+    },
+    {
+      "id": "O12-001-226-A-002",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O12-001-226-A-003",
+      "severity": "MINOR",
+      "category": "ADDITION"
+    },
+    {
+      "id": "O12-001-226-A-004",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O12-001-226-A-005",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O12-001-226-A-006",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O12-001-226-A-007",
+      "severity": "MINOR",
+      "category": "LEXICAL"
+    }
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {
+        "review_id": "R1-001",
+        "proposal_key": "12.note-L3-unsupported-westward-bearing"
+      },
+      {
+        "review_id": "R1-002",
+        "proposal_key": "12.note-L89-yard-long-necks-added"
+      },
+      {
+        "review_id": "R1-003",
+        "proposal_key": "12.note-L129-herds-flocks-totaled-as-350"
+      },
+      {
+        "review_id": "R1-004",
+        "proposal_key": "12.note-L154-sixty-line-interval-miscount"
+      },
+      {
+        "review_id": "R1-005",
+        "proposal_key": "12.note-L168-total-silence-only-song"
+      },
+      {
+        "review_id": "R1-006",
+        "proposal_key": "12.note-L175-within-week-chronology"
+      },
+      {
+        "review_id": "R1-007",
+        "proposal_key": "12.214-215-rowlocks-replaced-by-benches"
+      }
+    ],
+    "reviewer_2": [
+      {
+        "review_id": "R2-001",
+        "proposal_key": "12.11-14-interment-before-cremation"
+      },
+      {
+        "review_id": "R2-002",
+        "proposal_key": "12.note-L89-yard-long-necks-added"
+      },
+      {
+        "review_id": "R2-003",
+        "proposal_key": "12.note-L154-sixty-line-interval-miscount"
+      },
+      {
+        "review_id": "R2-004",
+        "proposal_key": "12.note-L175-within-week-chronology"
+      },
+      {
+        "review_id": "R2-005",
+        "proposal_key": "12.214-215-rowlocks-replaced-by-benches"
+      }
+    ]
+  }
+}

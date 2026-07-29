@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-03-001-248",
+  "record_count": 248,
+  "unresolved_count": 0,
+  "findings": [
+    {
+      "id": "O03-001-248-A-001",
+      "severity": "MODERATE",
+      "category": "GRAMMAR"
+    },
+    {
+      "id": "O03-001-248-A-002",
+      "severity": "MODERATE",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O03-001-248-A-003",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    }
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {
+        "review_id": "R1-001",
+        "proposal_key": "3.84-85-odysseus-sacking-agency"
+      },
+      {
+        "review_id": "R1-002",
+        "proposal_key": "3.note-245-nestor-outlasted-three-generations"
+      }
+    ],
+    "reviewer_2": [
+      {
+        "review_id": "R2-001",
+        "proposal_key": "3.84-85-odysseus-sacking-agency"
+      },
+      {
+        "review_id": "R2-002",
+        "proposal_key": "3.103-104-headstrong-menos-aschetoi"
+      },
+      {
+        "review_id": "R2-003",
+        "proposal_key": "3.141-142-anogei-directive-force"
+      }
+    ]
+  }
+}

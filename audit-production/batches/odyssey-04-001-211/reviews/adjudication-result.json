@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-04-001-211",
+  "record_count": 211,
+  "unresolved_count": 0,
+  "findings": [
+    { "id": "O04-001-211-A-001", "severity": "MINOR", "category": "LEXICAL" },
+    { "id": "O04-001-211-A-002", "severity": "MINOR", "category": "MISTRANSLATION" },
+    { "id": "O04-001-211-A-003", "severity": "MODERATE", "category": "LEXICAL" },
+    { "id": "O04-001-211-A-004", "severity": "MODERATE", "category": "MISTRANSLATION" }
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      { "review_id": "R1-001", "proposal_key": "4.11-megapenthes-strength-transfer" },
+      { "review_id": "R1-002", "proposal_key": "4.note-140-false-story-uniqueness-unreliability" },
+      { "review_id": "R1-003", "proposal_key": "4.176-exalapaxas-sacking-force" }
+    ],
+    "reviewer_2": [
+      { "review_id": "R2-001", "proposal_key": "4.11-megapenthes-strength-transfer" },
+      { "review_id": "R2-002", "proposal_key": "4.note-140-false-story-uniqueness-unreliability" },
+      { "review_id": "R2-003", "proposal_key": "4.193-196-pithoio-compliance-force" }
+    ]
+  }
+}

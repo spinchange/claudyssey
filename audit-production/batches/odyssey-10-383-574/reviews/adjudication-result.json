@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-10-383-574",
+  "record_count": 191,
+  "unresolved_count": 0,
+  "findings": [
+    {
+      "id": "O10-383-574-A-001",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O10-383-574-A-002",
+      "severity": "MINOR",
+      "category": "LEXICAL"
+    },
+    {
+      "id": "O10-383-574-A-003",
+      "severity": "MINOR",
+      "category": "ADDITION"
+    },
+    {
+      "id": "O10-383-574-A-004",
+      "severity": "MODERATE",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O10-383-574-A-005",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O10-383-574-A-006",
+      "severity": "MINOR",
+      "category": "GRAMMAR"
+    }
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {
+        "review_id": "R1-001",
+        "proposal_key": "10.437-atasthalia-recklessness-weakened-to-blind-folly"
+      },
+      {
+        "review_id": "R1-002",
+        "proposal_key": "10.note-L438-eurylochus-sisters-husband"
+      },
+      {
+        "review_id": "R1-003",
+        "proposal_key": "10.467-472-daimonie-literal-divine-possession"
+      },
+      {
+        "review_id": "R1-004",
+        "proposal_key": "10.note-L495-dead-universally-speechless-without-blood"
+      },
+      {
+        "review_id": "R1-005",
+        "proposal_key": "10.538-leader-of-peoples-attached-to-tiresias"
+      }
+    ],
+    "reviewer_2": [
+      {
+        "review_id": "R2-001",
+        "proposal_key": "10.note-L431-boast-made-cause-of-prior-cave-deaths"
+      },
+      {
+        "review_id": "R2-002",
+        "proposal_key": "10.467-472-daimonie-literal-divine-possession"
+      },
+      {
+        "review_id": "R2-003",
+        "proposal_key": "10.538-leader-of-peoples-attached-to-tiresias"
+      }
+    ]
+  }
+}

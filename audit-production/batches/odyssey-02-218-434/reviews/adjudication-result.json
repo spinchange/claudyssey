@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-02-218-434",
+  "record_count": 217,
+  "unresolved_count": 0,
+  "findings": [
+    {
+      "id": "O02-218-434-A-001",
+      "severity": "MODERATE",
+      "category": "GRAMMAR"
+    },
+    {
+      "id": "O02-218-434-A-002",
+      "severity": "MODERATE",
+      "category": "MISTRANSLATION"
+    }
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {
+        "review_id": "R1-001",
+        "proposal_key": "2.244-245-more-numerous-comparative-scope"
+      },
+      {
+        "review_id": "R1-002",
+        "proposal_key": "2.note-383-athena-disguise-noemon"
+      }
+    ],
+    "reviewer_2": [
+      {
+        "review_id": "R2-001",
+        "proposal_key": "2.note-383-athena-disguise-noemon"
+      }
+    ]
+  }
+}

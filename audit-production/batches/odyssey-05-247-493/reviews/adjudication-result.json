@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-05-247-493",
+  "record_count": 247,
+  "unresolved_count": 0,
+  "findings": [
+    { "id": "O05-247-493-A-001", "severity": "MINOR", "category": "ADDITION" },
+    { "id": "O05-247-493-A-002", "severity": "MINOR", "category": "LEXICAL" },
+    { "id": "O05-247-493-A-003", "severity": "MODERATE", "category": "LEXICAL" },
+    { "id": "O05-247-493-A-004", "severity": "MINOR", "category": "GRAMMAR" }
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      { "review_id": "R1-001", "proposal_key": "5.257-unsupported-ballast-purpose" },
+      { "review_id": "R1-002", "proposal_key": "5.261-rollers-for-levers" },
+      { "review_id": "R1-003", "proposal_key": "5.423-weakened-poseidon-hostility" },
+      { "review_id": "R1-004", "proposal_key": "5.491-493-sleep-agency-transferred-to-athena" }
+    ],
+    "reviewer_2": [
+      { "review_id": "R2-001", "proposal_key": "5.257-unsupported-ballast-purpose" },
+      { "review_id": "R2-002", "proposal_key": "5.477-common-stock-root-construal" },
+      { "review_id": "R2-003", "proposal_key": "5.491-493-sleep-agency-transferred-to-athena" }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-04-424-635",
+  "record_count": 212,
+  "unresolved_count": 0,
+  "findings": [
+    { "id": "O04-424-635-A-001", "severity": "MINOR", "category": "MISTRANSLATION" },
+    { "id": "O04-424-635-A-002", "severity": "MODERATE", "category": "MISTRANSLATION" },
+    { "id": "O04-424-635-A-003", "severity": "MINOR", "category": "MISTRANSLATION" }
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      { "review_id": "R1-001", "proposal_key": "4.note-441-false-ambrosia-practical-uniqueness" },
+      { "review_id": "R1-002", "proposal_key": "4.note-499-overbroad-zeus-doctrine" },
+      { "review_id": "R1-003", "proposal_key": "4.note-555-false-first-eyewitness-image" }
+    ],
+    "reviewer_2": [
+      { "review_id": "R2-001", "proposal_key": "4.note-441-false-ambrosia-practical-uniqueness" }
+    ]
+  }
+}

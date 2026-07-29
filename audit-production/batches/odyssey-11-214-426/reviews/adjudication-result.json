@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-11-214-426",
+  "record_count": 213,
+  "unresolved_count": 0,
+  "findings": [
+    {
+      "id": "O11-214-426-A-001",
+      "severity": "MINOR",
+      "category": "ADDITION"
+    },
+    {
+      "id": "O11-214-426-A-002",
+      "severity": "MINOR",
+      "category": "LEXICAL"
+    },
+    {
+      "id": "O11-214-426-A-003",
+      "severity": "MODERATE",
+      "category": "GRAMMAR"
+    },
+    {
+      "id": "O11-214-426-A-004",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    }
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {
+        "review_id": "R1-001",
+        "proposal_key": "11.297-thesphata-shifted-from-prophecies-to-fate-decrees"
+      },
+      {
+        "review_id": "R1-002",
+        "proposal_key": "11.note-L263-thebes-before-cadmus-chronology"
+      }
+    ],
+    "reviewer_2": [
+      {
+        "review_id": "R2-001",
+        "proposal_key": "11.303-304-dioscuri-shared-alternate-days-shifted-to-brother-alternation"
+      },
+      {
+        "review_id": "R2-002",
+        "proposal_key": "11.401-403-cattle-raid-shifted-to-carving-cattle"
+      }
+    ]
+  }
+}

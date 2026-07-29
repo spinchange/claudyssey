@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-09-173-344",
+  "record_count": 172,
+  "unresolved_count": 0,
+  "findings": [
+    {
+      "id": "O09-173-344-A-001",
+      "severity": "MINOR",
+      "category": "LEXICAL"
+    },
+    {
+      "id": "O09-173-344-A-002",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O09-173-344-A-003",
+      "severity": "MODERATE",
+      "category": "MISTRANSLATION"
+    }
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {
+        "review_id": "R1-001",
+        "proposal_key": "9.219-tarsoi-cheese-racks-rendered-crates"
+      },
+      {
+        "review_id": "R1-002",
+        "proposal_key": "9.275-276-pherteroi-superior-strength-weakened"
+      },
+      {
+        "review_id": "R1-003",
+        "proposal_key": "9.note-L252-starving-after-cheese-meal"
+      },
+      {
+        "review_id": "R1-004",
+        "proposal_key": "9.note-L283-poseidon-ships-false-prophecy"
+      }
+    ],
+    "reviewer_2": [
+      {
+        "review_id": "R2-001",
+        "proposal_key": "9.note-L283-poseidon-ships-false-prophecy"
+      }
+    ]
+  }
+}

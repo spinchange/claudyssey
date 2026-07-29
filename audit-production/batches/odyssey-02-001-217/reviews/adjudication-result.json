@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-02-001-217",
+  "record_count": 217,
+  "unresolved_count": 0,
+  "findings": [
+    {
+      "id": "O02-001-217-A-001",
+      "severity": "MODERATE",
+      "category": "GRAMMAR"
+    }
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {
+        "review_id": "R1-001",
+        "proposal_key": "2.53-54-icarius-dative-of-favor"
+      }
+    ],
+    "reviewer_2": [
+      {
+        "review_id": "R2-001",
+        "proposal_key": "2.53-54-icarius-dative-of-favor"
+      }
+    ]
+  }
+}
