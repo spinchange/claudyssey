@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-13-221-440",
+  "record_count": 220,
+  "unresolved_count": 0,
+  "findings": [
+    {
+      "id": "O13-221-440-A-001",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O13-221-440-A-002",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O13-221-440-A-003",
+      "severity": "MINOR",
+      "category": "ADDITION"
+    },
+    {
+      "id": "O13-221-440-A-004",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O13-221-440-A-005",
+      "severity": "MINOR",
+      "category": "ADDITION"
+    }
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {
+        "review_id": "R1-001",
+        "proposal_key": "13.note-L237-agricultural-catalogue-misattributed-book9"
+      },
+      {
+        "review_id": "R1-002",
+        "proposal_key": "13.note-L336-three-lines-called-verbatim"
+      },
+      {
+        "review_id": "R1-003",
+        "proposal_key": "13.394-396-and-427-428-tina-expanded-plural"
+      }
+    ],
+    "reviewer_2": [
+      {
+        "review_id": "R2-001",
+        "proposal_key": "13.note-L336-three-lines-called-verbatim"
+      },
+      {
+        "review_id": "R2-002",
+        "proposal_key": "13.note-L370-stone-rolling-and-size-added"
+      },
+      {
+        "review_id": "R2-003",
+        "proposal_key": "13.note-L378-third-identical-clause"
+      }
+    ]
+  }
+}
