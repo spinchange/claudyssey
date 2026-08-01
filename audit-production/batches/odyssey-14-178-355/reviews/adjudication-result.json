@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-14-178-355",
+  "record_count": 178,
+  "unresolved_count": 0,
+  "findings": [
+    {
+      "id": "O14-178-355-A-001",
+      "severity": "MINOR",
+      "category": "ADDITION"
+    },
+    {
+      "id": "O14-178-355-A-002",
+      "severity": "MODERATE",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O14-178-355-A-003",
+      "severity": "MINOR",
+      "category": "ADDITION"
+    },
+    {
+      "id": "O14-178-355-A-004",
+      "severity": "MODERATE",
+      "category": "GRAMMAR"
+    },
+    {
+      "id": "O14-178-355-A-005",
+      "severity": "MINOR",
+      "category": "ADDITION"
+    },
+    {
+      "id": "O14-178-355-A-006",
+      "severity": "MODERATE",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O14-178-355-A-007",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    }
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {
+        "review_id": "R1-001",
+        "proposal_key": "14.232-233-spoil-selection-replaced-pleasure"
+      },
+      {
+        "review_id": "R1-002",
+        "proposal_key": "14.249-252-six-day-duration-shifted"
+      },
+      {
+        "review_id": "R1-003",
+        "proposal_key": "14.note-L193-bed-added-to-stated-fee"
+      },
+      {
+        "review_id": "R1-004",
+        "proposal_key": "14.note-L316-son-named-heir-added"
+      },
+      {
+        "review_id": "R1-005",
+        "proposal_key": "14.note-L321-fiction-called-entirely-true"
+      }
+    ],
+    "reviewer_2": [
+      {
+        "review_id": "R2-001",
+        "proposal_key": "14.232-233-spoil-selection-replaced-pleasure"
+      },
+      {
+        "review_id": "R2-002",
+        "proposal_key": "14.note-L246-first-twelve-hours-unsupported"
+      },
+      {
+        "review_id": "R2-003",
+        "proposal_key": "14.249-252-six-day-duration-shifted"
+      },
+      {
+        "review_id": "R2-004",
+        "proposal_key": "14.note-L321-fiction-called-entirely-true"
+      },
+      {
+        "review_id": "R2-005",
+        "proposal_key": "14.note-L340-real-arrival-called-yesterday"
+      }
+    ]
+  }
+}

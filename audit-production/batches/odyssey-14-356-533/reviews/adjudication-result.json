@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-14-356-533",
+  "record_count": 178,
+  "unresolved_count": 0,
+  "findings": [
+    {
+      "id": "O14-356-533-A-001",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O14-356-533-A-002",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O14-356-533-A-003",
+      "severity": "MINOR",
+      "category": "LEXICAL"
+    },
+    {
+      "id": "O14-356-533-A-004",
+      "severity": "MINOR",
+      "category": "GRAMMAR"
+    },
+    {
+      "id": "O14-356-533-A-005",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O14-356-533-A-006",
+      "severity": "MODERATE",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O14-356-533-A-007",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    }
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {
+        "review_id": "R1-001",
+        "proposal_key": "14.443-daimonie-god-touched"
+      },
+      {
+        "review_id": "R1-002",
+        "proposal_key": "14.470-471-anogon-request"
+      },
+      {
+        "review_id": "R1-003",
+        "proposal_key": "14.note-L437-anax-double-reference"
+      },
+      {
+        "review_id": "R1-004",
+        "proposal_key": "14.note-L508-only-listener-never-fooled"
+      },
+      {
+        "review_id": "R1-005",
+        "proposal_key": "14.note-L524-last-line-misidentified"
+      }
+    ],
+    "reviewer_2": [
+      {
+        "review_id": "R2-001",
+        "proposal_key": "14.note-L363-one-true-clause"
+      },
+      {
+        "review_id": "R2-002",
+        "proposal_key": "14.443-daimonie-god-touched"
+      },
+      {
+        "review_id": "R2-003",
+        "proposal_key": "14.446-448-seating-agency"
+      },
+      {
+        "review_id": "R2-004",
+        "proposal_key": "14.470-471-anogon-request"
+      },
+      {
+        "review_id": "R2-005",
+        "proposal_key": "14.note-L508-only-listener-never-fooled"
+      },
+      {
+        "review_id": "R2-006",
+        "proposal_key": "14.note-L524-last-line-misidentified"
+      }
+    ]
+  }
+}

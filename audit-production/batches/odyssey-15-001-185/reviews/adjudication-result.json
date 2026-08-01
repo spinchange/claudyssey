@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-15-001-185",
+  "record_count": 185,
+  "unresolved_count": 0,
+  "findings": [
+    {
+      "id": "O15-001-185-A-001",
+      "severity": "MODERATE",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O15-001-185-A-002",
+      "severity": "MODERATE",
+      "category": "GRAMMAR"
+    },
+    {
+      "id": "O15-001-185-A-003",
+      "severity": "MINOR",
+      "category": "ADDITION"
+    },
+    {
+      "id": "O15-001-185-A-004",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    },
+    {
+      "id": "O15-001-185-A-005",
+      "severity": "MINOR",
+      "category": "MISTRANSLATION"
+    }
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {
+        "review_id": "R1-001",
+        "proposal_key": "15.31-32-tina-expanded-plural"
+      },
+      {
+        "review_id": "R1-002",
+        "proposal_key": "15.note-L16-athena-report-called-exaggeration"
+      },
+      {
+        "review_id": "R1-003",
+        "proposal_key": "15.note-L113-sidon-fifty-lines"
+      },
+      {
+        "review_id": "R1-004",
+        "proposal_key": "15.note-L180-formula-wrong-antecedent"
+      }
+    ],
+    "reviewer_2": [
+      {
+        "review_id": "R2-001",
+        "proposal_key": "15.19-penelope-agency-suppressed"
+      },
+      {
+        "review_id": "R2-002",
+        "proposal_key": "15.31-32-tina-expanded-plural"
+      },
+      {
+        "review_id": "R2-003",
+        "proposal_key": "15.note-L113-sidon-fifty-lines"
+      },
+      {
+        "review_id": "R2-004",
+        "proposal_key": "15.note-L180-formula-wrong-antecedent"
+      }
+    ]
+  }
+}

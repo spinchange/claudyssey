@@ -5,11 +5,11 @@ Generated from `ledger.jsonl`. Only completed adjudications contribute findings.
 | Measure | Value |
 |---|---:|
 | Corpus records | 12107 |
-| Audited records | 6828 |
-| Coverage | 56.4% |
-| Completed units | 33 / 60 |
-| Adjudicated findings | 116 |
-| Findings per 100 audited records | 1.7 |
+| Audited records | 7369 |
+| Coverage | 60.87% |
+| Completed units | 36 / 60 |
+| Adjudicated findings | 135 |
+| Findings per 100 audited records | 1.83 |
 
 ## Book Coverage
 
@@ -28,8 +28,8 @@ Generated from `ledger.jsonl`. Only completed adjudications contribute findings.
 | 11 | 640 | 640 | 100% | 11 |
 | 12 | 453 | 453 | 100% | 13 |
 | 13 | 440 | 440 | 100% | 10 |
-| 14 | 177 | 533 | 33.21% | 6 |
-| 15 | 0 | 557 | 0% | 0 |
+| 14 | 533 | 533 | 100% | 20 |
+| 15 | 185 | 557 | 33.21% | 5 |
 | 16 | 0 | 480 | 0% | 0 |
 | 17 | 0 | 606 | 0% | 0 |
 | 18 | 0 | 428 | 0% | 0 |
@@ -42,4 +42,4 @@ Generated from `ledger.jsonl`. Only completed adjudications contribute findings.
 
 ## Next Batch
 
-`odyssey-14-178-355`: *Odyssey* 14.178-355, 178 records.
+`odyssey-15-186-371`: *Odyssey* 15.186-371, 186 records.
