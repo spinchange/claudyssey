@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-16-241-481",
+  "record_count": 241,
+  "unresolved_count": 0,
+  "findings": [
+    {"id": "O16-241-481-A-001", "severity": "MODERATE", "category": "MISTRANSLATION"},
+    {"id": "O16-241-481-A-002", "severity": "MINOR", "category": "MISTRANSLATION"},
+    {"id": "O16-241-481-A-003", "severity": "MINOR", "category": "GRAMMAR"},
+    {"id": "O16-241-481-A-004", "severity": "MINOR", "category": "MISTRANSLATION"},
+    {"id": "O16-241-481-A-005", "severity": "MINOR", "category": "MISTRANSLATION"}
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {"review_id": "R1-001", "proposal_key": "16.295-298-attack-on-suitors-replaced-by-weapon-retrieval"},
+      {"review_id": "R1-002", "proposal_key": "16.347-unsupported-oath"},
+      {"review_id": "R1-003", "proposal_key": "16.348-350-plural-ambush-party-reduced-to-two"},
+      {"review_id": "R1-004", "proposal_key": "16.note-L412-medon-first-defection-priority-false"},
+      {"review_id": "R1-005", "proposal_key": "16.note-L449-every-penelope-appearance-claim-false"}
+    ],
+    "reviewer_2": [
+      {"review_id": "R2-001", "proposal_key": "16.295-298-attack-on-suitors-replaced-by-weapon-retrieval"},
+      {"review_id": "R2-002", "proposal_key": "16.347-unsupported-oath"},
+      {"review_id": "R2-003", "proposal_key": "16.348-350-plural-ambush-party-reduced-to-two"},
+      {"review_id": "R2-004", "proposal_key": "16.note-L412-medon-first-defection-priority-false"}
+    ]
+  }
+}

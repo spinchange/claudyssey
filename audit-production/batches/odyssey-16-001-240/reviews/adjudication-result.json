@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-16-001-240",
+  "record_count": 239,
+  "unresolved_count": 0,
+  "findings": [
+    {"id": "O16-001-240-A-001", "severity": "MINOR", "category": "MISTRANSLATION"},
+    {"id": "O16-001-240-A-002", "severity": "MINOR", "category": "ADDITION"},
+    {"id": "O16-001-240-A-003", "severity": "MODERATE", "category": "GRAMMAR"},
+    {"id": "O16-001-240-A-004", "severity": "MINOR", "category": "MISTRANSLATION"},
+    {"id": "O16-001-240-A-005", "severity": "MODERATE", "category": "MISTRANSLATION"}
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {"review_id": "R1-001", "proposal_key": "16.118-120-genealogy-pronoun-reverses-line"},
+      {"review_id": "R1-002", "proposal_key": "16.note-L227-phaeacian-facts-falsely-matched-to-cretan-tale"}
+    ],
+    "reviewer_2": [
+      {"review_id": "R2-001", "proposal_key": "16.note-L13-fallen-distaff-parallel-false"},
+      {"review_id": "R2-002", "proposal_key": "16.62-wide-dancing-grounds-added"},
+      {"review_id": "R2-003", "proposal_key": "16.118-120-genealogy-pronoun-reverses-line"},
+      {"review_id": "R2-004", "proposal_key": "16.note-L145-telemachus-odysseus-son-role-fused"},
+      {"review_id": "R2-005", "proposal_key": "16.note-L227-phaeacian-facts-falsely-matched-to-cretan-tale"}
+    ]
+  }
+}

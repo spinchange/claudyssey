@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-17-001-202",
+  "record_count": 202,
+  "unresolved_count": 0,
+  "findings": [
+    {"id": "O17-001-202-A-001", "severity": "MINOR", "category": "MISTRANSLATION"},
+    {"id": "O17-001-202-A-002", "severity": "MODERATE", "category": "MISTRANSLATION"},
+    {"id": "O17-001-202-A-003", "severity": "MINOR", "category": "MISTRANSLATION"},
+    {"id": "O17-001-202-A-004", "severity": "MINOR", "category": "MISTRANSLATION"},
+    {"id": "O17-001-202-A-005", "severity": "MINOR", "category": "ADDITION"}
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {"review_id": "R1-001", "proposal_key": "17.44-unsupported-odysseus-sighting"},
+      {"review_id": "R1-002", "proposal_key": "17.note-L68-antiphus-identities-and-book2-speakers-confused"}
+    ],
+    "reviewer_2": [
+      {"review_id": "R2-001", "proposal_key": "17.note-L1-house-only-spatial-claim-false"},
+      {"review_id": "R2-002", "proposal_key": "17.44-unsupported-odysseus-sighting"},
+      {"review_id": "R2-003", "proposal_key": "17.note-L68-antiphus-identities-and-book2-speakers-confused"},
+      {"review_id": "R2-004", "proposal_key": "17.note-L126-odysseus-prematurely-placed-at-palace"},
+      {"review_id": "R2-005", "proposal_key": "17.167-169-always-played-universal-added"}
+    ]
+  }
+}

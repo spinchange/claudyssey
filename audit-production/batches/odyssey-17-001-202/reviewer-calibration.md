@@ -161,11 +161,6 @@ the lexical difference itself is clear.
 | 16.348-350 | Report | `GRAMMAR` | `MINOR` | “Those two out there” reduces the plural ambush party to two men, though the following ship-and-crew context limits the error's effect. Explicit English numerals require direct Greek support. |
 | 16.412 note | Report | `MISTRANSLATION` | `MINOR` | Calling Medon's report the first internal defection ignores his earlier warning to Penelope about the same murder plot in Book 4. Check priority claims about a character's role against earlier books. |
 | 16.449-451 note | Report | `MISTRANSLATION` | `MINOR` | The note says the weeping-and-sleep refrain closes every Penelope appearance, but her Book 18 audience ends without it. Universal structural claims remain reportable when a clear counterexample defeats them despite a valid narrower pattern. |
-| 17.1 note | Report | `MISTRANSLATION` | `MINOR` | Saying that everything now happens at the house ignores the farm and road scenes narrated before Odysseus reaches the palace. Broad spatial or temporal claims must leave room for explicit scenes outside the claimed center. |
-| 17.44 | Report | `MISTRANSLATION` | `MODERATE` | “What sight of him did you meet?” falsely makes Penelope presuppose that Telemachus personally saw Odysseus. Added pronoun objects are consequential when they alter a character's knowledge or turn a general request into a presupposed eyewitness encounter. |
-| 17.68 note | Report | `MISTRANSLATION` | `MINOR` | The note confuses the living Antiphus with Aegyptius and Aegyptius' dead son, then includes Antiphus among the Book 2 speakers. Verify namesakes and cross-book speaker lists directly rather than associating by name. |
-| 17.126 note | Report | `MISTRANSLATION` | `MINOR` | The note places disguised Odysseus at the palace threshold during Telemachus' report, although he remains at Eumaeus' farm. Proleptic literary comparisons must distinguish an approaching character from one already present. |
-| 17.167-169 and note | Report | `ADDITION` | `MINOR` | “Always played” and “never changes” turn `πάρος`, “before,” into an unsupported exceptionless habit. Exact formulaic recurrence does not license semantic universals absent from the repeated Greek; automation owns wording conformance, not unsupported meaning. |
 
 ## Automated Formula Anchors
 
