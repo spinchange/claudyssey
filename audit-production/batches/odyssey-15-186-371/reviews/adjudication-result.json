@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-15-186-371",
+  "record_count": 186,
+  "unresolved_count": 0,
+  "findings": [
+    {"id": "O15-186-371-A-001", "severity": "MINOR", "category": "LEXICAL"},
+    {"id": "O15-186-371-A-002", "severity": "MODERATE", "category": "GRAMMAR"}
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {"review_id": "R1-001", "proposal_key": "15.233-234-daspletis-replaced-house-striking"},
+      {"review_id": "R1-002", "proposal_key": "15.277-278-supplication-agency-reversed"}
+    ],
+    "reviewer_2": [
+      {"review_id": "R2-001", "proposal_key": "15.277-278-supplication-agency-reversed"}
+    ]
+  }
+}

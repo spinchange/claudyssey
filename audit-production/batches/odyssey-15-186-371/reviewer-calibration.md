@@ -145,8 +145,6 @@ the lexical difference itself is clear.
 | 15.31-32 | Report | `ADDITION` | `MINOR` | “More than one” expands singular indefinite `τινα` into an explicit plural prediction. Apply the Book 13 singular-indefinite anchor consistently. |
 | 15.113 note | Report | `MISTRANSLATION` | `MINOR` | The note says Sidon returns fifty lines later, although it is named 312 line numbers after 15.113. Verify numerical structural intervals directly. |
 | 15.180-181 note | Report | `MISTRANSLATION` | `MINOR` | The note attributes the formula to an earlier Telemachus–Athena promise, although 15.181 exactly repeats Odysseus' line to Nausicaa at 8.467. Verify both speaker and addressee when identifying formula antecedents. |
-| 15.233-234 | Report | `LEXICAL` | `MINOR` | “The Fury who strikes the house” replaces the explicit frightfulness of `δασπλῆτις` with an unsupported house-directed action. Preserve an epithet's characterizing quality rather than inventing a new target or event. |
-| 15.277-278 | Report | `GRAMMAR` | `MODERATE` | “I have found you begging” reverses the roles: Theoclymenus says that he, while fleeing, supplicated Telemachus. Preserve the agent and recipient of supplication when they motivate protection. |
 
 ## Automated Formula Anchors
 
