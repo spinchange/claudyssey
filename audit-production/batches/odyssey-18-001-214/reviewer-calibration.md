@@ -180,13 +180,6 @@ the lexical difference itself is clear.
 | 17.582 | Report | `MISTRANSLATION` | `MINOR` | “He asks you to wait” softens directive `ἄνωγεν`. Preserve bids and instructions rather than reducing them to ordinary requests. |
 | 17.586-588 note | Report | `MISTRANSLATION` | `MINOR` | The note suppresses limiting `ὧδε` and reverses Penelope's logic. Logical adverbs can control the scope of an argument. |
 | 17.606 note | Report | `MISTRANSLATION` | `MINOR` | The note says the interview is in the next book, but Book 18 intervenes and the interview occurs in Book 19. Verify cross-book navigation directly. |
-| 18.15 | Report | `LEXICAL` | `MINOR` | “Man possessed” gives emphatic vocative `δαιμόνιε` an unsupported supernatural sense. Treat unsupported diagnostic senses in vocatives as lexical unless downstream action is distorted. |
-| 18.44 note | Report | `MISTRANSLATION` | `MINOR` | The note falsely calls the fight prize the suitors' only organized act of generosity. Universal claims require corpus-wide support. |
-| 18.128 note | Report | `MISTRANSLATION` | `MINOR` | The note misattributes Athena's direct praise at 13.332 to Penelope. Verify speaker attribution in cross-book references. |
-| 18.136-137 and note | Report | `LEXICAL` | `MODERATE` | “It is weather” replaces the comparison between mortal thought and the day Zeus brings with a meteorological identity. Added governing metaphors are reportable when they replace a gnomic conceptual relation. |
-| 18.175-176 | Report | `LEXICAL` | `MINOR` | “So long” changes `μάλιστα`, special or foremost emphasis, into duration. Do not silently convert emphasis into time because duration is plausible. |
-| 18.175 note | Report | `MISTRANSLATION` | `MINOR` | The note places Odysseus tending torches before that scene and wrongly implies he cannot recognize the beard condition's fulfillment. Verify chronology and character knowledge. |
-| 18.187-191 note | Report | `ADDITION` | `MINOR` | The note makes bypassing consent Athena's precise purpose, though the stated purpose is Achaean admiration. Distinguish plausible ethical interpretation from explicit divine purpose. |
 
 ## Automated Formula Anchors
 

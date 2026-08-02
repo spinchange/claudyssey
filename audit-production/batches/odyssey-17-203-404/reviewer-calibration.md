@@ -166,27 +166,6 @@ the lexical difference itself is clear.
 | 17.68 note | Report | `MISTRANSLATION` | `MINOR` | The note confuses the living Antiphus with Aegyptius and Aegyptius' dead son, then includes Antiphus among the Book 2 speakers. Verify namesakes and cross-book speaker lists directly rather than associating by name. |
 | 17.126 note | Report | `MISTRANSLATION` | `MINOR` | The note places disguised Odysseus at the palace threshold during Telemachus' report, although he remains at Eumaeus' farm. Proleptic literary comparisons must distinguish an approaching character from one already present. |
 | 17.167-169 and note | Report | `ADDITION` | `MINOR` | “Always played” and “never changes” turn `πάρος`, “before,” into an unsupported exceptionless habit. Exact formulaic recurrence does not license semantic universals absent from the repeated Greek; automation owns wording conformance, not unsupported meaning. |
-| 17.220, 377 and note | Report | `LEXICAL` | `MINOR` | “Licker of feast-plates” weakens `ἀπολυμαντήρ`, an active spoiler or ruiner of feasts. Repeated insults remain semantically auditable even when wording is consistent across occurrences. |
-| 17.297-299 note | Report | `MISTRANSLATION` | `MINOR` | The note misreads dung awaiting productive removal as work suspended because Odysseus is absent. Attach explanatory causes to the source element that actually bears them. |
-| 17.320-323 and note | Report | `GRAMMAR` | `MINOR` | “The day the day of slavery” accidentally duplicates a phrase in verse and note. Accidental duplication remains a reportable local grammar error. |
-| 17.326-327 note | Report | `MISTRANSLATION` | `MINOR` | Calling Argus the first creature in Ithaca to complete a recognition overlooks Telemachus' Book 16 recognition. Priority claims must specify the correct comparison class. |
-| 17.339-341 note | Report | `ADDITION` | `MINOR` | The note invents Odysseus' personal acquaintance with the unnamed carpenter. Architectural focalization does not license unsupported biography. |
-| 17.339-341 note | Report | `MISTRANSLATION` | `MINOR` | Calling the threshold “neither in nor out” contradicts its explicit location `ἔντοσθε θυράων`, inside the doors. Symbolic liminality must preserve physical deixis. |
-| 17.407-411 note | Report | `ADDITION` | `MINOR` | The note invents applause for Antinous' footstool display; the others give food and later condemn his violence. Do not supply unsupported audience response. |
-| 17.455 | Report | `OMISSION` | `MINOR` | The translation omits `σῷ ἐπιστάτῃ`, the explicit recipient to whom Antinous would not give salt. Preserve stated beneficiaries and social relations. |
-| 17.525 | Report | `MISTRANSLATION` | `MINOR` | “He swears” upgrades `στεῦται`, a claim or insistence, into an oath. Preserve speech-act force. |
-| 17.550 note | Report | `MISTRANSLATION` | `MINOR` | The note says Penelope pays the clothing debt in Book 23, but Eurynome clothes Odysseus. Verify later fulfillment and agency. |
-| 17.570 note | Report | `MISTRANSLATION` | `MINOR` | The note attributes privacy to Odysseus, though Eumaeus independently adds “alone.” A strategic inference does not license reassignment of agency. |
-| 17.582 | Report | `MISTRANSLATION` | `MINOR` | “He asks you to wait” softens directive `ἄνωγεν`. Preserve bids and instructions rather than reducing them to ordinary requests. |
-| 17.586-588 note | Report | `MISTRANSLATION` | `MINOR` | The note suppresses limiting `ὧδε` and reverses Penelope's logic. Logical adverbs can control the scope of an argument. |
-| 17.606 note | Report | `MISTRANSLATION` | `MINOR` | The note says the interview is in the next book, but Book 18 intervenes and the interview occurs in Book 19. Verify cross-book navigation directly. |
-| 18.15 | Report | `LEXICAL` | `MINOR` | “Man possessed” gives emphatic vocative `δαιμόνιε` an unsupported supernatural sense. Treat unsupported diagnostic senses in vocatives as lexical unless downstream action is distorted. |
-| 18.44 note | Report | `MISTRANSLATION` | `MINOR` | The note falsely calls the fight prize the suitors' only organized act of generosity. Universal claims require corpus-wide support. |
-| 18.128 note | Report | `MISTRANSLATION` | `MINOR` | The note misattributes Athena's direct praise at 13.332 to Penelope. Verify speaker attribution in cross-book references. |
-| 18.136-137 and note | Report | `LEXICAL` | `MODERATE` | “It is weather” replaces the comparison between mortal thought and the day Zeus brings with a meteorological identity. Added governing metaphors are reportable when they replace a gnomic conceptual relation. |
-| 18.175-176 | Report | `LEXICAL` | `MINOR` | “So long” changes `μάλιστα`, special or foremost emphasis, into duration. Do not silently convert emphasis into time because duration is plausible. |
-| 18.175 note | Report | `MISTRANSLATION` | `MINOR` | The note places Odysseus tending torches before that scene and wrongly implies he cannot recognize the beard condition's fulfillment. Verify chronology and character knowledge. |
-| 18.187-191 note | Report | `ADDITION` | `MINOR` | The note makes bypassing consent Athena's precise purpose, though the stated purpose is Achaean admiration. Distinguish plausible ethical interpretation from explicit divine purpose. |
 
 ## Automated Formula Anchors
 
@@ -230,7 +209,6 @@ passage also contains a distinct material semantic or rhetorical loss.
 | 11.438 | Do not report | “We died in our thousands” is a conventional, non-exact intensification of `πολλοί` in the Trojan War context. Do not treat magnitude idioms as exact enumeration without a material consequence. |
 | 11.577 and note | Do not report | “Rood” can denote an area measure close to a square plethron, so a claimed scale reduction depends on forcing its obsolete linear sense. Consider all historically relevant senses before reporting a dimensional error. |
 | 12.168-172 note | Do not report | The note's total-silence language rhetorically describes the windless, waveless calm and the Sirens' heightened audibility; it need not deny incidental rowing noise. Do not force vivid atmospheric shorthand into an exceptionless acoustic claim. |
-| 17.366 and note | Do not report | “As if he had begged all his life” is idiomatic intensification within a hypothetical appearance simile and preserves long-practiced performance without materially asserting a lifelong biography. |
 
 ## Below-Threshold Anchors
 

@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-17-405-606",
+  "record_count": 202,
+  "unresolved_count": 0,
+  "findings": [
+    {"id":"O17-405-606-A-001","severity":"MINOR","category":"ADDITION"},
+    {"id":"O17-405-606-A-002","severity":"MINOR","category":"OMISSION"},
+    {"id":"O17-405-606-A-003","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O17-405-606-A-004","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O17-405-606-A-005","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O17-405-606-A-006","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O17-405-606-A-007","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O17-405-606-A-008","severity":"MINOR","category":"MISTRANSLATION"}
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {"review_id":"R1-001","proposal_key":"17.note-L407-footstool-applause-invented"},
+      {"review_id":"R1-002","proposal_key":"17.455-salt-recipient-omitted"},
+      {"review_id":"R1-003","proposal_key":"17.525-steutai-upgraded-to-oath"},
+      {"review_id":"R1-004","proposal_key":"17.note-L550-penelope-book23-clothing-fulfillment-false"},
+      {"review_id":"R1-005","proposal_key":"17.note-L570-privacy-agency-misattributed-to-odysseus"},
+      {"review_id":"R1-006","proposal_key":"17.note-L606-interview-wrongly-placed-next-book"}
+    ],
+    "reviewer_2": [
+      {"review_id":"R2-001","proposal_key":"17.note-L407-footstool-applause-invented"},
+      {"review_id":"R2-002","proposal_key":"17.525-steutai-upgraded-to-oath"},
+      {"review_id":"R2-003","proposal_key":"17.note-L550-penelope-book23-clothing-fulfillment-false"},
+      {"review_id":"R2-004","proposal_key":"17.582-anogen-directive-softened-to-request"},
+      {"review_id":"R2-005","proposal_key":"17.note-L586-penelope-unmatched-recklessness-logic-reversed"},
+      {"review_id":"R2-006","proposal_key":"17.note-L606-interview-wrongly-placed-next-book"}
+    ]
+  }
+}

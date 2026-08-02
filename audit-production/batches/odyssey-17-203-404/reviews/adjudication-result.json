@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-17-203-404",
+  "record_count": 202,
+  "unresolved_count": 0,
+  "findings": [
+    {"id": "O17-203-404-A-001", "severity": "MINOR", "category": "LEXICAL"},
+    {"id": "O17-203-404-A-002", "severity": "MINOR", "category": "MISTRANSLATION"},
+    {"id": "O17-203-404-A-003", "severity": "MINOR", "category": "GRAMMAR"},
+    {"id": "O17-203-404-A-004", "severity": "MINOR", "category": "MISTRANSLATION"},
+    {"id": "O17-203-404-A-005", "severity": "MINOR", "category": "ADDITION"},
+    {"id": "O17-203-404-A-006", "severity": "MINOR", "category": "MISTRANSLATION"}
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {"review_id": "R1-001", "proposal_key": "17.note-L297-dung-heap-misread-as-suspended-labor"},
+      {"review_id": "R1-002", "proposal_key": "17.note-L326-argus-first-recognition-priority-false"},
+      {"review_id": "R1-003", "proposal_key": "17.note-L339-invented-carpenter-acquaintance"}
+    ],
+    "reviewer_2": [
+      {"review_id": "R2-001", "proposal_key": "17.220-377-apolumanter-weakened-to-plate-licker"},
+      {"review_id": "R2-002", "proposal_key": "17.320-323-duplicated-day"},
+      {"review_id": "R2-003", "proposal_key": "17.note-L339-inside-threshold-called-neither-in-nor-out"},
+      {"review_id": "R2-004", "proposal_key": "17.366-lifelong-begging-added"}
+    ]
+  }
+}

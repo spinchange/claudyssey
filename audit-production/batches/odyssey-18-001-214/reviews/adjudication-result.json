@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-18-001-214",
+  "record_count": 214,
+  "unresolved_count": 0,
+  "findings": [
+    {"id":"O18-001-214-A-001","severity":"MINOR","category":"LEXICAL"},
+    {"id":"O18-001-214-A-002","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O18-001-214-A-003","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O18-001-214-A-004","severity":"MODERATE","category":"LEXICAL"},
+    {"id":"O18-001-214-A-005","severity":"MINOR","category":"LEXICAL"},
+    {"id":"O18-001-214-A-006","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O18-001-214-A-007","severity":"MINOR","category":"ADDITION"}
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {"review_id":"R1-001","proposal_key":"18.15-daimonie-rendered-as-possession"},
+      {"review_id":"R1-002","proposal_key":"18.note-L44-one-organized-generosity-exclusivity"},
+      {"review_id":"R1-003","proposal_key":"18.note-L128-epietes-misattributed-to-penelope"},
+      {"review_id":"R1-004","proposal_key":"18.note-L175-odysseus-tending-torches-chronology"}
+    ],
+    "reviewer_2": [
+      {"review_id":"R2-001","proposal_key":"18.15-daimonie-rendered-as-possession"},
+      {"review_id":"R2-002","proposal_key":"18.note-L128-epietes-misattributed-to-penelope"},
+      {"review_id":"R2-003","proposal_key":"18.136-137-mind-as-day-recast-as-weather"},
+      {"review_id":"R2-004","proposal_key":"18.175-176-malista-replaced-by-duration"},
+      {"review_id":"R2-005","proposal_key":"18.note-L175-odysseus-tending-torches-chronology"},
+      {"review_id":"R2-006","proposal_key":"18.note-L187-consent-bypassing-purpose-added"}
+    ]
+  }
+}
