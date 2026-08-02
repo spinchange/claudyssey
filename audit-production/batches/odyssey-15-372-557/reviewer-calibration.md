@@ -147,10 +147,6 @@ the lexical difference itself is clear.
 | 15.180-181 note | Report | `MISTRANSLATION` | `MINOR` | The note attributes the formula to an earlier Telemachus–Athena promise, although 15.181 exactly repeats Odysseus' line to Nausicaa at 8.467. Verify both speaker and addressee when identifying formula antecedents. |
 | 15.233-234 | Report | `LEXICAL` | `MINOR` | “The Fury who strikes the house” replaces the explicit frightfulness of `δασπλῆτις` with an unsupported house-directed action. Preserve an epithet's characterizing quality rather than inventing a new target or event. |
 | 15.277-278 | Report | `GRAMMAR` | `MODERATE` | “I have found you begging” reverses the roles: Theoclymenus says that he, while fleeing, supplicated Telemachus. Preserve the agent and recipient of supplication when they motivate protection. |
-| 15.416 note | Report | `MISTRANSLATION` | `MINOR` | The note says both of Odysseus' invented Phoenician tales portray Phoenicians as swindlers and kidnappers, but the Book 13 crew explicitly does not wish to cheat him and unloads his goods safely. Test cross-passage generalizations against contrasting examples. |
-| 15.445 | Report | `MISTRANSLATION` | `MINOR` | “Press the buying of your cargo” reverses the commercial direction: the woman tells the Phoenicians to hurry the sale or trading of their wares. Preserve who buys and who sells when exchange vocabulary controls the action. |
-| 15.479-480 note | Report | `MISTRANSLATION` | `MINOR` | The note calls the disposal an `ἕλωρ` formula, although this passage has `κύρμα γενέσθαι` and never uses `ἕλωρ`. Distinguish a shared exposure motif from the exact Greek formula present. |
-| 15.555-557 note | Report | `MISTRANSLATION` | `MINOR` | The note says the book division cuts a sentence mid-flow, but Book 15 completes the arrival and relative clause while Book 16 begins a new independent clause. Distinguish continuous narrative from continuous syntax. |
 
 ## Automated Formula Anchors
 

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-15-372-557",
+  "record_count": 186,
+  "unresolved_count": 0,
+  "findings": [
+    {"id": "O15-372-557-A-001", "severity": "MINOR", "category": "MISTRANSLATION"},
+    {"id": "O15-372-557-A-002", "severity": "MINOR", "category": "MISTRANSLATION"},
+    {"id": "O15-372-557-A-003", "severity": "MINOR", "category": "MISTRANSLATION"},
+    {"id": "O15-372-557-A-004", "severity": "MINOR", "category": "MISTRANSLATION"}
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {"review_id": "R1-001", "proposal_key": "15.note-L479-helor-formula-misidentified"},
+      {"review_id": "R1-002", "proposal_key": "15.note-L555-book-division-called-mid-sentence"}
+    ],
+    "reviewer_2": [
+      {"review_id": "R2-001", "proposal_key": "15.445-buying-reverses-sale-direction"},
+      {"review_id": "R2-002", "proposal_key": "15.note-L416-phoenician-tales-falsely-agree"},
+      {"review_id": "R2-003", "proposal_key": "15.note-L555-book-division-called-mid-sentence"}
+    ]
+  }
+}
