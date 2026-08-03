@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-19-001-201",
+  "record_count": 201,
+  "unresolved_count": 0,
+  "findings": [
+    {"id":"O19-001-201-A-001","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O19-001-201-A-002","severity":"MINOR","category":"ADDITION"},
+    {"id":"O19-001-201-A-003","severity":"MINOR","category":"LEXICAL"},
+    {"id":"O19-001-201-A-004","severity":"MINOR","category":"LEXICAL"},
+    {"id":"O19-001-201-A-005","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O19-001-201-A-006","severity":"MINOR","category":"ADDITION"},
+    {"id":"O19-001-201-A-007","severity":"MINOR","category":"LEXICAL"},
+    {"id":"O19-001-201-A-008","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O19-001-201-A-009","severity":"MINOR","category":"GRAMMAR"}
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {"review_id":"R1-001","proposal_key":"19.note-L36-first-theophany-sense-priority"},
+      {"review_id":"R1-002","proposal_key":"19.note-L56-chair-delivery-memory-invented"},
+      {"review_id":"R1-003","proposal_key":"19.71-daimonie-rendered-as-possession"},
+      {"review_id":"R1-004","proposal_key":"19.note-L104-formula-history-errors"},
+      {"review_id":"R1-005","proposal_key":"19.113-empeda-shifted-to-firm-offspring"},
+      {"review_id":"R1-006","proposal_key":"19.note-L141-only-twice-told-tale"},
+      {"review_id":"R1-007","proposal_key":"19.160-161-zeus-glory-shifted-to-house"}
+    ],
+    "reviewer_2": [
+      {"review_id":"R2-001","proposal_key":"19.55-note-L56-habitual-seat-always-added"},
+      {"review_id":"R2-002","proposal_key":"19.note-L56-chair-delivery-memory-invented"},
+      {"review_id":"R2-003","proposal_key":"19.71-daimonie-rendered-as-possession"},
+      {"review_id":"R2-004","proposal_key":"19.87-88-atasthallousa-weakened-to-mischief"},
+      {"review_id":"R2-005","proposal_key":"19.note-L104-formula-history-errors"},
+      {"review_id":"R2-006","proposal_key":"19.note-L109-simile-converted-to-twenty-year-reign"},
+      {"review_id":"R2-007","proposal_key":"19.113-empeda-shifted-to-firm-offspring"},
+      {"review_id":"R2-008","proposal_key":"19.note-L141-only-twice-told-tale"},
+      {"review_id":"R2-009","proposal_key":"19.160-161-zeus-glory-shifted-to-house"}
+    ]
+  }
+}

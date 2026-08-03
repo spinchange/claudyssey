@@ -203,13 +203,6 @@ the lexical difference itself is clear.
 | 19.113 | Report | `LEXICAL` | `MINOR` | “Firm young” transfers adverbial `ἔμπεδα` into a physical quality of offspring. Preserve the word's grammatical function when reassignment changes its sense. |
 | 19.141 note | Report | `MISTRANSLATION` | `MINOR` | The note calls the web story only twice told, overlooking its third telling in Book 24. Whole-poem frequency claims require corpus-wide verification. |
 | 19.160-161 | Report | `GRAMMAR` | `MINOR` | The translation shifts Zeus' bestowed glory from Telemachus to the house. Track the grammatical recipient when English restructuring changes agency or possession. |
-| 19.255 | Report | `GRAMMAR` | `MINOR` | A repeated “I” creates malformed apposition between Penelope and the clothes. Count English syntax failures when they make the semantic relationship incoherent even though the surrounding proposition can be recovered. |
-| 19.270 note | Report | `MISTRANSLATION` | `MINOR` | The note inserts a raft into an itinerary that uses the wrecked ship's keel. Keep similar survival devices distinct when the disguised itinerary deliberately omits an episode. |
-| 19.275-276 | Report | `LEXICAL` | `MINOR` | “At odds” preserves hostile opposition and an effective name-pun but weakens the anger or wrath in `ὀδύσαντο`. Punning compensation may reduce severity without eliminating a real loss of affective force. |
-| 19.309 note | Report | `MISTRANSLATION` | `MINOR` | The note misclassifies the Book 15 dynastic prophecy as a prophecy of Odysseus' return. Formula commentary must distinguish the content surrounding each recurrence. |
-| 19.357 note | Report | `GRAMMAR` | `MINOR` | The note collapses three poem-wide `περίφρων` women into the two present in the room. Corpus counts must include contextually identified bearers such as Arete at 11.345, while prose must distinguish the full set from the scene subset. |
-| 19.383 note | Report | `MISTRANSLATION` | `MINOR` | “He does not lie” ignores fabricated witnesses to a genuinely true resemblance. A true proposition can still be conveyed through false testimony; commentary must audit both content and asserted evidence. |
-| 19.401 note | Report | `MISTRANSLATION` | `MINOR` | The note calls Eurycleia the namer, though Autolycus chooses and bestows the name. Presence, prompting, witnessing, and bestowing are distinct forms of agency. |
 
 ## Automated Formula Anchors
 

@@ -194,22 +194,6 @@ the lexical difference itself is clear.
 | 18.406-407 and note | Report | `LEXICAL` | `MINOR` | “You are possessed” gives `δαιμόνιοι` an unsupported supernatural diagnosis despite separate madness and divine-goading clauses. |
 | 18.406 note | Report | `ADDITION` | `MINOR` | “Ten hours before it matters” invents an exact interval. Broad next-day sequence does not justify computed hours. |
 | 18.420-426 note | Report | `MISTRANSLATION` | `MINOR` | The note assigns Moulius' wine service to Amphinomus, who only proposes it. Distinguish authorizing an action from performing it. |
-| 19.36 note | Report | `MISTRANSLATION` | `MINOR` | The note falsely makes this Telemachus' first awareness of a divine manifestation. Verify priority claims such as “first” or “finally” against the whole poem. |
-| 19.56 note | Report | `ADDITION` | `MINOR` | The note invents Odysseus' memory of the chair being delivered. Do not supply autobiographical memory without textual support. |
-| 19.71 | Report | `LEXICAL` | `MINOR` | “Woman possessed” gives vocative `δαιμονίη` an unsupported supernatural diagnosis. Contextual reproach does not itself mean possession. |
-| 19.87-88 | Report | `LEXICAL` | `MINOR` | “Mischief” understates the culpable recklessness of `ἀτασθάλλουσα`. Preserve morally charged force when it drives blame. |
-| 19.104 note | Report | `MISTRANSLATION` | `MINOR` | The note reverses the Book 1 speaker and addressee and falsely calls this the formula's last occurrence. Formula commentary must get both recurrence history and dramatic roles right. |
-| 19.109-114 note | Report | `ADDITION` | `MINOR` | The note turns the just-king simile into a literal twenty-year reign by Penelope. Do not convert a comparison into asserted biography or chronology. |
-| 19.113 | Report | `LEXICAL` | `MINOR` | “Firm young” transfers adverbial `ἔμπεδα` into a physical quality of offspring. Preserve the word's grammatical function when reassignment changes its sense. |
-| 19.141 note | Report | `MISTRANSLATION` | `MINOR` | The note calls the web story only twice told, overlooking its third telling in Book 24. Whole-poem frequency claims require corpus-wide verification. |
-| 19.160-161 | Report | `GRAMMAR` | `MINOR` | The translation shifts Zeus' bestowed glory from Telemachus to the house. Track the grammatical recipient when English restructuring changes agency or possession. |
-| 19.255 | Report | `GRAMMAR` | `MINOR` | A repeated “I” creates malformed apposition between Penelope and the clothes. Count English syntax failures when they make the semantic relationship incoherent even though the surrounding proposition can be recovered. |
-| 19.270 note | Report | `MISTRANSLATION` | `MINOR` | The note inserts a raft into an itinerary that uses the wrecked ship's keel. Keep similar survival devices distinct when the disguised itinerary deliberately omits an episode. |
-| 19.275-276 | Report | `LEXICAL` | `MINOR` | “At odds” preserves hostile opposition and an effective name-pun but weakens the anger or wrath in `ὀδύσαντο`. Punning compensation may reduce severity without eliminating a real loss of affective force. |
-| 19.309 note | Report | `MISTRANSLATION` | `MINOR` | The note misclassifies the Book 15 dynastic prophecy as a prophecy of Odysseus' return. Formula commentary must distinguish the content surrounding each recurrence. |
-| 19.357 note | Report | `GRAMMAR` | `MINOR` | The note collapses three poem-wide `περίφρων` women into the two present in the room. Corpus counts must include contextually identified bearers such as Arete at 11.345, while prose must distinguish the full set from the scene subset. |
-| 19.383 note | Report | `MISTRANSLATION` | `MINOR` | “He does not lie” ignores fabricated witnesses to a genuinely true resemblance. A true proposition can still be conveyed through false testimony; commentary must audit both content and asserted evidence. |
-| 19.401 note | Report | `MISTRANSLATION` | `MINOR` | The note calls Eurycleia the namer, though Autolycus chooses and bestows the name. Presence, prompting, witnessing, and bestowing are distinct forms of agency. |
 
 ## Automated Formula Anchors
 
@@ -256,7 +240,6 @@ passage also contains a distinct material semantic or rhetorical loss.
 | 17.366 and note | Do not report | “As if he had begged all his life” is idiomatic intensification within a hypothetical appearance simile and preserves long-practiced performance without materially asserting a lifelong biography. |
 | 18.341-342 and note | Do not report | “Knees went slack” conventionally represents bodily support failing under `λύθεν ... γυῖα`; the note describes a broad collapse motif, not an exact anatomical formula. |
 | 18.384-386 note | Do not report | Although the note first calls the doorway warning “exact,” it immediately states that Eurymachus dies at the tables and never reaches the doors; read coherently, the label is ironic setup rather than sustained misinformation. |
-| 19.55 and note | Do not report | The imperfect `ἐφῖζε` and the already established chair support ordinary habitual “always.” Do not treat a natural habitual rendering as a consequential exceptionless claim without contrary narrative evidence. |
 
 ## Below-Threshold Anchors
 
