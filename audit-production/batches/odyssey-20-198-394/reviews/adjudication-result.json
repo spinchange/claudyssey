@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-20-198-394",
+  "record_count": 197,
+  "unresolved_count": 0,
+  "findings": [
+    {"id":"O20-198-394-A-001","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O20-198-394-A-002","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O20-198-394-A-003","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O20-198-394-A-004","severity":"MINOR","category":"ADDITION"},
+    {"id":"O20-198-394-A-005","severity":"MODERATE","category":"MISTRANSLATION"},
+    {"id":"O20-198-394-A-006","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O20-198-394-A-007","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O20-198-394-A-008","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O20-198-394-A-009","severity":"MINOR","category":"ADDITION"},
+    {"id":"O20-198-394-A-010","severity":"MINOR","category":"ADDITION"}
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {"review_id":"R1-001","proposal_key":"20.notes-L230-L253-L284-L387-events-shifted-to-tomorrow"},
+      {"review_id":"R1-002","proposal_key":"20.note-L284-second-goad-called-third-day"},
+      {"review_id":"R1-003","proposal_key":"20.note-L287-ctesippus-falsely-called-last-new-suitor"},
+      {"review_id":"R1-004","proposal_key":"20.note-L334-exact-thirty-foot-distance-added"},
+      {"review_id":"R1-005","proposal_key":"20.349-foreboding-recast-as-desire-to-wail"},
+      {"review_id":"R1-006","proposal_key":"20.note-L351-dark-moon-made-natural-cause-of-sunlessness"},
+      {"review_id":"R1-007","proposal_key":"20.note-L371-theoclymenus-false-aftermath-appearance"},
+      {"review_id":"R1-008","proposal_key":"20.note-L376-bow-use-before-all-suitors-births"}
+    ],
+    "reviewer_2": [
+      {"review_id":"R2-001","proposal_key":"20.notes-L230-L253-L284-L387-events-shifted-to-tomorrow"},
+      {"review_id":"R2-002","proposal_key":"20.note-L284-second-goad-called-third-day"},
+      {"review_id":"R2-003","proposal_key":"20.note-L364-theoclymenus-falsely-called-last-warning"},
+      {"review_id":"R2-004","proposal_key":"20.note-L376-bow-use-before-all-suitors-births"},
+      {"review_id":"R2-005","proposal_key":"20.382-polykleis-rendered-as-many-benched"},
+      {"review_id":"R2-006","proposal_key":"20.notes-L230-L253-L284-L387-events-shifted-to-tomorrow"},
+      {"review_id":"R2-007","proposal_key":"20.note-L387-penelope-called-unseen"}
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-19-403-604",
+  "record_count": 202,
+  "unresolved_count": 0,
+  "findings": [
+    {"id":"O19-403-604-A-001","severity":"MINOR","category":"LEXICAL"},
+    {"id":"O19-403-604-A-002","severity":"MINOR","category":"ADDITION"},
+    {"id":"O19-403-604-A-003","severity":"MINOR","category":"ADDITION"},
+    {"id":"O19-403-604-A-004","severity":"MINOR","category":"GRAMMAR"},
+    {"id":"O19-403-604-A-005","severity":"MINOR","category":"ADDITION"},
+    {"id":"O19-403-604-A-006","severity":"MINOR","category":"ADDITION"},
+    {"id":"O19-403-604-A-007","severity":"MINOR","category":"MISTRANSLATION"}
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {"review_id":"R1-001","proposal_key":"19.407-409-odyssamenos-anger-direction-weakened"},
+      {"review_id":"R1-002","proposal_key":"19.note-L433-exact-age-sixteen-added"},
+      {"review_id":"R1-003","proposal_key":"19.note-L439-L454-boar-priority-claims"},
+      {"review_id":"R1-004","proposal_key":"19.455-autolycus-sons-object-shifted-to-carcass"},
+      {"review_id":"R1-005","proposal_key":"19.552-553-paros-expanded-to-always"},
+      {"review_id":"R1-006","proposal_key":"19.note-L571-midnight-time-added"},
+      {"review_id":"R1-007","proposal_key":"19.584-note-L589-exact-one-hour-added"}
+    ],
+    "reviewer_2": [
+      {"review_id":"R2-001","proposal_key":"19.407-409-odyssamenos-anger-direction-weakened"},
+      {"review_id":"R2-002","proposal_key":"19.note-L433-exact-age-sixteen-added"},
+      {"review_id":"R2-003","proposal_key":"19.note-L439-L454-boar-priority-claims"},
+      {"review_id":"R2-004","proposal_key":"19.474-475-note-L474-person-shift-manufactured"},
+      {"review_id":"R2-005","proposal_key":"19.552-553-paros-expanded-to-always"},
+      {"review_id":"R2-006","proposal_key":"19.585-note-L585-future-arrival-suppressed-as-presence"}
+    ]
+  }
+}

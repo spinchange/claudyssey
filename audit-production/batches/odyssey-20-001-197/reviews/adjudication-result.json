@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-20-001-197",
+  "record_count": 197,
+  "unresolved_count": 0,
+  "findings": [
+    {"id":"O20-001-197-A-001","severity":"MINOR","category":"ADDITION"},
+    {"id":"O20-001-197-A-002","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O20-001-197-A-003","severity":"MINOR","category":"LEXICAL"},
+    {"id":"O20-001-197-A-004","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O20-001-197-A-005","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O20-001-197-A-006","severity":"MINOR","category":"GRAMMAR"},
+    {"id":"O20-001-197-A-007","severity":"MINOR","category":"MISTRANSLATION"}
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {"review_id":"R1-001","proposal_key":"20.note-L66-pandareus-two-nights-chronology"},
+      {"review_id":"R1-002","proposal_key":"20.77-harpies-reduced-to-snatching-winds"},
+      {"review_id":"R1-003","proposal_key":"20.note-L116-frailest-comparison-class-expanded"},
+      {"review_id":"R1-004","proposal_key":"20.120-121-note-L120-punishment-agency-suppressed"},
+      {"review_id":"R1-005","proposal_key":"20.note-L173-melanthius-three-days-count"}
+    ],
+    "reviewer_2": [
+      {"review_id":"R2-001","proposal_key":"20.note-L2-all-bedding-stolen-provenance"},
+      {"review_id":"R2-002","proposal_key":"20.77-harpies-reduced-to-snatching-winds"},
+      {"review_id":"R2-003","proposal_key":"20.note-L80-contest-shifted-to-tomorrow"},
+      {"review_id":"R2-004","proposal_key":"20.note-L173-melanthius-three-days-count"}
+    ]
+  }
+}

@@ -217,23 +217,6 @@ the lexical difference itself is clear.
 | 19.552-553 | Report | `ADDITION` | `MINOR` | “Always” turns the geese's previous location under `πάρος` into an exceptionless habit. Use ADDITION when the earlier state remains but unsupported habitual force is added. |
 | 19.571 note | Report | `ADDITION` | `MINOR` | The note places Penelope's announcement at exact midnight, though the narrative supplies only a late hour near sleep. Chronological inference does not license precise clock time. |
 | 19.585 and note | Report | `MISTRANSLATION` | `MINOR` | Future arrival `ἐλεύσεται ἐνθάδʼ` becomes mere future presence, supporting an overcategorical claim that every word is literally true. Preserve motion when disguise makes surface and dramatic truth diverge. |
-| 20.2-4 note | Report | `ADDITION` | `MINOR` | The note makes every layer of Odysseus' bedding stolen livestock, though only the fleeces have explicit provenance and Eurynome supplies the mantle. Mark plausible estate-wide inference as inference rather than fact. |
-| 20.66 note | Report | `MISTRANSLATION` | `MINOR` | The note divides the Book 19 nightingale passage and this prayer into two nights, though sleep and the book boundary occur within one continuous night. Follow explicit dawn markers, not book divisions. |
-| 20.77-78 | Report | `LEXICAL` | `MINOR` | “Snatching-winds” suppresses the named Harpies and the deliberate shift from generic storm-winds to mythological agents. A correct note does not fully repair lost agency in the verse. |
-| 20.80 note | Report | `MISTRANSLATION` | `MINOR` | The note calls the bow contest “tomorrow's,” though it occurs later on the day about to dawn. Temporal deixis must follow continuous narrative chronology. |
-| 20.116 note | Report | `MISTRANSLATION` | `MINOR` | “Frailest slave in the house” enlarges `ἀφαυροτάτη` beyond the locally introduced group of twelve mill-women. Superlatives inherit their comparison class from context. |
-| 20.120-121 and note | Report | `GRAMMAR` | `MINOR` | “The guilty would pay” turns Odysseus' intended vengeance into an agentless outcome. Contextual recoverability limits severity but does not erase explicit agentive control. |
-| 20.173 note | Report | `MISTRANSLATION` | `MINOR` | “Third abuse in three days” mistakes book divisions for elapsed days and underdefines the counted incidents. Numbered patterns require complete, explicit comparison classes and verified chronology. |
-| 20.230, 253, 284, 387 notes | Report | `MISTRANSLATION` | `MINOR` | Multiple notes shift same-festival-day events to “tomorrow.” Track explicit dawns through Books 20-22 rather than treating book divisions as elapsed days. |
-| 20.284 note | Report | `MISTRANSLATION` | `MINOR` | Athena's second goad across two consecutive days is called “the third day running.” Recurrence counts and elapsed-day counts are distinct claims. |
-| 20.287 note | Report | `MISTRANSLATION` | `MINOR` | Ctesippus is called the poem's last new suitor before Agelaus is introduced at 20.321. Verify “last” claims against all later occurrences. |
-| 20.334 note | Report | `ADDITION` | `MINOR` | The note invents a thirty-foot distance between characters merely known to share the hall. Do not convert relative staging into exact measurement. |
-| 20.349 and note | Report | `MISTRANSLATION` | `MODERATE` | “Wanted to wail” recasts ominous expectation or foreboding as present desire. Mental-state distinctions become moderate when they form the hinge into sustained prophetic disclosure. |
-| 20.351 note | Report | `MISTRANSLATION` | `MINOR` | The note naturalizes a vanished noonday sun through the dark moon. Lunar symbolism does not make supernatural solar darkness ordinary astronomy. |
-| 20.364 note | Report | `MISTRANSLATION` | `MINOR` | Theoclymenus' speech is called the last warning from anyone despite Leodes' later bow warning. Unrestricted priority claims fail when a later member of the stated class exists. |
-| 20.371 note | Report | `MISTRANSLATION` | `MINOR` | “But for the aftermath” implies a later Theoclymenus appearance, though 20.372 is his final occurrence. Parenthetical qualifications remain auditable factual claims. |
-| 20.376 note | Report | `ADDITION` | `MINOR` | The note says Odysseus used the bow before every suitor was born without an exhaustive birth chronology. Broad age impressions do not support universal biographical priority. |
-| 20.387 note | Report | `ADDITION` | `MINOR` | Penelope is called an unseen audience despite sitting opposite the company. Do not infer concealment from silent observation without textual support. |
 
 ## Automated Formula Anchors
 
@@ -283,7 +266,6 @@ passage also contains a distinct material semantic or rhetorical loss.
 | 19.55 and note | Do not report | The imperfect `ἐφῖζε` and the already established chair support ordinary habitual “always.” Do not treat a natural habitual rendering as a consequential exceptionless claim without contrary narrative evidence. |
 | 19.455 | Do not report | `τὸν μὲν` naturally resumes the dead boar, and the following `ὠτειλὴν δέ` turns to Odysseus' wound. Follow discourse structure and the `μέν ... δέ` sequence rather than forcing the nearest human referent. |
 | 19.584 and note L589 | Do not report | “Not one hour” and “one more hour” are conventional rhetorical minimizers about avoiding delay and nearing recognition, not measured chronology. Distinguish idiomatic time language from categorical exact-time claims such as an unsupported “at midnight.” |
-| 20.382 | Do not report | “Many-benched ship” is a conventional functional metonym for a many-tholed or many-oared vessel and preserves scale, propulsion, and action. Do not elevate adjacent rowing-hardware terminology without a material consequence. |
 
 ## Below-Threshold Anchors
 
