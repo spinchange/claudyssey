@@ -261,16 +261,6 @@ the lexical difference itself is clear.
 | 21.416-418 note | Report | `MISTRANSLATION` | `MINOR` | “Taste” is called a returning source idiom though `γεύσεσθαι` and `πειρήσεσθαι` differ. Translator-created echo is not Greek recurrence. |
 | 21.431 note; cf. 16.283 | Report | `MISTRANSLATION` | `MINOR` | A new arming signal is identified with Book 16's already fulfilled weapon-removal instruction. Reused gestures do not automatically preserve a prior operational meaning. |
 | 21.431 note; cf. 22.1-8 | Report | `MISTRANSLATION` | `MINOR` | The note says Book 22's first line names the target, but Antinous is named at 22.8. Cross-book line-position claims require exact checking. |
-| 22.1 note | Report | `GRAMMAR` | `MINOR` | The note calls finite `γυμνώθη` a passive participle even though Odysseus is the acting subject. Commentary morphology remains auditable when the verse itself is correct. |
-| 22.1 note | Report | `MISTRANSLATION` | `MINOR` | “Thirteen books of costume” miscounts a beggar disguise occupying Books 13-21. Exact book counts must follow the actual textual duration. |
-| 22.9-11 note | Report | `MISTRANSLATION` | `MINOR` | A prospective cup-lifting action is described as the cup already reaching Antinous' lips. Do not turn `μέλλω` plus infinitive into a completed action. |
-| 22.31-41 note | Report | `MISTRANSLATION` | `MINOR` | The cords-of-death recurrence is called verbatim despite changes in person and verbal framing. Pointed recurrence is not verbal identity. |
-| 22.48-59 note | Report | `ADDITION` | `MINOR` | Contiguous narration becomes an exact one-minute interval. Narrative immediacy does not license clock measurement. |
-| 22.74-78 | Report | `GRAMMAR` | `MODERATE` | English ellipsis carries Odysseus as object into the town, suppressing new first-person-plural `ἔλθωμεν` and materially changing the suitors' tactical plan. |
-| 22.89-91 | Report | `GRAMMAR` | `MINOR` | An English pronoun leaves Amphinomus as the natural yielding subject although Greek makes Odysseus yield to him. Reduce severity when context reliably permits recovery. |
-| 22.139-141 | Report | `GRAMMAR` | `MINOR` | “I am certain” removes the epistemic qualification of `ὀΐομαι`, “I think.” Preserve explicitly marked modality. |
-| 22.142-143 and note | Report | `ADDITION` | `MINOR` | A possible architectural interpretation is promoted into categorical “servant's secret ways,” adding secrecy and social restriction absent from the Greek. Disputed staging should remain marked as conjecture. |
-| 22.147-149 note; cf. 5.297, 5.406 | Report | `MISTRANSLATION` | `MODERATE` | A terror formula is called unique to Odysseus here despite two identical Book 5 applications to him. False formula history is semantic when it supports a substantive interpretive argument. |
 
 ## Automated Formula Anchors
 

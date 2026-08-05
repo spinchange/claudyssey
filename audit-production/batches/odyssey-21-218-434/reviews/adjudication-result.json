@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-21-218-434",
+  "record_count": 217,
+  "unresolved_count": 0,
+  "findings": [
+    {"id":"O21-218-434-A-001","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O21-218-434-A-002","severity":"MODERATE","category":"GRAMMAR"},
+    {"id":"O21-218-434-A-003","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O21-218-434-A-004","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O21-218-434-A-005","severity":"MINOR","category":"ADDITION"},
+    {"id":"O21-218-434-A-006","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O21-218-434-A-007","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O21-218-434-A-008","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O21-218-434-A-009","severity":"MINOR","category":"ADDITION"},
+    {"id":"O21-218-434-A-010","severity":"MINOR","category":"ADDITION"},
+    {"id":"O21-218-434-A-011","severity":"MINOR","category":"ADDITION"},
+    {"id":"O21-218-434-A-012","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O21-218-434-A-013","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O21-218-434-A-014","severity":"MINOR","category":"ADDITION"},
+    {"id":"O21-218-434-A-015","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O21-218-434-A-016","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O21-218-434-A-017","severity":"MINOR","category":"MISTRANSLATION"}
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {"review_id":"R1-001","proposal_key":"21.note-L226-family-reunion-universal"},
+      {"review_id":"R1-002","proposal_key":"21.note-L230-eumaeus-given-eurycleias-locking-agency"},
+      {"review_id":"R1-003","proposal_key":"21.note-L285-suitors-fear-before-any-strength-evidence"},
+      {"review_id":"R1-004","proposal_key":"21.notes-L295-and-L324-exact-one-hour-interval"},
+      {"review_id":"R1-005","proposal_key":"21.note-L324-prediction-called-verbatim-transcript"},
+      {"review_id":"R1-006","proposal_key":"21.note-L366-invented-forty-suitors"},
+      {"review_id":"R1-007","proposal_key":"21.372-375-singular-threat-made-more-than-one"},
+      {"review_id":"R1-008","proposal_key":"21.note-L376-invented-thirty-foot-distance"},
+      {"review_id":"R1-009","proposal_key":"21.note-L386-wingless-word-occurrence-misnumbered"},
+      {"review_id":"R1-010","proposal_key":"21.note-L397-every-taunt-documentary-universal"},
+      {"review_id":"R1-011","proposal_key":"21.396-400-kakon-empaios-softened-to-schooled-in-trouble"},
+      {"review_id":"R1-012","proposal_key":"21.note-L416-source-taste-idiom-falsely-repeated"},
+      {"review_id":"R1-013","proposal_key":"21.note-L431-eyebrow-signal-misidentified-as-book16-contract"},
+      {"review_id":"R1-014","proposal_key":"21.note-L431-target-falsely-assigned-to-22.1"}
+    ],
+    "reviewer_2": [
+      {"review_id":"R2-001","proposal_key":"21.note-L230-eumaeus-given-eurycleias-locking-agency"},
+      {"review_id":"R2-002","proposal_key":"21.note-L258-odysseus-falsely-standing-by-door"},
+      {"review_id":"R2-003","proposal_key":"21.notes-L295-and-L324-exact-one-hour-interval"},
+      {"review_id":"R2-004","proposal_key":"21.319-323-social-fitness-collapsed-into-unthinkability"},
+      {"review_id":"R2-005","proposal_key":"21.note-L338-each-loyal-speaker-adds-an-item"},
+      {"review_id":"R2-006","proposal_key":"21.note-L366-invented-forty-suitors"},
+      {"review_id":"R2-007","proposal_key":"21.372-375-singular-threat-made-more-than-one"},
+      {"review_id":"R2-008","proposal_key":"21.note-L376-invented-thirty-foot-distance"},
+      {"review_id":"R2-009","proposal_key":"21.note-L386-wingless-word-occurrence-misnumbered"},
+      {"review_id":"R2-010","proposal_key":"21.note-L411-first-bow-note-in-twenty-years"},
+      {"review_id":"R2-011","proposal_key":"21.note-L416-source-taste-idiom-falsely-repeated"},
+      {"review_id":"R2-012","proposal_key":"21.note-L431-target-falsely-assigned-to-22.1"}
+    ]
+  }
+}

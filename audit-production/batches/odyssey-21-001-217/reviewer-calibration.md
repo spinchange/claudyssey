@@ -234,43 +234,6 @@ the lexical difference itself is clear.
 | 20.371 note | Report | `MISTRANSLATION` | `MINOR` | “But for the aftermath” implies a later Theoclymenus appearance, though 20.372 is his final occurrence. Parenthetical qualifications remain auditable factual claims. |
 | 20.376 note | Report | `ADDITION` | `MINOR` | The note says Odysseus used the bow before every suitor was born without an exhaustive birth chronology. Broad age impressions do not support universal biographical priority. |
 | 20.387 note | Report | `ADDITION` | `MINOR` | Penelope is called an unseen audience despite sitting opposite the company. Do not infer concealment from silent observation without textual support. |
-| 21.48 note | Report | `ADDITION` | `MINOR` | “Twenty years shut” transfers the bow's long residence to continuous closure of the storeroom. Duration does not transfer automatically between an object and its container. |
-| 21.55-56 note | Report | `MISTRANSLATION` | `MINOR` | The bow is called the third object in the note's own clothes-bow-bed sequence, where it is second. Literary inventories still require internally correct ordinals. |
-| 21.98 note; cf. 21.418 | Report | `MISTRANSLATION` | `MINOR` | A translator-created English echo across `γεύσεσθαι` and `πειρήσεσθαι` is called a repeated Greek idiom, and the 320-line interval is understated. Distinguish source recurrence from translation patterning. |
-| 21.113-117 note | Report | `MISTRANSLATION` | `MODERATE` | The note changes Telemachus' readiness to endure Penelope's departure without grief into prevention of her departure. Reversing a stated conditional logic merits MODERATE when it changes motivation. |
-| 21.122-123 and note | Report | `GRAMMAR` | `MODERATE` | English attaches prior non-observation to plural spectators, though singular `ὀπώπει` resumes Telemachus. Do not override decisive source agreement when it materially changes characterization. |
-| 21.131-133 and note | Report | `GRAMMAR` | `MODERATE` | “Defend a man” recasts the hostile accusative opponent as someone protected. With middle `ἀπαμύνασθαι`, preserve the opponent's role as the man warded off. |
-| 21.138, 165 | Report | `LEXICAL` | `MINOR` | In the repeated bow construction `κορώνῃ` is the bow-tip or horn, not a door-hook. Resolve polysemy from immediate material action. |
-| 21.141 and 209 notes | Report | `MISTRANSLATION` | `MINOR` | Same-day deaths move to tomorrow and the trial order becomes an unsupported death rotation. An ordered preliminary sequence does not establish a later matching sequence. |
-| 21.209-211 note | Report | `ADDITION` | `MINOR` | Prayers personally heard among a limited slave group become a complete estate-wide loyalty census. Preserve both evidence limits and comparison-class limits. |
-| 21.212-216 note | Report | `ADDITION` | `MINOR` | Plausible emancipation and familial incorporation are stated as explicit manumission and adoption. Legal labels must remain marked interpretations when the Greek supplies rewards and relational language but no formal act. |
-| 21.226 note | Report | `MISTRANSLATION` | `MINOR` | A line shared by two recognition scenes becomes a universal about every family reunion and Odysseus stopping each one. Repetition in selected scenes does not license a family-wide rule. |
-| 21.230-241 note | Report | `GRAMMAR` | `MODERATE` | Eurycleia's strategically consequential locking act is transferred to Eumaeus, who only relays the order. Relaying an instruction and performing it are distinct agency roles. |
-| 21.258 note | Report | `MISTRANSLATION` | `MINOR` | The note places Odysseus standing by the door after the verse explicitly reseats him on his stool. Commentary staging must follow the latest narrated position. |
-| 21.285 note | Report | `MISTRANSLATION` | `MINOR` | The suitors are said to fear strength before any evidence, despite seeing Odysseus' physique and victory over Irus. Cross-book evidence remains part of the dramatic state. |
-| 21.295 and 324 notes | Report | `ADDITION` | `MINOR` | Two notes add an exact one-hour interval to an unmeasured continuous sequence. Narrative proximity is not clock time. |
-| 21.319-323 | Report | `MISTRANSLATION` | `MINOR` | Social-fitness `ἔοικεν` is collapsed into improbability despite the following reputation concern. Preserve propriety judgments separately from belief claims. |
-| 21.324 note | Report | `MISTRANSLATION` | `MINOR` | A substantively accurate prediction is called a verbatim transcript despite different Greek wording. “Verbatim” requires actual verbal recurrence. |
-| 21.338 note | Report | `MISTRANSLATION` | `MINOR` | The clothing-promise history becomes cumulatively additive, though it includes repetition and contraction. Recurrence narratives must represent every cited stage accurately. |
-| 21.366 note | Report | `ADDITION` | `MINOR` | “Forty suitors” invents a headcount where the Greek says all and many. Do not numerically resolve qualitative group language. |
-| 21.372-375 | Report | `ADDITION` | `MINOR` | Singular indefinite `τινα` becomes “more than one.” A plural surrounding comparison does not pluralize a singular threatened target. |
-| 21.376 note | Report | `ADDITION` | `MINOR` | “The last thirty feet” invents a measured bow-delivery distance. Relative movement through a hall does not establish feet. |
-| 21.386 note | Report | `MISTRANSLATION` | `MINOR` | The wingless-word line is called fourth when it is third in the supplied occurrence sequence. False explanatory ordinals remain semantic-note findings, not fixed-register deviations. |
-| 21.397 note | Report | `MISTRANSLATION` | `MINOR` | Selected ironic taunts become the universal “every taunt ... documentary,” contradicted within the same book. Verify universal literary claims against the complete stated class. |
-| 21.411 note | Report | `ADDITION` | `MINOR` | Prolonged bow disuse becomes an exact twenty-year silence of the string. Strong inference still requires qualification when presented as complete object history. |
-| 21.416-418 note | Report | `MISTRANSLATION` | `MINOR` | “Taste” is called a returning source idiom though `γεύσεσθαι` and `πειρήσεσθαι` differ. Translator-created echo is not Greek recurrence. |
-| 21.431 note; cf. 16.283 | Report | `MISTRANSLATION` | `MINOR` | A new arming signal is identified with Book 16's already fulfilled weapon-removal instruction. Reused gestures do not automatically preserve a prior operational meaning. |
-| 21.431 note; cf. 22.1-8 | Report | `MISTRANSLATION` | `MINOR` | The note says Book 22's first line names the target, but Antinous is named at 22.8. Cross-book line-position claims require exact checking. |
-| 22.1 note | Report | `GRAMMAR` | `MINOR` | The note calls finite `γυμνώθη` a passive participle even though Odysseus is the acting subject. Commentary morphology remains auditable when the verse itself is correct. |
-| 22.1 note | Report | `MISTRANSLATION` | `MINOR` | “Thirteen books of costume” miscounts a beggar disguise occupying Books 13-21. Exact book counts must follow the actual textual duration. |
-| 22.9-11 note | Report | `MISTRANSLATION` | `MINOR` | A prospective cup-lifting action is described as the cup already reaching Antinous' lips. Do not turn `μέλλω` plus infinitive into a completed action. |
-| 22.31-41 note | Report | `MISTRANSLATION` | `MINOR` | The cords-of-death recurrence is called verbatim despite changes in person and verbal framing. Pointed recurrence is not verbal identity. |
-| 22.48-59 note | Report | `ADDITION` | `MINOR` | Contiguous narration becomes an exact one-minute interval. Narrative immediacy does not license clock measurement. |
-| 22.74-78 | Report | `GRAMMAR` | `MODERATE` | English ellipsis carries Odysseus as object into the town, suppressing new first-person-plural `ἔλθωμεν` and materially changing the suitors' tactical plan. |
-| 22.89-91 | Report | `GRAMMAR` | `MINOR` | An English pronoun leaves Amphinomus as the natural yielding subject although Greek makes Odysseus yield to him. Reduce severity when context reliably permits recovery. |
-| 22.139-141 | Report | `GRAMMAR` | `MINOR` | “I am certain” removes the epistemic qualification of `ὀΐομαι`, “I think.” Preserve explicitly marked modality. |
-| 22.142-143 and note | Report | `ADDITION` | `MINOR` | A possible architectural interpretation is promoted into categorical “servant's secret ways,” adding secrecy and social restriction absent from the Greek. Disputed staging should remain marked as conjecture. |
-| 22.147-149 note; cf. 5.297, 5.406 | Report | `MISTRANSLATION` | `MODERATE` | A terror formula is called unique to Odysseus here despite two identical Book 5 applications to him. False formula history is semantic when it supports a substantive interpretive argument. |
 
 ## Automated Formula Anchors
 
@@ -321,7 +284,6 @@ passage also contains a distinct material semantic or rhetorical loss.
 | 19.455 | Do not report | `τὸν μὲν` naturally resumes the dead boar, and the following `ὠτειλὴν δέ` turns to Odysseus' wound. Follow discourse structure and the `μέν ... δέ` sequence rather than forcing the nearest human referent. |
 | 19.584 and note L589 | Do not report | “Not one hour” and “one more hour” are conventional rhetorical minimizers about avoiding delay and nearing recognition, not measured chronology. Distinguish idiomatic time language from categorical exact-time claims such as an unsupported “at midnight.” |
 | 20.382 | Do not report | “Many-benched ship” is a conventional functional metonym for a many-tholed or many-oared vessel and preserves scale, propulsion, and action. Do not elevate adjacent rowing-hardware terminology without a material consequence. |
-| 21.396-400 | Do not report | In the coherent passage, nearby “a thief's” and bow-making language preserve the hostile accusation, while “schooled in trouble” permits an active troublemaking sense. Judge potentially softened diction across the complete local insult. |
 
 ## Below-Threshold Anchors
 

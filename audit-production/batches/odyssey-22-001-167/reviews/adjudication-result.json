@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-22-001-167",
+  "record_count": 167,
+  "unresolved_count": 0,
+  "findings": [
+    {"id":"O22-001-167-A-001","severity":"MINOR","category":"GRAMMAR"},
+    {"id":"O22-001-167-A-002","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O22-001-167-A-003","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O22-001-167-A-004","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O22-001-167-A-005","severity":"MINOR","category":"ADDITION"},
+    {"id":"O22-001-167-A-006","severity":"MODERATE","category":"GRAMMAR"},
+    {"id":"O22-001-167-A-007","severity":"MINOR","category":"GRAMMAR"},
+    {"id":"O22-001-167-A-008","severity":"MINOR","category":"GRAMMAR"},
+    {"id":"O22-001-167-A-009","severity":"MINOR","category":"ADDITION"},
+    {"id":"O22-001-167-A-010","severity":"MODERATE","category":"MISTRANSLATION"}
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {"review_id":"R1-001","proposal_key":"22.89-91-odysseus-yielding-subject-left-ambiguous"},
+      {"review_id":"R1-002","proposal_key":"22.139-141-belief-strengthened-to-certainty"},
+      {"review_id":"R1-003","proposal_key":"22.142-143-note-L136-openings-made-secret-servant-route"}
+    ],
+    "reviewer_2": [
+      {"review_id":"R2-001","proposal_key":"22.note-L1-gymnothe-falsely-called-passive-participle"},
+      {"review_id":"R2-002","proposal_key":"22.note-L1-beggar-disguise-miscounted-as-thirteen-books"},
+      {"review_id":"R2-003","proposal_key":"22.note-L9-cup-prematurely-placed-at-lips"},
+      {"review_id":"R2-004","proposal_key":"22.note-L31-cords-of-death-recurrence-called-verbatim"},
+      {"review_id":"R2-005","proposal_key":"22.note-L54-invented-one-minute-interval"},
+      {"review_id":"R2-006","proposal_key":"22.74-78-suitors-townward-action-attached-to-odysseus"},
+      {"review_id":"R2-007","proposal_key":"22.89-91-odysseus-yielding-subject-left-ambiguous"},
+      {"review_id":"R2-008","proposal_key":"22.139-141-belief-strengthened-to-certainty"},
+      {"review_id":"R2-009","proposal_key":"22.note-L147-odysseus-terror-formula-falsely-called-unique"}
+    ]
+  }
+}

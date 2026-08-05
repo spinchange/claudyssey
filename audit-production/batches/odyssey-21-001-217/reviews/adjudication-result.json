@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-21-001-217",
+  "record_count": 217,
+  "unresolved_count": 0,
+  "findings": [
+    {"id":"O21-001-217-A-001","severity":"MINOR","category":"ADDITION"},
+    {"id":"O21-001-217-A-002","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O21-001-217-A-003","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O21-001-217-A-004","severity":"MODERATE","category":"MISTRANSLATION"},
+    {"id":"O21-001-217-A-005","severity":"MODERATE","category":"GRAMMAR"},
+    {"id":"O21-001-217-A-006","severity":"MODERATE","category":"GRAMMAR"},
+    {"id":"O21-001-217-A-007","severity":"MINOR","category":"LEXICAL"},
+    {"id":"O21-001-217-A-008","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O21-001-217-A-009","severity":"MINOR","category":"ADDITION"},
+    {"id":"O21-001-217-A-010","severity":"MINOR","category":"ADDITION"}
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {"review_id":"R1-001","proposal_key":"21.note-L48-storeroom-twenty-years-shut"},
+      {"review_id":"R1-002","proposal_key":"21.note-L98-false-taste-recurrence-and-distance"},
+      {"review_id":"R1-003","proposal_key":"21.122-123-note-L120-never-seen-subject-shift"},
+      {"review_id":"R1-004","proposal_key":"21.131-133-note-L131-hostile-man-recast-as-protected"},
+      {"review_id":"R1-005","proposal_key":"21.138-and-165-bow-tip-recast-as-door-hook"},
+      {"review_id":"R1-006","proposal_key":"21.notes-L141-and-L209-deaths-shifted-to-tomorrow-and-rotation"},
+      {"review_id":"R1-007","proposal_key":"21.note-L209-heard-prayers-expanded-to-complete-estate-census"}
+    ],
+    "reviewer_2": [
+      {"review_id":"R2-001","proposal_key":"21.note-L48-storeroom-twenty-years-shut"},
+      {"review_id":"R2-002","proposal_key":"21.note-L55-bow-third-object-ordinal"},
+      {"review_id":"R2-003","proposal_key":"21.note-L113-telemachus-departure-logic-reversed"},
+      {"review_id":"R2-004","proposal_key":"21.122-123-note-L120-never-seen-subject-shift"},
+      {"review_id":"R2-005","proposal_key":"21.131-133-note-L131-hostile-man-recast-as-protected"},
+      {"review_id":"R2-006","proposal_key":"21.notes-L141-and-L209-deaths-shifted-to-tomorrow-and-rotation"},
+      {"review_id":"R2-007","proposal_key":"21.note-L209-heard-prayers-expanded-to-complete-estate-census"},
+      {"review_id":"R2-008","proposal_key":"21.note-L214-manumission-and-adoption-presented-as-fact"}
+    ]
+  }
+}
