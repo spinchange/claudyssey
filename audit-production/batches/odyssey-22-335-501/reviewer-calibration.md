@@ -277,24 +277,6 @@ the lexical difference itself is clear.
 | 22.312-319 note; cf. 21.144-147 | Report | `MISTRANSLATION` | `MODERATE` | The narrator's corroboration of Leodes' indignation is expanded into certification of every assertion in his plea. Limit external warrant to what the narrator actually states, especially when culpability is contested. |
 | 22.313-315 and note | Report | `GRAMMAR` | `MODERATE` | “Reckless” modifies coordinated speech and action in Greek but attaches only to action in English, turning the speech clause into total noncommunication and materially strengthening Leodes' defense. |
 | 22.247-280 notes | Do not report | Each volley includes the doorpost-door-wall pattern, and a separate note explicitly records the second volley's two grazing wounds. Read apparently broad claims coherently across the local note apparatus before treating them as exceptionless. |
-| 22.340-341 note | Report | `ADDITION` | `MINOR` | The lyre's stated placement becomes narrated protective motive and guaranteed safety. Plausible inferred intention must remain marked as interpretation. |
-| 22.371-377 note | Report | `MISTRANSLATION` | `MINOR` | A Book 20 smile before the massacre is classified as the first smile of Book 22's aftermath. Literary ordinals require a coherent chronological comparison class. |
-| 22.398 note | Report | `MISTRANSLATION` | `MINOR` | The wingless-word line is called fifth though the listed sequence makes it fourth. False explanatory occurrence counts remain semantic findings. |
-| 22.411-416 note | Report | `ADDITION` | `MODERATE` | Coordinated divine and human causes are said to divide agency evenly. Coordination does not establish equal causal weighting, especially when the proportion drives a theological argument. |
-| 22.447-460 note | Report | `ADDITION` | `MINOR` | A laborious but unmeasured cleanup becomes plural hours. Narrative extent does not supply clock time. |
-| 22.461-473 note | Report | `MISTRANSLATION` | `MINOR` | A hanging decision is called Telemachus' second adult command despite earlier household and tactical commands. Broad life-stage ordinals must account for prior acts. |
-| 22.474-477 note | Report | `MISTRANSLATION` | `MODERATE` | Overlapping partial mutilation catalogues are called a complete sequence rehearsed twice, falsely supporting exact-retribution arithmetic. Check cross-book catalogues element by element. |
-| 22.492-494 note; cf. 18.307-318 | Report | `MISTRANSLATION` | `MINOR` | A fire-history note transfers the women’s lighting action to Odysseus and stretches one night plus the following day into three days. Preserve both prior agency and continuous chronology. |
-| 22.419-489 note | Do not report | “Eurycleia's first thought after Armageddon” can be bounded to her first newly proposed concern after all executions and mutilation end; her earlier inventory occurs while the violent aftermath continues. |
-| 23.8-9 | Report | `LEXICAL` | `MINOR` | “Bullied” preserves repeated coercive mistreatment but weakens explicit force or violence in `βιόωντο`. Moderate severity downward when the core coercion remains recoverable. |
-| 23.46-48 note | Report | `MISTRANSLATION` | `MINOR` | A complete Greek clause is called a sentence breaking off because the English uses a dash. Parse source syntax rather than inferring it from translation punctuation or absent labels. |
-| 23.67 | Report | `LEXICAL` | `MINOR` | “Blind folly” shifts culpable `ἀτασθαλία` toward cognitive error. Preserve the calibrated moral force of reckless outrage. |
-| 23.68 note | Report | `MISTRANSLATION` | `MINOR` | Two Greek loss verbs are called three forms because English repeats “lost” a third time. Separate source patterning from translator-created repetition. |
-| 23.70 note | Report | `MISTRANSLATION` | `MINOR` | A tooth-fence recurrence history omits exact occurrences at 3.230 and 5.22. False explanatory histories remain semantic even when fixed wording belongs to automation. |
-| 23.85-87 and note | Report | `GRAMMAR` | `MINOR` | Coordination is redistributed so Penelope takes and kisses head and hands instead of kissing the head and taking the hands. Preserve participial object attachment in physical staging. |
-| 23.108-110 | Report | `GRAMMAR` | `MODERATE` | A comparative of surer mutual recognition gains an external “better than anyone” comparator. Comparative scope is material at the recognition scene's epistemic center. |
-| 23.166 note | Report | `MISTRANSLATION` | `MINOR` | Irus is misclassified as a hostile servant and flexible `δαιμόνιε` is literalized as “possessed.” Check social identity and avoid diagnostic glosses unsupported by the vocative. |
-| 23.177-180 and note | Report | `GRAMMAR` | `MODERATE` | Masculine relative agreement identifies the chamber as Odysseus' construction, but English transfers authorship to neuter “bed,” prematurely altering the test. Morphological agreement controls the antecedent. |
 
 ## Automated Formula Anchors
 

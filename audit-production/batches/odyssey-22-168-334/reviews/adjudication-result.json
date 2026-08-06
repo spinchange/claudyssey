@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-22-168-334",
+  "record_count": 167,
+  "unresolved_count": 0,
+  "findings": [
+    {"id":"O22-168-334-A-001","severity":"MINOR","category":"GRAMMAR"},
+    {"id":"O22-168-334-A-002","severity":"MINOR","category":"ADDITION"},
+    {"id":"O22-168-334-A-003","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O22-168-334-A-004","severity":"MODERATE","category":"MISTRANSLATION"},
+    {"id":"O22-168-334-A-005","severity":"MODERATE","category":"GRAMMAR"}
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {"review_id":"R1-001","proposal_key":"22.note-L208-supposition-upgraded-to-knowledge"},
+      {"review_id":"R1-002","proposal_key":"22.note-L216-invented-four-dead-count"},
+      {"review_id":"R1-003","proposal_key":"22.note-L262-four-kills-falsely-one-line-each"},
+      {"review_id":"R1-004","proposal_key":"22.note-L312-leodes-plea-falsely-fully-certified"}
+    ],
+    "reviewer_2": [
+      {"review_id":"R2-001","proposal_key":"22.note-L208-supposition-upgraded-to-knowledge"},
+      {"review_id":"R2-002","proposal_key":"22.note-L216-invented-four-dead-count"},
+      {"review_id":"R2-003","proposal_key":"22.note-L251-every-volley-absorbed-by-house"},
+      {"review_id":"R2-004","proposal_key":"22.note-L312-leodes-plea-falsely-fully-certified"},
+      {"review_id":"R2-005","proposal_key":"22.313-315-reckless-scope-lost-from-speech-denial"}
+    ]
+  }
+}

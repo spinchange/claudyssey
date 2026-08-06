@@ -1,0 +1,31 @@
+# Reviewer 2
+
+The translation is generally attentive, vivid, and structurally faithful. The strongest work preserves Penelope’s caution, the suspended recognition scene, and the beautification simile. Seven material issues remain: three moderate distortions involving violence, comparative scope, and architectural reference, plus four localized lexical, grammatical, or explanatory-note errors. Fixed-register wording differences have not been counted.
+
+| ID | Lines | Category | Severity | Confidence | Finding | Greek evidence | Suggested direction |
+|---|---|---|---|---:|---|---|---|
+| R2-001 | 8–9 | `LEXICAL` | `MODERATE` | 0.91 | “Bullied his son” materially weakens the sustained coercive or violent force of the suitors’ conduct. In this context the Greek characterization extends beyond ordinary intimidation and participates in the larger pattern of violence against Telemachus. | `βιόωντό τε παῖδα` says that they kept using violence or force against his son. | Use “did violence to his son,” “assailed his son,” or comparably forceful wording. |
+| R2-002 | 67 | `LEXICAL` | `MINOR` | 0.99 | “Their own blind folly” shifts culpable recklessness or presumption toward cognitive impairment. The suitors’ responsibility remains present, but the calibrated moral force of the `ἀτασθαλίαι` family is weakened. | `διʼ ἀτασθαλίας ἔπαθον κακόν` attributes their suffering to their reckless outrages. | Restore “through their own recklessness” or “through their own reckless acts.” |
+| R2-003 | 70 note | `MISTRANSLATION` | `MINOR` | 0.96 | The note’s recurrence history for the tooth-fence formula omits its occurrences at 3.230 and 5.22. This is a false explanatory account of the formula’s history, not a fixed-wording deviation. | The formula represented here by `ποῖόν σε ἔπος φύγεν ἕρκος ὀδόντων` also occurs at 1.64, 3.230, 5.22, 19.492, and 21.168 before this final use. | Include the omitted Book 3 and Book 5 occurrences, or avoid presenting the parenthetical list as the formula’s recurrence history. |
+| R2-004 | 85–87 | `GRAMMAR` | `MINOR` | 0.94 | The English redistributes the physical actions: Penelope considers taking both his head and hands and kissing them, whereas the Greek has her kiss his head while taking his hands. The emotional gesture survives, but its concrete staging changes. | `παρστᾶσα κύσειε κάρη καὶ χεῖρε λαβοῦσα`: standing beside him, she might kiss his head, having taken his hands. | Render “stand beside him, kiss his head, and take his hands.” |
+| R2-005 | 108–110 | `GRAMMAR` | `MODERATE` | 0.87 | “Know one another, and better than anyone” supplies an external comparison and turns the point toward exceptional intimacy. The Greek comparative concerns how surely or effectively the two will recognize each other; that epistemic force matters to Penelope’s proposed test. | `νῶϊ γνωσόμεθʼ ἀλλήλων καὶ λώϊον` means that the two will recognize one another better or more surely. | Use “we shall recognize one another more surely” or “we shall know one another, and better.” |
+| R2-006 | 177–179 and note L177 | `GRAMMAR` | `MODERATE` | 0.99 | The English makes “the bed he made” the antecedent at line 178, but the masculine relative pronoun refers to the bridal chamber. This removes the explicit statement that Odysseus constructed the chamber and prematurely transfers the construction claim to the bed. The note repeats that attachment while explaining the trap. | `ἐκτὸς ἐϋσταθέος θαλάμου, τόν ῥʼ αὐτὸς ἐποίει`: outside the well-built chamber, which he himself made. `λέχος` is neuter and cannot be the antecedent of masculine `τόν`. | Render “outside the well-built chamber that he himself constructed”; retain the bed’s movement in the following line. |
+| R2-007 | 166 note | `MISTRANSLATION` | `MINOR` | 0.95 | The note says Odysseus previously used this vocative toward “hostile servants” at 18.15 and 19.71. Melantho is an enslaved household woman, but the addressee at 18.15 is Irus, the public beggar and suitors’ messenger, not a servant. | The `δαιμόνιε` at 18.15 addresses Irus; the feminine `δαιμονίη` at 19.71 addresses Melantho. | Describe the earlier addressees individually, such as “the hostile beggar Irus and the disloyal slave-woman Melantho.” |
+
+Severity counts: **0 Critical, 0 Major, 3 Moderate, 4 Minor — 7 total findings.**
+
+## Especially Successful Renderings
+
+- **23.35–38:** Penelope’s demand for a truthful account and her emphasis on one man against the assembled suitors are direct, lucid, and rhetorically effective.
+- **23.93–95:** The alternating recognition and nonrecognition are preserved with excellent clarity, including the decisive interference of Odysseus’ poor clothing.
+- **23.156–162:** Athena’s beautification and the gold-over-silver craftsman simile retain their concrete imagery, divine agency, and extended rhetorical shape.
+
+## Concerns Considered
+
+| Lines | Confidence | Concern | Why not counted |
+|---|---:|---|---|
+| 2–3 | 0.65 | “Her feet stumbled with hurry” may introduce loss of footing where `πόδες δʼ ὑπερικταίνοντο` presents her feet stretching or hastening rapidly onward. | The verb’s physical image is unusual, and “knees were pumping fast” plus “with hurry” preserves the passage’s dominant rapid-motion effect. |
+| 41–42 | 0.64 | “Struck dumb” narrows `ἀτυζόμεναι`, frightened or bewildered, to speechlessness. | Being struck dumb can idiomatically convey terrified shock, and the enclosed, listening scene sustains that reaction without a consequential change. |
+| 68 and note L62 | 0.70 | The English uses “lost” three times and the note calls these “three forms,” while the Greek has the paired verbs `ὤλεσε ... ὤλετο`. | The third English use largely restates Odysseus’ loss far from Achaea, and the note’s “everything lost” can be read as thematic summation rather than a literal source count. |
+| 171–172 | 0.64 | “By myself at least” makes solitude explicit, while `αὐτός` primarily emphasizes Odysseus himself. | The request for a separately prepared bed and the complaint about Penelope’s iron heart make solitary rest a plausible contextual implication. |
+| 177–179 | 0.62 | “Packed bedstead” is obscure and may not clearly convey `πυκινὸν λέχος`, a close-built, solid, or well-joined bed. | “Packed” can suggest compact or densely fitted construction, and the surrounding bed-making language keeps the object intelligible. |

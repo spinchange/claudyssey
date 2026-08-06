@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-22-335-501",
+  "record_count": 167,
+  "unresolved_count": 0,
+  "findings": [
+    {"id":"O22-335-501-A-001","severity":"MINOR","category":"ADDITION"},
+    {"id":"O22-335-501-A-002","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O22-335-501-A-003","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O22-335-501-A-004","severity":"MODERATE","category":"ADDITION"},
+    {"id":"O22-335-501-A-005","severity":"MINOR","category":"ADDITION"},
+    {"id":"O22-335-501-A-006","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O22-335-501-A-007","severity":"MODERATE","category":"MISTRANSLATION"},
+    {"id":"O22-335-501-A-008","severity":"MINOR","category":"MISTRANSLATION"}
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {"review_id":"R1-001","proposal_key":"22.note-L341-lyre-protective-intention-invented"},
+      {"review_id":"R1-002","proposal_key":"22.note-L398-wingless-word-occurrence-misnumbered"},
+      {"review_id":"R1-003","proposal_key":"22.note-L412-divine-human-agency-called-even"},
+      {"review_id":"R1-004","proposal_key":"22.note-L447-cleanup-given-unsupported-hours"},
+      {"review_id":"R1-005","proposal_key":"22.note-L475-full-mutilation-catalogue-falsely-twice-rehearsed"},
+      {"review_id":"R1-006","proposal_key":"22.note-L488-clothing-falsely-called-first-thought-after-armageddon"},
+      {"review_id":"R1-007","proposal_key":"22.note-L492-fire-history-agency-and-three-day-chronology"}
+    ],
+    "reviewer_2": [
+      {"review_id":"R2-001","proposal_key":"22.note-L372-smile-falsely-called-second-in-aftermath"},
+      {"review_id":"R2-002","proposal_key":"22.note-L398-wingless-word-occurrence-misnumbered"},
+      {"review_id":"R2-003","proposal_key":"22.note-L412-divine-human-agency-called-even"},
+      {"review_id":"R2-004","proposal_key":"22.note-L447-cleanup-given-unsupported-hours"},
+      {"review_id":"R2-005","proposal_key":"22.note-L463-telemachus-command-decision-falsely-second"},
+      {"review_id":"R2-006","proposal_key":"22.note-L475-full-mutilation-catalogue-falsely-twice-rehearsed"},
+      {"review_id":"R2-007","proposal_key":"22.note-L492-fire-history-agency-and-three-day-chronology"}
+    ]
+  }
+}

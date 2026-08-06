@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-23-001-186",
+  "record_count": 185,
+  "unresolved_count": 0,
+  "findings": [
+    {"id":"O23-001-186-A-001","severity":"MINOR","category":"LEXICAL"},
+    {"id":"O23-001-186-A-002","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O23-001-186-A-003","severity":"MINOR","category":"LEXICAL"},
+    {"id":"O23-001-186-A-004","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O23-001-186-A-005","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O23-001-186-A-006","severity":"MINOR","category":"GRAMMAR"},
+    {"id":"O23-001-186-A-007","severity":"MODERATE","category":"GRAMMAR"},
+    {"id":"O23-001-186-A-008","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O23-001-186-A-009","severity":"MODERATE","category":"GRAMMAR"}
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {"review_id":"R1-001","proposal_key":"23.note-L46-complete-clause-falsely-called-mid-sentence-break"},
+      {"review_id":"R1-002","proposal_key":"23.67-atasthalia-weakened-to-blind-folly"},
+      {"review_id":"R1-003","proposal_key":"23.note-L62-two-greek-loss-verbs-called-three"},
+      {"review_id":"R1-004","proposal_key":"23.85-87-kiss-head-and-take-hands-redistributed"},
+      {"review_id":"R1-005","proposal_key":"23.note-L166-irus-misclassified-and-daimonie-misglossed"},
+      {"review_id":"R1-006","proposal_key":"23.177-180-relative-clause-transferred-from-chamber-to-bed"}
+    ],
+    "reviewer_2": [
+      {"review_id":"R2-001","proposal_key":"23.8-9-biaoo-weakened-to-bullying"},
+      {"review_id":"R2-002","proposal_key":"23.67-atasthalia-weakened-to-blind-folly"},
+      {"review_id":"R2-003","proposal_key":"23.note-L70-tooth-fence-recurrence-history-omits-two"},
+      {"review_id":"R2-004","proposal_key":"23.85-87-kiss-head-and-take-hands-redistributed"},
+      {"review_id":"R2-005","proposal_key":"23.108-110-loion-comparative-given-external-comparator"},
+      {"review_id":"R2-006","proposal_key":"23.177-180-relative-clause-transferred-from-chamber-to-bed"},
+      {"review_id":"R2-007","proposal_key":"23.note-L166-irus-misclassified-and-daimonie-misglossed"}
+    ]
+  }
+}
