@@ -662,7 +662,7 @@
 
 [^L12]: One day's sail, and the sunset line — and the ship is at "the limits of deep-flowing Ocean." Hades is a single day downwind from Circe's island: the geography of fairyland compresses to the exact length of the formula.
 
-[^L14]: The Cimmerians: a people wrapped in mist at the world's edge, on whom the sun never looks — real twilight-dwellers guarding the border of the dead. Ancient geographers hunted them from the Crimea (which carries their name) to the volcanic fields near Naples; the poem needs only their darkness — the sun of Helios' own grandchild Circe cannot reach the doorstep of Hades.
+[^L14]: The Cimmerians: a people wrapped in mist at the world's edge, on whom the sun never looks — real twilight-dwellers guarding the border of the dead. Ancient geographers hunted them from the Crimea (whose name some have derived from theirs, though the link is disputed) to the volcanic fields near Naples; the poem needs only their darkness — the sun of Helios' own daughter Circe cannot reach the doorstep of Hades.
 
 [^L23]: Lines 23–50 execute Circe's protocol (10.517–540) nearly word for word, and the translation repeats itself accordingly: the cubit-square pit, the triple libation, the barley, the vows, the black victims, the sword over the blood. The instructions and their performance are the same liturgy heard twice — ritual language is exact or it is nothing.
 
@@ -676,7 +676,7 @@
 
 [^L72]: His plea is the poem's doctrine of burial stated from the inside: unburied, he becomes "a cause of gods' wrath"; buried, a marker "for men to come to learn of." Even the least of the dead is owed his mound and his name — and Odysseus' one-line promise (80) will be kept to the letter at 12.8–15.
 
-[^L77]: The tomb-furniture he asks for is not a sword but his oar — "the oar I rowed with when I lived, when I was among my companions." An ordinary man asks to be remembered as a man who pulled his weight, in the company he pulled it with. The image returns transfigured thirty lines later in Tiresias' prophecy: another oar planted in earth, at the other end of the world, as the sign of a labor finished.
+[^L77]: The tomb-furniture he asks for is not a sword but his oar — "the oar I rowed with when I lived, when I was among my companions." An ordinary man asks to be remembered as a man who pulled his weight, in the company he pulled it with. The image returns transfigured forty-four lines later in Tiresias' prophecy (121): another oar planted in earth, at the other end of the world, as the sign of a labor finished.
 
 [^L84]: Anticleia comes to the blood — and he holds his sword against his own mother, keeping her from speaking until Tiresias has drunk. The discipline of the errand over the claim of the heart: no moment in the poem costs him more, and none is narrated with fewer words (88–89, "for all my thick grief").
 
@@ -712,7 +712,7 @@
 
 [^L235]: Tyro, who loved a river: Poseidon takes the river's own shape, and the wave arches "mountain-high" over god and girl — the sea's grandest bed-curtain. His parting speech is divine etiquette complete: praise, promise ("the beds of the immortals are not fruitless"), gag order, and self-identification in the same breath. From this union: Pelias and Neleus — hence Nestor's whole line, and half the Argonaut world.
 
-[^L263]: Amphion and Zethus "first founded seven-gated Thebes and walled it" — a Thebes founded before Cadmus in this tradition, and even the strong twins "could not live in Thebes without walls": civilization's minimum requirement stated in passing, by the poem whose Cyclopes have no walls at all.
+[^L263]: Amphion and Zethus "first founded seven-gated Thebes and walled it" — Homer's Thebes begins with the twins, with no word of Cadmus — and even they, strong as they were, "could not live in Thebes without walls": civilization's minimum requirement stated in passing, by the poem whose Cyclopes have no walls at all.
 
 [^L271]: Epicaste — Homer's name for Jocasta — and the Oedipus story in six lines, differing from tragedy's version at every joint: the gods reveal the incest "at once"; she hangs herself; *he rules on in Thebes*, suffering but enthroned, hounded by "a mother's Furies." No self-blinding, no exile, no Antigone. Sophocles is three centuries downstream; here the tale is a mother's catastrophe, filed under her name, not his.
 
@@ -750,7 +750,7 @@
 
 [^L441]: Agamemnon's counsel — never be gentle, tell her part and hide part, land in secret — comes with its own retraction in the middle: "But not for you, Odysseus, will murder come from a wife. Too understanding she is, too watchful the mind in her breast" — and the ghost speaks her full formula, "the daughter of Icarius, watchful-minded Penelope," the fixed epithet sounding like a verdict. The poem lets its worst husband certify its best wife — and Odysseus will still follow the advice (the secret landing, the testing) to the letter. Trust and technique are kept separate to the end.
 
-[^L455]: "There is no trusting women any more" — οὐκέτι πιστὰ γυναιξίν: the ghost's bitter general law, one line after exempting Penelope from it. The poem stages misogyny as damage — a murdered man's wound talking — and immediately shows the exception standing in Ithaca. Both the wound and the exception are in the text; neither cancels the other.
+[^L455]: "There is no trusting women any more" — οὐκέτι πιστὰ γυναιξίν: the ghost's bitter general law, ten lines after exempting Penelope from it. The poem stages misogyny as damage — a murdered man's wound talking — and shows the exception standing in Ithaca before the law is even uttered. Both the wound and the exception are in the text; neither cancels the other.
 
 [^L464]: His refusal to speculate about Orestes reuses the phantom's line from 4.837 verbatim: "It is evil to speak words empty as wind." The living son he cannot report on is the one man whose story every listener knows — the poem's audience holds the ending (Orestes lives, avenges) that the speakers in Hades cannot reach.
 
@@ -770,7 +770,7 @@
 
 [^L543]: Ajax: still furious over the judgment of Achilles' arms — the contest Odysseus won "pleading my case by the ships," which drove Ajax to madness and suicide (the lost *Little Iliad*'s matter; Sophocles' later). Odysseus' own verdict now: "Would to god I had never won a contest like that one" — the prize acknowledged as ruin, the dead man ranked "first after Achilles" without reservation.
 
-[^L563]: "He answered me nothing. He went his way after the other souls, into the Erebus of the dead." The most celebrated silence in literature — Longinus called it more sublime than any speech. Every other ghost talks; the one man with the unanswerable grievance withholds the only thing the living visitor came for. And Odysseus' obituary for the moment (565–567) admits the wound stayed open: he might have spoken, *or I to him* — but curiosity, as ever, pulled the survivor onward. The poem's greatest apology is left unaccepted forever.
+[^L563]: "He answered me nothing. He went his way after the other souls, into the Erebus of the dead." The most celebrated silence in literature — Longinus called it more sublime than any speech. Ghost after ghost has talked; the one man with the unanswerable grievance, appealed to directly, refuses the only thing the living visitor came for. And Odysseus' obituary for the moment (565–567) admits the wound stayed open: he might have spoken, *or I to him* — but curiosity, as ever, pulled the survivor onward. The poem's greatest apology is left unaccepted forever.
 
 [^L568]: Minos "delivering law among the dead... the dead pleading their cases": Hades has a docket. Not punishment — jurisdiction: the dead bring lawsuits, the wide-gated house has a sitting judge with a golden scepter. Homer's underworld bureaucracy, one line before its athletes (Orion, still herding the beasts he killed — occupation continued, forever).
 

@@ -615,7 +615,7 @@
 
 ## Notes
 
-[^L1]: The dawn formula here opens the poem's great single day — or nearly: Books 17 and 18 run to this evening, Book 19 fills the night, and Book 20 wakes into the day of the bow. From this sunrise on, the poem's clock slows almost to real time, and everything happens at the house.
+[^L1]: The dawn formula here opens the poem's great single day — or nearly: Books 17 and 18 run to this evening, Book 19 fills the night, and Book 20 wakes into the day of the bow. From this sunrise on, the poem's clock slows almost to real time, and everything converges on the house — the farm and the road up to town filling the morning before the hall claims the rest.
 
 [^L14]: Telemachus plays his part with relish: brusque, put-upon, disclaiming the stranger ("I cannot carry every man who comes"). The rudeness is camouflage — he owes the beggar nothing in public — but the closing tag, "I like to say the truth of things straight out," is a private joke buried in the performance: everything he has just said is theater.
 
@@ -631,7 +631,7 @@
 
 [^L62]: Lines 62–64 repeat Telemachus' first walk to the assembly (2.10–13): the two swift dogs, Athena's wondrous grace, the people gazing. The frame returns with the situation transformed — then he went to plead and fail; now he comes back from the sea with a father hidden behind him and "evils planted" for the men who mocked him.
 
-[^L68]: Mentor, Antiphus, Halitherses — the loyal remnant, "his father's companions from the beginning." Antiphus is a bitter name to find here if it is the same man's father whose son the Cyclops ate last (2.19–20 — there the father was Aegyptius). The poem seats Telemachus with the old guard: the men who spoke for Odysseus in the Book 2 assembly.
+[^L68]: Mentor, Antiphus, Halitherses — the loyal remnant, "his father's companions from the beginning." Antiphus is a bitter name to find alive here: his namesake, Aegyptius' son, is the man the Cyclops ate last (2.19–20). The poem seats Telemachus with the old guard — Mentor and Halitherses, the very men who spoke for Odysseus in the Book 2 assembly.
 
 [^L78]: Telemachus' answer to Piraeus is estate-planning by a man who expects to be murdered: if the suitors kill me, keep the gifts yourself — better a friend enjoy them than those men. The heir has learned to hold even treasure lightly, and the grim proviso ("but if I plant death and doom for them...") no longer sounds like bravado.
 
@@ -641,7 +641,7 @@
 
 [^L108]: Telemachus' report is truthful and strategically cropped: Pylos, Sparta, Helen, Menelaus' words — and not one syllable of the ambush, of Theoclymenus' omen, or of anything since. He has adopted his father's information discipline whole: the truth, less everything operational.
 
-[^L126]: The deer-in-lion's-lair simile arrives on schedule (= 4.335–340 verbatim, with the whole Menelaus speech 124–141 = 4.333–350): the suitors as fawns bedded in the lion's lair, doomed the moment the owner returns. Spoken in Sparta as consolation, it is relayed here — in the lion's own hall, with the lion sitting on the threshold in rags — as prophecy at one remove. Lines 142–146 likewise repeat the Proteus report (= 4.556–560, the Calypso block).
+[^L126]: The deer-in-lion's-lair simile arrives on schedule (= 4.335–340 verbatim, with the whole Menelaus speech 124–141 = 4.333–350): the suitors as fawns bedded in the lion's lair, doomed the moment the owner returns. Spoken in Sparta as consolation, it is relayed here — in the lion's own hall, while the lion himself is still making his way up from the farm — as prophecy at one remove. Lines 142–146 likewise repeat the Proteus report (= 4.556–560, the Calypso block).
 
 [^L155]: Theoclymenus swears the strongest guest-oath in the poem — Zeus, the table of guest-right, the hearth of Odysseus — and delivers his second true prophecy: Odysseus is already in the country, "sitting still, or moving," planting evil. It is exact to the hour. Penelope answers with the fixed courtesy formula (163–165 = 15.536–538), warm and disbelieving: the truth has been told to her outright, under oath, and it cannot land — the poem's tragedy of information in one exchange.
 
@@ -679,15 +679,15 @@
 
 [^L292]: Argus, "whom once he raised himself — and had no joy of him" (οὐδʼ ἀπόνητο): the identical verb and grief as the line of only sons — Odysseus "fathered only me... and had no joy of me" (16.120). Dog and son take the same clause; the man left both unfinished, and the poem files both under the war's unpaid debts.
 
-[^L297]: The dung-heap before the doors, waiting to manure "his great estate" (τέμενος μέγα): even the filth of the house is wealth deferred, work not done because the master is gone. On that suspended labor lies the dog — the household's loyalty, discarded with its economy.
+[^L297]: The dung-heap before the doors, waiting until the slaves cart it out to manure "his great estate" (τέμενος μέγα): even the filth of the house is wealth in waiting. On that waiting store lies the dog — the household's loyalty, discarded onto the compost of its economy.
 
 [^L304]: The recognition no disguise can defeat: Athena remade the man's skin, hair, and eyes, and the dog needs none of them. The tear Odysseus wipes — "easily hidden from Eumaeus" — is the only tear the disguise concedes between Book 13 and the recognition scenes, and it falls for a dog. Then, in the same breath, the actor recovers: "Eumaeus — a strange thing: this dog..." The question that follows (a champion? or a table-dog kept for show?) invites praise of his own hound.
 
 [^L320]: Eumaeus' verdict on slavery, spoken over Argus: "Zeus of the wide voice takes half the worth away from a man, the day the day of slavery seizes him." The poem's single most quoted line on the institution, delivered by a slave, about careless slave-women, in front of the enslaved dog of an absent master — and in front of the master. Its companion doctrine at 15.371–379 (what slaves miss) gives the same law from inside.
 
-[^L326]: "But Argus — the doom of black death took him / the moment he had seen Odysseus, in the twentieth year." The first creature in Ithaca to complete a recognition, and it kills him: he had, it turns out, been waiting, and the waiting was his life. The poem grants him the epic dignity of the μοῖρα-formula and the count of years — an obituary in the same units as his master's war.
+[^L326]: "But Argus — the doom of black death took him / the moment he had seen Odysseus, in the twentieth year." The first in Ithaca to know him unaided — Telemachus had to be told (16.187–189); the dog simply *knows* — and the knowing kills him: he had, it turns out, been waiting, and the waiting was his life. The poem grants him the epic dignity of the μοῖρα-formula and the count of years — an obituary in the same units as his master's war.
 
-[^L339]: The ash-wood threshold, inside the doors, against the cypress doorpost "planed with skill and trued to the line": the beggar's station for the rest of the poem — the exact border of the house, neither in nor out. The loving carpentry detail is the owner's eye again: he knows the man who trued that post.
+[^L339]: The ash-wood threshold, inside the doors, against the cypress doorpost "planed with skill and trued to the line": the beggar's station for the rest of the poem — just inside the border of the house, admitted no further. The loving carpentry detail is the owner's eye again: this is a man who knows what a trued post costs.
 
 [^L347]: "Shame is no good companion to a man in need" — Telemachus' proverb, relayed by Eumaeus with the paraphrase "no good thing in a beggar-man" (352). The command performs charity while ordering reconnaissance: begging the round of the suitors is a muster-inspection in disguise (Athena makes it explicit at 363).
 
@@ -699,7 +699,7 @@
 
 [^L397]: "How finely you care for me, as a father for his son" — Telemachus' sarcasm has its own hidden floor: his actual father sits on the threshold listening. The speech performs the son's role brilliantly — defiant, ironic, protective of the guest — for an audience of one.
 
-[^L407]: Antinous' joke is bookkeeping: if every suitor gave the beggar a footstool (that is what he means by "as much as I will"), the house would be rid of him three months. He shows the stool to the table like a wit displaying his epigram — premeditated, applauded, and aimed at a suppliant.
+[^L407]: Antinous' joke is bookkeeping: if every suitor gave the beggar a footstool (that is what he means by "as much as I will"), the house would be rid of him three months. He shows the stool to the table like a wit displaying his epigram — premeditated, displayed, and aimed at a suppliant.
 
 [^L415]: The begging speech to Antinous opens with the flattery of kings — "you have the look of a king" — and then produces, as beggar's credentials, the Egypt tale: lines 427–441 repeat 14.258–272 word for word from the Cretan story told to Eumaeus. The fiction is stable across performances (the mark of the practiced liar), but the ending is customized: instead of seven fat years in Egypt, he is handed to Dmetor of Cyprus — a new misery invented for a new audience, and a discreet compliment threaded through it: I once had a house, slaves past counting; I know what you are supposed to be.
 
@@ -731,7 +731,7 @@
 
 [^L541]: Telemachus' sneeze detonates on the exact clause — "he would repay these men their violence" — and Penelope laughs: her first laugh in the poem. The sneeze-omen (an involuntary truth-mark on spoken words) is folk-divination, and she rides it instantly into a formal death-wish for every suitor. Under the grief, the queen keeps a gambler's eye for signs; the laugh is the sound of odds shifting.
 
-[^L550]: Penelope takes up the clothing formula in her own voice — "I will dress him in a cloak and a tunic" — the same promise made by Eumaeus (14.516), Telemachus (16.79), and relayed to the beggar at 557–558. The whole loyal household now stands in a queue to dress this man; the poem lets the formula accumulate like a debt to be paid in Book 23 — by her, with the clothes off his own chest at stake.
+[^L550]: Penelope takes up the clothing formula in her own voice — "I will dress him in a cloak and a tunic" — the same promise made by Eumaeus (14.516), Telemachus (16.79), and relayed to the beggar at 557–558. The whole loyal household now stands in a queue to dress this man; the poem lets the formula accumulate like a debt paid at last in Book 23, when Eurynome bathes him and dresses him in the house's own cloth (23.153–155).
 
 [^L553]: "Stranger — father" (ξεῖνε πάτερ): the swineherd's honorific for an old man, and the poem lets the address do double work — Eumaeus keeps calling Odysseus "father" without knowing it, as Telemachus calls Eumaeus "old father" while his own father listens.
 
@@ -739,12 +739,12 @@
 
 [^L565]: "Whose arrogance and violence reach the iron sky" = 15.329, Eumaeus' hyperbole handed back to him by the man he warned. The borrowed line is also an argument: you yourself told me what these men are.
 
-[^L570]: Odysseus dictates the terms of the Book 19 interview: after sunset, by the fire, close, alone. He gives the pretext of his rags, but the stagecraft is exact — firelight, privacy, the suitors gone. The most important conversation of the homecoming is being blocked out in advance by its director; even Penelope's own summons must run on his schedule. Her approving comment (586–589: "the stranger is no fool") grades his caution correctly and misses whose caution it is.
+[^L570]: Odysseus dictates the terms of the Book 19 interview: after sunset, by the fire, close — and Eumaeus, relaying the message, adds "alone." He gives the pretext of his rags, but the stagecraft is exact — firelight, the suitors gone — and his best stagehand quietly improves the blocking. The most important conversation of the homecoming is being laid out in advance by its director; even Penelope's own summons must run on his schedule. Her approving comment (586–589: "the stranger is no fool") grades his caution correctly and misses whose caution it is.
 
 [^L578]: "A shy man makes a bad beggar" (κακὸς δʼ αἰδοῖος ἀλήτης) — Penelope has proverbs for beggars too; it is the exact inverse of her son's at 347 ("shame is no good companion to a man in need"). Mother and son quote the same folk-wisdom from opposite ends; the house thinks in shared maxims, as it weeps in shared formulas.
 
-[^L586]: Penelope's gauge of the world: no men anywhere could be as recklessly evil as these. She reasons soundly from a premise her own hall disproves daily — the same generous error as her guess (with all Achaea) that no beggar could be dangerous.
+[^L586]: Penelope's verdict — "the stranger is no fool: he guesses how it might be" — rests on her own bitter superlative: no men on earth contrive reckless outrage *like these* (ὧδε). The queen has become the connoisseur of her hall's evil; the beggar's caution is, by her own measure, simply accurate.
 
 [^L599]: "So be it, old father" — Telemachus closes with the same words that opened the book (16.31's formula at 17.6 "old father"), sending Eumaeus home to the pigs he guards, with orders for the morning's beasts. The book ends as it began, in the language of the foster-bond — while the true father sits on in the hall among his enemies.
 
-[^L606]: The day ends in "dance and song" — the suitors' pleasure machine running on into the evening, unaware it has been inspected. The beggar has begged their measure man by man; Argus is dead; the footstool has been thrown and counted; and the interview by firelight is set for the next book. "Already the day had come on to evening": the poem's slow clock strikes once, quietly.
+[^L606]: The day ends in "dance and song" — the suitors' pleasure machine running on into the evening, unaware it has been inspected. The beggar has begged their measure man by man; Argus is dead; the footstool has been thrown and counted; and the interview by firelight is set for Book 19, once Book 18's brawling has burned through the evening. "Already the day had come on to evening": the poem's slow clock strikes once, quietly.

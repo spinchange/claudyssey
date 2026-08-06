@@ -603,7 +603,7 @@
 
 [^L3]: πτολίπορθος, "sacker of cities" — Odysseus' great war-epithet, used here for the first time in the poem, on the very morning that will end with him weeping at a song of the sack. The epithet and the widow simile (523–531) are this book's two poles, and the poem sets them up in its third line.
 
-[^L35]: Fifty-two picked oarsmen — the poem's standard crew of fifty plus two officers. Phaeacian numbers are always crisp: twelve kings and a thirteenth, nine stewards, fifty-two rowers; fairyland is beautifully administered.
+[^L35]: Fifty-two picked oarsmen — two beyond the poem's standard crew of fifty. Phaeacian numbers are always crisp: twelve kings and a thirteenth, nine stewards, fifty-two rowers; fairyland is beautifully administered.
 
 [^L44]: Demodocus — the name means roughly "received by the people" (or "honored by the people"), a singer named for his audience. Alcinous' description sets the terms the book will test: the god gave him song "to delight men however his heart is stirred" — but this evening, what delights the hall will twice devastate the guest.
 
@@ -629,7 +629,7 @@
 
 [^L207]: The host-exemption: he will meet anyone except Laodamas — "he is my host: who would fight the man who loves him?" A rule of xenia stated as though obvious, in a poem heading toward a hall where a hundred guests have made war on their host for three years.
 
-[^L215]: The bow-boast, with genealogy: better than all living men, second only to Philoctetes at Troy, and *deliberately* not to be measured against Heracles and Eurytus, who challenged gods and died for it. The modesty is theology, and the résumé is a plant: the poem's audience knows an archery contest is coming (Book 21), and knows the bow at home in Ithaca came from Eurytus' own son Iphitus. The skill announced here on a holiday field will next appear over a threshold heaped with dead men.
+[^L215]: The bow-boast, with genealogy: better than all living men, second only to Philoctetes at Troy, and *deliberately* not to be measured against Heracles and Eurytus, who bent their bows against gods — a rivalry that killed Eurytus, cut down by angry Apollo. The modesty is theology, and the résumé is a plant: the poem's audience knows an archery contest is coming (Book 21), and knows the bow at home in Ithaca came from Eurytus' own son Iphitus. The skill announced here on a holiday field will next appear over a threshold heaped with dead men.
 
 [^L230]: The one conceded weakness — his legs, "loosened" by the sea. The confession is precise and bodily: this hero's honesty about his own diminishment is part of the same realism as the belly speech (7.215ff.).
 
@@ -665,7 +665,7 @@
 
 [^L443]: Arete's send-off gift is advice: knot the chest yourself, "for fear someone rob you on the voyage" while you sleep. Even in fairyland the queen assumes crews pilfer. Her practicality is the counterweight to her husband's magic-ship raptures thirty lines later — between the two of them, the poem gets both Phaeacias on record.
 
-[^L448]: "The intricate knot that the lady Circe once taught him" — Circe, named for the first time in the poem, casually, as the source of a skill, three hundred lines before Odysseus begins the tale that will introduce her. The poem trusts its audience to know the story already; the effect for them is not confusion but a shiver of prolepsis — and a hint that his year with her furnished practical arts as well as delays.
+[^L448]: "The intricate knot that the lady Circe once taught him" — Circe, named for the first time in the poem, casually, as the source of a skill, well before she enters the tale Odysseus is about to tell. The poem trusts its audience to know the story already; the effect for them is not confusion but a shiver of prolepsis — and a hint that his year with her furnished practical arts as well as delays.
 
 [^L450]: His pleasure in the hot bath is dated precisely: no such tending "since he left the house of fair-haired Calypso — though while he was there, he was tended like a god without fail." The narrator's small honesty: captivity included excellent care. The poem never cheapens what he refused; that is why the refusal weighs.
 
@@ -691,7 +691,7 @@
 
 [^L564]: Nausithous' prophecy: Poseidon angered "because we are safe escorts of all men without distinction" — universal kindness itself is the offense — and one day a returning ship smashed, a mountain piled round the city. Alcinous reports his own doom and shrugs: "the god may accomplish it, or leave it unaccomplished" (570–571). The fatalism of the blessed. The poem will collect this debt at 13.159ff., with the same words, on the day Odysseus lands home.
 
-[^L575]: The wandering question borrows its categories verbatim from the arrival-formula (6.120–121): the harsh, savage, unjust versus the stranger-kind and god-fearing. Alcinous unknowingly hands Odysseus the organizing rubric of the next four books: the apologoi are, among everything else, a survey of exactly that taxonomy, port by port.
+[^L575]: The wandering question borrows its categories from the arrival-formula (6.120–121) — one word swapped, "harsh" (χαλεποί) for "overweening" (ὑβρισταί): the harsh, savage, unjust versus the stranger-kind and god-fearing. Alcinous unknowingly hands Odysseus the organizing rubric of the next four books: the apologoi are, among everything else, a survey of exactly that taxonomy, port by port.
 
 [^L579]: "That fate the gods made; they spun that destruction for men, so that there might be a song for those still to come." The deepest sentence in the book: suffering is the raw material of song, and song is the *purpose* the gods had in weaving the suffering. Helen says nearly the same in the *Iliad* (6.357–358). It is the poem's own theodicy of art — offered here as consolation to a weeping man who is, though his host does not know it, the song's subject, sitting in the audience of his own destruction.
 

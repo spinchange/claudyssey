@@ -426,4 +426,4 @@
 
 [^L342]: "Up, stranger, come and sleep: your bed is made." After eighteen days of open water, cliff-faces, and leaf-piles, the poem gives the handmaids one line of plain human kindness — the simplest sentence in the book, and the most restorative.
 
-[^L346]: The closing couplet reuses the Nestor-night ending verbatim (3.402–403): king in the inner room, wife making ready the bed. The book is one immense hospitality type-scene executed perfectly at every step — mist to knees to ashes to chair to feast to question to bed — and it closes on the form's quietest cadence: everyone, at last, in their right place.
+[^L346]: The closing couplet reworks the Nestor-night ending (3.402–403), lightly adapted to its new house: king in the inner room, wife making ready the bed. The book is one immense hospitality type-scene executed perfectly at every step — mist to knees to ashes to chair to feast to question to bed — and it closes on the form's quietest cadence: everyone, at last, in their right place.

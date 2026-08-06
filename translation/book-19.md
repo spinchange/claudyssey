@@ -621,11 +621,11 @@
 
 [^L33]: Athena with the golden lamp — the only λύχνος in Homer. The goddess as lamp-bearer for two men carrying weapons: the humblest divine service in the poem, and the most intimate — the household's true light restored for one night's secret work.
 
-[^L36]: Telemachus is finally allowed to sense a theophany — not to see her (16.161's rule holds), but to see the glow on rafters and pillars. His father's response is liturgical discipline: "Quiet... This is the way of the gods." The son is being trained in the etiquette of divine partnership: notice, do not name, keep working.
+[^L36]: Telemachus senses the theophany — not seeing her (16.161's rule holds), but seeing the glow on rafters and pillars. His father's response is liturgical discipline: "Quiet... This is the way of the gods." The son is being trained in the etiquette of divine partnership: notice, do not name, keep working.
 
 [^L45]: "To stir the slave-women a little more, and your mother" — ἐρεθίζω, the verb of provoking. He announces the interview as a probe: even the meeting with his wife is framed, to his son, as a test to run. What the night actually becomes exceeds the operational language that scheduled it.
 
-[^L56]: The chair of Icmalius — ivory and silver, the maker named, the footrest built in one piece. Furniture with a pedigree, like the basin and the bed to come: the poem is beginning its inventory of the objects that know the family. She sits where "she always sat"; the stranger watches his wife take her place in a chair he remembers being delivered.
+[^L56]: The chair of Icmalius — ivory and silver, the maker named, the footrest built in one piece. Furniture with a pedigree, like the basin and the bed to come: the poem is beginning its inventory of the objects that know the family. She sits where "she always sat"; the stranger watches his wife take her place in the furniture of a house he knows to its joints.
 
 [^L65]: Melantho's second attack (the first at 18.327ff) — now with the torch-brand threat. Her taunt "spying on the women" is exactly right: he is auditing the women; she is failing the audit in real time, twice, with the mistress listening.
 
@@ -633,15 +633,15 @@
 
 [^L91]: Penelope's rebuke — "dog past all shame... you will wipe it off on your own head" — is queenly rage with an exact idiom of blood-guilt: the deed will be wiped clean on the doer. The mistress has just cursed her fosterling (18.322–323) in terms the gallows will honor.
 
-[^L104]: She asks the poem's identity-formula herself — "What man are you, and from where?" — the question asked of Telemachus by Athena (1.170), of the beggar by Eumaeus (14.187), of Telemachus by Theoclymenus (15.264). The formula's last and greatest asking: wife to disguised husband, by the fire.
+[^L104]: She asks the poem's identity-formula herself — "What man are you, and from where?" — the question Telemachus put to Athena (1.170), Eumaeus to the beggar (14.187), Theoclymenus to Telemachus (15.264). The formula's greatest asking: wife to disguised husband, by the fire.
 
-[^L109]: He answers "who are you?" with "what you are": the just-king simile — straight judgments, black earth bearing wheat and barley, trees heavy, flocks throwing firm young, the sea yielding fish, the people flourishing. It is the poem's fullest political theology (kingship as fertility), and he lays it on her: Penelope's fame is the fame of the good king, because for twenty years the kingdom has been hers. The compliment is also a report card — and a husband's thanks smuggled through a beggar's flattery.
+[^L109]: He answers "who are you?" with "what you are": the just-king simile — straight judgments, black earth bearing wheat and barley, trees heavy, flocks throwing firm young, the sea yielding fish, the people flourishing. It is the poem's fullest political theology (kingship as fertility), and he lays it on her: Penelope's fame is the fame of the good king. The compliment is also a report card — and a husband's thanks smuggled through a beggar's flattery.
 
 [^L124]: Her reply opens with the bloom-destroyed lines she gave Eurymachus (18.251–253) — her standing preface — then modulates the suitor-catalogue of 1.245–248 into first person: "they woo me against my will, and wear this house away." The poem's fixed materials, re-keyed to the widow's own voice.
 
 [^L137]: "They press the marriage on; and I wind out my skein of tricks" — τολυπεύω, a wool-working verb: to wind off into balls. Her metaphor for plotting is her craft; μῆτις in this house spins. The line is her self-portrait as her husband's equal — he tells lies like truth, she winds stratagems like yarn.
 
-[^L141]: The web story, told by the weaver herself (139–156 ≈ 2.94–110, where Antinous told it as an indictment). The two tellings are nearly verbatim — same quoted speech to the suitors, same three years, same betrayal — and opposite in genre: his was a complaint about female cunning; hers is a veteran's account of a defensive war, ending not in triumph but "against my will, under force." The poem's only twice-told tale, and the difference between the tellings is the difference between the suitors' world and hers.
+[^L141]: The web story, told by the weaver herself (139–156 ≈ 2.94–110, where Antinous told it as an indictment). The two tellings are nearly verbatim — same quoted speech to the suitors, same three years, same betrayal — and opposite in genre: his was a complaint about female cunning; hers is a veteran's account of a defensive war, ending not in triumph but "against my will, under force." A suitor's ghost will tell it a third time in Hades (24.128–146); each teller's version is a verdict on the teller.
 
 [^L158]: "My parents urge me hard to marry" — confirming Athena's claim at 15.16ff, which had seemed like the goddess's motivational invention. The pressure is real from every side now: parents, son, deadline. The poem quietly closes the gap between what Athena said and what is true.
 
@@ -677,7 +677,7 @@
 
 [^L260]: "Evil-Ilium, never to be named" (Κακοΐλιον οὐκ ὀνομαστήν) — her coinage: Troy renamed as a curse, with the superstitious rider that saying the name feeds its power. She repeats it at 597. In her private theology the war has no name, only an epithet of hatred.
 
-[^L270]: The Thesprotian tale, third performance (14.316ff to Eumaeus; relayed to her at 17.526–527; now direct): Pheidon, the treasure, the oath, Dodona — stable in every strut, with the Phaeacian truth freshly built in. To his wife he adds what Eumaeus didn't get: Thrinacia, Zeus and Helios, the raft — his real story, distributed to a fiction one island off.
+[^L270]: The Thesprotian tale, third performance (14.316ff to Eumaeus; relayed to her at 17.526–527; now direct): Pheidon, the treasure, the oath, Dodona — stable in every strut, with the Phaeacian truth freshly built in. To his wife he adds what Eumaeus didn't get: Thrinacia, Zeus and Helios, the keel that carried him off the wreck — his real story, distributed to a fiction one island off.
 
 [^L275]: "Zeus and Helios were set at odds with him" — ὀδύσαντο: the name-verb (see 1.62, 5.340), planted inside the lie. Even his fictions pun on him; the "man at odds" narrates his own wreck under an alias and cannot keep his name's grammar out of it. The naming-scene forty lines ahead (407–409) will unpack the same verb in earnest.
 
@@ -685,7 +685,7 @@
 
 [^L303]: The oath repeats his oath to Eumaeus (14.158–162) almost word for word — Zeus, the hearth of blameless Odysseus, and the dating-formula: "Within this very turning of the light... between this month's waning and the rising of the next." He swears by his own hearth, standing at it, and sets the deadline that the festival of Apollo (20.156, 276) will keep: tomorrow is the dark of the moon.
 
-[^L309]: The blessing-formula a third time (15.536–538, 17.163–165) — Telemachus, then Penelope to Theoclymenus, now Penelope to the beggar: each time the same courteous three lines answering a true prophecy of return with structured disbelief. The family meets hope with a fixed liturgy: bless the speaker, refuse the content. Then her flat overrule: "Odysseus is not coming home; and you will get no passage" — hope's administrator denying both claims in one breath.
+[^L309]: The blessing-formula a third time (15.536–538, 17.163–165) — Telemachus, then Penelope to Theoclymenus, now Penelope to the beggar: the same courteous three lines each time, meeting prophecy — dynastic in Book 15, of return since — with structured disbelief. The family meets hope with a fixed liturgy: bless the speaker, refuse the content. Then her flat overrule: "Odysseus is not coming home; and you will get no passage" — hope's administrator denying both claims in one breath.
 
 [^L317]: From despair she pivots to hospitality's checklist — bath, bed, blankets, morning oil — and the reason (325–334) is the just-king simile handed back: guests carry fame; the blameless man's name travels. She answers his political theology with hers: her kingdom is conduct, its export is reputation, "men are creatures of a short day" and are remembered by what they served.
 
@@ -693,7 +693,7 @@
 
 [^L344]: The foot-washing condition: no young woman shall touch him — only an old one "who has endured in her spirit as much as I have endured." The sentence is a targeting instruction: it describes exactly one person in the house. He engineers his own recognition-risk — pride, tenderness, or the plan needing Eurycleia inside it; the poem lets all three stand.
 
-[^L357]: "Up now, watchful-minded Eurycleia" — Penelope lends the nurse her own epithet (περίφρων), the only servant so dignified. The three watchful-minded women of the poem — queen, nurse — are about to be two people in a room with the man they both cannot quite see.
+[^L357]: "Up now, watchful-minded Eurycleia" — Penelope lends the nurse her own epithet (περίφρων), a dignity the poem otherwise grants only the queen and the housekeeper Eurynome. Two watchful minds are about to share a room with the man neither can quite see.
 
 [^L360]: "Perhaps Odysseus by now is like him in his feet, like him in his hands... in misfortune mortal men age fast." She keeps walking to the edge of the truth and providing herself the railing: the resemblance is real, therefore explained. Her rationality is the disguise's best ally — Athena needs to intervene (479) only once all night; Penelope's good sense does the rest.
 
@@ -701,7 +701,7 @@
 
 [^L380]: "In body, in voice, in feet — to Odysseus": the strongest pre-recognition statement in the poem, from the woman who has known that body since its first hour. Voice — which Athena's wand never altered — is the tell no disguise covers. She sees it, says it, and hands it to him as a curiosity.
 
-[^L383]: His parry is perfect poise: "so they all say... we are very like each other." Confirm the observation, drain its danger — the resemblance becomes a known fact about two men. He does not lie; he files the truth under coincidence.
+[^L383]: His parry is perfect poise: "so they all say... we are very like each other." Confirm the observation, drain its danger — the resemblance becomes a known fact about two men, attested by witnesses he invents on the spot. The truth, filed under coincidence, with forged supporting papers.
 
 [^L389]: He swings toward the dark on instinct — one beat too late, and the poem knows it: the fear "that as she took hold she might mark the scar" arrives with the water already poured. For once the master of foresight has missed a variable: he asked for the one washer who bathed the leg ten thousand times.
 
@@ -709,17 +709,17 @@
 
 [^L396]: Autolycus, "who outdid all men in thievery and the oath" — sanctioned by Hermes himself. The grandfather's arts are the oblique oath and the profitable theft: Odysseus' μῆτις has a maternal pedigree, god-given, two generations deep. The poem does not blush: the best man of his age descends from the best thief of his.
 
-[^L401]: Eurycleia laid the newborn on Autolycus' knees and asked for the name — the very woman now holding the leg the name grew into. The digression's frame is exact: the namer of Odysseus is his recognizer; she has been present at both ends of the name.
+[^L401]: Eurycleia laid the newborn on Autolycus' knees and asked for the name — the very woman now holding the leg the name grew into. The digression's frame is exact: the woman who asked for the name is his recognizer; Autolycus chose it, and she has been present at both ends of it.
 
 [^L407]: The naming: "Since I have come to this place at odds with many... let Odysseus, Man at Odds, be the name he carries." Autolycus names the child from his own condition (ὀδυσσάμενος — having incurred wrath, being at odds), the pun this translation has shadowed since 1.62 ("at odds with Odysseus") and 19.275 (ὀδύσαντο). The name is a grandfather's grudge made hereditary — a life sentence of friction with gods and men, handed down at supper. "Child of many prayers" (πολυάρητος, 404) was the alternative reading; the poem chose both: prayed-for and at odds — the whole man in two etymologies.
 
 [^L416]: Amphithea's greeting — "kissed his head, and both his beautiful eyes" — is the family's fixed embrace: Eumaeus greeted Telemachus with it (16.15), Penelope her son (17.39). Three generations, one gesture; the digression roots the family's own formulas in the grandmother's arms.
 
-[^L433]: Dawn strikes the plowlands "out of the deep smooth stream of Ocean" as the hunt climbs Parnassus: the boyhood memory keeps epic time, with sunrise from Ocean and the mountain's windy folds. The digression is built like a miniature epic day — feast, sleep, dawn, aristeia, wound, healing, homecoming — Odysseus' whole life-pattern rehearsed at sixteen.
+[^L433]: Dawn strikes the plowlands "out of the deep smooth stream of Ocean" as the hunt climbs Parnassus: the boyhood memory keeps epic time, with sunrise from Ocean and the mountain's windy folds. The digression is built like a miniature epic day — feast, sleep, dawn, aristeia, wound, healing, homecoming — Odysseus' whole life-pattern rehearsed in boyhood.
 
-[^L439]: The boar's lair — windproof, sunproof, rainproof, deep in dead leaves: the same three-fold impenetrability as the thicket where Odysseus slept on Scheria (5.478ff). The poem beds its hero and his first great adversary in the same shelter, a generation apart: the boar is his older double, dug into the island of his blood.
+[^L439]: The boar's lair — windproof, sunproof, rainproof, deep in dead leaves: the same three-fold impenetrability as the thicket where Odysseus slept on Scheria (5.478ff). The poem beds its hero and the beast in the same shelter, a generation apart: the boar is his older double, dug into the island of his blood.
 
-[^L454]: "Down in the dust he went, bleating, and the life flew out of him" — the boar dies in Irus' line (18.98: "he went down bleating in the dust"). Man and beast take the same formula at the two ends of the hero's fighting life: first kill, latest knockdown. The scar was bought with the same sentence it now interrupts.
+[^L454]: "Down in the dust he went, bleating, and the life flew out of him" — the boar dies in Irus' line (18.98: "he went down bleating in the dust"). Man and beast take the same formula at the two ends of the hero's fighting life: the boyhood hunt, the latest knockdown. The scar was bought with the same sentence it now interrupts.
 
 [^L457]: The incantation (ἐπαοιδή) that stanches the black blood — the only spell in Homer. The sons of the thief-lord practice song-medicine: words that close wounds, in the family whose gift is words that open them. The poem's oldest magic is a bandage.
 
@@ -755,7 +755,7 @@
 
 [^L562]: The gates of horn and ivory — six lines that founded the West's dream-lore (Virgil took the gates for the Aeneid's most troubling exit). The Greek runs on two puns this translation can only shadow: dreams through ivory (ἐλέφας) *deceive* (ἐλεφαίρονται); dreams through horn (κέρας) *accomplish* (κραίνουσι). Ivory-cheat, horn-fulfill: language itself sorting dreams by sound. Note what she is doing: armoring herself against the night's second true prophecy — and note his eyes at 211, "fixed as horn": the true gate has been looking at her all evening.
 
-[^L571]: "The dawn of the evil name" (δυσώνυμος) — the morning itself gets an epithet of hatred, like Evil-Ilium: her lexicon curses what it cannot prevent. Then, from the floor of her despair, she produces the poem's deus ex machina: the contest of the bow — announced to a beggar, at midnight, on the eve of the dark of the moon.
+[^L571]: "The dawn of the evil name" (δυσώνυμος) — the morning itself gets an epithet of hatred, like Evil-Ilium: her lexicon curses what it cannot prevent. Then, from the floor of her despair, she produces the poem's deus ex machina: the contest of the bow — announced to a beggar, deep in the night, on the eve of the dark of the moon.
 
 [^L573]: The axes "like the props of a ship on the stocks" (δρυόχους ὥς) — twelve in a row, the arrow threaded through: Odysseus' old trick-shot, his private gymnastics remembered by his wife in shipwright's language. Whatever the rig actually was (socket-rings? helve-eyes? — antiquity already argued), the poem's point is proprietary: only its inventor can repeat it, and she has just made it the bride-price.
 

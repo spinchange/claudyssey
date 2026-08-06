@@ -519,7 +519,7 @@
 
 [^L170]: "What man are you, and from where?" — the formal interrogation owed to a stranger *after* he has been fed, never before. Telemachus performs xenia in the correct order; the suitors, by contrast, never earn a single meal they eat.
 
-[^L184]: Temese, a copper port, was placed by ancient readers variously in Cyprus or southern Italy; nobody knows. The trade run — copper out, iron in — is a rare glimpse of the poet's own Iron Age poking through the poem's Bronze Age setting.
+[^L184]: Temese, a copper port, was placed by ancient readers variously in Cyprus or southern Italy; nobody knows. The trade run — iron out, copper in — is a rare glimpse of the poet's own Iron Age poking through the poem's Bronze Age setting.
 
 [^L213]: πεπνυμένος, "clear-headed" — Telemachus' fixed epithet, recurring in the same answering formula seven times in this book alone. The word suggests sense, discretion, breath under control: the quality the Telemachy will test.
 

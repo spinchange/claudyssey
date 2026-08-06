@@ -463,7 +463,7 @@
 
 ## Notes
 
-[^L3]: Aeaea is now located "where the house of early-born Dawn is, and her dancing-grounds, and the risings of the sun" — the uttermost East, though they first came to it fleeing west. The fairyland compass does not resolve: Circe is Helios' daughter, so her island is wherever the sun gets up. Homer's wanderings run on mythic adjacency, not bearings — which is why every attempt to chart them since antiquity has ended in the cartographer's despair.
+[^L3]: Aeaea is now located "where the house of early-born Dawn is, and her dancing-grounds, and the risings of the sun" — the uttermost East, though nothing in the voyage there had promised any such thing. The fairyland compass does not resolve: Circe is Helios' daughter, so her island is wherever the sun gets up. Homer's wanderings run on mythic adjacency, not bearings — which is why every attempt to chart them since antiquity has ended in the cartographer's despair.
 
 [^L15]: Elpenor's funeral, exactly as the ghost prescribed (11.74–78): burned with his armor, the mound, the pillar-stone — and the oar fixed on the very top. The promise of 11.80 kept to the letter, first thing, before Circe, before the road. It is the only funeral Odysseus ever conducts in the poem, performed for the least of his men.
 
@@ -481,7 +481,7 @@
 
 [^L86]: Scylla's voice "is no more than a newborn puppy's" — the Greek puns her name on σκύλαξ, *puppy*. A six-headed devourer that whimpers like something you would pick up and hold: the mismatch of sound and thing is the horror, in a poem whose last monster was all voice and honey.
 
-[^L89]: The anatomy is exact and unvisualizable — twelve dangling feet, six yard-long necks, triple rows of teeth "full of black death," body sunk waist-deep in rock. She is a fishing creature; men are simply the largest catch that passes. The bowshot-wide strait with a monster on each side is the poem's geometry of the unchoosable — and she takes one man per head, a tax collected in sixes.
+[^L89]: The anatomy is exact and unvisualizable — twelve dangling feet, six enormously long necks, triple rows of teeth "full of black death," body sunk waist-deep in rock. She is a fishing creature; men are simply the largest catch that passes. The bowshot-wide strait with a monster on each side is the poem's geometry of the unchoosable — and she takes one man per head, a tax collected in sixes.
 
 [^L104]: Charybdis under her fig tree: not a creature at all but a schedule — three times a day, down and up. Scylla is appetite with heads; Charybdis is pure physics. Between a predator you can count and a tide you cannot, Circe's seamanship is unsentimental: choose the one that takes six, not everything.
 
@@ -493,15 +493,15 @@
 
 [^L124]: Crataiis — "Force" — is Scylla's mother, invocable to call her daughter off. Even the unfightable has a parent who can be petitioned: the poem's world remains, to the last monster, a web of families.
 
-[^L129]: Seven herds of fifty, seven flocks of fifty: 350 head, breeding never, dying never. Ancient readers did the sum and saw the days of the lunar year — the cattle of the Sun as the sun's own calendar, guarded by daughters named Shining (Phaethusa) and Radiant (Lampetie). To eat them is to eat time itself; the allegory was already old when Aristotle heard it, and the poem neither confirms nor forbids it.
+[^L129]: Seven herds of fifty, seven flocks of fifty: 350 cattle and 350 sheep, breeding never, dying never. Ancient readers did the sum and saw the days of the lunar year in each — the cattle of the Sun as the sun's own calendar, guarded by daughters named Shining (Phaethusa) and Radiant (Lampetie). To eat them is to eat time itself; the allegory was already old when Aristotle heard it, and the poem neither confirms nor forbids it.
 
 [^L137]: Circe's Thrinacia warning repeats Tiresias' prophecy nearly verbatim (11.110–115), and the translation repeats with it. The two authorities of the two worlds — the dead seer, the deathless witch — issue one text. No event in the poem is more thoroughly notarized in advance than the crew's destruction.
 
-[^L154]: He briefs the crew in the name of shared knowledge — "it is not right that one man only, or two, should know" — and tells them the Sirens in full... and Scylla not at all (223–225). Full disclosure as principle, censorship as practice, each defended in its place: the captain manages truth like any other ration. The poem hands us both passages sixty lines apart and lets us do the ethics ourselves.
+[^L154]: He briefs the crew in the name of shared knowledge — "it is not right that one man only, or two, should know" — and tells them the Sirens in full... and Scylla not at all (223–225). Full disclosure as principle, censorship as practice, each defended in its place: the captain manages truth like any other ration. The poem hands us both passages sixty-nine lines apart and lets us do the ethics ourselves.
 
 [^L168]: The wind dies *at* the Sirens' island — "some power lulled the waves to sleep." The becalming is the trap's velvet: silence so total the song will be the only sound on the sea. Rowing into it, the men whiten still water while their captain kneads the wax soft.
 
-[^L175]: The wax warms under "my great strength... and the beam of the lord Helios" — the sun himself, whose cattle will destroy this crew within the week, here helps seal their ears. The gods lend their forces indifferently; the poem notes the courtesy without comment.
+[^L175]: The wax warms under "my great strength... and the beam of the lord Helios" — the sun himself, whose cattle will destroy this crew, here helps seal their ears. The gods lend their forces indifferently; the poem notes the courtesy without comment.
 
 [^L184]: The Song. They address him "much-praised Odysseus, great glory of the Achaeans" — μέγα κῦδος Ἀχαιῶν, the honorific otherwise reserved for Nestor (3.79): the Sirens speak flawless epic diction, and their opening move is his own fame recited back to him. For this hero the fatal bait is not flesh but *renown and information* — they offer Troy complete (the war he cannot stop weeping over in Books 8's songs) plus omniscience: "all that comes to pass on the nourishing earth." The Sirens are epic poetry weaponized — the song of kleos with the homecoming subtracted. The bone-meadow is an audience that never left the recital.
 
@@ -525,7 +525,7 @@
 
 [^L258]: "The most pitiful thing my eyes ever looked on of all I suffered searching out the pathways of the sea." The superlative of ten years — awarded not to Polyphemus or Hades but to six pairs of reaching hands. The teller ranks his own griefs, and the ranking is the man.
 
-[^L264]: He hears the cattle before he sees land — "the lowing of cattle being folded" carries over water — and the prophecy lands on his heart in the same instant. For once fore-knowledge and temptation arrive together, sound first: Thrinacia is audible doom, as the Sirens were audible desire.
+[^L264]: He hears the cattle while still at sea — "the lowing of cattle being folded" carries over water — and the prophecy lands on his heart in the same instant. For once fore-knowledge and temptation arrive together, sound first: Thrinacia is audible doom, as the Sirens were audible desire.
 
 [^L279]: Eurylochus' "you are made of iron" speech is mutiny with a case: the men are exhausted, night passages kill ships, the winds born of darkness are real ("wreckers of ships" is sound pilotage). The poem gives the rebellion its best arguments — rest tonight, sail at dawn — and then lets the weather, not the logic, spring the trap: the dawn that was promised brings a month of imprisoning wind.
 
@@ -537,9 +537,9 @@
 
 [^L323]: His warning ends on the surveillance formula: "Helios, who sees all things and hears all things" (= 11.109). On an island owned by total observation, the crew will wait for the captain to fall asleep — as if the only eye were his.
 
-[^L331]: Bent hooks, birds, "whatever came to their dear hands," hunger wearing the belly — the stranded-crew formula, shared verbatim with Menelaus' men on Pharos (4.368–369). The apologoi keep meeting the Telemachy's stories at the seams: same sea, same hunger, same grammar.
+[^L331]: Bent hooks, birds, "whatever came to their dear hands," hunger wearing the belly — the stranded-crew cluster shared with Menelaus' men on Pharos (4.368–369), its closing line word for word. The apologoi keep meeting the Telemachy's stories at the seams: same sea, same hunger, same grammar.
 
-[^L338]: The third fatal sleep. Aeolus' bag within sight of home; now Thrinacia; the pattern is exact — catastrophe enters only when his vigilance lapses, and the lapse is always bodily, blameless, human. "It was for my ruin that you laid me down" (372): he reads his sleep as the gods' instrument, and the poem does not correct him. A hero whose weakness is not pride or lust but the simple need to close his eyes: that is the Odyssey's realism about limits.
+[^L338]: The fatal sleep again. Aeolus' bag within sight of home; now Thrinacia; the pattern is exact — catastrophe enters only when his vigilance lapses, and the lapse is always bodily, blameless, human. "It was for my ruin that you laid me down" (372): he reads his sleep as the gods' instrument, and the poem does not correct him. A hero whose weakness is not pride or lust but the simple need to close his eyes: that is the Odyssey's realism about limits.
 
 [^L341]: Eurylochus' second speech is the belly-doctrine turned catechism: "all deaths are hateful, but to die of hunger is the most pitiful." It is Odysseus' own theology (7.216: nothing more dog-shameless than the belly) recited by the mutineer to justify the unforgivable. The poem built its hero's materialism carefully for five books precisely so this speech would be irrefutable in his own terms.
 
@@ -549,7 +549,7 @@
 
 [^L383]: Helios' threat: "I will go down into Hades and shine among the dead." Four words from a minor god, and the cosmos tilts: the sun proposes to invert the universe — light for the dead, darkness for the living — unless compensated. Zeus' answer is a settlement (keep shining; I'll handle it), and the affair closes like a lawsuit between great houses: the thunderbolt as damages.
 
-[^L389]: "This I heard afterward from fair-haired Calypso; and she said she heard it herself from Hermes the guide." Unique in Homer: the narrator cites his sources — for an Olympian conversation he could not have witnessed, a two-link chain of transmission is produced on the spot. The apologoi's one gesture of documentation is also its quietest boast: everything else, he saw. Storytelling inventing source criticism, in the middle of the Bronze Age.
+[^L389]: "This I heard afterward from fair-haired Calypso; and she said she heard it herself from Hermes the guide." Unique in Homer: the narrator cites his sources — for an Olympian conversation he could not have witnessed, a two-link chain of transmission is produced on the spot. The apologoi's one gesture of documentation is also its quietest boast: the rest, we are to take it, he saw — though the oath-taking and the sacrilege on Thrinacia he tells us himself he slept through. Storytelling inventing source criticism, in the middle of the Bronze Age.
 
 [^L394]: The portents: "the hides crawled; the meat on the spits was lowing, the roasted and the raw." The uncanniest lines in Homer — the meal refusing to become food, the sacrilege bellowing from the fire. And the sentence that follows is the true horror: "Six days after that my trusted companions feasted." Not one meal in madness — six days of eating meat that cries. The crew's doom is not a lapse but a persistence.
 

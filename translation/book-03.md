@@ -568,7 +568,7 @@
 
 [^L235]: "By the treachery of Aegisthus *and of his own wife*": Clytemnestra enters the poem's version of the story here, and Nestor's fuller account (264–272) is strikingly gentle with her — her mind "still sound" at first, her fall a matter of the gods' binding doom, her consent given only at the end ("he willing, she willing"). Homer's Clytemnestra is a woman worked on, not tragedy's axe-wielder — which makes her a darker mirror for the besieged Penelope.
 
-[^L245]: Nestor's proverbial age: he has outlasted three generations of men. His function in both epics is to be memory itself — which is exactly what Telemachus, a boy with no memories of his father, has come to borrow.
+[^L245]: Nestor's proverbial age: he has ruled through three generations of men. His function in both epics is to be memory itself — which is exactly what Telemachus, a boy with no memories of his father, has come to borrow.
 
 [^L267]: The nameless singer whom Agamemnon left to guard his wife — and whom Aegisthus marooned to die on a desert island — appears only here in all Greek literature. It is a bard's professional aside: in this poem's moral world, song is a guardian of faithfulness, and the seducer's first necessary crime is to silence the singer. Compare Phemius, singing for the suitors "under compulsion" (1.154).
 
@@ -582,7 +582,7 @@
 
 [^L332]: The tongues of the victims, cut out and burned with a final libation, are the traditional last act of the sacrificial evening — the feast's closing signature. Athena the guest is the one who reminds her hosts of the god's due, which is both in character and quietly funny.
 
-[^L372]: Athena departs as a φήνη — a sea-eagle or bearded vulture. This is the second bird-exit in the poem (1.320), but the first *witnessed and understood*: Nestor reads the epiphany instantly and correctly. In Pylos, unlike Ithaca, the machinery of piety works — sign, recognition, vow, sacrifice, all in order.
+[^L372]: Athena departs as a φήνη — a sea-eagle or bearded vulture. This is the second bird-exit in the poem (1.320), and the first read *precisely*: Telemachus in Ithaca sensed a god and no more, but Nestor names Athena on the spot and answers her. In Pylos the machinery of piety works entire — sign, recognition, vow, sacrifice, all in order.
 
 [^L378]: Τριτογένεια, "Tritogeneia" — an ancient cult title of Athena, already opaque to the poet's audience (born by Lake Tritonis? from Zeus' head beside the river Triton?). I transliterate rather than guess.
 

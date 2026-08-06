@@ -567,7 +567,7 @@
 
 [^L7]: The book opens by splitting the sleepers: Peisistratus sleeps, Telemachus cannot. It is the same night in which, at the end of Book 14, Odysseus lay awake testing Eumaeus for a cloak. Father and son are wakeful at the two ends of the poem's map, and the narrative now begins pulling them toward a single hut.
 
-[^L16]: Athena's report is, at best, a strategic exaggeration. Nothing elsewhere in the poem suggests Penelope's father Icarius and her brothers are actively pressing marriage to Eurymachus, and Penelope's own behavior contradicts it. Athena tells the anxious son exactly what will make him move fastest — the goddess of mētis is not above manipulating her favorites' family.
+[^L16]: Athena sharpens the truth to move the boy. The family pressure is real — Penelope herself will say her parents urge her to remarry (19.157–159) — but the Eurymachus particular appears nowhere else, and Penelope's own conduct answers it. The goddess of mētis tells the anxious son the version that will make him move fastest.
 
 [^L20]: This cold little essay on women's hearts — the remarrying widow forgets her first children and dead husband — is Athena speaking, not the poet, and it is aimed like a goad. Its cynicism is precisely calibrated to Telemachus' worst fear (cf. Odysseus' own darker version of the same anxiety at 11.441–456, from Agamemnon). The poem as a whole spends its second half refuting the generalization through Penelope.
 
@@ -583,7 +583,7 @@
 
 [^L104]: Helen's robes, "worked all over with figures — she had made them herself," recall the weaving Helen of Iliad 3.125–128, who wove the battles fought for her sake into a web. Here the artistry is turned to a wedding gift.
 
-[^L113]: Lines 113–119 repeat Menelaus' offer at 4.613–619 word for word — there interrupted by the wedding feast, here finally performed. The English repeats the earlier rendering verbatim: the silver mixing-bowl with gold-finished rims, work of Hephaestus, gift of Phaedimus king of the Sidonians. Note that Sidon returns fifty lines later in a darker key: Eumaeus' treacherous nurse is Sidonian too (425–429). Phoenicia in this book gives with one hand and kidnaps with the other.
+[^L113]: Lines 113–119 repeat Menelaus' offer at 4.613–619 word for word — there interrupted by the wedding feast, here finally performed. The English repeats the earlier rendering verbatim: the silver mixing-bowl with gold-finished rims, work of Hephaestus, gift of Phaedimus king of the Sidonians. Note that Sidon returns three hundred lines later in a darker key: Eumaeus' treacherous nurse is Sidonian too (425–429). Phoenicia in this book gives with one hand and kidnaps with the other.
 
 [^L125]: Helen's gift-speech is one of the loveliest small speeches in the poem: a robe that is "a keepsake of Helen's hands," to lie in Penelope's keeping until Telemachus' wedding day, when his bride will wear it. The most notorious bride in the world weaves for the marriage of her guest's son — Helen quietly writing herself into a future domestic happiness she never had.
 
@@ -591,7 +591,7 @@
 
 [^L171]: Helen "was before him" — she out-prophesies her husband, who is still pondering. To her roles in Book 4 (hostess, drug-mistress, storyteller who recognized Odysseus in disguise) the poem adds mantis: "I will prophesy as the immortals cast it in my heart." Her reading is flawless, down to the alternative "or even now he is home already" — which is in fact the truth.
 
-[^L180]: Telemachus' farewell — "then even there I would pray to you as to a god" — echoes his promise to the disguised Athena at 8.467's counterpart (Odysseus to Nausicaa): the formula of gratitude that elevates a mortal benefactor to cult. Spoken to Helen, of all women, it lands with peculiar force; his last word in Sparta is to her, not Menelaus.
+[^L180]: Telemachus' farewell — "then even there I would pray to you as to a god" — repeats, word for word, his father's promise to Nausicaa (8.467): the formula of gratitude that elevates a mortal benefactor to cult. Spoken to Helen, of all women, it lands with peculiar force; his last word in Sparta is to her, not Menelaus — and the son, unknowing, speaks in his father's exact words.
 
 [^L184]: Lines 184–192 repeat the outbound journey's lines (3.486–494) verbatim — the day of driving, sunset at Pherae with Diocles, and the dawn departure. Ring-composition closes the Telemachy's Peloponnesian loop in the same words that opened it.
 
@@ -637,7 +637,7 @@
 
 [^L411]: Death by the "gentle arrows" (ἀγανοῖς βελέεσσιν) of Apollo and Artemis is the Homeric formula for sudden, painless death — the kindest end the poem knows (Penelope prays for exactly this at 18.202; cf. 3.279–280, 11.172–173). On Syrie it is the only way anyone dies. The same goddess's arrow, at 478–479, kills the treacherous nurse — the gentle formula turned executioner.
 
-[^L416]: "Gnawers" (τρῶκται) — the same contemptuous word for Phoenician traders that the Cretan tale used at 14.289. Homer's Phoenicians are the poem's masters of the sea-borne swindle: brilliant sailors, sellers of trinkets, stealers of persons. Eumaeus' story and Odysseus' invented ones (13.272–286, 14.287–297) agree on this ethnography — one reason the false tales sound so true.
+[^L416]: "Gnawers" (τρῶκται) — the same contemptuous word for Phoenician traders that the Cretan tale used at 14.289. Homer's Phoenicians are the poem's masters of the sea-borne swindle: brilliant sailors, sellers of trinkets, stealers of persons. Eumaeus' story and Odysseus' invented voyage with the swindling captain (14.287–297) agree on this ethnography — though the stereotype admits exceptions: his Book 13 Phoenicians land him, and his goods, untouched (13.272–286).
 
 [^L418]: The nurse is introduced with the formula "beautiful and tall, and skilled in glorious handwork" — the very words that described Athena's assumed shape at 13.289. The poem uses its formula for an admirable woman precisely where the woman will prove treacherous; the dissonance is the point.
 
@@ -653,7 +653,7 @@
 
 [^L470]: Three goblets and a king's son: the loot of the abduction, precisely inventoried by its victim a lifetime later. "In my child's witlessness" (ἀεσιφροσύνῃσι) — the grown Eumaeus passing judgment on the toddler who trustingly followed his nurse's hand. The detail that the father's table-service was left out in the forecourt because the men "had gone out to the people's session" gives the theft its exact domestic hour.
 
-[^L479]: Artemis' arrow — sudden painless death, the blessing of Syrie (411–412) — strikes the nurse on the seventh day at sea, and she drops "like a sea-tern" (εἰναλίη κήξ) into the bilge, is thrown to "the seals and fishes" (the ἕλωρ formula of unburied death, cf. 3.271, 5.473, 14.135), and vanishes from the story. Divine justice, if that is what it is, arrives without comment; the child is simply "left alone, my heart aching" (= 14.286's line-shape) — and sold on Ithaca all the same. The punishment saves no one.
+[^L479]: Artemis' arrow — sudden painless death, the blessing of Syrie (411–412) — strikes the nurse on the seventh day at sea, and she drops "like a sea-tern" (εἰναλίη κήξ) into the bilge, is thrown to "the seals and fishes" (κύρμα γενέσθαι — the body left as prey, the poem's image of unburied death, cf. ἕλωρ at 3.271, 5.473, 14.135), and vanishes from the story. Divine justice, if that is what it is, arrives without comment; the child is simply "left alone, my heart aching" (= 14.286's line-shape) — and sold on Ithaca all the same. The punishment saves no one.
 
 [^L488]: Odysseus' consolation is the book's hardest sentence to hear well: "Zeus set the good beside the evil for you, / since after all that pain you came to the house of a kind man" — the good beside the evil of kidnapping and sale is enslavement to a gentle owner, with food and drink, "and you live a good life." Set against Eumaeus' own accounting at 371–379 (and the poem's verdict at 17.322–323 that Zeus takes half a man's worth away the day slavery seizes him), the comfort is real, limited, and spoken by the man who owns him — who then, keeping his disguise, ranks his own state lower still: "while I come to you here... still wandering." The poem does not resolve this; it sets the two lives side by side in the dark and lets the wine go round.
 
@@ -663,4 +663,4 @@
 
 [^L533]: "There is no line more kingly than your own" — the omen's meaning in one sentence. Theoclymenus' function in the poem is to say true things at right angles to the action, and this is the first: the kingship stays in the house of Odysseus.
 
-[^L555]: The book ends with the two travelers converging: the ship rowing for the city, and Telemachus on foot, striding for the yard where the swineherd sleeps beside his herds — "a good man, whose heart was loyal to his masters." The final sentence runs on directly into Book 16's first line — the book-division cuts it mid-flow — and in the hut the father is waiting.
+[^L555]: The book ends with the two travelers converging: the ship rowing for the city, and Telemachus on foot, striding for the yard where the swineherd sleeps beside his herds — "a good man, whose heart was loyal to his masters." The sentence completes itself, but the scene does not: Book 16 opens in the same yard at the same hour — the division is a breath, not a break — and in the hut the father is waiting.

@@ -456,9 +456,9 @@
 
 [^L38]: The bow never went to Troy: it stayed home, "a memorial of a beloved guest-friend," carried only on his own land. So the poem's climactic weapon is not war-gear but a relic of friendship — kept out of the epic's great war precisely so that it could wait here, domestic and sacred, for the war that matters: the defense of the house itself.
 
-[^L48]: The storeroom doors "bellowed like a bull at pasture" at the key's stroke: the house has a voice, and it lows like the herds everyone in it keeps stealing. Twenty years shut, the room protests its opening — or announces it: the sound is a fanfare exactly as loud as an omen.
+[^L48]: The storeroom doors "bellowed like a bull at pasture" at the key's stroke: the house has a voice, and it lows like the herds everyone in it keeps stealing. Long shut, the room protests its opening — or announces it: the sound is a fanfare exactly as loud as an omen.
 
-[^L55]: She sits with the bow-case on her knees and weeps before drawing out "the master's bow" — the third time an object has stood in for the man (his clothes at 19.255ff; the bed to come). She holds the bow as one holds a child or a corpse; then she carries it to the suitors. The gesture contains the whole book: grief in the storeroom, statecraft in the hall.
+[^L55]: She sits with the bow-case on her knees and weeps before drawing out "the master's bow" — the second time an object has stood in for the man (his clothes at 19.255ff; the bed still to come). She holds the bow as one holds a child or a corpse; then she carries it to the suitors. The gesture contains the whole book: grief in the storeroom, statecraft in the hall.
 
 [^L63]: The veil entrance, fourth and final performance (1.333–335; 16.415–416; 18.209–211): pillar, veil, two handmaids. Every prior entrance stopped something — a song, a plot, a mood. This one starts something: the formula that always marked her intervention in the men's world now delivers the instrument of its ending.
 
@@ -472,11 +472,11 @@
 
 [^L94]: Antinous' memory — "I saw him myself... though I was still a witless child" — is the book's strangest tenderness: the ringleader is old enough to remember Odysseus, and the memory surfaces as awe ("there is no man in this whole company such as Odysseus was"). For one line he tells the truth about the house he is destroying; then he organizes the queue to take it.
 
-[^L98]: The narrator hangs Antinous in open court: "he was to be the first to taste an arrow from the hands of blameless Odysseus." The idiom (γεύσεσθαι, to taste) returns at 418 for all of them. Twenty-one books of restraint, and the poem cannot keep its own secret two hundred lines from the payoff — the prolepsis is a reader's mercy and a judge's sentence.
+[^L98]: The narrator hangs Antinous in open court: "he was to be the first to taste an arrow from the hands of blameless Odysseus." The tasting returns in the English at 418 for all of them (the Greek varies its verb). Twenty-one books of restraint, and the poem cannot keep its own secret the last three hundred-odd lines to the payoff — the prolepsis is a reader's mercy and a judge's sentence.
 
 [^L102]: Telemachus' clowning — "Zeus has made me witless! ... I laugh, and enjoy it, with my witless heart" — is tactical: the armed conspirator plays the giddy boy so the room reads the day as farce. Under it, one true sentence stands at 110: "Why should I praise my mother?" — the son declining to auction his mother's worth to her buyers.
 
-[^L113]: His secret motive, stated in the open where no one can hear it: if I string the bow, she need not leave. The contest has a third contestant no one invited, playing for a different prize — not the wife but the mother; not marriage but the annulment of the marriage-market.
+[^L113]: His secret motive, stated in the open where no one can hear it: if I string the bow, I could bear her leaving — the master's gear would still have a master in the house. The contest has a third contestant no one invited, playing for a different prize: not the bride but the succession — proof that the bow stays home whoever takes the wife.
 
 [^L120]: The axes: one long trench, trued to a line, earth stamped firm — and amazement takes the room, "who had never seen it before." Never seen the trick, or never seen the boy do a man's engineering? Both: the set-up is itself a feat, executed from inherited instinct by a son who was an infant when the bow last sang. The stage crew for his father's masterpiece is his own blood.
 
@@ -484,7 +484,7 @@
 
 [^L131]: His cover-speech recycles his own words from 16.71–72 ("too young... cannot trust my hands to defend a man") — a self-description that was true then, deployed now as camouflage precisely because it no longer is. The poem lets us hear the difference between the sentence meant and the sentence performed.
 
-[^L141]: "Left to right, starting from where the wine is poured" — Antinous organizes the failure procession with liturgical tidiness: sunwise, from the cupbearer's station, like a libation. The suitors do everything in feast-order to the end; tomorrow's deaths will follow roughly the same rotation, starting with the man who set it.
+[^L141]: "Left to right, starting from where the wine is poured" — Antinous organizes the failure procession with liturgical tidiness: sunwise, from the cupbearer's station, like a libation. The suitors do everything in feast-order to the end; the deaths, hours away, will begin with the man who set the rotation.
 
 [^L144]: Leodes: the suitors' own diviner, seated "farthest in" by the mixing-bowl, the only one who hates their outrages. The poem builds an ethical gradient even inside the mob — and then makes its decent man's hands "soft, unhardened" priest's hands, first to fail. His plea at 22.310ff will cite exactly what the poem certifies here; Odysseus will answer that a diviner who stayed prayed daily for the master never to come home. Decency without departure, once again, saves no one.
 
@@ -502,21 +502,21 @@
 
 [^L207]: "He is home — here — I am the man myself" (ἔνδον μὲν δὴ ὅδʼ αὐτὸς ἐγώ): the syntax stumbles homeward — *inside; this man; myself; I*. Four ways of saying the same noun, stacked, after twenty years of aliases. To his son he said "I am your father"; to his slaves he says "I am the man" — each audience gets the identity in the grammar it prayed in.
 
-[^L209]: "To you two only... Of the rest I have heard not one man praying that I come home." The intelligence file is complete and cold: he has been listening for prayers the whole disguise long, and the census of loyalty on his whole estate is two herdsmen, a nurse, a son, and a wife. The killing tomorrow is scaled to that arithmetic.
+[^L209]: "To you two only... Of the rest I have heard not one man praying that I come home." The intelligence file is cold: among all he has personally overheard in the disguise, the prayers for his return number two — and the loyalty roll he can vouch for is two herdsmen, a nurse, a son, and a wife. The killing, hours away, is scaled to that arithmetic.
 
-[^L214]: The promises: wives, possessions, houses built near his, and the title "companions and brothers of Telemachus." It is the only manumission scene in Homer — and it does not free them downward into mere liberty but upward into kinship: the slave-brothers of the heir. The poem's answer to the slavery it has documented so unflinchingly is not abolition (it cannot imagine that) but adoption.
+[^L214]: The promises: wives, possessions, houses built near his, and the title "companions and brothers of Telemachus." Nothing in Homer comes closer to a manumission scene — and what it offers is not freedom downward into mere liberty but elevation toward kinship: slave-brothers of the heir in everything but name. The poem's answer to the slavery it has documented so unflinchingly is not abolition (it cannot imagine that) but embrace.
 
 [^L219]: The scar again — shown now voluntarily, "so you may know me for certain": the wound Eurycleia found by accident becomes a credential presented on purpose. Same verse as 19.393: the boar, the white tusk, Parnassus, the sons of Autolycus. The body is the document; this is its third notarization (nurse, herdsmen; the fourth, for Laertes, waits at 24.331).
 
 [^L223]: The embrace is symmetrical: they kiss his head and shoulders, "and in the same way Odysseus kissed their heads and hands." The master kisses the slaves' hands — the hands he has just contracted for the fight. No other Homeric king kisses a slave; the poem spends the gesture here, where the class line matters most and holds least.
 
-[^L226]: "The light of the sun would have gone down on their weeping" — the same line that closed the father-son recognition (16.220). Every reunion in this family runs on past sundown unless someone stops it; every time, the someone is Odysseus, cutting his own happiness short on schedule. Grief-discipline is the family art: weep fully, then exactly stop.
+[^L226]: "The light of the sun would have gone down on their weeping" — the same line that closed the father-son recognition (16.220). Reunions in this family run on past sundown unless someone stops them — there it was Telemachus, here Odysseus — happiness cut short on schedule. Grief-discipline is the family art: weep fully, then exactly stop.
 
-[^L230]: The orders, distributed by station: Eumaeus delivers the bow *against the room's will* and locks the women's hall; Philoetius bars the courtyard. Bow, women, gates — weapon, witnesses, exits. Twenty years of siegecraft compressed into three assignments, each given to the man whose daily work it resembles.
+[^L230]: The orders, distributed by station: Eumaeus delivers the bow *against the room's will* and carries the word to Eurycleia to bar the women's hall; Philoetius bars the courtyard. Bow, women, gates — weapon, witnesses, exits. Twenty years of siegecraft compressed into three assignments — and the locking itself is done, as it should be, by the housekeeper's own hands (387).
 
 [^L249]: Eurymachus' grief is the truest sentence he ever speaks, arrived at for the vainest reason: "It is not the marriage I mourn so much... it is that we fall so far short of godlike Odysseus." The comparison is the disgrace — "for even men unborn to hear of." He has, for one moment, exactly measured himself; posterity got the report he feared, in this poem.
 
-[^L258]: Antinous' theology of postponement: it is the archer-god's holy day — "who could be bending bows?" The answer is standing by the door with the bow already promised to him. On Apollo's feast, Apollo's own instrument comes back to tune; the piety that defers the contest hands it to the one man the god's day fits.
+[^L258]: Antinous' theology of postponement: it is the archer-god's holy day — "who could be bending bows?" The answer is sitting in the hall with the bow already promised to him. On Apollo's feast, Apollo's own instrument comes back to tune; the piety that defers the contest hands it to the one man the god's day fits.
 
 [^L261]: "No thief is coming into the hall of Laertes' son Odysseus" — Antinous reassures the room about the axes with the poem's finest unwitting joke: the man in the hall is not coming for the axes, is no thief (he owns them), and is the grandson of the greatest thief in Greece. Every clause wrong in a different direction.
 
@@ -524,11 +524,11 @@
 
 [^L282]: "Whether the force is still there... or wandering and neglect have destroyed it" — the request wears the beggar's whole biography as its cover story, and it is also, under the mask, a true question. Twenty years, the sea, Calypso, the rags: the man does not entirely know what the trial will show. The poem lets the suspense be real even for its rigger.
 
-[^L285]: "In dread that he would string the polished bow": the room's fear arrives before any evidence — they have watched him dodge an ox-hoof and heft nothing. The dread is the truth in them that their mockery keeps down; they refuse him the bow because some animal part of every suitor has already recognized its owner.
+[^L285]: "In dread that he would string the polished bow": the room's fear has been gathering its evidence all along — the thighs and shoulders under the rags (18.66–74), Irus dropped with one careful blow. The dread is the truth in them that their mockery keeps down; they refuse him the bow because some animal part of every suitor has already recognized its owner.
 
 [^L289]: Antinous' catalogue of the beggar's privileges — he eats with "the great ones," he *hears our speeches* — offered as generosity, lands as evidence: the man has indeed heard everything. The suitor's boast of inclusion is the prosecution's exhibit list.
 
-[^L295]: The Centaur parable: Eurytion, wine-mad in Peirithous' hall, dragged through the porch, ears and nose shorn off — "he found the evil first for himself." Antinous means it as a warning to the drunk beggar; the poem means it as a mirror: a feast, an outrage, a mutilation in the doorway — it is Melanthius' exact fate (22.474ff) and the suitors' general one. He proclaims "great trouble for you if you string that bow"; the trouble is his, and the bowstring is an hour away. The mythological threat is the book's most complete boomerang.
+[^L295]: The Centaur parable: Eurytion, wine-mad in Peirithous' hall, dragged through the porch, ears and nose shorn off — "he found the evil first for himself." Antinous means it as a warning to the drunk beggar; the poem means it as a mirror: a feast, an outrage, a mutilation in the doorway — it is Melanthius' exact fate (22.474ff) and the suitors' general one. He proclaims "great trouble for you if you string that bow"; the trouble is his, and the bow is already in the hall. The mythological threat is the book's most complete boomerang.
 
 [^L308]: Echetus again (= 18.85, the same verse): the offshore bogeyman-king as the suitors' all-purpose deterrent. Their imagination of punishment is always elsewhere, outsourced, someone else's hands; the punishment actually scheduled is local, in-house, and the man they are threatening holds its instrument.
 
@@ -536,11 +536,11 @@
 
 [^L317]: "He himself has no such hope in his breast" — the poem's dramatic irony at its most delicious, and possibly its most double. She is right for the room's purposes (a beggar cannot mean marriage) and wrong in every other register: the stranger's whole hope is precisely to lead her home — he is already there. Whether some part of her says it *because* it can be said safely, the poem keeps sealed.
 
-[^L324]: Eurymachus' nightmare gossip — "a wandering beggar came and strung the bow with ease, and shot through the iron" — is a verbatim advance transcript of what happens within the hour. He drafts the exact sentence posterity will use and calls it the unbearable case. The poem grants him full authorship of his own disgrace: no bard said it better.
+[^L324]: Eurymachus' nightmare gossip — "a wandering beggar came and strung the bow with ease, and shot through the iron" — is an advance transcript of what is about to happen in this hall, accurate in every substance if not in wording. He drafts the case posterity will make and calls it the unbearable one. The poem grants him full authorship of his own disgrace: no bard said it better.
 
 [^L331]: Her retort dismantles the shame-logic at its root: men who "dishonor and devour the house of their better" have no fair fame left to protect — the reputational account they are guarding is already empty. It is the shortest complete moral audit of the suitors anyone delivers, and it comes from the person they propose to marry.
 
-[^L338]: The clothing-promise, final and fullest form: cloak and tunic, plus javelin, sword, sandals, and the fixed close "send him wherever his heart and spirit bid him go" (14.516–517 → 15.337–339 → 16.79–81 → 17.550 → now armed). Each loyal speaker has added an item; Penelope's version arms the beggar. She proposes, in open hall, to equip the stranger with weapons — one sentence before her son sends her upstairs and the equipping happens another way.
+[^L338]: The clothing-promise, final and fullest form: cloak and tunic, plus javelin, sword, sandals, and the fixed close "send him wherever his heart and spirit bid him go" (14.516–517 → 15.337–339 → 16.79–81 → 17.550 → now). The earlier promises clothed the beggar; Penelope's version arms him. She proposes, in open hall, to equip the stranger with weapons — one sentence before her son sends her upstairs and the equipping happens another way.
 
 [^L350]: Lines 350–353 repeat Telemachus' first assertion of manhood (1.356–359) with one word changed: μῦθος has become τόξον — "the word belongs to men" is now "the bow belongs to men." The poem measures the whole epic's arc in that substitution: in Book 1 the boy claimed speech; in Book 21 the man claims the weapon — and the claim's real content is operational: she must be out of the hall before the arrows. The famous line does its tender, brutal work twice at once — asserting the son's authority and saving the mother's life.
 
@@ -548,30 +548,30 @@
 
 [^L362]: The threat to Eumaeus — his own dogs will eat him among his pigs, "alone, away from men" — is the suitors' cruelty in its purest form: they curse the swineherd with the exact solitude in which his loyalty lives. The Apollo-clause tacked on ("if Apollo will only be gracious") keeps their piety current while they threaten a slave with dog-death on the god's feast day.
 
-[^L366]: The plan's one wobble: Eumaeus, shouted at by the whole hall, sets the bow down mid-carry. The poem allows its most faithful man a moment of ordinary fear — forty suitors are screaming at a slave — so that Telemachus can rescue the delivery, and so that we see the bow's last meters to its owner's hands are walked on courage, not script.
+[^L366]: The plan's one wobble: Eumaeus, shouted at by the whole hall, sets the bow down mid-carry. The poem allows its most faithful man a moment of ordinary fear — a hallful of lords screaming at a slave — so that Telemachus can rescue the delivery, and so that we see the bow's last meters to its owner's hands are walked on courage, not script.
 
-[^L376]: Telemachus saves the handoff with comedy: the mock-threat to stone the old swineherd back to the farm, the rueful wish to be stronger than the whole room. The suitors laugh "sweetly" — and their anger dissolves precisely as the bow completes its journey. He has learned to weaponize his own harmlessness: the boy-act buys the last thirty feet.
+[^L376]: Telemachus saves the handoff with comedy: the mock-threat to stone the old swineherd back to the farm, the rueful wish to be stronger than the whole room. The suitors laugh "sweetly" — and their anger dissolves precisely as the bow completes its journey. He has learned to weaponize his own harmlessness: the boy-act buys the bow its last steps.
 
-[^L386]: The wingless word, fourth flight (17.57, 19.29, 21.386 — Eurycleia both times): she obeys without a syllable and bars the doors. The formula for wordless obedience has become the sound of the trap closing — softly, on well-oiled hinges, with the housekeeper's own hands.
+[^L386]: The wingless word, third flight (17.57; 19.29 and now, Eurycleia both these times): she obeys without a syllable and bars the doors. The formula for wordless obedience has become the sound of the trap closing — softly, on well-oiled hinges, with the housekeeper's own hands.
 
 [^L390]: Philoetius bars the gates with a ship's cable of byblus — Egyptian papyrus rope, ocean gear. The sea that kept Odysseus from the house for ten years now lends its tackle to lock the house shut around his enemies: the poem's maritime half reaches ashore for one last knot.
 
 [^L393]: The worm-check: the master turns his bow "this way and that," inspecting the horn for twenty years of beetle damage, in front of men who read the inspection as a vagrant's covetousness. It is the book's thesis in dumb-show: knowledge looks like presumption to those who cannot imagine the knower. He is not admiring the bow; he is auditing his own long absence.
 
-[^L397]: "An expert eye — a thief's!" (ἐπίκλοπος): the mocker reaches for an insult and lands, blind, on genealogy — the man is Autolycus' grandson, heir of the master-thief "in thievery and the oath" (19.396). Every taunt in this book is accidentally documentary; the suitors have been right about him all day in every register but the one that counts.
+[^L397]: "An expert eye — a thief's!" (ἐπίκλοπος): the mocker reaches for an insult and lands, blind, on genealogy — the man is Autolycus' grandson, heir of the master-thief "in thievery and the oath" (19.396). Taunt after taunt in this book lands as accidental documentary; the suitors have been right about him all day in every register but the one that counts.
 
 [^L401]: The luck-wish — may his life's profit match his chance of stringing it — is the last kledon of the poem, and like all the others it executes exactly as worded: his profit and the stringing come out identical, both total. The suitors have now blessed him twice (18.112ff) and cursed him once, and every utterance has filed itself on his side of the ledger.
 
 [^L406]: The stringing simile: as a singer stretches a new string on his lyre's peg — easy, familiar, both ends made fast — "so without haste, without effort, Odysseus strung the great bow." The poem's final self-portrait: bard and bowman are one craft, tension mastered into music. The man who told lies like truth (19.203, the poet's simile) now strings death like a lyre. Everything the Odyssey believes about skill — that its summit looks like ease — is in the two words ἄτερ σπουδῆς.
 
-[^L411]: He plucks the string and it "sang sweet, like a swallow's voice": the bow's first note in twenty years is birdsong — and the swallow is the spring migrant, the bird that returns to the house it nested in. The whole homecoming compressed into an instrument-check; the room hears a chirp, the poem hears the year turning.
+[^L411]: He plucks the string and it "sang sweet, like a swallow's voice": the bow speaks under its owner's thumb again, and the note is birdsong — and the swallow is the spring migrant, the bird that returns to the house it nested in. The whole homecoming compressed into an instrument-check; the room hears a chirp, the poem hears the year turning.
 
 [^L412]: The triple response: the suitors' ache and change of color (their bodies, again, ahead of their minds — cf. 20.345ff); Zeus's thunder, second of the day (20.103), the god countersigning; and Odysseus "glad" — the same quiet joy he took in the kledones. Sky and flesh have both voted; only the arrow remains to publish the result.
 
-[^L416]: The bare arrow on the table — singular, unquivered, lying in the open all through the feast like a loaded fact — "the rest... the ones the Achaeans were shortly going to taste" (the narrator's idiom from 98, now plural). The inventory is exact: one for the axes, the quiver for the house.
+[^L416]: The bare arrow on the table — singular, unquivered, lying in the open all through the feast like a loaded fact — "the rest... the ones the Achaeans were shortly going to taste" (in the English an echo of 98; the Greek varies its verb). The inventory is exact: one for the axes, the quiver for the house.
 
 [^L419]: The shot: seated, from his stool, no stance, no rise — through all twelve, "from the first helve-ring clean on through." The contest specified ease (75); the champion performs it from a chair. Every failed suitor stood braced on the threshold; the owner does it sitting down, the way a man signs his name.
 
 [^L428]: The coded speech: "supper... while there is light — and after that... the dance and the lyre: the garnish of a feast." Every noun is a codeword the room cannot read: the supper is the "graceless" one promised at 20.392–394; the lyre has just been strung; the dance is Book 22. He announces the massacre in the vocabulary of hospitality — the language the suitors abused for four years, handed back to them with its meanings loaded.
 
-[^L431]: The nod — the signal contracted at 16.283 — and the final tableau: the father seated with the strung bow, the son standing at his shoulder "armed in the flashing bronze." No suitor has moved; the room still thinks it is at dinner. The book ends in the drawn breath between the omen and the arrow — Book 22's first line will name the target.
+[^L431]: The nod — the eyebrow-signal the son has been watching for — and the final tableau: the father seated with the strung bow, the son standing at his shoulder "armed in the flashing bronze." No suitor has moved; the room still thinks it is at dinner. The book ends in the drawn breath between the omen and the arrow — Book 22 will name the target eight lines in.

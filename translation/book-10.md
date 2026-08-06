@@ -613,9 +613,9 @@
 
 [^L105]: The approach runs the standard arrival sequence — road, girl drawing water at a named spring, directions to the king's house — the exact template that on Scheria (Athena with her pitcher, 7.19ff.) led to welcome. Point-for-point the same protocol, ending in the host eating the guest: the poem re-runs its own hospitality scene as a horror film.
 
-[^L120]: "Not like men, but like the Giants" — the third appearance of the Giants' bloodline at the world's edges (Cyclopes and Phaeacians both kin to them, 7.205–206). The far world is one extended monstrous family, and the Phaeacians are its one civilized branch.
+[^L120]: "Not like men, but like the Giants" — the third appearance of the Giants at the world's edges: the Phaeacians and Cyclopes are named their kin (7.205–206), and the Laestrygonians are merely *likened* to them here. The far world keeps monstrous company, and the Phaeacians are its one civilized branch.
 
-[^L124]: "Spearing them like fish, they carried home their loathsome meal." Eleven ships, some five hundred men — the poem's greatest single loss, greater than everything Poseidon ever does — dispatched in one line with a fishing simile. The economy is deliberate: the horror is industrial, a harvest. After the refrain at 133–134, "we" means one ship's company, and every later "we" in the Odyssey is the survivors of this harbor.
+[^L124]: "Spearing them like fish, they carried home their loathsome meal." Eleven ships' companies — the poem's greatest single loss, greater than everything Poseidon ever does — dispatched in one line with a fishing simile. The economy is deliberate: the horror is industrial, a harvest. After the refrain at 133–134, "we" means one ship's company, and every later "we" in the Odyssey is the survivors of this harbor.
 
 [^L133]: The refrain returns exactly as after the Cicones — but now it closes the loss of the fleet. The identical formula for six men and for five hundred: grief in this poem is a liturgy, not an arithmetic.
 
@@ -629,7 +629,7 @@
 
 [^L202]: "Nothing came of all their mourning" — the line will recur verbatim at 568. Twice in one book the poem lets grief run and then audits it: zero. Not contempt — the weeping is always allowed first — but the survivor's bookkeeping.
 
-[^L205]: Eurylochus enters: second-in-command, kinsman by marriage (441), and the poem's licensed dissenter. The lots are shaken in a helmet — command decisions by fair chance once again — and his lot "jumped out": the man who will refuse the house is chosen by luck to find it.
+[^L205]: Eurylochus enters: leader of the second search party, kinsman by marriage (441), and the poem's licensed dissenter. The lots are shaken in a helmet — command decisions by fair chance once again — and his lot "jumped out": the man who will refuse the house is chosen by luck to find it.
 
 [^L212]: The wolves and lions "fawning like dogs around their master coming from a feast" — the most unsettling tameness in Homer. The simile's content is domestic comfort (the master, the treats, the wagging); the reality is predators chemically stripped of themselves. Drugged docility wearing the image of home — Circe's whole island in one picture.
 
@@ -643,17 +643,17 @@
 
 [^L273]: "But I am going. Hard necessity is on me." — κρατερὴ δέ μοι ἔπλετʼ ἀνάγκη. No plan exists yet; the sword and bow he slings on are props against sorcery. The captain's necessity is not strategy but obligation: twenty-two men in a sty. The rescue begins as pure duty walking uphill.
 
-[^L277]: Hermes as a youth "with his first down on his lip, in the loveliest season of youth" — the god's favorite mortal disguise (so he meets Priam in *Iliad* 24). The only god who assists in all the wanderings, met on a path exactly as his Olympian errands frame the poem (Books 1, 5). His speech does something unique in the apologoi: it scripts the future in detail — potion, wand, sword-rush, bed, oath — and the scene then executes the script beat for beat. Odysseus survives Aeaea the way an actor survives a play: by knowing the lines in advance.
+[^L277]: Hermes as a youth "with his first down on his lip, in the loveliest season of youth" — the god's favorite mortal disguise (so he meets Priam in *Iliad* 24), met on a path here exactly as his Olympian errands frame the poem (Books 1, 5). His speech does something unique in the apologoi: it scripts the future in detail — potion, wand, sword-rush, bed, oath — and the scene then executes the script beat for beat. Odysseus survives Aeaea the way an actor survives a play: by knowing the lines in advance.
 
-[^L297]: "Do not refuse the bed of the goddess" — the instruction no other epic would give its hero as tactical advice, complete with the safeguard oath and the stated risk: "lest she strip you naked and make you a coward, an unmanned thing" (κακὸν καὶ ἀνήνορα — the emasculation fear said straight out). Divine sex here is an instrument of policy with a liability clause. The oath-formula is Calypso's from 5.178–179, verbatim: the poem's second goddess-bed negotiated on the same contract language as the first.
+[^L297]: "Do not refuse the bed of the goddess" — the instruction no other epic would give its hero as tactical advice, complete with the safeguard oath and the stated risk: "lest she strip you naked and make you a coward, an unmanned thing" (κακὸν καὶ ἀνήνορα — the emasculation fear said straight out). Divine sex here is an instrument of policy with a liability clause. The oath-formula is Calypso's from 5.178–179, verbatim — but repurposed: there it guarded a departure plan against a trap; only here is the contract language brought to a goddess's bed.
 
-[^L304]: Moly: black at the root, flower like milk, "hard for mortal men to dig — but the gods have power to do all things." The most famous plant in Western literature, and the poem never shows it working: no brandishing, no antidote-drinking dramatized — Circe's drug simply fails (318). Immunity, not counter-magic; the gods' gift is a property of the man by the time it matters. Identifications (snowdrop? rue?) have been guessed at for millennia; "the gods call it" moly — its true name is not in mortal vocabulary at all.
+[^L304]: Moly: black at the root, flower like milk, "hard for mortal men to dig — but the gods have power to do all things." The most famous plant in Western literature, and the poem never shows it working: no brandishing, no antidote-drinking dramatized — Circe's drug simply fails (318). But Hermes is explicit about the cause: the good drug he gives "will not allow" her enchantment (291–292) — counter-magic that operates invisibly, its working as hidden as its name. Identifications (snowdrop? rue?) have been guessed at for millennia; "the gods call it" moly — its true name is not in mortal vocabulary at all.
 
 [^L325]: Beaten, Circe reaches for the poem's standard identity-question — "What man are you, and from where? Where are your city and your parents?" (=1.170) — and then answers it herself. The interrogation formula that every host asks becomes, in her mouth, recognition.
 
 [^L330]: "Surely you are Odysseus — the man of many turnings" — πολύτροπος. The proem's first epithet for its hero (1.1), used *nowhere else in the poem except these two places*. The word the poet chose to open the Odyssey is spoken inside it only once — by the witch, at the moment her drugs fail — as if only she and the Muse know his true name-tag. Hermes had foretold him to her: the trap and the marriage of minds were both scheduled.
 
-[^L343]: He answers her invitation with Calypso's oath-demand, verbatim (5.178–179 = 10.343–344): same danger, same contract. Twice a goddess invites him to bed; twice he requires the great oath first. The hero's consistency across islands is itself formulaic — the poem's way of saying this is *procedure*, not romance.
+[^L343]: He answers her invitation with the oath-demand he once made to Calypso, verbatim (5.178–179 = 10.343–344) — same words, new work: there the oath safeguarded his passage home; only here does it stand guard over a bed. The hero's consistency across islands is itself formulaic — the poem's way of saying this is *procedure*, not romance.
 
 [^L347]: "Then I mounted the surpassingly beautiful bed of Circe." Consent, stated plainly, after terms. The poem never equates Aeaea with Ogygia: with Calypso he wept daily on the shore, "unwilling man by willing goddess" (5.155); here he bargains, beds, and stays a year without a recorded tear — until the crew intervenes. The difference is not virtue but liberty: Circe's door, after the oath, is open.
 
@@ -665,9 +665,9 @@
 
 [^L410]: The calves simile: penned calves breaking loose to frisk around the returning herd, "lowing without pause" — homecoming in miniature, complete with the poem's own gloss: "as if they had come to their fatherland." Every joy in the Odyssey is measured on the nostos-scale; the crew's relief at seeing one man alive registers as a rehearsal of Ithaca.
 
-[^L431]: Eurylochus' mutiny speech reaches its climax in the poem's most loaded word: our companions died at the Cyclops' yard "by that man's ἀτασθαλίῃσιν" — *recklessness*, the proem's term for the crew's own fatal folly (1.7) and Zeus' term for mortal self-destruction (1.34). Hurled at the captain by his own kinsman, and the poem lets the counter-indictment stand unanswered: from inside the crew, the six dead in the cave were the price of one man's curiosity and boasting. Both ledgers — the proem's and Eurylochus' — remain open to the end.
+[^L431]: Eurylochus' mutiny speech reaches its climax in the poem's most loaded word: our companions died at the Cyclops' yard "by that man's ἀτασθαλίῃσιν" — *recklessness*, the proem's term for the crew's own fatal folly (1.7) and Zeus' term for mortal self-destruction (1.34). Hurled at the captain by his own kinsman, and the poem lets the counter-indictment stand unanswered: from inside the crew, the six dead in the cave were the price of one man's curiosity. Both ledgers — the proem's and Eurylochus' — remain open to the end.
 
-[^L438]: The captain's response to the accusation is nearly a beheading — of his sister's husband — checked only by the crew's plea. The poem does not flinch from what command has become by mid-voyage: the sword-reflex against internal dissent, one honeyed-word intervention away from kin-murder. That the accusation had truth in it is exactly what made the sword move.
+[^L438]: The captain's response to the accusation is nearly a beheading — of a close kinsman by marriage — checked only by the crew's plea. The poem does not flinch from what command has become by mid-voyage: the sword-reflex against internal dissent, one honeyed-word intervention away from kin-murder. That the accusation had truth in it is exactly what made the sword move.
 
 [^L455]: Here the translation follows Murray's text, which omits the traditional line 456 (a variant of the "she came close and spoke" formula); the line-numbering accordingly steps from 455 to 457, as in the Greek.
 
@@ -677,7 +677,7 @@
 
 [^L490]: "You must go down to the house of Hades" — the sentence that breaks him flat on the bed, wishing not to live. The road home runs through the country no black ship has ever reached; the homecoming must first pass through death. Structurally this is the poem's center of gravity: Circe, keeper of the eastern threshold, sets the itinerary that makes Book 11 the pivot of the entire epic.
 
-[^L495]: Tiresias "whose mind stands fast... to him alone the power of thought. The rest flit past as shadows." Homeric death-psychology in two lines: the dead lose νόος, coherent mind, and become flittering shades; Persephone's grant to Tiresias is the single exemption. This is the metaphysics the whole Nekyia will run on — and the blood-rite exists precisely to lend the shadows enough substance to speak.
+[^L495]: Tiresias "whose mind stands fast... to him alone the power of thought. The rest flit past as shadows." Homeric death-psychology in two lines: the dead lose νόος, coherent mind, and become flittering shades; Persephone's grant to Tiresias is the single exemption. This is the metaphysics the whole Nekyia will run on — held with a poet's looseness: Elpenor talks before any blood is poured, and the rite's drink restores recognition and memory more than bare speech.
 
 [^L501]: The sailor's objection to metaphysics: fine — *who pilots?* "No man ever yet reached Hades in a black ship." Even at the threshold of the underworld, Odysseus' first question is navigational. Circe's answer keeps the register: set the mast, sit down, the North Wind does it. The land of the dead has a sailing direction: downwind, all the way.
 

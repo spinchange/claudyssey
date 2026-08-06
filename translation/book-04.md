@@ -878,7 +878,7 @@
 
 [^L121]: Helen's entrance is staged like an epiphany — "like Artemis of the golden distaff" — with a full inventory of her equipment, all of it Egyptian luxury: the silver basket on wheels, the distaff wound with violet-dark wool. The woman who caused the war enters as the image of chaste domesticity (Artemis! wool-work!), and the poem lets the irony stand without a word.
 
-[^L140]: "Shall I lie, or speak the truth? My heart bids me speak." No other Homeric character introduces a story this way. Helen flags her own unreliability as a narrator in the act of performing sincerity — the key in which the whole evening's storytelling is set.
+[^L140]: "Shall I lie, or speak the truth? My heart bids me speak." The question is formulaic — Nestor asks it nearly word for word at *Iliad* 10.534 — and what it prefaces here is an identification, not a tale. But from Helen, weighing falsehood aloud in the act of performing sincerity, it can be heard as the key in which the whole evening's storytelling is set.
 
 [^L145]: κυνώπιδος, "bitch-faced that I was": Helen's savage word for herself (as at *Iliad* 3.180). Whether it is real remorse or the performance of remorse — charming, disarming, unanswerable — is exactly what the poem declines to settle.
 
@@ -900,13 +900,13 @@
 
 [^L322]: Lines 322–331 repeat Telemachus' plea to Nestor (3.92–101) verbatim, and the translation repeats itself verbatim: the boy has a set speech for great men now, and the poem lets us hear him reuse it — a young envoy's professionalism, learned in a week.
 
-[^L335]: The deer who beds her fawns in the lion's lair: the suitors' simile of doom, repeated later by Odysseus himself (17.126–131, when Telemachus reports this conversation). The fawns are "newborn" and "suckling" — the pathos is with the doomed, and the poem does not flinch from it: that is what the lion's homecoming means.
+[^L335]: The deer who beds her fawns in the lion's lair: the suitors' simile of doom, repeated later word for word when Telemachus reports this conversation to Penelope (17.124–131). The fawns are "newborn" and "suckling" — the pathos is with the doomed, and the poem does not flinch from it: that is what the lion's homecoming means.
 
 [^L349]: γέρων ἅλιος νημερτής, "the unerring Old Man of the Sea" — Proteus' fixed formula. His epithet is *truthfulness*; the shapeshifter is the poem's most reliable informant. Forms lie; the voice, once you hold on long enough, cannot.
 
 [^L355]: Pharos — the island of the later lighthouse — is in fact a bowshot off the Egyptian coast, not "a whole day's sail." Poetic geography: the poem needs an island prison, so the map stretches.
 
-[^L366]: Eidothea betrays her own father's resting-hour and provides the disguise, the ambrosia, everything — and the poem never says why. She is the first of the poem's chain of divine women who rescue a stranded hero (Calypso under orders, Ino with her veil, Nausicaa at the river); the folk-tale does not require her motive, and Homer, unusually, does not invent one.
+[^L366]: Eidothea betrays her own father's resting-hour and provides the disguise, the ambrosia, everything — and the poem never says why. She is the first of the poem's chain of women who rescue a stranded hero — goddesses like Calypso under orders and Ino with her veil, and, mortal in the same office, Nausicaa at the river; the folk-tale does not require her motive, and Homer, unusually, does not invent one.
 
 [^L386]: Proteus is "Poseidon's under-servant" (ὑποδμώς) — the seal-herd of the hostile god, milked for intelligence behind his master's back. Menelaus' salvation runs through the enemy's own household, as Odysseus' will.
 
@@ -914,17 +914,17 @@
 
 [^L417]: The catalogue — lion, serpent, leopard, boar, running water, flowering tree — is the source of the word "protean." Note the instruction: the shapes are endured, not fought; you win against transformation by gripping and waiting. It is hard not to read the poem's own method in it: hold on through every disguise until the thing speaks in its true form.
 
-[^L441]: Epic comedy, rare and precious: four heroes gagging under fresh-flayed sealskins ("who would lay himself down beside a beast of the sea?"), saved by a goddess dabbing ambrosia under each nose. The divine deodorant is the only use of ambrosia as a practical remedy in Homer.
+[^L441]: Epic comedy, rare and precious: four heroes gagging under fresh-flayed sealskins ("who would lay himself down beside a beast of the sea?"), saved by a goddess dabbing ambrosia under each nose. The *Iliad* puts ambrosia to solemn practical work — preserving Patroclus' body (19.38–39), staying Achilles' hunger — but only here is it a peg for the nose.
 
 [^L477]: The Nile is "the river fallen from Zeus" (διιπετέος) — rain-fed from heaven, the standard Homeric epithet for rivers, but applied to Egypt it carries the old Greek wonder at a river whose flood comes without rain.
 
-[^L499]: The death of the Oilean Ajax, in eleven lines: Poseidon *saves* him from the wreck Athena sent, and kills him only for the boast "I escaped in the gods' despite." The word ἀάσθη — the blindness, the ruinous folly — tolls twice (503, 509). It is Zeus' doctrine from 1.32–43 again: the gods destroy no one who does not first hand them the instrument.
+[^L499]: The death of the Oilean Ajax, in eleven lines: Poseidon *saves* him from the wreck Athena sent, and kills him only for the boast "I escaped in the gods' despite." The word ἀάσθη — the blindness, the ruinous folly — tolls twice (503, 509). It is Zeus' complaint from 1.32–43 played out to the letter: suffering beyond his portion, and Ajax himself handed the god the instrument.
 
 [^L521]: Agamemnon's homecoming compressed to its cruelest arc: the kiss on home soil, the hot tears of joy — and the watchman already paid a year's wages of gold to see him do it. Surveillance hired against joy itself.
 
 [^L535]: "As a man cuts down an ox at the manger" — the poem's definitive line for Agamemnon's death, repeated by his own ghost at 11.411. The king is slaughtered not as a warrior but as a stalled animal, at dinner — the perversion of the feast that the whole Odyssey is built to avenge in its own hall.
 
-[^L555]: The third man, at last: eight lines, and the poem's first eyewitness image of its hero — Odysseus on Calypso's island "letting the big tears fall," shipless, oarless, companionless. Telemachus came for exactly this: his father is alive, weeping, and held. Book 5 opens from this image.
+[^L555]: The third man, at last: eight lines, and the poem's first eyewitness image of its hero *as he now is* — not Helen's and Menelaus' remembered Odysseus inside Troy, but Odysseus on Calypso's island "letting the big tears fall," shipless, oarless, companionless. Telemachus came for exactly this: his father is alive, weeping, and held. Book 5 opens from this image.
 
 [^L561]: The Elysian plain: the earliest appearance of Elysium in Greek literature — no snow, no winter, no rain, Ocean's singing West Wind forever. And the reason Menelaus is exempted from death is stated with shocking frankness: not virtue, not valor, but marriage — "because Helen is yours, and you are son-in-law to Zeus." Immortality by in-law.
 
@@ -956,17 +956,17 @@
 
 [^L755]: "The line of Arceisius' son": Arceisius fathered Laertes — the poem counts the endangered dynasty in its full four generations, one thread of it now asleep in Sparta and twenty ambushers waiting in the strait.
 
-[^L761]: Penelope's prayer is a sacrifice with no victim: barley-grains in a basket — the rite's opening gesture (cf. 3.445) offered alone, by a woman with nothing to slaughter — and then the ὀλολυγή, the women's ritual cry that in Book 3 crowned the killing of the heifer (3.450). She performs the frame of sacrifice around an empty center. Athena hears her anyway.
+[^L761]: Penelope's prayer is a sacrifice with no victim: barley-grains in a basket — the rite's opening gesture (cf. 3.445) offered by itself, with no victim behind it — and then the ὀλολυγή, the women's ritual cry that in Book 3 crowned the killing of the heifer (3.450). She performs the frame of sacrifice around an empty center. Athena hears her anyway.
 
 [^L772]: "So they would say — knowing nothing of what was prepared": the mockers think death is prepared for Telemachus; the narrator's line quietly reads both ways. What has been "prepared," two books deep and building, is theirs.
 
-[^L791]: The lion at bay — ringed by the hunters' "treacherous circle" — is Penelope: Homer's boldest reassignment of his most masculine simile. She is not the lion rampaging (that was Odysseus at 4.335–340); she is the lion surrounded, magnificent and cornered. The pair of lion similes, sixty lines apart, are the marriage in absentia: same animal, opposite predicaments.
+[^L791]: The lion at bay — ringed by the hunters' "treacherous circle" — is Penelope: Homer's boldest reassignment of his most masculine simile. She is not the lion rampaging (that was Odysseus at 4.335–340); she is the lion surrounded, magnificent and cornered. The pair of lion similes, set at opposite ends of the book, are the marriage in absentia: same animal, opposite predicaments.
 
 [^L796]: The εἴδωλον — a breathing phantom in the likeness of Penelope's sister Iphthime, sent by Athena, entering "past the strap of the bolt" like drift of air. Dream-physics in Homer is precise: dreams are manufactured objects, delivered through the keyhole, with authorized scripts — note that the phantom answers the Odysseus question with a flat refusal (836–837). Comfort is rationed exactly.
 
 [^L809]: "At the gates of dream" — ἐν ὀνειρείῃσι πύλῃσιν: the dream-world has an architecture with gates, which Penelope herself will map in her famous speech on the gates of horn and ivory (19.562–567). The image is planted here first, in her sleep.
 
-[^L837]: "It is evil to speak words empty as wind" — ἀνεμώλια, wind-words. The phantom that is itself made of wind (it exits "into the breath of the winds," 839) refuses to speak wind-words about Odysseus: even Athena's fabrications observe a strict economy of truth. Penelope wakes *warmed* — the poem's first mercy for her.
+[^L837]: "It is evil to speak words empty as wind" — ἀνεμώλια, wind-words. The phantom that is itself made of wind (it exits "into the breath of the winds," 839) refuses to speak wind-words about Odysseus: even Athena's fabrications observe a strict economy of truth. Penelope wakes *warmed* — a mercy beyond the sweet sleep Athena has poured on her weeping before (1.363–364).
 
 [^L847]: The Telemachy closes not on the boy but on the trap: Asteris, the two-mouthed harbor, the picked twenty waiting. Four books have built a world where a feast can be an ambush and a strait can be a noose — and the poem now leaves everyone suspended there, and cuts, at last, to Olympus and Calypso's island: Book 5, and Odysseus himself.
 

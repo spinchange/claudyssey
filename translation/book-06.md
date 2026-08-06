@@ -356,7 +356,7 @@
 
 [^L92]: "Racing one another" at treading laundry in the trenches: work as game. Phaeacia is the poem's land of ease, and even its chores are competitive play — the detail sets up the ball game, and the ball game wakes the plot.
 
-[^L102]: Nausicaa as Artemis among her nymphs, Leto glad at heart — the narrator's simile. Sixty lines later Odysseus, who has seen nothing of this, spontaneously offers *the same comparison* (151–152). His courtesy is instinctively exact: he divines the very image the poem has just certified as true. That convergence — his rhetoric landing on reality — is the measure of both his art and her quality. (Helen got the same simile at 4.122; the two Artemis-women meet the same wandering house of Atreus/Laertes at their thresholds.)
+[^L102]: Nausicaa as Artemis among her nymphs, Leto glad at heart — the narrator's simile. Forty-nine lines later Odysseus, who has seen nothing of this, spontaneously offers *the same comparison* (151–152). His courtesy is instinctively exact: he divines the very image the poem has just certified as true. That convergence — his rhetoric landing on reality — is the measure of both his art and her quality. (Helen got the same simile at 4.122; the two Artemis-women meet the same wandering house of Atreus/Laertes at their thresholds.)
 
 [^L115]: The thrown ball, the missed catch, the shriek: the smallest hinge in epic. Athena's grand device for delivering the hero to his hosts is a botched throw in a girls' game. The poem loves to run destiny through the trivial.
 
@@ -388,7 +388,7 @@
 
 [^L262]: The city she sketches (262–272) is the idealized sailor-polis: double harbor, narrow causeway, every man his own ship-slip, the assembly-place by Poseidon's precinct, and the pointed disclaimer — "the Phaeacians care nothing for the bow or the quiver." A city whose only weapons are masts and oars: seafaring entirely demilitarized, trade without raid — the exact inversion of Nestor's polite assumption (3.71–74) that any sailor might be a pirate.
 
-[^L273]: The gossip speech: to warn him, she must *perform* the slander, inventing a mocker and quoting him at length (276–284) — and her invented sneer includes the fantasy of a god come down from heaven to be hers "all her days." The prim conclusion (286–288: *I would blame such a girl myself*) sits directly atop the wish she spoke at 244. Homer lets a sixteen-year-old's propriety and desire share one speech without reconciling them — psychological realism about three millennia ahead of schedule.
+[^L273]: The gossip speech: to warn him, she must *perform* the slander, inventing a mocker and quoting him at length (276–284) — and her invented sneer includes the fantasy of a god come down from heaven to be hers "all her days." The prim conclusion (286–288: *I would blame such a girl myself*) sits directly atop the wish she spoke at 244. Homer lets a marriageable girl's propriety and desire share one speech without reconciling them — psychological realism about three millennia ahead of schedule.
 
 [^L294]: "As far from the city as a man's shout carries" — the voice-measure again (5.400): Phaeacia mapped in the same body-units as the sea.
 

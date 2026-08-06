@@ -446,7 +446,7 @@
 
 [^L34]: "The sacred strength of Antinous" — the honorific periphrasis elsewhere reserved for King Alcinous (and for Telemachus at 60, where it belongs) here gilds the ringleader as he organizes a beggar-fight for after-dinner sport. The formula is a rented crown: on Antinous it reads as the poem's straight-faced sarcasm.
 
-[^L44]: The prize: blood-and-fat sausages off the fire, plus a standing dinner invitation and a beggars' monopoly. Antinous invents the pauper's Olympics complete with purse and title — the suitors' one act of organized generosity in the poem is a cruelty with catering.
+[^L44]: The prize: blood-and-fat sausages off the fire, plus a standing dinner invitation and a beggars' monopoly. Antinous invents the pauper's Olympics complete with purse and title — organized generosity, suitor-style: a cruelty with catering.
 
 [^L55]: Odysseus makes the whole company swear not to interfere — invoking oath-procedure, the suitors' own institutions, before throwing a single punch. They swear "as he demanded": the mob that respects no law of guest or god is punctilious about sporting rules. He is learning exactly how far their formality goes.
 
@@ -468,7 +468,7 @@
 
 [^L112]: The suitors' blessing — "may Zeus give you whatever you most desire, whatever is dear to your heart" — is the poem's textbook kledon: a chance utterance carrying more truth than the speaker knows. What he most desires is their deaths, and "noble Odysseus rejoiced at the omen of the words": they have just prayed for their own funeral, formally, in his hearing.
 
-[^L128]: "You seem a civil man" — ἐπητής, the rare word of praise Odysseus received from Penelope's own report at 13.332 (his cited virtues). Amphinomus earns the poem's most personal warning because he shows the poem's most personal virtue.
+[^L128]: "You seem a civil man" — ἐπητής, the rare word of praise Athena herself gave Odysseus at 13.332. Amphinomus earns the poem's most personal warning because he shows the poem's most personal virtue.
 
 [^L130]: The speech to Amphinomus is the poem's deepest meditation, and its most famous: "The earth breeds nothing feebler than a man." Not weaker in body — feebler in foresight: he cannot believe in future evil while his knees are quick. The lines are the beggar's credentials cashed as wisdom — only a man who has been both fortunate and ruined can testify to the whole arc.
 
@@ -482,11 +482,11 @@
 
 [^L163]: "She laughed — an empty laugh" (ἀχρεῖον δʼ ἐγέλασσεν) — the most argued adverb in the poem. Pointless, forced, nervous — a laugh with no object, at her own inexplicable urge. Her second laugh in two books (17.542 rode an omen; this one rides an impulse from a goddess she cannot see). Between the two laughs the poem sketches a woman whose gaiety has lost its uses and flickers on anyway.
 
-[^L175]: Eurynome says it plainly: your son is bearded now — the very condition Odysseus set (269–270). The household knows the clock has struck; everyone in the poem can now read the terms of the departure speech except the man who set them, who is downstairs tending torches.
+[^L175]: Eurynome says it plainly: your son is bearded now — the very condition Odysseus set (269–270). The household knows the clock has struck; and when Penelope recites the terms below (257–270), the man who set them will be standing in the hall in rags, hearing his own clause come due — and rejoicing (281–283).
 
 [^L180]: "The gods destroyed my bloom the day that man went off" — she says it to Eurynome here and repeats it to Eurymachus at 251–253: her beauty left with the fleet, twenty years ago, as far as she is concerned. The goddess's cosmetics (187–196) are applied to a woman who has formally resigned from beauty; the gap between her self-account and her effect (212–213) is the scene's engine.
 
-[^L187]: The makeover happens while she sleeps: Athena pours sleep on her precisely so the "immortal gifts" can be applied without consent — the balm of Cytherea, height, fullness, ivory skin. Penelope is beautified the way Odysseus was (6.229ff, 23.156ff), but unconscious, and wakes wishing for death by Artemis' soft arrow (202–205). She is the only recipient of a divine glow-up in the poem who was not asked and did not want it.
+[^L187]: The makeover happens while she sleeps: Athena pours sleep on her, and while she lies unknowing applies the "immortal gifts" — the balm of Cytherea, height, fullness, ivory skin. Penelope is beautified the way Odysseus was (6.229ff, 23.156ff), but unconscious, and wakes wishing for death by Artemis' soft arrow (202–205). She is the only recipient of a divine glow-up in the poem who was not asked and did not want it.
 
 [^L196]: "Whiter than sawn ivory" — πριστοῦ ἐλέφαντος: the simile is a craftsman's, from the workshop bench (fresh-cut ivory, before handling yellows it). The poem beautifies her in materials, as it beautified Odysseus in metallurgy (gold over silver): the household arts supplying the language of divine cosmetics.
 
@@ -498,7 +498,7 @@
 
 [^L217]: Her rebuke measures her son against his own growth-spurt: big enough that a stranger would call him a rich man's son, and yet he let a guest be mauled. News of the footstool has reached the upper room with its details intact (as at 17.492ff): the house's reporting chains run true, and the queen audits xenia from behind a veil.
 
-[^L235]: "If only — father Zeus, Athena, Apollo!" — the wish-formula (4.341 = 17.132, Menelaus wishing Odysseus on the suitors) now in Telemachus' mouth, wishing the suitors into Irus' posture: heads lolling, limbs slack, "like a man dead drunk." Father, son, and family friend have now all prayed the same prayer in the same words; the poem stacks the three wishes like sworn depositions.
+[^L235]: "If only — father Zeus, Athena, Apollo!" — the wish-formula (4.341 = 17.132, Menelaus wishing Odysseus on the suitors) now in Telemachus' mouth, wishing the suitors into Irus' posture: heads lolling, limbs slack, "like a man dead drunk." Menelaus wished it first; Telemachus carried it home in quotation; now he prays it in his own right — three soundings, two voices, and the poem stacks them like sworn depositions.
 
 [^L251]: Her answer to Eurymachus' gallantry is the same formula she gave Eurynome (180–181): my beauty died on departure day. Then — to the man who leads the suitors with charm — she produces the departure speech itself, quoted entire. To flirtation she answers with a marriage's founding document.
 
@@ -542,8 +542,8 @@
 
 [^L403]: "Now the worse is winning out" (τὰ χερείονα νικᾷ) — the anonymous suitor's verdict on the evening comes closer to prophecy than he knows: brawling over beggars, joy gone from the feast, the worse winning. The chorus of nameless suitors keeps issuing true bulletins (as at 17.483ff) that the named ones override.
 
-[^L406]: Telemachus' boldest speech yet: "You are possessed — you have gone mad... Some god is goading you on" — which is, at 346–348, literally the case; the boy diagnoses Athena's hand without knowing it. Then the perfect dismissal: eat well, go home when you like, "not that I am driving anyone out." They bite their lips and wonder: the heir has begun speaking like the master of the house, ten hours before it matters.
+[^L406]: Telemachus' boldest speech yet: "You are possessed — you have gone mad... Some god is goading you on" — which is, at 346–348, literally the case; the boy diagnoses Athena's hand without knowing it. Then the perfect dismissal: eat well, go home when you like, "not that I am driving anyone out." They bite their lips and wonder: the heir has begun speaking like the master of the house, with the reckoning barely a day away.
 
-[^L420]: Amphinomus ends the evening as he ended the murder-council (16.400ff): with the decent, small, insufficient proposal — libation, bed, leave the stranger to Telemachus. His goodness has exactly the reach of a nightcap. It is he the poem chooses to close the suitors' last full day of life, pouring the wine of the men Athena has already bound.
+[^L420]: Amphinomus ends the evening as he ended the murder-council (16.400ff): with the decent, small, insufficient proposal — libation, bed, leave the stranger to Telemachus. His goodness has exactly the reach of a nightcap. It is he the poem chooses to close the suitors' last full day of life — proposing the round that Moulius the herald mixes and pours (423–425) for men Athena has already bound.
 
 [^L428]: "They went their ways to bed, each man to his own house" — the suitors still have houses, this one night more. The book that began with two beggars brawling for a doorway ends with every man sleeping behind his own door — an arrangement the poem is about to make permanent for one hundred and eight of them.

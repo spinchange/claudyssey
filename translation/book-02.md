@@ -534,7 +534,7 @@
 
 [^L372]: "This plan is not without a god" — a litotes that is also simply accurate: Telemachus knows his visitor was divine (1.420). His confidence is not bravado but inference.
 
-[^L383]: Athena spends the evening in three shapes: as Telemachus she recruits his crew, as herself she borrows the ship, as Mentor she collects the boy. The recruiting-double is uncanny if you pause on it — the town sees Telemachus everywhere that night, asking for help; in a sense the goddess is teaching Ithaca to see him as a man who commands.
+[^L383]: Athena spends the evening in two shapes: as Telemachus she recruits his crew and borrows the ship from Noemon, and as Mentor she collects the boy. The recruiting-double is uncanny if you pause on it — the town sees Telemachus everywhere that night, asking for help and even for a ship; in a sense the goddess is teaching Ithaca to see him as a man who commands.
 
 [^L388]: "The sun went down, and all the ways grew dark" — another fixed formula-line, the poem's evening bell, kept identical at each return like the dawn line at 1.
 

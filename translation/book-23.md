@@ -389,13 +389,13 @@
 
 [^L40]: "I did not see, I did not ask. I heard only the groaning of men being killed." The massacre from the women's quarters: shut doors, held breath, sound only. The poem has already shown us the slaughter from inside; one line now shows what it was from the other side of a door — the household's war experienced as pure audio.
 
-[^L46]: "It would have warmed your heart —" and then the line breaks off mid-sentence into what she actually saw: Odysseus "like a lion" among the corpses (the simile she leaves at 22.402ff). Murray's text omits the next verse (49 — the numbering skips it): the gap falls, fittingly, in the middle of an old woman's breathless run-on.
+[^L46]: "It would have warmed your heart —": the dash is the translation's; the Greek rounds off its clause before plunging into what she actually saw — Odysseus "like a lion" among the corpses (the simile she leaves at 22.402ff). Murray's text omits the next verse (49 — the numbering skips it): the gap falls, fittingly, in the middle of an old woman's breathless run-on.
 
 [^L48]: The report ends in housework: everyone at the courtyard gates, the house being sulfured, a great fire going — the apocalypse rendered as a domestic status update. Then the summary that carries the poem's whole plot in three lines: he came, alive, to his own hearth; he found you and his son; he punished them all.
 
-[^L62]: Her counter-theory — "some one of the immortals has killed the lordly suitors" — repeats Odysseus' own theology from 22.413–416 almost clause for clause (they honored nobody, good or bad; their folly destroyed them) while denying his existence. Wife and husband explain the same corpses the same way before they have exchanged a word: the poem's proof of like minds, run as dramatic irony. Her closing line — three forms of "lost" in one breath (ὤλεσε... ὤλετο) — is grief's grammar: the homecoming lost, the man lost, everything lost.
+[^L62]: Her counter-theory — "some one of the immortals has killed the lordly suitors" — repeats Odysseus' own theology from 22.413–416 almost clause for clause (they honored nobody, good or bad; their folly destroyed them) while denying his existence. Wife and husband explain the same corpses the same way before they have exchanged a word: the poem's proof of like minds, run as dramatic irony. Her closing line — "lost" twice in one breath (ὤλεσε... ὤλετο) — is grief's grammar: the homecoming lost, the man lost.
 
-[^L70]: The tooth-fence formula (1.64; 19.492; 21.168) — now the nurse to the queen, on the poem's last unspeakable utterance: the husband is at his hearth and the wife says he will never come. And then the trump: the scar, offered secondhand, with the story of the clapped hand and the poem's driest tribute — "his mind is full of cunning" — and her own life staked on it. Penelope declines even this: washing-water evidence is not bed evidence.
+[^L70]: The tooth-fence formula (1.64; 3.230; 5.22; 19.492; 21.168) — now the nurse to the queen, on the poem's last unspeakable utterance: the husband is at his hearth and the wife says he will never come. And then the trump: the scar, offered secondhand, with the story of the clapped hand and the poem's driest tribute — "his mind is full of cunning" — and her own life staked on it. Penelope declines even this: washing-water evidence is not bed evidence.
 
 [^L75]: "He clapped his hand across my mouth" — Eurycleia finally gets to tell the story the throat-grip suppressed (19.479ff), and softens it in the telling: the terrifying seizure has become a hand on the lips. The nurse edits her master's violence into charm; loyalty writes the memoir.
 
@@ -421,7 +421,7 @@
 
 [^L156]: Lines 157–162 repeat the beautification of 6.230–235 word for word — the hyacinth curls, the gold-over-silver craftsman taught by Hephaestus and Athena. The ledger's oldest promised echo, paid at last: the glow first applied for Nausicaa on the beach is reapplied for Penelope by the fire. Same divine cosmetics, two women, sixteen books apart — and this time the audience it is aimed at will not be moved by appearances at all, which is the joke and the point.
 
-[^L166]: "Strange woman!" (δαιμονίη) — the same baffled vocative he has thrown at hostile servants ("possessed": 18.15, 19.71), now softened by helplessness into wonder, and she will hand it straight back at 174: "Strange man!" (δαιμόνιε). The couple's first exchange in twenty years opens with the identical word in both mouths — matched blades, courteously crossed.
+[^L166]: "Strange woman!" (δαιμονίη) — the same baffled vocative he has thrown at the beggar Irus (18.15) and the maid Melantho (19.71), now softened by helplessness into wonder, and she will hand it straight back at 174: "Strange man!" (δαιμόνιε). The couple's first exchange in twenty years opens with the identical word in both mouths — matched blades, courteously crossed.
 
 [^L168]: His complaint repeats Telemachus' rebuke of 100–102 verbatim — "No other woman would harden her heart..." Father and son, unaware, share one text about her (as father and son shared the silence-formula at 17.465/491). What neither man grasps: the sentence is a compliment. No other woman *would* — that is precisely the specification of Penelope.
 
@@ -439,7 +439,7 @@
 
 [^L209]: Her apology begins with the gods, not herself: they "begrudged that we two, staying side by side, / should have the joy of our youth and come to the doorsill of old age." The grievance is stated as a couple's — *we two* — the grammar already repaired. Note where the blame lands: not on him for leaving, not on her for doubting; on heaven, for the stolen middle of a marriage.
 
-[^L215]: The defense proper: "always the heart in my breast kept shivering — terror that some man would come and cheat me with his talk." Given the poem she is in — where her actual visitor told five false autobiographies in six books — her paranoia is simply accuracy. The test was not coldness; it was the only sane response to a world (and a husband) made of plausible fictions.
+[^L215]: The defense proper: "always the heart in my breast kept shivering — terror that some man would come and cheat me with his talk." Given the poem she is in — where her actual visitor has spun false autobiography after false autobiography since he landed — her paranoia is simply accuracy. The test was not coldness; it was the only sane response to a world (and a husband) made of plausible fictions.
 
 [^L218]: The Helen defense: even Helen "would not have joined in love and bed with a man from another land / had she known" — the poem's most argued-over lines. Penelope reaches for the worst woman in the family archive and extends her the same analysis she demands for herself: error under deception, "a god stirred her" — and from Helen's ruin "grief first came — to us as well." It is not exoneration; it is jurisprudence: judge the deceived by what they knew. She acquits Helen provisionally in the course of explaining why she refused to become her.
 
@@ -465,10 +465,10 @@
 
 [^L342]: "That was the last word he spoke, as the sweet sleep / that unstrings the limbs leapt on him" — the teller falls asleep inside his own telling, mid-story delivered, the poem's narrator-hero finally unconscious at the exact moment his tale is fully told. The Odyssey's image of consummation is not the love-making — it is a man allowed, at last, to stop narrating.
 
-[^L350]: The morning speech opens with the marriage's balance-sheet: "we have had our fill of trials, / the two of us both" — her weeping and his detention given equal entry, ἀμφοτέρω, both. The poem's final settlement of its double plot: neither ordeal outranks the other.
+[^L350]: The morning speech opens with the marriage's balance-sheet: "we have had our fill of trials, / the two of us both" — her weeping and his detention entered side by side, ἀμφοτέρω, both. The poem's final settlement of its double plot: both sufferings on the same page, in the same sentence.
 
 [^L355]: And immediately: inventory. Guard the property; the wasted flocks "many I will raid back myself, and the Achaeans / will give the rest, until they fill up every fold." The morning after the miracle, Odysseus is doing agricultural arithmetic — raid-economics (Athena's own idiom, 20.49–51) as pillow-talk. The poem's realism about restoration: even resurrection has a livestock ledger.
 
-[^L361]: His last orders to her mirror her first orders to herself: upstairs, the women, see no one, ask nothing — the posture of all twenty years, re-assumed for one more morning. The poem's tenderest structural rhyme: she returns to the upper room exactly as always, except that now the waiting has a fixed end and a known face.
+[^L361]: His last orders to her — upstairs, the women, see no one, ask nothing — prescribe the posture the poem has always found her in, re-assumed for one more morning. The poem's tenderest structural rhyme: she returns to the upper room exactly as always, except that now the waiting has a fixed end and a known face.
 
 [^L371]: The book's final image: full daylight over the earth, and Athena hiding four armed men in a portable night, leading them out of town. The goddess who held back one dawn now carries darkness into another — the poem's last stage-management, walking the plot toward Laertes' orchard with the light switched off. Book 24 will open in the other darkness, among the ghosts.

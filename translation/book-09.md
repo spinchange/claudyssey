@@ -629,13 +629,13 @@
 
 [^L241]: The door-stone that twenty-two four-wheeled carts could not shift: the number is absurdly exact, an engineer's estimate. It is also the plot: the stone converts the cave into a problem force cannot solve (299–305), which is why this, of all adventures, belongs to Nobody.
 
-[^L252]: The Cyclops asks Nestor's question — the piracy formula of 3.71–74, word for word — but before food, before welcome, from above his own supper-fire. In Pylos the question followed the feast and was courtesy; asked of starving suppliants first, it is the signature of the monster. The poem has waited six books to spring this reuse.
+[^L252]: The Cyclops asks Nestor's question — the piracy formula of 3.71–74, word for word — but before welcome, from above his own supper-fire. In Pylos the question followed the feast and was courtesy; flung at suppliants before any word of greeting, it is the signature of the monster. The poem has waited six books to spring this reuse.
 
 [^L263]: Odysseus' plea leans on Agamemnon's fame and sack-count — the credentials of a raider offered to a hermit who has never heard of Troy — and then rises to the full doctrine: "Zeus is the avenger of suppliants and of strangers — Zeus of Strangers." The theology Echeneus and Nausicaa and Alcinous all recited is here spoken to its one perfect unbeliever.
 
 [^L273]: "The Cyclopes pay no heed to Zeus... for we are the better men by far." The only speech of genuine atheism in Homer — not doubt but contemptuous superiority. And his follow-up question (where is your ship?) shows cunning inside the savagery: he tests, Odysseus lies (283–286), and the lie — the ship wrecked by Poseidon — saves the crews and is, prophetically, half true.
 
-[^L283]: The instant lie — ship wrecked by Poseidon, survivors only — protects the crew at the shore and the fleet at the island in one stroke. It is also, unknowingly, a prophecy: Poseidon *will* smash his ships. In this poem even the lies come true; the liar just doesn't know it yet.
+[^L283]: The instant lie — ship wrecked by Poseidon, survivors only — protects the crew at the shore and the fleet at the island in one stroke. It is also, unknowingly, half a prophecy: wreck does await — the fleet under the Laestrygonian rocks, the last ship under Zeus' bolt, and Poseidon saving his wrath for the raft. In this poem even the lies come true; the liar just doesn't know how.
 
 [^L289]: "Like puppies" — the most sickening simile in the poem precisely because of its smallness: not battle-death but the casual destruction of something young by something huge. Then the lion formula, and the total consumption — "entrails, flesh, bones with their marrow" — the feast type-scene inverted into a meal without fire, portion, or god.
 

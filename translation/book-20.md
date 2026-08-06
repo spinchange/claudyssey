@@ -402,7 +402,7 @@
 
 ## Notes
 
-[^L2]: The bed itself is an indictment: an undressed oxhide and the fleeces "of the sheep the Achaeans kept slaughtering" — the king lies down on the by-products of his own devoured estate. Every layer of the bedding is stolen livestock; the mantle on top is Eurynome's small mercy.
+[^L2]: The bed itself is an indictment: an undressed oxhide, and fleeces "of the sheep the Achaeans kept slaughtering" — bedding that arrives tagged with its provenance: the king lies down on the by-products of his own devoured estate. The mantle on top is Eurynome's small mercy.
 
 [^L6]: The disloyal women go out to the suitors "setting each other laughing" — past the master lying in the porch. The night audit he refused from Eurycleia (19.500ff) happens anyway, involuntarily: they file past his bed toward their own sentence.
 
@@ -424,11 +424,11 @@
 
 [^L61]: The prayer to Artemis expands the wish of 18.202–205 into the poem's darkest devotion: the arrow now, or the whirlwind — annihilation without burial, snatched off "down the ways of gloom" to the mouths of Ocean. She prays for the fate of the storm-taken, the worst end the Greek imagination offered a woman, in preference to "gladdening the mind of a lesser man."
 
-[^L66]: The daughters of Pandareus — second tale from that house in two nights (the nightingale, 19.518ff, was their sister). Orphaned, fostered by four goddesses — Aphrodite's food, Hera's beauty and sense, Artemis' height, Athena's handwork — and, on the very day of their betrothal negotiations, carried off by the snatching-winds to serve the Furies. The myth is a machine for her meaning: divine care lavished for years, then annulled in an hour between promise and wedding — her own biography, read as a warning against hoping.
+[^L66]: The daughters of Pandareus — second tale from that house in a single night (the nightingale, 19.518ff, was their sister). Orphaned, fostered by four goddesses — Aphrodite's food, Hera's beauty and sense, Artemis' height, Athena's handwork — and, on the very day of their betrothal negotiations, carried off by the snatching-winds to serve the Furies. The myth is a machine for her meaning: divine care lavished for years, then annulled in an hour between promise and wedding — her own biography, read as a warning against hoping.
 
 [^L77]: "The snatching-winds carried the girls away and gave them over to the hateful Furies": ἅρπυιαι — the harpies as functionaries of a transaction between storms and vengeance-spirits. The bureaucratic horror of it (girls "given over to serve") is the point: some fates are not deaths but permanent disappearances into service — which is also a description of slavery, the poem's other abyss.
 
-[^L80]: "That with Odysseus before my eyes I may pass even under the hateful earth": the prayer's kernel — she will accept Hades if she can go down still *seeing* him (ὀσσομένη — with him before her mind's eye). Not reunion; just unreplaced. The alternative — a lesser man gladdened — is what tomorrow's contest offers, and this prayer is her true position on it.
+[^L80]: "That with Odysseus before my eyes I may pass even under the hateful earth": the prayer's kernel — she will accept Hades if she can go down still *seeing* him (ὀσσομένη — with him before her mind's eye). Not reunion; just unreplaced. The alternative — a lesser man gladdened — is what this very day's contest offers, and this prayer is her true position on it.
 
 [^L88]: The dream that torments her is a good one: Odysseus beside her "as he was when he went with the army" — young, and she "thought it no dream, but the waking truth at last" (ὕπαρ — the word of 19.547). The cruelty is in the waking; the accuracy is in the timing: a man like him *is* in the house tonight. Her dreams are now running ahead of her information.
 
@@ -438,7 +438,7 @@
 
 [^L108]: The mills, "the marrow of men" (μυελὸν ἀνδρῶν) — barley and wheat as civilization's bone-fill, ground by twelve women. Twelve: the number of the disloyal maids (22.424). The poem's arithmetic of the household keeps its books in dozens.
 
-[^L116]: The mill-woman's kledon — the frailest slave in the house, the last one grinding, is granted the poem's decisive curse: "may they sup now their last!" Her authority is her exhaustion ("who have loosed my knees") — the suitors' feast priced in one worker's body. Zeus thunders for her; the great revenge is countersigned at the bottom of the labor hierarchy.
+[^L116]: The mill-woman's kledon — the frailest of the twelve grinders, the last one at the stone, is granted the poem's decisive curse: "may they sup now their last!" Her authority is her exhaustion ("who have loosed my knees") — the suitors' feast priced in one worker's body. Zeus thunders for her; the great revenge is countersigned at the bottom of the labor hierarchy.
 
 [^L120]: "Rejoiced at the omen of her word" — the kledon-formula of 18.117 again. Twice now the suitors' doom has been ratified by chance speech: their own blessing then, a slave's curse now. He "told himself the guilty would pay" — τίσασθαι: the ledger-verb; the day's business is now booked.
 
@@ -450,7 +450,7 @@
 
 [^L156]: "It is festival for everyone today" — the feast of Apollo, the archer-god, casually flagged by a housekeeper. The deadline sworn twice by the beggar (14.161–162 = 19.306–307: "between this month's waning and the rising of the next") lands today, the dark of the moon, Apollo's day: the bow's own god presides over the bow's return to work.
 
-[^L173]: Melanthius' third abuse of the beggar in three days (17.217ff, the kick; 18 absent; 20 the fists-threat). Three strikes, distributed across the books like a legal record; his sentence (22.474ff) will be read against this docket. Odysseus answers with the fixed line of silence — the head-shake, the deep-brooded evils (= 17.465 = 17.491).
+[^L173]: Melanthius abuses the beggar again (17.217ff, the kick; now the fists-threat) — strikes entered in the record a day apart; his sentence (22.474ff) will be read against this docket. Odysseus answers with the fixed line of silence — the head-shake, the deep-brooded evils (= 17.465 = 17.491).
 
 [^L184]: The fixed line of endured insult — head shaken, silence kept, "brooding evils deep in his heart" — now in its third appearance (17.465 after the footstool, 17.491 the son's copy, here after Melanthius' taunt). The formula has become the beggar's standard receipt: abuse deposited, nothing said, interest accruing.
 
@@ -468,7 +468,7 @@
 
 [^L219]: The loyalist's dilemma, stated exactly: flee with the herds to a foreign king (betray the son), or stay and serve the thieves (suffer). He has chosen the "colder" option — staying — held by one hypothesis: "what if he came from somewhere...!" Eumaeus' loyalty is love of persons; Philoetius' is loyalty *under stated analysis*, which the poem may rate even higher: he has done the math and stayed anyway.
 
-[^L230]: The oath to Philoetius = the oath to Eumaeus (14.158–160): Zeus, the table of friendship, the hearth of blameless Odysseus. The formula's third swearing (19.303–304 to Penelope between them), and this time the payoff is explicit: "with your own eyes, if you wish it, you shall see the killing of the suitors." Each loyalist is issued the same bond; redemption is tomorrow.
+[^L230]: The oath to Philoetius = the oath to Eumaeus (14.158–160): Zeus, the table of friendship, the hearth of blameless Odysseus. The formula's third swearing (19.303–304 to Penelope between them), and this time the payoff is explicit: "with your own eyes, if you wish it, you shall see the killing of the suitors." Each loyalist is issued the same bond; redemption falls due before the day is out.
 
 [^L237]: "Then you would learn my strength — and how my hands follow it." Philoetius answers the oath with an enlistment; Eumaeus co-signs with a prayer. The muster is complete: the hall now holds four fighters, and only one of them knows it.
 
@@ -476,7 +476,7 @@
 
 [^L245]: "This plan of ours will not run smooth" — συνθεύσεται, a racing word: the plot won't *run with us*. Amphinomus' idiom is a gambler's, and accurate: every start the suitors make now is scratched by heaven.
 
-[^L253]: The service of the last feast: Eumaeus passes cups, Philoetius the bread, Melanthius pours the wine. The staffing chart is the battle-plan in embryo — two loyalists and the traitor handling the suitors' food and drink; tomorrow the same three hands will hold the doors, the arms-store, and nothing.
+[^L253]: The service of the last feast: Eumaeus passes cups, Philoetius the bread, Melanthius pours the wine. The staffing chart is the battle-plan in embryo — two loyalists and the traitor handling the suitors' food and drink; within hours the same three hands will hold the doors, the arms-store, and nothing.
 
 [^L257]: "His craft at work" (κέρδεα νωμῶν) — Telemachus seats his father inside the hall by the stone threshold, with a battered stool, a little table, an equal portion, and a golden cup: degradation staged to the eye, parity delivered in fact. The arrangement is tactical (the threshold is where the bow will be shot from) and filial in the poem's peculiar key — the son can honor his father only in the grammar of hospitality to a beggar.
 
@@ -488,9 +488,9 @@
 
 [^L276]: The town's festival procession — hecatomb through the streets, the people gathering in Apollo's shady grove — runs in parallel montage with the hall's last feast: outside, Ithaca worships the archer; inside, the archer's day is being kept another way. The cut back and forth is the poem's quiet liturgical joke.
 
-[^L284]: Athena's goad, verbatim from 18.346–348: the outrage must not slacken, "so that pain might sink still deeper." The goddess re-administers the dose on schedule — the third day running — topping up the rage that tomorrow spends. Divine cruelty as fuel logistics.
+[^L284]: Athena's goad, verbatim from 18.346–348: the outrage must not slacken, "so that pain might sink still deeper." The goddess re-administers the dose on schedule — the second day running — topping up the rage this very day will spend. Divine cruelty as fuel logistics.
 
-[^L287]: Ctesippus, "a man versed in lawlessness" — ἀθεμίστια εἰδώς, the Cyclopes' adjective (9.106): the poem introduces its last new suitor with the vocabulary of monsters. Rich, from Same, and defined before he acts: what follows is not a lapse but a credential.
+[^L287]: Ctesippus, "a man versed in lawlessness" — ἀθεμίστια εἰδώς, the Cyclopes' adjective (9.106): the poem introduces its newest suitor with the vocabulary of monsters. Rich, from Same, and defined before he acts: what follows is not a lapse but a credential.
 
 [^L296]: The "guest-gift" speech is the suitors' cruelty at its most refined: a parody of xenia protocol — the stranger has had his portion, propriety demands I add a ξείνιον — with the gift an ox-hoof from the scrap basket. Where Antinous threw in rage and Eurymachus in drunken pique, Ctesippus throws as *satire*: the institution itself mocked. It is the escalation that matters: the abuse has become theater.
 
@@ -502,26 +502,26 @@
 
 [^L322]: Agelaus opens with Amphinomus' exact lines (18.414–417: no offense at a just word; hands off the stranger and the slaves) — the reasonable-suitor script now circulating as a formula. The decency of the doomed is interchangeable; the poem keeps showing that moderation without withdrawal is just politeness on the way to the same spear (Agelaus falls at 22.293).
 
-[^L334]: Agelaus' proposal is the suitors' case in its best dress: the waiting was honorable while hope lasted; hope is gone; sit by your mother and settle the marriage — you keep the estate, she keeps another's house. It is reasonable, humane in tone, and rests entirely on one premise ("now it is plain that he is past returning") that is false by about thirty feet.
+[^L334]: Agelaus' proposal is the suitors' case in its best dress: the waiting was honorable while hope lasted; hope is gone; sit by your mother and settle the marriage — you keep the estate, she keeps another's house. It is reasonable, humane in tone, and rests entirely on one premise ("now it is plain that he is past returning") that is false by the width of the room.
 
 [^L341]: Telemachus' oath — "by Zeus, and by the sufferings of my father" — swears by the very thing the room denies exists. His position is exact and unimpeachable: the marriage is urged, dowered, and un-forced; "I am ashamed to drive her out against her will." He has said it before (2.130ff); saying it *now*, with his father listening and the contest hours away, it becomes the last word on the subject the suitors will ever hear.
 
 [^L345]: The Athena-maddened laughter — the most frightening lines in the poem. She "knocked their wits askew," and they laugh "with jaws no longer their own" (γναθμοῖσι ἀλλοτρίοισιν); the meat runs blood; their eyes fill with tears while the laughter continues; "the heart in them wanted to wail." Possession as comedy breaking down into grief — the body's future (bleeding, wept-over) surfacing through its present (feasting, laughing). The suitors experience their own deaths as a mood they cannot account for; 18.100's idiom ("died laughing") has begun to come literally true.
 
-[^L351]: Theoclymenus' vision — the apocalypse of the noonday hall: night shrouding heads, faces, knees; wailing "caught like fire"; blood on walls and crossbeams; porch and courtyard packed with ghosts "hurrying down to Erebus"; the sun perished from the sky; the mist running over everything. Seven lines of second sight, every clause redeemed in Book 22 (the shrouded heads, the spattered walls, the following dusk). This is the seer's third and greatest utterance — after the omen (15.531ff) and the hearth-oath (17.155ff) — and the poem's only sustained prophetic *vision*: not a bird read but the thing itself seen. The dark-of-the-moon festival gives it its terrible naturalism: the sun has indeed gone out of the month.
+[^L351]: Theoclymenus' vision — the apocalypse of the noonday hall: night shrouding heads, faces, knees; wailing "caught like fire"; blood on walls and crossbeams; porch and courtyard packed with ghosts "hurrying down to Erebus"; the sun perished from the sky; the mist running over everything. Seven lines of second sight, every clause redeemed in Book 22 (the shrouded heads, the spattered walls, the following dusk). This is the seer's third and greatest utterance — after the omen (15.531ff) and the hearth-oath (17.155ff) — and the poem's only sustained prophetic *vision*: not a bird read but the thing itself seen — a sun perished at noon, which no dark of the moon can explain.
 
 [^L358]: "They all laughed at him sweetly" (ἡδὺ γέλασσαν) — the same "sweet" laughter that has run through their scenes since Book 2, now directed at a man describing their corpses. The possession-laughter of 345–349 has subsided into ordinary mockery: they have been shown the ending and find it funny. No damnation in the poem is more complete than this amusement.
 
-[^L364]: Theoclymenus' exit speech is the dignity of the functioning senses: "I have eyes, and ears, and both my feet, and a mind in no way meanly made" — inventory of a working prophet, walking out on his own equipment. He needs no escort *because he can see* — the precise faculty the room has just proven it lacks. His final sentence, evil "no man of you will escape or dodge," is the last warning the suitors receive from anyone; they have now refused seer, omen, thunder, vision, and beggar.
+[^L364]: Theoclymenus' exit speech is the dignity of the functioning senses: "I have eyes, and ears, and both my feet, and a mind in no way meanly made" — inventory of a working prophet, walking out on his own equipment. He needs no escort *because he can see* — the precise faculty the room has just proven it lacks. His final sentence, evil "no man of you will escape or dodge," closes the seer's own tally of refused warnings: omen, thunder, vision, and the man who read them all.
 
-[^L371]: He goes to Piraeus — the same harbor-friend who took him in at 15.539ff. The seer's arc closes where it began: received by the one reliably hospitable man in the town. He exits the poem here (but for the aftermath), the only guest who saw everything and left before it happened — Ithaca's Cassandra, believed by no one and unbloodied.
+[^L371]: He goes to Piraeus — the same harbor-friend who took him in at 15.539ff. The seer's arc closes where it began: received by the one reliably hospitable man in the town. He exits the poem here, the only guest who saw everything and left before it happened — Ithaca's Cassandra, believed by no one and unbloodied.
 
-[^L376]: The anonymous suitor's résumé of the beggar — "no skill for work and no strength either: a dead weight on the good earth" (ἄχθος ἀρούρης, Achilles' own phrase of self-reproach, Il. 18.104) — grades the man who out-plowed and out-mowed their kind in his challenge-speech (18.366ff) and strung the great bow of the house before any of them was born. The mockery inventory is exactly inverted; every clause is about to be refuted with a corpse.
+[^L376]: The anonymous suitor's résumé of the beggar — "no skill for work and no strength either: a dead weight on the good earth" (ἄχθος ἀρούρης, Achilles' own phrase of self-reproach, Il. 18.104) — grades the man who out-plowed and out-mowed their kind in his challenge-speech (18.366ff) and will string the great bow of the house within the day. The mockery inventory is exactly inverted; every clause is about to be refuted with a corpse.
 
 [^L382]: "Send them to the Sicilians — there they would fetch you a worthy price" (ἄξιον... ἄλφοι): the slave-sale idiom of Eumaeus' childhood (15.388, 429 — "he paid a worthy price") aimed now at Odysseus and Theoclymenus. Selling guests west into slavery is the suitors' final proposal on the subject of hospitality; the word "price" is the last item in their xenia file.
 
 [^L385]: "He watched his father in silence — waiting, always, for the moment": Telemachus' whole interior compressed to a gaze. The line is built of the plan's key words (16.274ff: endure, watch, wait for the sign); the discipline ordered in the hut is now visible as posture at the feast. Around him the hall laughs; the son is a cocked trigger politely passing bread.
 
-[^L387]: Penelope's chair, set "across from them" — she has positioned herself to hear every word in the hall: the taunts, her son's oath, the seer's vision. The queen enters the massacre-eve as an audience, unseen and listening; whatever she knows or half-knows tomorrow at the contest, the poem has put her within earshot of everything tonight.
+[^L387]: Penelope's chair, set "across from them" — she has positioned herself to hear every word in the hall: the taunts, her son's oath, the seer's vision. The queen sits through the last feast as its audience, in plain view and listening; whatever she knows or half-knows when she rises to fetch the bow, the poem has put her within earshot of everything.
 
 [^L392]: The closing sentence sets the two feasts side by side: the dinner they cooked "laughing" — sweet, hearty, lavish — and the supper "a goddess and a strong man were soon now to set before them," than which "none could ever be more graceless" (ἀχαρίστερον: without χάρις, grace, thanks, pleasure — the un-feast). The last clause is the poem's whole verdict on the revenge, delivered as table-manners: *they had begun it; the shameful devising was theirs.* Book 21 opens with the bow.

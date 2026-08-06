@@ -491,7 +491,7 @@
 
 [^L4]: The dogs that nearly tore the disguised Odysseus apart at 14.29–31 fawn on Telemachus without a bark. The book runs a quiet experiment in recognition by species: dogs know the beloved familiar (here), cower at divinity (163), and — in the poem's most famous case, waiting at 17.291 — one old hound will know the master himself.
 
-[^L13]: The dropped vessels are the Homeric seismograph of feeling: the same shock-gesture as the fallen distaff of Book 4 or the bowls Eumaeus will not spill again. Work stops; the wine spills; the body answers before the mind.
+[^L13]: The dropped vessels are the Homeric seismograph of feeling: work stops; the wine spills; the body answers before the mind.
 
 [^L17]: The first of the book's two great inverted similes: the swineherd welcomes the prince "as a father embraces his son... come from a far country in the tenth year." The real father sits three feet away, unrecognized, listening. Homer gives Eumaeus the father-simile *before* the recognition scene, so that the true reunion must share its tenderness with a slave's.
 
@@ -525,7 +525,7 @@
 
 [^L136]: "I know. I understand. You order a man who is thinking it too" (γιγνώσκω, φρονέω) — Eumaeus' answer compressed to two verbs. The swineherd's mind runs ahead of instruction; it is the same competence Odysseus will trust with the armory keys of Book 21.
 
-[^L145]: Laertes' decline, stage two: in Book 15 he still lived and prayed to die (15.353–357); now, since Telemachus sailed, he neither eats nor drinks nor oversees the work, "and the flesh wastes away around his bones." Each report of the old man is worse; the poem is preparing the terrible testing scene of Book 24, where the son who forbade telling him here will make him weep before revealing himself.
+[^L145]: Laertes' decline, stage two: in Book 15 he still lived and prayed to die (15.353–357); now, since Telemachus sailed, he neither eats nor drinks nor oversees the work, "and the flesh wastes away around his bones." Each report of the old man is worse; the poem is preparing the terrible testing scene of Book 24, where the father kept in the dark here will be made to weep by Odysseus himself before the revealing.
 
 [^L148]: "If everything whatever could be had for the choosing by mortals, / we would choose first the day of my father's homecoming." Telemachus says this while looking at the stranger who *is* that day. The pathos is engineered: the wish is already granted and he cannot see it — the last hour of his fatherlessness spent wishing.
 
@@ -551,7 +551,7 @@
 
 [^L222]: The ship-question again (see note at 57) — now from son to father, in the same fixed close: "For I hardly think you came here on foot." Practicality reasserts itself after the weeping, and the interrogation formula that opened the poem's first disguise scene now serves its most honest conversation.
 
-[^L227]: To his son, Odysseus tells the plain truth — Phaeacians, sleep, treasure in the caves — the same facts he wrapped in a Cretan lie for Eumaeus (14.321ff told slant). The poem grades honesty by intimacy: gods get recognition, sons get truth, everyone else gets craft.
+[^L227]: To his son, Odysseus tells the plain truth — Phaeacians, sleep, treasure in the caves — where Eumaeus got a Cretan lie running on invented mechanics of its own (14.321ff: Thesprotia, a king's safekeeping, the Dodona errand). The poem grades honesty by intimacy: gods get recognition, sons get truth, everyone else gets craft.
 
 [^L243]: "What you say is too great. Awe holds me" — Telemachus said exactly this to Nestor at 3.226–227, refusing to believe Odysseus could ever come home and take revenge. The line returns verbatim with the situation transformed: then he could not hope it; now the plan itself stands before him asking for a head-count.
 
@@ -593,7 +593,7 @@
 
 [^L409]: "Then watchful-minded Penelope thought of one thing more" — the ἐνόησε formula (2.382 family) that elsewhere launches Athena's and Nausicaa's stratagems here powers Penelope's boldest public act so far: she comes down to face her son's would-be murderers with the plot still warm.
 
-[^L412]: Medon the herald — the suitors' own crier — overheard their council and told the queen: the first defection from inside the machine. Odysseus will spare him for it in the slaughter (22.357ff), on Telemachus' word.
+[^L412]: Medon the herald — the suitors' own crier — overheard their council and told the queen, just as he carried her their first murder-plot in Book 4 (4.677–679): the machine's standing leak. Odysseus will spare him for it in the slaughter (22.357ff), on Telemachus' word.
 
 [^L415]: The veil-and-pillar lines repeat 1.333–334 exactly — Penelope's fixed entrance. But in Book 1 she came down to stop a song; now she comes down to stop a murder. Same doorway, same glistening veil, and the poem lets the identical frame measure how far the stakes have risen.
 
@@ -607,7 +607,7 @@
 
 [^L448]: "So he spoke to soothe her — and was himself preparing the boy's destruction": the narrator's single-line exposure, the poem's coldest use of its omniscience. No rhetoric; just the two clauses set side by side.
 
-[^L449]: Lines 450–451 repeat 1.363–364 verbatim: she weeps for Odysseus until Athena gives sleep. The refrain of Penelope's nights closes her every appearance like a door; it will sound again at 19.602–604 and 21.357–358. Within it the queen's entire interior life is kept — offstage, nightly, unchanged for twenty years.
+[^L449]: Lines 450–451 repeat 1.363–364 verbatim: she weeps for Odysseus until Athena gives sleep. The refrain of Penelope's nights closes appearance after appearance like a door; it will sound again at 19.602–604 and 21.357–358. Within it the queen's entire interior life is kept — offstage, nightly, unchanged for twenty years.
 
 [^L457]: The re-disguise, with reason given: not that Eumaeus is disloyal, but that he could not hold such news — he would run to Penelope with it. The poem is exact about the swineherd's one weakness: an incontinence of love. The wand works both ways, and the family's circle of knowledge closes back to two.
 
