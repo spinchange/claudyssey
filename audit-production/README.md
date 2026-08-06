@@ -52,3 +52,7 @@ every adjudicated finding with:
 ```powershell
 .\audit-production\tools\Build-WholePoemFindings.ps1
 ```
+
+For a concise durable record of the completed audit, historical exceptions,
+post-audit note corrections, and the next translator-review stage, see
+[`project-memory.md`](project-memory.md).
