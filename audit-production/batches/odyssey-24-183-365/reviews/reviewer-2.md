@@ -1,0 +1,31 @@
+# Reviewer 2
+
+The translation is highly faithful across Laertes’ portrait, Odysseus’ final disguise, and the orchard recognition. Six material issues remain, all localized: one calibrated weakening in the verse and five explanatory-note errors involving chronology, character knowledge, speaker attribution, and recurrence history. Fixed-register wording differences have not been counted.
+
+| ID | Lines | Category | Severity | Confidence | Finding | Greek evidence | Suggested direction |
+|---|---|---|---|---:|---|---|---|
+| R2-001 | 186 note | `MISTRANSLATION` | `MINOR` | 0.99 | The note says the shades’ complaint becomes outdated “within thirty lines” when the families bury the suitors at 24.417–419. Those rites occur roughly 230 lines after 24.187, not thirty. | The complaint is at 24.186–190; the cited burial is at 24.417–419. | Replace “within thirty lines” with “roughly 230 lines later” or omit the interval. |
+| R2-002 | 226–231 note | `MISTRANSLATION` | `MINOR` | 0.98 | “Father and son have both worn poverty over royalty for years” gives Odysseus’ chosen beggar disguise a duration of years. He assumes those rags only after returning to Ithaca and wears them for a few days; his preceding years with Calypso and the Phaeacians are not years of chosen poverty-costume. | Laertes’ present clothing is described at 24.227–231. Odysseus’ beggar disguise begins only after his Ithacan return in Book 13. | Preserve the visual parallel without the shared duration: both father and son have worn poverty over royalty, but for very different lengths and reasons. |
+| R2-003 | 281–283 | `LEXICAL` | `MINOR` | 0.80 | “Men lost to decency” weakens the culpable recklessness or presumptuous folly of `ἀτάσθαλοι`. “Violent men” preserves the neighboring `ὑβρισταί`, but does not fully restore the distinct heedlessness of the second characterization. | `ὑβρισταὶ ... καὶ ἀτάσθαλοι ἄνδρες` coordinates violent or insolent men with men guilty of reckless outrage. | Use “violent and reckless men” or “insolent men, reckless in their wrongdoing.” |
+| R2-004 | 289 note | `MISTRANSLATION` | `MINOR` | 0.97 | The note groups the disguised Odysseus with Penelope and Laertes as three family members genuinely “unaware” whether Odysseus ever existed. At 19.315 Odysseus knowingly uses the phrase about himself while maintaining his disguise; his uncertainty is performed, not experienced. | At 19.315 the disguised Odysseus says of himself `σὸς πόσις, εἴ ποτʼ ἔην γε`; here Laertes genuinely says `ἐμὸν παῖδʼ, εἴ ποτʼ ἔην γε`. | Distinguish Odysseus’ strategic reuse of the grief formula from Penelope’s and Laertes’ genuine doubt. |
+| R2-005 | 298 note | `MISTRANSLATION` | `MINOR` | 0.99 | The note says Athena put the identity question to Telemachus at 1.170. The roles are reversed: Telemachus asks the disguised Athena/Mentes who he is and where he comes from. | At 1.170 Telemachus addresses Athena with the identity question; at 24.298 Laertes asks it of Odysseus. | Say that Telemachus first put the question to Athena’s disguise. |
+| R2-006 | 345–346 note | `MISTRANSLATION` | `MINOR` | 0.98 | “Nurse, wife, father: the family falls to the same two verses” incorrectly assigns the recognition formula to Eurycleia. The earlier “tokens recognized” line at 19.250 belongs to Penelope’s clothes-test; Eurycleia’s scar recognition at 19.467–469 uses different narration. | `σήματʼ ἀναγνούσῃ...` at 19.250 describes Penelope; 23.205–206 and 24.345–346 form the person-adjusted wife/father couplet. Eurycleia recognizes the scar with `γνῶ ῥʼ ἐπιμασσαμένη` at 19.468. | Describe the line’s three textual uses accurately: Penelope’s clothes-test, Penelope’s bed-test, and Laertes’ orchard recognition. |
+
+Severity counts: **0 Critical, 0 Major, 0 Moderate, 6 Minor — 6 total findings.**
+
+## Especially Successful Renderings
+
+- **24.183–202:** Amphimedon’s account closes cleanly into Agamemnon’s praise of Penelope, preserving both the funeral grievance and the contrasting songs of faithful and murderous wives.
+- **24.226–255:** Laertes’ clothing, labor, grief, and still-visible royal stature are rendered with unusually precise physical and social detail.
+- **24.331–348:** The scar and orchard catalogue retain the recognition scene’s complete evidentiary sequence, including the childhood gifts and Laertes’ bodily collapse.
+
+## Concerns Considered
+
+| Lines | Confidence | Concern | Why not counted |
+|---|---:|---|---|
+| 192 note | 0.69 | “Agamemnon’s last word in literature” is literally defeated by his many later literary appearances and speeches. | In context, the flourish can reasonably mean his final speech in Homer or in the Odyssey’s narrative chronology. |
+| 203 note | 0.69 | Saying Homer’s underworld is simply a place where the dead talk about what happened overlooks Minos’ judging and the punished figures in Book 11. | The same note explicitly describes this departure scene as lacking judgment or punishment, so its final sentence can be read as local rhetorical shorthand. |
+| 216 note | 0.63 | The claim that Odysseus tested “wife, son, slaves, father” compresses interactions of importantly different kinds, particularly Telemachus’ recognition and Penelope’s test of Odysseus. | Odysseus does repeatedly conceal information and observe loyalty or response, making “test” a defensible broad thematic label. |
+| 261–264 | 0.59 | “Had not the patience” weakens `οὐ τόλμησεν`, which says the roadside stranger did not dare, endure, or bring himself to tell and listen fully. | In this invented encounter both expressions characterize an unhelpfully abbreviated exchange, with no consequential change to the guest inquiry. |
+| 283 note | 0.68 | Calling reciprocal hospitality Laertes’ “first thought” overlooks his preceding statement that violent, reckless men now possess Ithaca. | The phrase can be bounded to his first reaction to the stranger’s gift account rather than the literal first proposition of his reply. |
+| 309 note | 0.69 | The claim that Odysseus calculated an “exact dose” of dated hope specifically to break Laertes assigns a precise psychological intention not stated by the test deliberation. | The invented five-year date and favorable omens are plainly crafted to elicit a revealing response, making the stronger interpretation plausible but not certain. |

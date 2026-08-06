@@ -318,14 +318,6 @@ the lexical difference itself is clear.
 | 24.289 note | Report | `MISTRANSLATION` | `MINOR` | The recurrence speakers are Telemachus, Penelope, and Laertes, not husband, wife, and father. Exact speaker verification is required even when reviewers agree a note is wrong. |
 | 24.298 note | Report | `MISTRANSLATION` | `MINOR` | Speaker roles are reversed: Telemachus asks disguised Athena the identity question at 1.170. Preserve who asks and answers under disguise. |
 | 24.345-346 note | Report | `MISTRANSLATION` | `MINOR` | Eurycleia is falsely assigned the knees-slacken and token-recognition couplet shared by Penelope and Laertes. Do not promote a partial or separate recognition into an identical couplet. |
-| 24.376 note | Report | `MISTRANSLATION` | `MINOR` | Menelaus, Telemachus, and Laertes are falsely made three generations of Odysseus' family. Literary synthesis must not turn age cohorts into a genealogical sequence. |
-| 24.387 note | Report | `MISTRANSLATION` | `MINOR` | Melanthius is said to hang mutilated, though he is suspended alive and later brought out before mutilation. Preserve multi-stage event sequence across books. |
-| 24.423 note | Report | `MISTRANSLATION` | `MINOR` | Peace and `ἔκλησις` are said to occur forty lines later, but the relevant passages begin forty-nine and sixty-two line numbers later. Verify exact intervals directly. |
-| 24.427 note | Report | `ADDITION` | `MINOR` | “Six hundred men” converts an assumed fifty-man complement for twelve ships into arithmetic confirmed by the poem. Mark reconstructed totals explicitly. |
-| 24.451 and 463 notes | Report | `MISTRANSLATION` | `MODERATE` | The assembly factions are reversed: more than half depart after Halitherses' counsel, while the remaining minority follows Eupeithes to arms. Track pronouns and group actions before assigning majority status. |
-| 24.477 note | Report | `AMBIGUITY` | `MODERATE` | `ἔκλησις` is narrowed categorically to literal divine memory erasure despite a viable range through forgetting, cessation of grievance, and amnesty. Preserve consequentially divergent political or psychological construals. |
-| 24.520 note | Report | `MISTRANSLATION` | `MINOR` | Laertes' spear-cast is said to end the war, though Odysseus and Telemachus continue attacking until Athena intervenes. Distinguish the last narrated kill from the end of fighting. |
-| 24.528-532 note | Report | `GRAMMAR` | `MINOR` | `ἀναιμωτί` is treated retrospectively, though it governs Athena's prospective order to disengage without further bloodshed. Read adverbs with the clause they modify. |
 
 ## Automated Formula Anchors
 
@@ -377,7 +369,6 @@ passage also contains a distinct material semantic or rhetorical loss.
 | 19.584 and note L589 | Do not report | “Not one hour” and “one more hour” are conventional rhetorical minimizers about avoiding delay and nearing recognition, not measured chronology. Distinguish idiomatic time language from categorical exact-time claims such as an unsupported “at midnight.” |
 | 20.382 | Do not report | “Many-benched ship” is a conventional functional metonym for a many-tholed or many-oared vessel and preserves scale, propulsion, and action. Do not elevate adjacent rowing-hardware terminology without a material consequence. |
 | 21.396-400 | Do not report | In the coherent passage, nearby “a thief's” and bow-making language preserve the hostile accusation, while “schooled in trouble” permits an active troublemaking sense. Judge potentially softened diction across the complete local insult. |
-| 24.509 | Do not report | “From of old” is an established idiom meaning “from ancient times,” not a duplicated-preposition error. Check unfamiliar constructions against attested English usage before reporting grammar. |
 
 ## Below-Threshold Anchors
 

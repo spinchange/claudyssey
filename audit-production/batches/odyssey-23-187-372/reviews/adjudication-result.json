@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-23-187-372",
+  "record_count": 186,
+  "unresolved_count": 0,
+  "findings": [
+    {"id":"O23-187-372-A-001","severity":"MINOR","category":"GRAMMAR"},
+    {"id":"O23-187-372-A-002","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O23-187-372-A-003","severity":"MODERATE","category":"MISTRANSLATION"},
+    {"id":"O23-187-372-A-004","severity":"MODERATE","category":"AMBIGUITY"},
+    {"id":"O23-187-372-A-005","severity":"MINOR","category":"LEXICAL"},
+    {"id":"O23-187-372-A-006","severity":"MINOR","category":"LEXICAL"},
+    {"id":"O23-187-372-A-007","severity":"MODERATE","category":"ADDITION"},
+    {"id":"O23-187-372-A-008","severity":"MINOR","category":"MISTRANSLATION"}
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {"review_id":"R1-001","proposal_key":"23.209-210-other-respects-turned-into-everything"},
+      {"review_id":"R1-002","proposal_key":"23.218-224-helens-prior-ate-turned-into-belated-recognition"},
+      {"review_id":"R1-003","proposal_key":"23.281-284-ex-halos-ambiguity-collapsed-to-from-sea"},
+      {"review_id":"R1-004","proposal_key":"23.326-hadinai-sirens-made-thronging-not-sonorous"},
+      {"review_id":"R1-005","proposal_key":"23.note-L350-both-trials-given-unsupported-equal-rank"}
+    ],
+    "reviewer_2": [
+      {"review_id":"R2-001","proposal_key":"23.note-L215-false-autobiographies-overprecise-count-and-span"},
+      {"review_id":"R2-002","proposal_key":"23.218-224-helens-prior-ate-turned-into-belated-recognition"},
+      {"review_id":"R2-003","proposal_key":"23.289-291-bed-making-malformed-as-spreading-bedstead"},
+      {"review_id":"R2-004","proposal_key":"23.note-L361-orders-falsely-made-penelopes-longstanding-self-command"}
+    ]
+  }
+}

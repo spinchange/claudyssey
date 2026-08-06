@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-24-366-548",
+  "record_count": 183,
+  "unresolved_count": 0,
+  "findings": [
+    {"id":"O24-366-548-A-001","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O24-366-548-A-002","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O24-366-548-A-003","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O24-366-548-A-004","severity":"MINOR","category":"ADDITION"},
+    {"id":"O24-366-548-A-005","severity":"MODERATE","category":"MISTRANSLATION"},
+    {"id":"O24-366-548-A-006","severity":"MODERATE","category":"AMBIGUITY"},
+    {"id":"O24-366-548-A-007","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O24-366-548-A-008","severity":"MINOR","category":"GRAMMAR"}
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {"review_id":"R1-001","proposal_key":"24.note-L387-melanthius-falsely-left-hanging-after-mutilation"},
+      {"review_id":"R1-002","proposal_key":"24.note-L423-peace-falsely-forty-lines-away"},
+      {"review_id":"R1-003","proposal_key":"24.note-L427-six-hundred-crew-total-asserted-as-textual-fact"},
+      {"review_id":"R1-004","proposal_key":"24.note-L520-laertes-cast-falsely-ends-war"},
+      {"review_id":"R1-005","proposal_key":"24.note-L528-anaimoti-scope-misread-as-retrospective"}
+    ],
+    "reviewer_2": [
+      {"review_id":"R2-001","proposal_key":"24.note-L376-three-generations-falsely-made-family-line"},
+      {"review_id":"R2-002","proposal_key":"24.note-L427-six-hundred-crew-total-asserted-as-textual-fact"},
+      {"review_id":"R2-003","proposal_key":"24.notes-L451-L463-assembly-majority-reversed"},
+      {"review_id":"R2-004","proposal_key":"24.note-L477-eklesis-narrowed-to-literal-memory-erasure"},
+      {"review_id":"R2-005","proposal_key":"24.509-from-of-old-called-ungrammatical"}
+    ]
+  }
+}

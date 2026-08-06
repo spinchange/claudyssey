@@ -45,3 +45,10 @@ Regenerate the human-readable coverage summary with:
 ```powershell
 .\audit-production\tools\Build-StatusReport.ps1
 ```
+
+After all ledger units are complete, build the primary-translator handoff of
+every adjudicated finding with:
+
+```powershell
+.\audit-production\tools\Build-WholePoemFindings.ps1
+```

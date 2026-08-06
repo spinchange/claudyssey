@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "batch_id": "odyssey-24-183-365",
+  "record_count": 183,
+  "unresolved_count": 0,
+  "findings": [
+    {"id":"O24-183-365-A-001","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O24-183-365-A-002","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O24-183-365-A-003","severity":"MINOR","category":"ADDITION"},
+    {"id":"O24-183-365-A-004","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O24-183-365-A-005","severity":"MINOR","category":"LEXICAL"},
+    {"id":"O24-183-365-A-006","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O24-183-365-A-007","severity":"MINOR","category":"MISTRANSLATION"},
+    {"id":"O24-183-365-A-008","severity":"MINOR","category":"MISTRANSLATION"}
+  ],
+  "reviewer_proposals": {
+    "reviewer_1": [
+      {"review_id":"R1-001","proposal_key":"24.note-L186-burial-interval-falsely-thirty-lines"},
+      {"review_id":"R1-002","proposal_key":"24.note-L192-odysseus-vocative-family-miscited-to-1-45"},
+      {"review_id":"R1-003","proposal_key":"24.note-L205-unsupported-three-family-generations-of-labor"},
+      {"review_id":"R1-004","proposal_key":"24.note-L226-odysseus-beggar-disguise-falsely-years"},
+      {"review_id":"R1-005","proposal_key":"24.note-L289-if-ever-was-recurrence-speakers-misidentified"},
+      {"review_id":"R1-006","proposal_key":"24.note-L345-eurycleia-falsely-given-knees-token-couplet"}
+    ],
+    "reviewer_2": [
+      {"review_id":"R2-001","proposal_key":"24.note-L186-burial-interval-falsely-thirty-lines"},
+      {"review_id":"R2-002","proposal_key":"24.note-L226-odysseus-beggar-disguise-falsely-years"},
+      {"review_id":"R2-003","proposal_key":"24.281-283-atasthaloi-weakened-to-lost-decency"},
+      {"review_id":"R2-004","proposal_key":"24.note-L289-if-ever-was-recurrence-speakers-misidentified"},
+      {"review_id":"R2-005","proposal_key":"24.note-L298-identity-question-speaker-roles-reversed"},
+      {"review_id":"R2-006","proposal_key":"24.note-L345-eurycleia-falsely-given-knees-token-couplet"}
+    ]
+  }
+}

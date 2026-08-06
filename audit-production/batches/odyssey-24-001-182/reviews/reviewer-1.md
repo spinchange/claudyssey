@@ -1,0 +1,29 @@
+# Reviewer 1
+
+Overall, the translation is vivid and generally faithful, with especially strong handling of Hermes’ bat-like procession, Achilles’ funeral, and Amphimedon’s compressed account of the web stratagem. I found one moderate and five minor material issues, most of them in explanatory notes. None is a fixed-wording-only formula deviation.
+
+| ID | Lines | Category | Severity | Confidence | Finding | Greek evidence | Suggested direction |
+|---|---|---|---|---:|---|---|---|
+| R1-001 | 24.1–5 note L1 | ADDITION | MINOR | 0.98 | The note calls Hermes’ rod “the wand that put Calypso’s island to sleep.” Book 5 repeats the description of the rod’s power but never narrates Hermes using it to put Calypso, her island, or anyone there to sleep. | At 5.47–49 Hermes takes the rod and flies with it; the sleep-and-waking clauses describe what it can do. No exercise of that power occurs on Calypso’s island. | Say that the wand carried to Calypso’s island now actively conducts the shades, without inventing a prior sleep action. |
+| R1-002 | 24.78–79 | GRAMMAR | MODERATE | 0.99 | “Whom you honored … after Patroclus died” turns a ranking into a temporal sequence. Greek says Achilles honored Antilochus above all his other companions after, or second only to, the dead Patroclus—not that his special regard began only after Patroclus’ death. | `τὸν ἔξοχα τῖες ἁπάντων / τῶν ἄλλων ἑτάρων, μετὰ Πάτροκλόν γε θανόντα`: `μετά` establishes Antilochus’ rank after Patroclus within the comparison class. | Render “whom you honored above all your other companions, after dead Patroclus,” or “second only to Patroclus.” |
+| R1-003 | 24.80–84 note L80 | ADDITION | MINOR | 0.91 | The note converts the tomb’s visibility from the sea into an asserted navigational function: “sailors will steer by his death.” The Greek says the tomb was made conspicuous to present and future seafarers, but does not say it served as a bearing or steering mark. | `ὥς κεν τηλεφανὴς ἐκ ποντόφιν ἀνδράσιν εἴη` states the purpose of far-off visibility to men at sea. No navigational action or purpose is expressed. | Call the tomb a conspicuous coastal landmark or visible monument without asserting that sailors navigate by it. |
+| R1-004 | 24.115–119 note L115 | MISTRANSLATION | MINOR | 0.99 | The note calls Odysseus “the only king who came home to a live wife.” This is contradicted within the poem by Menelaus’ return with Helen and Nestor’s living wife Eurydice. The false exclusivity is used to support a thematic link between draft-resistance and successful homecoming. | Odyssey 3 presents Eurydice as Nestor’s wife, while Book 4 presents Menelaus at home with Helen. Nothing in 24.115–119 restricts the claim to a defensible narrower class. | Narrow the comparison to Odysseus’ distinctive return to a faithful, besieged marriage, without claiming he alone returned to a living wife. |
+| R1-005 | 24.147–150 note L147 | MISTRANSLATION | MINOR | 0.94 | The note calls Laertes’ completed shroud “pure, useless beauty.” Laertes is still alive, but the cloth remains explicitly a future burial shroud; the end of Penelope’s delaying stratagem does not eliminate its stated funerary use. | Lines 134–137 identify the cloth as `Λαέρτῃ ... ταφήϊον`, intended for Laertes when death overtakes him. Lines 147–148 say it was completed and displayed, not rendered functionless. | Say that its delaying function has ended while its eventual funerary function remains. |
+| R1-006 | 24.180–182 | GRAMMAR | MINOR | 0.86 | After “the others” fall in heaps, “some god was their helper” naturally makes the slain suitors the recipients of divine help. Greek `σφι` refers contextually to Odysseus and his fighting party, as the ensuing plural killers confirm, but the English pronoun momentarily reverses the divine alignment. | `τοὶ δʼ ἀγχιστῖνοι ἔπιπτον` refers to the falling suitors; `τίς σφι θεῶν ἐπιτάρροθος` shifts to the divinely assisted attackers, clarified by plural `κτεῖνον` in 183. | Name the recipients: “It was plain that some god was helping Odysseus and his men in the fight.” |
+
+Severity counts: **CRITICAL 0; MAJOR 0; MODERATE 1; MINOR 5. Total firm findings: 6.**
+
+## Especially Successful Renderings
+
+1. **24.1–14:** Hermes’ summoning of the shades and the bat simile preserve the movement, sound, and diminishing underworld atmosphere of the Greek.
+2. **24.43–76:** Agamemnon’s account of Achilles’ washing, lamentation, cremation, and burial is clear, ceremonially paced, and rich in accurate concrete detail.
+3. **24.125–146:** Amphimedon’s retelling of the web stratagem closely maintains the recurring passage’s syntax, chronology, and formulaic force.
+
+## Concerns Considered
+
+| Lines | Confidence | Concern | Why not counted |
+|---|---:|---|---|
+| 24.51–52 | 0.56 | “Whose counsel had shown truest” shifts superlative `ἀρίστη` from best or most excellent counsel to truth or accuracy. | Nestor’s wisdom and superior counsel remain clear across the two lines, leaving little consequential loss. |
+| 24.100 | 0.62 | “The suitors Odysseus broke” is less explicit than `Ὀδυσῆϊ δαμέντων`, “slain/subdued by Odysseus.” | Their status as shades being led into Hades makes their deaths unmistakable, so “broke” does not materially obscure the event. |
+| 24.149–150 | 0.64 | “The border of the land” can suggest a territorial boundary, whereas `ἀγροῦ ἐπʼ ἐσχατιήν` denotes the remote edge of the countryside or estate. | The immediately named swineherd’s house restores the rural setting, making the geographical displacement uncertain. |
+| 24.173–175 | 0.59 | “However much he pleaded” strengthens neutral `ἀγορεύοι`, “spoke,” into a particular speech act. | Odysseus had requested a chance with the bow, and the suitors’ shouted refusal preserves the operative context, so “pleaded” remains a plausible compression. |

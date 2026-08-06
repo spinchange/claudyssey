@@ -295,37 +295,6 @@ the lexical difference itself is clear.
 | 23.108-110 | Report | `GRAMMAR` | `MODERATE` | A comparative of surer mutual recognition gains an external “better than anyone” comparator. Comparative scope is material at the recognition scene's epistemic center. |
 | 23.166 note | Report | `MISTRANSLATION` | `MINOR` | Irus is misclassified as a hostile servant and flexible `δαιμόνιε` is literalized as “possessed.” Check social identity and avoid diagnostic glosses unsupported by the vocative. |
 | 23.177-180 and note | Report | `GRAMMAR` | `MODERATE` | Masculine relative agreement identifies the chamber as Odysseus' construction, but English transfers authorship to neuter “bed,” prematurely altering the test. Morphological agreement controls the antecedent. |
-| 23.209-210 | Report | `GRAMMAR` | `MINOR` | Penelope's praise “in other respects” becomes unrestricted “in everything,” erasing a tactful exception for Odysseus' present anger. Preserve concessive scope. |
-| 23.215 note | Report | `MISTRANSLATION` | `MINOR` | “Five false autobiographies in six books” depends on an insecure comparison class and imprecise span. Exact literary counts require defined membership. |
-| 23.218-224 and note | Report | `MISTRANSLATION` | `MODERATE` | Helen's prior non-entertainment of divinely prompted `ἄτη` becomes belated recognition of folly, and divine impulse becomes human deception. Preserve the mental action and causal frame. |
-| 23.281-284 and note | Report | `AMBIGUITY` | `MODERATE` | Consequentially disputed `ἐξ ἁλός` is resolved categorically as death “from the sea,” excluding the separation reading “away from the sea.” Preserve or acknowledge materially divergent construals. |
-| 23.289-291 | Report | `LEXICAL` | `MINOR` | The women make up a close-built bed, but English makes them spread a “packed bedstead.” Bed-making language should not attach literally to the rigid frame. |
-| 23.326 | Report | `LEXICAL` | `MINOR` | “Thronging” gives the Sirens' epithet spatial crowding and loses its intensive or sonic force beside “voice.” Let the governed noun guide adjective sense. |
-| 23.350-353 note | Report | `ADDITION` | `MODERATE` | Dual inclusion and balanced clauses are converted into equal rank between the spouses' ordeals. Coordination does not establish proportional equality. |
-| 23.361-365 note | Report | `MISTRANSLATION` | `MINOR` | Odysseus' temporary command is called Penelope's longstanding identical self-command, though Telemachus issued the earlier order and its content differs. Structural parallels must preserve agency and content. |
-| 24.1-5 note | Report | `ADDITION` | `MINOR` | Hermes' rod's stated capacity becomes an invented prior use that put Calypso's island to sleep. Capacity is not an action. |
-| 24.78-79 | Report | `GRAMMAR` | `MODERATE` | Antilochus' comparative rank after Patroclus becomes honor beginning after Patroclus died. Test `μετά` for rank as well as temporal sequence. |
-| 24.99 note | Report | `MISTRANSLATION` | `MINOR` | The shades' Hades arrival is synchronized with a farm lunch that occurs substantially later. Parallel settings do not establish exact simultaneity. |
-| 24.115-119 note | Report | `MISTRANSLATION` | `MINOR` | Odysseus is called the only king returning to a living wife despite Menelaus and Nestor. Exclusive claims require cross-poem counterexample checks. |
-| 24.147-148 note | Report | `MISTRANSLATION` | `MINOR` | The completed shroud is called useless although its delaying function ends and its future funerary function remains. Track multiple object functions separately. |
-| 24.180-182 | Report | `GRAMMAR` | `MINOR` | An English pronoun assigns divine help to the falling suitors rather than Odysseus' party. Name recipients when a discourse shift would reverse alignment. |
-| 24.80-84 note | Do not report | A tomb deliberately made visible from a projecting headland to seafarers supports the literary metaphor that sailors steer by Achilles' death. Defensible implication is not technical misinformation. |
-| 24.186-190 note | Report | `MISTRANSLATION` | `MINOR` | Burial more than 230 line numbers later is said to occur within thirty lines. Check cited intervals directly. |
-| 24.192 note | Report | `MISTRANSLATION` | `MINOR` | A recurrent Odysseus vocative is miscited to an unrelated address to Zeus at 1.45 instead of its 5.203 family. Verify the actual first recurrence member. |
-| 24.205-225 note | Report | `ADDITION` | `MINOR` | Labor by Laertes and Odysseus is expanded into an unsupported three-generation family pattern; the wall builders are Dolius and slaves. Do not invent genealogical scope. |
-| 24.226-231 note | Report | `MISTRANSLATION` | `MINOR` | A few days of Odysseus' chosen beggar disguise become years shared with Laertes. Visual parallels must preserve duration and motive. |
-| 24.281-283 | Report | `LEXICAL` | `MINOR` | “Lost to decency” weakens the distinct culpable recklessness of `ἀτάσθαλοι`. General moral failure does not fully preserve calibrated outrage language. |
-| 24.289 note | Report | `MISTRANSLATION` | `MINOR` | The recurrence speakers are Telemachus, Penelope, and Laertes, not husband, wife, and father. Exact speaker verification is required even when reviewers agree a note is wrong. |
-| 24.298 note | Report | `MISTRANSLATION` | `MINOR` | Speaker roles are reversed: Telemachus asks disguised Athena the identity question at 1.170. Preserve who asks and answers under disguise. |
-| 24.345-346 note | Report | `MISTRANSLATION` | `MINOR` | Eurycleia is falsely assigned the knees-slacken and token-recognition couplet shared by Penelope and Laertes. Do not promote a partial or separate recognition into an identical couplet. |
-| 24.376 note | Report | `MISTRANSLATION` | `MINOR` | Menelaus, Telemachus, and Laertes are falsely made three generations of Odysseus' family. Literary synthesis must not turn age cohorts into a genealogical sequence. |
-| 24.387 note | Report | `MISTRANSLATION` | `MINOR` | Melanthius is said to hang mutilated, though he is suspended alive and later brought out before mutilation. Preserve multi-stage event sequence across books. |
-| 24.423 note | Report | `MISTRANSLATION` | `MINOR` | Peace and `ἔκλησις` are said to occur forty lines later, but the relevant passages begin forty-nine and sixty-two line numbers later. Verify exact intervals directly. |
-| 24.427 note | Report | `ADDITION` | `MINOR` | “Six hundred men” converts an assumed fifty-man complement for twelve ships into arithmetic confirmed by the poem. Mark reconstructed totals explicitly. |
-| 24.451 and 463 notes | Report | `MISTRANSLATION` | `MODERATE` | The assembly factions are reversed: more than half depart after Halitherses' counsel, while the remaining minority follows Eupeithes to arms. Track pronouns and group actions before assigning majority status. |
-| 24.477 note | Report | `AMBIGUITY` | `MODERATE` | `ἔκλησις` is narrowed categorically to literal divine memory erasure despite a viable range through forgetting, cessation of grievance, and amnesty. Preserve consequentially divergent political or psychological construals. |
-| 24.520 note | Report | `MISTRANSLATION` | `MINOR` | Laertes' spear-cast is said to end the war, though Odysseus and Telemachus continue attacking until Athena intervenes. Distinguish the last narrated kill from the end of fighting. |
-| 24.528-532 note | Report | `GRAMMAR` | `MINOR` | `ἀναιμωτί` is treated retrospectively, though it governs Athena's prospective order to disengage without further bloodshed. Read adverbs with the clause they modify. |
 
 ## Automated Formula Anchors
 
@@ -377,7 +346,6 @@ passage also contains a distinct material semantic or rhetorical loss.
 | 19.584 and note L589 | Do not report | “Not one hour” and “one more hour” are conventional rhetorical minimizers about avoiding delay and nearing recognition, not measured chronology. Distinguish idiomatic time language from categorical exact-time claims such as an unsupported “at midnight.” |
 | 20.382 | Do not report | “Many-benched ship” is a conventional functional metonym for a many-tholed or many-oared vessel and preserves scale, propulsion, and action. Do not elevate adjacent rowing-hardware terminology without a material consequence. |
 | 21.396-400 | Do not report | In the coherent passage, nearby “a thief's” and bow-making language preserve the hostile accusation, while “schooled in trouble” permits an active troublemaking sense. Judge potentially softened diction across the complete local insult. |
-| 24.509 | Do not report | “From of old” is an established idiom meaning “from ancient times,” not a duplicated-preposition error. Check unfamiliar constructions against attested English usage before reporting grammar. |
 
 ## Below-Threshold Anchors
 
