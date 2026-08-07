@@ -1,0 +1,9 @@
+# Pagefind config for the site search bundle (docs/pagefind/).
+#
+# force_language opts out of English stemming: without it, name queries
+# drown in stem collisions ("Ares" stems to "are" and matches every page).
+# Prefix matching still lets "ship" find "ships"; only inflection
+# conflation ("weeps" ~ "weeping") is lost, which suits a text searched
+# mostly for names, formulas, and exact wording.
+site: docs
+force_language: generic
