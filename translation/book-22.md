@@ -580,7 +580,7 @@
 
 [^L341]: Before he begs for his life he puts down the lyre — "between the mixing-bowl and the silver-studded chair." Two lines of stage direction on which the whole scene turns: a man who sets his instrument down properly while expecting his own beheading has proved his vocation better than any plea. The poet saves the singer; first the singer saves the song.
 
-[^L347]: "I am self-taught: a god has planted in my heart[^L347] all the pathways of song" — the most important sentence about poetry in Homer. Self-taught *and* god-planted: originality and inspiration claimed in one breath, no contradiction felt. Every argument about the poet's craft for the next three millennia is folded into this couplet, spoken by a man on his knees between corpses.
+[^L347]: "I am self-taught: a god has planted in my heart all the pathways of song" — the most important sentence about poetry in Homer. Self-taught *and* god-planted: originality and inspiration claimed in one breath, no contradiction felt. Every argument about the poet's craft for the next three millennia is folded into this couplet, spoken by a man on his knees between corpses.
 
 [^L357]: Telemachus' interventions save the two spared lives of the massacre: the singer ("he is guiltless") and the herald who minded him as a child. The son's mercy-list is exactly as long as his evidence; the poem lets the boy who chose the maids' deaths also be the voice that stops two wrongful ones. Justice in this house runs through his testimony either way.
 
