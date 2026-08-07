@@ -27,6 +27,7 @@ Usage:
     python tools/build_web.py
 """
 from __future__ import annotations
+import hashlib
 import html
 import re
 from pathlib import Path
@@ -92,6 +93,11 @@ def parse_book(path: Path):
     return argument, stanzas, notes
 
 
+def css_version() -> str:
+    """Short content hash of the stylesheet, used to cache-bust the CSS link."""
+    return hashlib.md5(CSS.encode("utf-8")).hexdigest()[:8]
+
+
 def page(title: str, desc: str, body: str, depth_home: str = "../",
          indexed: bool = False, head_extra: str = "") -> str:
     body_attr = " data-pagefind-body" if indexed else ""
@@ -102,7 +108,7 @@ def page(title: str, desc: str, body: str, depth_home: str = "../",
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{html.escape(title)}</title>
 <meta name="description" content="{html.escape(desc)}">
-<link rel="stylesheet" href="read.css">
+<link rel="stylesheet" href="read.css?v={css_version()}">
 {head_extra}</head>
 <body>
 <div class="meander"></div>
@@ -537,13 +543,14 @@ footer{text-align:center; font-size:.8rem; opacity:.7; padding:20px 0 40px}
 .entry:target{background:rgba(201,155,63,.1); border-radius:5px;
   padding:6px 10px; margin-left:-10px; margin-right:-10px}
 .entry h3{font-weight:normal; font-size:1.12rem; margin:0 0 2px;
-  color:var(--gold)}
-.entry h3 .grc{opacity:.8; font-size:.95em; margin-left:.35em;
-  color:var(--bone)}
-.entry h3 .cat{float:right; font-size:.68rem; letter-spacing:.1em;
+  color:var(--gold); display:flex; align-items:baseline; gap:.4em;
+  flex-wrap:wrap}
+.entry h3 .grc{opacity:.8; font-size:.95em; color:var(--bone)}
+.entry h3 .cat{margin-left:auto; flex-shrink:0; white-space:nowrap;
+  font-size:.68rem; letter-spacing:.1em;
   text-transform:uppercase; opacity:.55; color:var(--bone);
   border:1px solid rgba(234,217,180,.35); border-radius:10px;
-  padding:1px 8px; margin-top:.35em}
+  padding:1px 8px}
 .say{margin:0 0 6px; font-size:.85rem; color:var(--gold); opacity:.85;
   font-variant:small-caps; letter-spacing:.04em}
 .ibody{margin:0 0 6px; font-size:.95rem}
@@ -558,7 +565,6 @@ footer{text-align:center; font-size:.8rem; opacity:.7; padding:20px 0 40px}
   .ln{left:-2.6rem; width:2rem}
   .toc b{min-width:4.6em}
   .idxbar{margin:0 -14px 16px; padding:10px 14px 8px}
-  .entry h3 .cat{display:none}
 }
 """
 
