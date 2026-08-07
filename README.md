@@ -141,7 +141,14 @@ citation deep-linked into the text (`book-12.html#L184`).
 
 Site search is [Pagefind](https://pagefind.app), fully static (the bundle lives
 in `docs/pagefind/`). It indexes exactly the poem, the notes, and the name
-index. After any rebuild:
+index (`pagefind.yml` disables stemming so name searches stay exact).
+
+The build also emits `docs/api/` — a machine-readable mirror for scripts and
+language models: `manifest.json`, `registry.json` (the name index with refs),
+and `book-NN.txt` (each book's translation source, verbatim), served at
+`theclaudyssey.com/api/`.
+
+After any rebuild:
 
 ```powershell
 python tools\build_web.py

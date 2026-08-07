@@ -17,6 +17,10 @@ names.html renders every entry of index/index.md with its line citations
 turned into deep links (12.184 -> book-12.html#L184), plus client-side
 category chips, an A-Z bar, and a live name filter.
 
+docs/api/ is a machine-readable mirror for LLMs and scripts that fetch the
+site: registry.json (the name index with refs), book-NN.txt (each book's
+translation source, verbatim), and manifest.json describing all of it.
+
 Book pages and names.html carry data-pagefind-body so the site search covers
 exactly the poem, the notes, and the index. After building, refresh the
 search bundle with:
@@ -29,13 +33,17 @@ Usage:
 from __future__ import annotations
 import hashlib
 import html
+import json
 import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "translation"
 IDX = ROOT / "index" / "index.md"
+REGISTRY = ROOT / "index" / "registry.json"
 OUT = ROOT / "docs" / "read"
+OUT_API = ROOT / "docs" / "api"
+SITE = "https://theclaudyssey.com"
 
 VERSE_RE = re.compile(r"^(\d+)\s+(.*)$")
 DEF_RE = re.compile(r"^\[\^L(\d+)\]:\s*(.*)$")
@@ -415,6 +423,82 @@ def build_names() -> str:
                 "\n".join(out), indexed=True)
 
 
+# ---------------------------------------------------------------------------
+# Machine-readable mirror (docs/api/)
+
+
+API_NOTE = (
+    "Machine-readable mirror of the Claudyssey, a line-for-line English "
+    "translation of Homer's Odyssey. book-NN.txt is the translation source "
+    "for one book: numbered verse lines ('123  text', one English line per "
+    "Greek line, same numbering as the Greek), [^L123] markers pointing into "
+    "a '## Notes' section of scholarly endnotes, and an italic argument line. "
+    "registry.json is the index of names: every named person, god, people, "
+    "and place, with category, aliases, note, and 'book.line' refs. "
+    "Cite passages as book.line, e.g. 9.366. Human-readable edition with "
+    "line anchors: /read/book-NN.html#L123.")
+
+
+def build_api() -> None:
+    OUT_API.mkdir(parents=True, exist_ok=True)
+    (OUT_API / "registry.json").write_text(
+        REGISTRY.read_text(encoding="utf-8"), encoding="utf-8")
+    books = []
+    for n in range(1, 25):
+        src = SRC / f"book-{n:02d}.md"
+        (OUT_API / f"book-{n:02d}.txt").write_text(
+            src.read_text(encoding="utf-8"), encoding="utf-8")
+        argument, stanzas, notes = parse_book(src)
+        books.append({
+            "book": n,
+            "argument": argument,
+            "last_line": stanzas[-1][-1][0],
+            "notes": len(notes),
+            "text": f"{SITE}/api/book-{n:02d}.txt",
+            "html": f"{SITE}/read/book-{n:02d}.html",
+        })
+    manifest = {
+        "title": "The Odyssey — a Claudyssey",
+        "description": API_NOTE,
+        "site": SITE,
+        "repository": "https://github.com/spinchange/claudyssey",
+        "license": "Translation (c) its author; Greek source public domain.",
+        "registry": f"{SITE}/api/registry.json",
+        "books": books,
+    }
+    (OUT_API / "manifest.json").write_text(
+        json.dumps(manifest, indent=1, ensure_ascii=False) + "\n",
+        encoding="utf-8")
+    (OUT_API / "index.html").write_text(f"""<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>API — the Odyssey, a Claudyssey</title>
+<meta name="description" content="Plain-text and JSON mirror of the translation, for scripts and language models.">
+<link rel="stylesheet" href="../read/read.css?v={css_version()}">
+</head>
+<body>
+<div class="meander"></div>
+<div class="wrap">
+<p class="site"><a href="../">The Odyssey · a Claudyssey</a></p>
+<header class="bookhead"><h1>Plain-text mirror</h1>
+<p class="argument">the translation as data, for scripts and language models</p></header>
+<p>{html.escape(API_NOTE)}</p>
+<ul>
+<li><a href="manifest.json">manifest.json</a> — all of the below, described</li>
+<li><a href="registry.json">registry.json</a> — the name index with citations</li>
+<li><code>book-01.txt</code> … <code>book-24.txt</code> — one file per book,
+e.g. <a href="book-09.txt">book-09.txt</a></li>
+</ul>
+</div>
+<div class="meander"></div>
+<footer><a href="../read/index.html">Contents</a> · <a href="../">About &amp; downloads</a></footer>
+</body>
+</html>
+""", encoding="utf-8")
+
+
 CSS = """\
 :root{
   --wine:#46192b; --wine-deep:#1e0b15; --bone:#ead9b4; --gold:#c99b3f;
@@ -580,7 +664,8 @@ def main() -> None:
         print(f"book-{n:02d}.html")
     (OUT / "index.html").write_text(build_contents(arguments), encoding="utf-8")
     (OUT / "names.html").write_text(build_names(), encoding="utf-8")
-    print("index.html + names.html + read.css")
+    build_api()
+    print("index.html + names.html + read.css + api/")
     print("now refresh the search bundle:  npx -y pagefind --site docs")
 
 
