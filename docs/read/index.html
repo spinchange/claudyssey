@@ -6,13 +6,24 @@
 <title>Read the Odyssey — a Claudyssey</title>
 <meta name="description" content="Homer&#x27;s Odyssey complete in a line-for-line English translation with notes: all twenty-four books, free to read online.">
 <link rel="stylesheet" href="read.css">
+<link rel="stylesheet" href="../pagefind/pagefind-ui.css">
 </head>
 <body>
 <div class="meander"></div>
 <div class="wrap">
-<p class="site"><a href="../">The Odyssey · a Claudyssey</a></p>
+<p class="site" data-pagefind-ignore><a href="../">The Odyssey · a Claudyssey</a></p>
 <header class="bookhead"><h1>The Odyssey</h1>
 <p class="argument">a line-for-line translation &middot; twenty-four books</p></header>
+<div id="search"></div>
+<script src="../pagefind/pagefind-ui.js"></script>
+<script>
+window.addEventListener('DOMContentLoaded', function () {
+  if (window.PagefindUI) new PagefindUI({
+    element: '#search', showSubResults: true, showImages: false,
+    translations: { placeholder: 'Search the poem, the notes, and the index\u2026' }
+  });
+});
+</script>
 <ol class="toc">
 <li><a href="book-01.html"><b>Book I</b><span>Athena comes to Ithaca; Telemachus resolves to seek his father.</span></a></li>
 <li><a href="book-02.html"><b>Book II</b><span>The assembly at Ithaca; Penelope's web; Telemachus sails by night.</span></a></li>
@@ -39,10 +50,11 @@
 <li><a href="book-23.html"><b>Book XXIII</b><span>The bed; the test that Penelope wins; the long night held back.</span></a></li>
 <li><a href="book-24.html"><b>Book XXIV</b><span>The second Nekyia; Laertes and the trees; the peace of Ithaca.</span></a></li>
 </ol>
+<p class="apparatus"><a href="names.html">Index of names &amp; places</a> — every person, god, people, and place in the poem, with pronunciations and linked citations.</p>
 </div>
 <div class="meander"></div>
 <footer>
-  <a href="index.html">Contents</a> · <a href="../">About &amp; downloads</a><br>
+  <a href="index.html">Contents</a> · <a href="names.html">Index</a> · <a href="../">About &amp; downloads</a><br>
   translation © its author · Greek source public domain
 </footer>
 </body>

@@ -70,11 +70,81 @@ a{color:var(--gold)}
   white-space:nowrap; min-width:5.4em}
 .toc span{font-style:italic; opacity:.85; font-size:.95rem}
 
+.apparatus{margin:26px 0 8px; padding:12px 14px; font-size:.95rem;
+  background:rgba(201,155,63,.07); border:1px solid rgba(201,155,63,.3);
+  border-radius:6px}
+
 footer{text-align:center; font-size:.8rem; opacity:.7; padding:20px 0 40px}
+
+/* ---- site search (Pagefind default UI, re-themed) ---- */
+#search{margin:6px 0 22px;
+  --pagefind-ui-scale:.9;
+  --pagefind-ui-primary:var(--gold);
+  --pagefind-ui-text:var(--bone);
+  --pagefind-ui-background:rgba(0,0,0,.25);
+  --pagefind-ui-border:rgba(201,155,63,.45);
+  --pagefind-ui-tag:rgba(201,155,63,.18);
+  --pagefind-ui-border-width:1px;
+  --pagefind-ui-border-radius:5px;
+  --pagefind-ui-font:inherit}
+#search .pagefind-ui__search-input{color:var(--bone)}
+#search .pagefind-ui__search-input::placeholder{color:var(--bone); opacity:.55}
+#search .pagefind-ui__result{border-color:rgba(201,155,63,.25)}
+#search .pagefind-ui__result-link{color:var(--gold)}
+#search .pagefind-ui__result-excerpt{color:var(--bone); opacity:.9}
+#search mark{background:rgba(201,155,63,.4); color:inherit; border-radius:2px}
+#search .pagefind-ui__button{background:rgba(201,155,63,.1); color:var(--gold);
+  border:1px solid rgba(201,155,63,.45)}
+#search .pagefind-ui__message{color:var(--bone); opacity:.8}
+
+/* ---- index of names & places ---- */
+.booknav .mid{min-width:0}
+.idxbar{position:sticky; top:0; z-index:5; background:rgba(30,11,21,.96);
+  margin:0 -22px 18px; padding:12px 22px 10px;
+  border-bottom:1px solid rgba(201,155,63,.3)}
+.idxbar input{width:100%; padding:9px 12px; font:inherit; color:var(--bone);
+  background:rgba(0,0,0,.25); border:1px solid rgba(201,155,63,.45);
+  border-radius:5px}
+.idxbar input:focus{outline:none; border-color:var(--gold)}
+.chips{display:flex; gap:7px; flex-wrap:wrap; align-items:baseline;
+  margin-top:9px}
+.chip{font:inherit; font-size:.8rem; color:var(--bone); cursor:pointer;
+  background:rgba(0,0,0,.2); border:1px solid rgba(201,155,63,.35);
+  border-radius:12px; padding:2px 11px}
+.chip:hover{border-color:var(--gold)}
+.chip.on{background:rgba(201,155,63,.25); color:var(--gold);
+  border-color:var(--gold)}
+#count{margin-left:auto; font-size:.8rem; opacity:.65; white-space:nowrap}
+.letters{margin-top:9px; font-size:.85rem; letter-spacing:.1em}
+.letters a{text-decoration:none; padding:0 2px}
+.letters a:hover{text-decoration:underline}
+.letter{font-weight:normal; color:var(--gold); font-size:1.5rem;
+  letter-spacing:.1em; border-bottom:1px solid rgba(201,155,63,.3);
+  margin:30px 0 14px; scroll-margin-top:120px}
+.entry{margin:0 0 20px; scroll-margin-top:120px}
+.entry:target{background:rgba(201,155,63,.1); border-radius:5px;
+  padding:6px 10px; margin-left:-10px; margin-right:-10px}
+.entry h3{font-weight:normal; font-size:1.12rem; margin:0 0 2px;
+  color:var(--gold)}
+.entry h3 .grc{opacity:.8; font-size:.95em; margin-left:.35em;
+  color:var(--bone)}
+.entry h3 .cat{float:right; font-size:.68rem; letter-spacing:.1em;
+  text-transform:uppercase; opacity:.55; color:var(--bone);
+  border:1px solid rgba(234,217,180,.35); border-radius:10px;
+  padding:1px 8px; margin-top:.35em}
+.say{margin:0 0 6px; font-size:.85rem; color:var(--gold); opacity:.85;
+  font-variant:small-caps; letter-spacing:.04em}
+.ibody{margin:0 0 6px; font-size:.95rem}
+.ifield{margin:0 0 4px; font-size:.88rem; opacity:.88}
+.irefs{margin:0 0 4px; font-size:.85rem; opacity:.85}
+.cite{text-decoration:none; white-space:nowrap}
+.cite:hover{text-decoration:underline}
 
 @media (max-width:560px){
   .wrap{padding:0 14px}
   .verse{padding-left:2.1rem}
   .ln{left:-2.6rem; width:2rem}
   .toc b{min-width:4.6em}
+  .idxbar{margin:0 -14px 16px; padding:10px 14px 8px}
+  .entry h3 .cat{display:none}
 }

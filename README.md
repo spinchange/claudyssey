@@ -131,6 +131,23 @@ catches the build regressions that break readers.
 Requires Pandoc (`winget install JohnMacFarlane.Pandoc`) and, for regenerating
 the subsetted font, `fonttools` + `brotli`.
 
+## Web edition
+
+`tools/build_web.py` regenerates the reading edition in `docs/read/` (served by
+GitHub Pages): one page per book with line anchors and endnotes, a contents
+page with site search, and `names.html` — the index of names & places rendered
+from `index/index.md`, with category/letter/text filtering and every `book.line`
+citation deep-linked into the text (`book-12.html#L184`).
+
+Site search is [Pagefind](https://pagefind.app), fully static (the bundle lives
+in `docs/pagefind/`). It indexes exactly the poem, the notes, and the name
+index. After any rebuild:
+
+```powershell
+python tools\build_web.py
+npx -y pagefind --site docs
+```
+
 ## Licensing
 
 Murray's 1919 Greek text is in the public domain. The Perseus digitization is
