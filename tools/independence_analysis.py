@@ -239,6 +239,7 @@ def main():
     ap.add_argument('--lattimore', help='path to a private copy (pdf or txt)')
     ap.add_argument('--fagles', help='path to a private copy (pdf or txt)')
     ap.add_argument('--green', help='path to a private copy (pdf or txt)')
+    ap.add_argument('--wilson', help='path to a private copy (pdf or txt)')
     args = ap.parse_args()
 
     texts = load_public()
@@ -251,6 +252,13 @@ def main():
     if args.green:
         texts['green'] = load_private(
             args.green, 'tell me about that resourceful man', 'Synopsis')
+    if args.wilson:
+        # End marker None for now: verify where the scan's back matter
+        # begins (notes/glossary) on first ingest and add the marker then.
+        # Predictions preregistered in notes/translators-note-material.md
+        # BEFORE first measurement — do not adjust them after running.
+        texts['wilson'] = load_private(
+            args.wilson, 'Tell me about a complicated man')
 
     print('corpus (translation body only, normalized):')
     for k, v in texts.items():

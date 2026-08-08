@@ -215,3 +215,42 @@ reflect matched method, model influence, or both; these tests cannot
 exclude shorter-form, syntactic, semantic, or interpretive dependence —
 the debts every translator owes predecessors."
 
+
+## 6. Preregistered predictions: the Wilson row
+
+(Recorded 2026-08-08, BEFORE any measurement of Wilson's translation.
+The user is acquiring a print copy to scan; nothing of Wilson's text has
+been ingested or measured as of this commit. The commit timestamp is the
+notarization. When the row is run, report the outcome against these
+predictions verbatim — hits and misses both — and do not revise this
+section except to append results.)
+
+Method identical to the rest of the panel: tools/independence_analysis.py
+with --wilson, translation body only, name-normalized, directional-max
+n-gram overlap, uncapped runs.
+
+Predictions from the convergence account (overlap tracks literalness and
+method, not fame):
+
+1. Claudyssey vs Wilson, 5-gram: between 2.5% and 4.0%. Rationale:
+   matched method (modern register, line-count discipline — the only
+   major translation sharing the line-for-line constraint) pushes up;
+   Wilson's deliberately plain, compressed diction — the most divergent
+   idiom among the literalists — pushes down. Net: between Fagles (1.7%)
+   and Green (5.3%).
+2. Ordering preserved: Claudyssey-Wilson lands BELOW Claudyssey-Green
+   and far below Claudyssey-Murray (8.9%); the Claudyssey row ordering
+   stays Murray > Lattimore > Green ≈ B&L > Palmer > Wilson > Fagles.
+3. Longest shared run with Wilson: under 20 words; no run of 20+.
+4. Human controls: Wilson-Murray between 1.5% and 3.0%; Wilson's
+   affinities to the whole panel run below Green's corresponding ones
+   (her compression cuts n-gram continuity everywhere).
+5. Fame check (the Green-vs-Fagles inference, second trial): Wilson is
+   the most-discussed translation of the century; if affinity followed
+   fame she would rank near the top of the Claudyssey rows. Predicted:
+   she ranks in the lower middle, per (2).
+
+Falsification, stated in advance: if Claudyssey-Wilson exceeds Green's
+5.3%, or any shared run reaches 24+ words, the convergence account as
+stated on the independence page needs revision, and the page gets
+corrected — not the framing.
