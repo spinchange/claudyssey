@@ -3,7 +3,7 @@
  "description": "Machine-readable mirror of the Claudyssey, a line-for-line English translation of Homer's Odyssey. book-NN.txt is the translation source for one book: numbered verse lines ('123  text', one English line per Greek line, same numbering as the Greek), [^L123] markers pointing into a '## Notes' section of scholarly endnotes, and an italic argument line. registry.json is the index of names: every named person, god, people, and place, with category, aliases, note, and 'book.line' refs. Cite passages as book.line, e.g. 9.366. Human-readable edition with line anchors: /read/book-NN.html#L123.",
  "site": "https://theclaudyssey.com",
  "repository": "https://github.com/spinchange/claudyssey",
- "license": "Translation (c) its author; Greek source public domain.",
+ "license": "Translation: CC0 1.0 (public domain dedication). Notes and index: CC BY 4.0, (c) 2026 Chris Duffy. Greek source (Murray 1919) public domain; Perseus digitization CC BY-SA.",
  "registry": "https://theclaudyssey.com/api/registry.json",
  "books": [
   {

@@ -131,6 +131,12 @@ def source_page() -> str:
         "Murray's 1919 Greek text is in the public domain; the Perseus "
         "digitization is used under CC BY-SA. Polytonic Greek is set in "
         "Gentium Plus (SIL Open Font License).\n\n"
+        "The English translation is dedicated to the public domain under "
+        "[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/): no "
+        "permission is needed to copy, adapt, or reuse it, for any purpose. "
+        "The apparatus — the notes, this front matter, and the index of "
+        "names — is © 2026 Chris Duffy, licensed "
+        "[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).\n\n"
     )
 
 
@@ -244,8 +250,10 @@ def build(book_nums: list[int]) -> Path:
         "  - role: edt\n    text: Chris Duffy\n"
         "language: en\n"
         "rights: >-\n"
-        "  English translation original to this project. Greek source text "
-        "(Murray 1919) public domain; Perseus digitization CC BY-SA.\n"
+        "  English translation dedicated to the public domain (CC0 1.0). "
+        "Notes, front matter, and index (c) 2026 Chris Duffy, CC BY 4.0. "
+        "Greek source text (Murray 1919) public domain; Perseus "
+        "digitization CC BY-SA.\n"
         "...\n",
         encoding="utf-8",
     )

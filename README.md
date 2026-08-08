@@ -157,9 +157,22 @@ npx -y pagefind --site docs
 
 ## Licensing
 
-Murray's 1919 Greek text is in the public domain. The Perseus digitization is
-distributed under CC BY-SA; this repository retains that attribution for the
-`greek/` directory. The English translation is original to this project.
+**The English translation** (the 12,107 lines in `translation/book-*.md`,
+verse text only) is dedicated to the public domain under
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Copy it,
+print it, teach it, set it to music, remix it; no permission or credit is
+required, for any purpose including commercial use.
+
+**The apparatus** — the line notes (the footnote blocks in those same
+files), the introduction and front matter, the index of names and places
+(`index/`), and the independence analysis (`docs/independence.html`) — is
+(c) 2026 Chris Duffy, licensed
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): use it freely
+with attribution.
+
+**The Greek**: Murray's 1919 text is in the public domain. The Perseus
+digitization is distributed under CC BY-SA; this repository retains that
+attribution for the `greek/` directory.
 
 The EPUB embeds Gentium Plus under the SIL Open Font License; the license text
 travels with the font in `epub-build/assets/GentiumPlus-OFL.txt`.

@@ -127,7 +127,9 @@ def page(title: str, desc: str, body: str, depth_home: str = "../",
 <div class="meander"></div>
 <footer>
   <a href="index.html">Contents</a> · <a href="names.html">Index</a> · <a href="{depth_home}">About &amp; downloads</a><br>
-  translation © its author · Greek source public domain
+  translation <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a> (public domain) ·
+  notes &amp; index © 2026 Chris Duffy, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> ·
+  Greek source public domain
 </footer>
 </body>
 </html>
@@ -462,7 +464,10 @@ def build_api() -> None:
         "description": API_NOTE,
         "site": SITE,
         "repository": "https://github.com/spinchange/claudyssey",
-        "license": "Translation (c) its author; Greek source public domain.",
+        "license": ("Translation: CC0 1.0 (public domain dedication). "
+                    "Notes and index: CC BY 4.0, (c) 2026 Chris Duffy. "
+                    "Greek source (Murray 1919) public domain; Perseus "
+                    "digitization CC BY-SA."),
         "registry": f"{SITE}/api/registry.json",
         "books": books,
     }
