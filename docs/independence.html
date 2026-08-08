@@ -111,9 +111,11 @@
   other, taking the larger of the two directions; and every
   <strong>maximal verbatim shared passage</strong> of 12 or more words, with
   no cap on length. All 36 human-vs-human pairings are computed with the
-  identical procedure and reported in full — the controls are the whole
-  point, since any two literal translations of the same Greek converge
-  substantially without either copying the other.</p>
+  identical procedure and shown below, the smallest grouped for space — the
+  controls are the whole point, since any two literal translations of the
+  same Greek converge substantially without either copying the other. The
+  Lattimore, Green, and Palmer texts come from scans; residual OCR noise
+  slightly depresses their rows, equally in every pairing.</p>
   <p>Public-domain texts come from Project Gutenberg and the Perseus/Scaife
   library; the script downloads them and prints a hash of each cleaned
   corpus. Lattimore, Fagles, and Green, still in copyright, were measured
@@ -166,7 +168,7 @@
   <p class="tbl-note">Run counts for the closest human pairs: Murray ·
   Butcher &amp; Lang share 492 runs of ≥12 words (105 of ≥16, longest 32);
   Murray · Palmer 52 (10, longest 20); Murray · Green 42 (4, longest 21);
-  Murray · Lattimore 21 (2, longest 21); Green · Lattimore 16 (0, longest
+  Murray · Lattimore 21 (2, longest 21); Green · Lattimore 17 (0, longest
   15); Lattimore · Fagles 3 (0, longest 13).</p>
 
   <p>Read plainly, the tables say four things:</p>
@@ -182,11 +184,10 @@
   line-matched to the Greek, the closest existing human analogue to this
   project's method — shows the second-highest human affinity in the whole
   matrix (5.0% with Murray), and nobody supposes Green copied the Loeb.
-  This translation's relationship to Green is statistically all but
-  identical to Green's own relationship to Murray: 5.3% vs 5.0% at 5-grams,
-  49 vs 42 long runs, longest 20 vs 21. The model sits with the
-  line-faithful literalists exactly where a new member of that method would
-  sit.</p>
+  This translation's relationship to Green is numerically very similar to
+  Green's own relationship to Murray: 5.3% vs 5.0% at 5-grams, 49 vs 42
+  long runs, longest 20 vs 21. The model sits with the line-faithful
+  literalists where a new member of that method would sit.</p>
   <p><strong>Two rows remain elevated, and we say so.</strong> Against
   Murray (8.9%) and Lattimore (6.3%), this translation runs roughly twice
   Green's own affinity to the same texts (5.0%, 3.2%) — higher than every
@@ -202,10 +203,15 @@
   took: the run profile stays human-shaped throughout (11 runs of ≥16 words
   with Lattimore, against the Murray · Palmer human pair's 10), and
   verbatim reuse is capped by the next section.</p>
-  <p><strong>The Fagles half of the accusation finds no support at
-  all.</strong> 1.7% of 5-grams, five shared runs of 12+ words, none of
-  16+. Fagles sits below eleven different human pairings — including his
-  own affinity to Green (1.0%).</p>
+  <p><strong>The Fagles signal is modest but, in fairness, not
+  absent.</strong> This translation's 1.7% overlap with Fagles exceeds
+  every human–Fagles pairing in the panel (the highest are Lattimore's
+  1.1% and Green's 1.0%) — worth stating because it is the kind of detail
+  a defense would prefer to omit. But it is a fraction of the Murray and
+  Lattimore affinities, it comprises five shared runs of 12+ words and
+  none of 16+, and the longest match (14 words) is a Homeric formula that
+  Fagles also shares verbatim with Murray. The data do not support Fagles
+  as a meaningful textual donor; they cannot rule out minor influence.</p>
 </section>
 
 <section>
@@ -214,25 +220,46 @@
   pieces of prior translations — was tested against the union of all nine at
   once: an n-gram counts as matched if it appears in <em>any</em> of them.
   Result: <strong>79.5%</strong> of this translation's 5-grams and
-  <strong>95.1%</strong> of its 8-grams appear in none of the nine; even at
+  <strong>95.1%</strong> of its 8-grams appear in none of the nine; at
   4 words, 65.8% appear nowhere. The longest passage shared with any
   predecessor, anywhere in 12,107 lines, is 29 words (with Murray, the
   facing translation of its own source text).</p>
-  <p>To confirm the test can actually detect what it claims to rule out, we
-  built the thing being alleged: a synthetic splice alternating verbatim
-  12-token chunks of Murray, Butcher &amp; Lang, and Lattimore. The splice
-  scores <strong>67%</strong> on the same union test — well over three times
-  this translation's figure — and lights up the shared-run counts instantly.
-  Verbatim assembly at the scale of half-lines or longer is loudly
-  detectable, and it is not what this text is.</p>
-  <p>Equally important is what this does <em>not</em> establish. A mosaic
-  built of fragments shorter than four words, or a paraphrase that alters
-  one word in every window, would pass the union test — n-gram statistics
-  cannot see it. So the defensible conclusion is exactly this: <em>the
-  translation was not assembled to any substantial degree from verbatim
-  passages of four or more words drawn from these nine translations.</em>
-  Claims about finer-grained dependence — a phrase here, a reading there —
-  are addressed next, at the site of the actual accusation.</p>
+  <p>What do those figures actually exclude? To calibrate the test rather
+  than assert about it, we built the thing being alleged, at several
+  scales: synthetic splices cycling verbatim chunks of Murray, Butcher
+  &amp; Lang, and Lattimore, with chunk sizes from 4 to 12 words.</p>
+  <div class="tblwrap">
+  <table>
+    <tr><th>text</th><th class="num">4-grams found in union</th>
+        <th class="num">5-grams found</th><th class="num">runs ≥12 words vs Murray</th></tr>
+    <tr class="ctrl"><td>splice of exact 4-word chunks</td><td class="num">26.6%</td><td class="num">0.9%</td><td class="num">0</td></tr>
+    <tr class="ctrl"><td>splice of exact 5-word chunks</td><td class="num">41.3%</td><td class="num">20.7%</td><td class="num">0</td></tr>
+    <tr class="ctrl"><td>splice of exact 6-word chunks</td><td class="num">51.1%</td><td class="num">33.9%</td><td class="num">0</td></tr>
+    <tr class="ctrl"><td>splice of exact 8-word chunks</td><td class="num">63.3%</td><td class="num">50.5%</td><td class="num">0</td></tr>
+    <tr class="ctrl"><td>splice of exact 12-word chunks</td><td class="num">75.6%</td><td class="num">67.0%</td><td class="num">3,490</td></tr>
+    <tr class="hl"><td>this translation</td><td class="num">34.2%</td><td class="num">20.5%</td><td class="num">170</td></tr>
+  </table>
+  </div>
+  <p>The calibration cuts both ways, and both directions belong on this
+  page. Against long-fragment assembly it is decisive: splices at 8 and 12
+  words score two and a half to three times this translation's figures,
+  so <em>the results strongly disfavor substantial assembly from verbatim
+  passages of roughly eight to twelve words or longer</em>. But a text
+  built entirely of exact five-word fragments scores 20.7% on the 5-gram
+  test — essentially this translation's 20.5% — because most sliding
+  windows cross fragment boundaries. N-gram union statistics <em>cannot
+  exclude</em> short-fragment mosaic composition at the 4–6 word scale,
+  and we do not claim they can.</p>
+  <p>One measured observation bears on that remaining hypothesis without
+  settling it. Every pure mosaic of sub-12-word fragments produces zero
+  shared runs of 12+ words, by construction; this translation shares 170
+  such runs with Murray and 49 with Green — the same long-tailed profile
+  Green himself shows against Murray (42), which is the signature of
+  convergent translation rather than concatenation. A mixture — mosaic
+  passages amid independent text — would land between the profiles, and
+  nothing in these statistics can rule that out. Finer-grained dependence
+  is a question for reading, not string-counting, which is why the next
+  section reads the actual lines the accusation cited.</p>
 </section>
 
 <section>
@@ -247,7 +274,8 @@
   was-driven-to-wander · after · of-Troy · holy · citadel · he-sacked</blockquote>
   <p>This translation renders: <em>"Tell me the man, Muse — the man of many
   turnings, who was driven / wandering far, once he had sacked Troy's holy
-  citadel."</em> Four observations, each checkable against the gloss:</p>
+  citadel."</em> What follows reads the line both ways — where it argues
+  from the Greek, and where it genuinely resembles the accused sources.</p>
   <p><strong>"Tell me the man"</strong> keeps Homer's bare accusative —
   ἄνδρα is the direct object of ἔννεπε. Every alleged source inserts an
   "of": Murray "Tell me <em>of</em> the man," Lattimore "Tell me, Muse,
@@ -255,27 +283,44 @@
   feels the same pull the Greek exerts — he fronts the noun, "The man, Muse
   — tell me about that resourceful man" — but resolves it with "about.")
   The one construction in the line that is uniquely this translation's is
-  also the one closest to the Greek — the opposite of what borrowing
-  predicts.</p>
+  the one closest to the Greek. Against that: the line then repeats "the
+  man" where the Greek has a single ἄνδρα — the same doubling Fagles uses
+  (and Green, in his own way) to bridge the long gap between noun and
+  epithet. A defensible solution to a real problem, but a solution Fagles
+  arrived at first.</p>
   <p><strong>"Man of many turnings":</strong> πολύτροπος is πολύ ("many") +
   τρόπος ("turn"). "Turnings" is the root-literal rendering — closer to the
   Greek than Lattimore's "ways," Fagles's "twists and turns," Murray's
   "devices," or Green's "resourceful," and identical to none of them. The
-  shared "man of many ___" frame proves nothing about lineage: Greek
-  attaches a compound adjective to "man," English has no adjective
-  "much-turned," so nearly every literal translator lands on the same
-  syntactic frame independently — as Murray, Palmer, Butcher &amp; Lang,
-  and Lattimore all did across a century.</p>
-  <p><strong>"Driven wandering"</strong> renders πλάγχθη, the passive of a
-  verb meaning "drive off course" — which is why "driven" appears in
-  Lattimore and Fagles too. Convergence on a verb's core meaning is what
-  translation is.</p>
-  <p><strong>"Troy's holy citadel":</strong> where Lattimore and Murray
-  agree with each other ("sacred citadel"), this translation goes its own
-  way ("holy") — again the opposite of the borrowing pattern. And a
-  concession critics counted fairly: μάλα ("very") goes untranslated in
-  line 2, the kind of small-word sacrifice to meter and idiom that human
-  translators make on every page.</p>
+  "man of many ___" frame is shared with Murray and Lattimore, half a
+  century apart — Greek attaches a compound adjective to "man," English
+  has no adjective "much-turned," and the genitive frame is the standard
+  literalist's escape (though not the only one: Butcher &amp; Lang found
+  "so ready at need," Palmer "the adventurous man").</p>
+  <p><strong>"Driven wandering far, once he had sacked":</strong> πλάγχθη
+  is the passive of a verb meaning "drive off course," which is why
+  "driven" appears in Lattimore and Fagles too; "driven wandering" spends
+  two English words unpacking the one Greek verb, a defensible but not
+  inevitable choice. "Once he had" for ἐπεί matches Fagles's construction
+  ("once he had plundered") where Murray and Lattimore write "after";
+  either is ordinary English for the clause, and this translation's word
+  order follows the Greek's, but the resemblance is there to see.</p>
+  <p><strong>"Troy's holy citadel"</strong> shares its frame with
+  Lattimore's "Troy's sacred citadel" and swaps the adjective — ἱερόν can
+  be either. Divergence inside a shared construction is consistent with
+  independent translation of the same words; it is not, by itself,
+  evidence of independence, and we don't claim otherwise. And a concession
+  critics counted fairly: μάλα ("very") goes untranslated in line 2, the
+  kind of small-word sacrifice to meter and idiom that human translators
+  make on every page.</p>
+  <p>The honest summary of the proem: these are the most
+  Lattimore-and-Fagles-adjacent lines anyone has identified in the poem —
+  the most translated, most quoted, most memorized hexameters in Greek,
+  where the gravitational pull of famous renderings is at its strongest —
+  and they contain real echoes alongside real independence. What a single
+  conspicuous line cannot do is sustain a verdict about a 124,000-word
+  text; that is what the whole-book measurements above are for, and they
+  bound long-form reuse tightly.</p>
 </section>
 
 <section>

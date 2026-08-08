@@ -162,24 +162,38 @@ Honest framing (do not overclaim in the note):
   79.5% of 5-grams / 95.1% of 8-grams / 65.8% of 4-grams appear in NONE (nine-text union incl. Green).
   Longest run with anyone: 29 words (Murray). Positive control: a
   deliberate 12-token splice of Murray+B&L+Lattimore scores 67% on the
-  same union test vs the translation's 18.4% — the test detects real
-  stitching loudly. Correct scope of conclusion: "not assembled to any
-  substantial degree from verbatim passages of >=4 words." Sub-4-word
-  mosaic / one-word-in-five paraphrase would evade it; say so.
-- Fagles specifically: no support (1.7%, no run >=16; longest 14-word run
-  also shared verbatim between Fagles and Murray). Below eleven human
-  pairings including Fagles-Green (1.0%).
+  same union test vs the translation's 20.5%. ROUND-2 CORRECTION (GPT
+  reran splices at multiple chunk sizes; verified exactly): pure 5-word
+  splice scores 20.7% on the 5-gram test — indistinguishable from the
+  translation's 20.5% — because sliding windows cross fragment
+  boundaries. Correct scope: "strongly disfavors assembly from verbatim
+  passages of ~8-12 words or longer; CANNOT exclude 4-6-word mosaics."
+  Secondary observation, not proof: any pure sub-12-word mosaic yields
+  ZERO runs >=12, vs the translation's 170 with Murray / 49 with Green —
+  the long-run profile matches convergent translation (Green-Murray: 42),
+  not concatenation; a mixture would land between and can't be excluded.
+- Fagles, corrected round 2: "modest but not absent," never "no support
+  at all." The 1.7% EXCEEDS every human-Fagles pairing (max: Lattimore
+  1.1%, Green 1.0%) — state this unprompted. But: fraction of the
+  Murray/Lattimore affinities, five runs >=12, none >=16, longest is a
+  formula Fagles shares verbatim with Murray. Not a meaningful donor;
+  minor influence not excludable.
 - The convergence-magnet detail: the longest run shared with Fagles AND
   the longest shared with Green are the SAME passage — the repeated
   clothing-promise formula (14.516 -> 21.339, five occurrences), which
   this translation deliberately renders identically at each return per
   the formula rule. Where translations converge verbatim, they converge
   on Homer's own repetitions.
-- Proem, word by word (the actual accusation site): "Tell me the man"
-  keeps the bare accusative no alleged source keeps; "turnings" is the
-  root-literal polytropos no source uses; "holy citadel" diverges where
-  Lattimore+Murray agree ("sacred"); "driven" is the verb's core meaning
-  (that's why L and F have it too); mala ("very") dropped — concede.
+- Proem, word by word, round-2 posture (concede-then-bound, per review):
+  argue from the Greek where true ("Tell me the man" bare accusative;
+  "turnings" root-literal; only Murray+Lattimore use the "man of many _"
+  frame — NOT B&L/Palmer, don't overcite), and concede the real echoes:
+  "the man...the man" doubling parallels Fagles (Greek has one andra);
+  "once he had" matches Fagles's construction; "holy citadel" is synonym
+  substitution inside Lattimore's frame (consistent with independence,
+  not evidence of it); mala dropped. Close with proportionality: the
+  proem is the most famous-rendering-saturated line in Greek; one line
+  cannot sustain a verdict on 124,000 words — the whole-book bounds do.
 - What copying looks like: Butler's PG file shares a 253-word verbatim
   run with B&L — his preface quoting them. (First analysis said 60 —
   that was the search cap, caught in review.) Cleaned to bodies only,

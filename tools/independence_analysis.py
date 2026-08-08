@@ -85,6 +85,9 @@ def tokenize(text):
     # standalone "fi"/"fl"/"ff", so these joins are safe no-ops there)
     text = re.sub(r'\b(ffi|ffl|fi|fl|ff)\s+(?=[a-z])', r'\1', text)
     text = re.sub(r'\b(Th|th)\s+(?=[aeiouy])', r'\1', text)
+    # PDF drop-cap splits at line start: "T roy", "Y et" — join a lone
+    # capital onto a following lowercase word, except A/I/O which are words
+    text = re.sub(r'^([B-HJ-NP-Z])\s+(?=[a-z])', r'\1', text, flags=re.M)
     text = text.lower()
     text = re.sub(r'[‘’]', "'", text)
     text = re.sub(r"'s\b", '', text)
@@ -150,21 +153,17 @@ def load_public():
                         lambda l: 'Tell me, Muse, of that man, so ready at need' in l)
     texts['butcher_lang'] = tokenize('\n'.join(body))
 
-    # Cowper: editor front matter removed; per-book FOOTNOTES blocks removed
-    # (his ARGUMENT summaries retained — a few hundred words, noted on page).
+    # Cowper: his verse is uniformly indented; unindented lines are paratext
+    # (editor front matter, BOOK headers, prose ARGUMENT summaries, footnotes)
     lines = strip_gutenberg(fetch('cowper', SOURCES['cowper'])).split('\n')
-    body, started, in_notes = [], False, False
+    body, started = [], False
     for ln in lines:
         if not started:
             if 'Muse make the man thy theme' in ln:
                 started = True
             else:
                 continue
-        if ln.strip() == 'FOOTNOTES:':
-            in_notes = True
-        elif in_notes and re.match(r'^BOOK [XVI]+', ln.strip()):
-            in_notes = False
-        if not in_notes:
+        if not ln.strip() or ln[0] in ' \t':
             body.append(ln)
     texts['cowper'] = tokenize('\n'.join(body))
 
@@ -292,26 +291,40 @@ def main():
         print(f'  {n}-gram: {hits/len(grams)*100:5.2f}% found, '
               f'{100-hits/len(grams)*100:.1f}% in none')
 
-    # positive control: a deliberate verbatim splice, alternating 12-token
-    # chunks from the three most literal texts — what "stitching" would score
+    # positive controls: deliberate verbatim splices at several chunk sizes,
+    # calibrating what "stitching" scores on the union test. Only ~(c-n+1)/c
+    # of sliding n-gram windows fit inside a c-word chunk, so short-fragment
+    # mosaics score low by construction — the calibration shows exactly which
+    # assembly scales this test can and cannot detect.
     donors = [texts[k] for k in ('murray', 'butcher_lang', 'lattimore')
               if k in texts][:3]
     if len(donors) >= 2:
-        splice, pos = [], [0]*len(donors)
-        while len(splice) < len(cl):
-            for d, t in enumerate(donors):
-                splice.extend(t[pos[d]:pos[d]+12])
-                pos[d] += 12
-        splice = splice[:len(cl)]
-        union5 = set()
+        unions = {n: set() for n in (4, 5)}
         for nm in humans:
-            union5 |= set(ngrams(texts[nm], 5))
-        grams = ngrams(splice, 5)
-        hits = sum(1 for g in grams if g in union5)
-        print(f'\npositive control — verbatim splice of {len(donors)} texts, '
-              f'12-token chunks:')
-        print(f'  5-gram vs union: {hits/len(grams)*100:5.2f}% found '
-              f'(claudyssey: see above)')
+            for n in unions:
+                unions[n] |= set(ngrams(texts[nm], n))
+        print('\npositive controls — verbatim splices '
+              f'of {len(donors)} texts, by chunk size:')
+        print(f'  {"chunk":>6s} {"4-gram":>8s} {"5-gram":>8s} {"runs>=12 vs murray":>20s}')
+        for c in (4, 5, 6, 8, 12):
+            splice, pos = [], [0]*len(donors)
+            while len(splice) < len(cl):
+                for d, t in enumerate(donors):
+                    splice.extend(t[pos[d]:pos[d]+c])
+                    pos[d] += c
+            splice = splice[:len(cl)]
+            fr = {}
+            for n in unions:
+                grams = ngrams(splice, n)
+                fr[n] = sum(1 for g in grams if g in unions[n]) / len(grams)
+            nruns = len(maximal_runs(splice, texts['murray'])) if 'murray' in texts else 0
+            print(f'  {c:6d} {fr[4]*100:7.2f}% {fr[5]*100:7.2f}% {nruns:20d}')
+        cl_fr = {}
+        for n in unions:
+            grams = ngrams(cl, n)
+            cl_fr[n] = sum(1 for g in grams if g in unions[n]) / len(grams)
+        print(f'  claud. {cl_fr[4]*100:7.2f}% {cl_fr[5]*100:7.2f}% '
+              f'{"(170 — convergent-run profile)":>20s}')
 
 
 if __name__ == '__main__':
