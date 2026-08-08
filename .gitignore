@@ -19,3 +19,4 @@ tools/__pycache__/
 # epub build scratch
 epub-build/work/
 epub-build/inspect/
+corpus/

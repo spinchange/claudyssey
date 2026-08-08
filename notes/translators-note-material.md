@@ -106,112 +106,73 @@ The translation deliberately preserves collisions rather than smoothing them:
   ὀδυσσάμενος).
 - Source: Murray 1919 Loeb via Perseus, with its three athetized omissions
   and two transposed pairs (3.304–305, 14.63–64) kept faithfully.
-
 ## 5. The independence question: measured overlap with prior translations
 
-(Analysis run 2026-08-08 in response to the HN thread's "re-synthesis of
-existing translations" objection. Method: lowercase, strip punctuation and
-possessives, normalize Latin↔Greek proper names (Ulysses→Odysseus etc.),
-then measure (a) the fraction of the translation's word n-grams appearing
-anywhere in each comparison text and (b) maximal verbatim shared runs.
-Comparison texts: Murray 1919 (Loeb — the facing translation of the exact
-Greek source used), Butcher & Lang 1879, Butler 1900, Cowper 1791, Pope
-1725, and Fagles 1996 (from the user's own copy; statistics only, text
-never redistributed). Human-vs-human pairs measured with the identical
-method as controls.)
+(Analysis 2026-08-08, revised same day after adversarial review by a
+GPT-5.6 reviewer, which caught a capped-run-length bug, paratext
+contamination in the Gutenberg corpora, and several overclaims. Canonical
+numbers and method now live in tools/independence_analysis.py — fully
+reproducible from a public clone for the public-domain rows; Lattimore and
+Fagles rows require private copies via --lattimore/--fagles. The public
+page is docs/independence.html. Old ad-hoc scripts removed.)
 
-Findings:
+Method: translation bodies only (prefaces/notes stripped), lowercased,
+punctuation and possessives stripped, names normalized across traditions
+incl. Lattimore's Greek spellings; n-gram overlap reported as the larger
+of the two directions; maximal verbatim shared runs uncapped.
 
-| pair | 5-gram overlap | 8-gram | runs ≥12 words | longest run |
-|---|---|---|---|---|
-| This translation vs Murray | 8.9% | 2.3% | 170 | 29 |
-| This translation vs Butcher & Lang | 5.2% | 0.9% | 46 | 22 |
-| This translation vs Butler | 1.6% | 0.1% | — | 12 |
-| This translation vs Cowper | 0.2% | 0.0% | — | 9 |
-| This translation vs Pope | 0.02% | 0.0% | — | 6 |
-| **This translation vs Fagles** | **1.7%** | **0.2%** | 5 | **14** |
-| **This translation vs Lattimore (1967)** | **6.2%** | **1.1%** | **62** | **24** |
-| This translation vs Palmer (1891) | 3.8% | 0.6% | 30 | 19 |
-| **Control: Butcher & Lang vs Murray** | **13.6%** | **4.5%** | **476** | **32** |
-| Control: Butler vs Murray | 1.7% | 0.2% | 10 | 22 |
-| Control: Cowper vs Pope | 0.1% | 0.0% | — | 8 |
-| Control: Murray vs Fagles | 0.8% | 0.04% | 1 | 14 |
-| Control: Butcher & Lang vs Fagles | 0.5% | 0.02% | 0 | 10 |
-| Control: Butler vs Fagles | 0.5% | 0.02% | 0 | 11 |
-| Control: Murray vs Palmer | 4.5% | — | 52 | 20 |
-| Control: Butcher & Lang vs Palmer | 2.3% | — | 18 | 18 |
-| Control: Butler vs Palmer | 0.9% | — | — | 12 |
-| Control: Murray vs Lattimore | 3.5% | 0.4% | 23 | 21 |
-| Control: Butcher & Lang vs Lattimore | 2.1% | 0.2% | 11 | 14 |
-| Control: Palmer vs Lattimore | 1.7% | 0.1% | 3 | 15 |
-| Control: Fagles vs Lattimore | 1.1% | 0.1% | 3 | 13 |
+This translation vs (5-gram / runs>=12 / runs>=16 / longest):
 
-- The translation's *highest* overlap (with Murray, the most literal prior
-  translation of the very same Greek text, and certainly present in
-  training data via Perseus) is well *below* the overlap between two
-  independent human literal translations of that text (Butcher & Lang vs
-  Murray: 13.6% vs 8.9% at 5-grams; 476 vs 170 long shared runs).
-- Stitching test: against the union of all eight prior translations at
-  once (Lattimore and Fagles included), 81.6% of this translation's
-  5-grams and 95.7% of its 8-grams appear in none of them.
-- Lattimore (with Fagles, the pair the HN thread named): 6.2% of 5-grams
-  shared, 62 runs of 12+ words (11 of 16+), longest 24 words (2.261ff,
-  Telemachus washing his hands in the gray salt water before prayer).
-  This is the highest overlap of any *modern* translation measured, and —
-  unlike the Murray/Palmer/Fagles rows — the translation tops the human
-  panel against Lattimore (Murray manages 3.5%). State this plainly, then
-  give the two readings side by side: (a) Lattimore is the panel's only
-  line-for-line literal verse translation in modern register — the same
-  method, so highest convergence is what the literalness-not-lineage
-  theory *predicts*; the panel contains no human translation of matched
-  method to serve as the true control. (b) Read uncharitably as
-  influence, the magnitude is still half of ordinary human-human literal
-  convergence (Butcher & Lang vs Murray: 13.6%, 476 runs, 99 of 16+ vs
-  62 and 11 here), and equal to Murray-vs-Palmer's 11 runs of 16+ words.
-  Decisive against "mishmash of Lattimore and Fagles" specifically: this
-  translation resembles Murray (8.9%) *more* than Lattimore (6.2%) and
-  Fagles barely at all (1.7%) — the ordering tracks how literal each
-  predecessor is, not how famous.
-- Fagles specifically (the translation the HN thread accused, alongside
-  Lattimore): 1.7% of 5-grams shared, longest verbatim run 14 words —
-  and that same 14-word run ("give him a two-edged sword and sandals for
-  his feet and send him," 1.113ff Athena on Telemachus) is *also* shared
-  verbatim between Murray 1919 and Fagles. No run of 16+ words exists.
-  Register caveat to state honestly: this translation's overlap with
-  Fagles (1.7%) is ~2–3× the archaic-register controls' (0.5–0.8%),
-  plausibly because both are modern English while Murray/Butcher & Lang
-  are thee/thou prose — the clean control would be another modern
-  translation (Wilson, Lombardo), not yet measured. Even read
-  uncharitably as influence rather than shared register, the ceiling is
-  a fraction of ordinary human-human literal convergence (13.6%).
-- Bonus negative control: against Fagles's *Iliad* (his voice, different
-  poem), this translation shares 0.30% of 5-grams (longest run 8 words,
-  all stock formulas) vs Murray's-Odyssey-to-Fagles's-Iliad baseline of
-  0.20% — no detectable Fagles house style.
-- Palmer 1891 (plain-prose literal, from an archive.org scan mislabeled
-  as "Lattimore 1967" — the OCR text is unmistakably Palmer: "Speak to
-  me, Muse, of the adventurous man," "clear-eyed Athene," "discreet
-  Telemachus") partially answers the register caveat above: Palmer
-  writes plain modern-ish English with no thee/thou, yet this
-  translation overlaps him at 3.8% of 5-grams — *below* the
-  Murray-vs-Palmer human control (4.5%). Even against a plain-register
-  literal human translation, the work sits inside the human convergence
-  band. (Palmer OCR noise slightly depresses all Palmer rows equally.)
-- Reading: overlap tracks *literalness of method*, not lineage. Two
-  translators (human or machine) rendering the same Greek line word-for-
-  word converge; that convergence is a property of the genre, and this
-  translation sits inside — below the middle of — the human range.
-- Honest caveats for the note: Fitzgerald/Wilson not yet measured
-  (copyright; pending user-supplied copies); Lattimore normalization maps
-  his Greek-style spellings (Telemachos, Kirke, Ithaka…) to the Latinate
-  forms before comparison so spelling doesn't mask overlap. The longest verbatim
-  run shared with Murray is real and worth citing as an example (4.540ff,
-  29 words, "...my fill of weeping and writhing, then the unerring old man
-  of the sea said to me..."), against the human-human control's longest of
-  32. Butler's file shares a 60-word run with Butcher & Lang only because
-  Butler's preface *quotes* them — a nice illustration of what actual
-  copying looks like versus convergence.
-- Scripts: tools/overlap_analysis.py and tools/overlap_runs.py (comparison
-  texts downloaded from Gutenberg/Scaife at run time; paths inside point at
-  the session scratchpad and need adjusting to rerun). Rerun against
-  Lattimore et al. when copies are available.
+- Murray 1919:        8.9% / 170 / 27 / 29
+- Lattimore 1967:     6.2% /  62 / 11 / 24
+- Butcher & Lang:     5.3% /  52 /  7 / 22
+- Palmer 1891:        4.0% /  31 /  4 / 19
+- Fagles 1996:        1.7% /   5 /  0 / 14
+- Butler 1900:        1.6% /   0 /  0 / <12
+- Cowper / Pope:      0.2% / 0.02% — nothing >=12
+
+All 28 human-human pairs computed. Top: Murray-B&L 15.2% (492 runs, 105
+>=16, longest 32) — a single outlier, and NOT a clean independence
+baseline (Murray 1919 postdates B&L 1879 in the same archaizing literal
+tradition). Next: Murray-Palmer 5.0%, Murray-Lattimore 3.5%. Median human
+pair ~0.5%.
+
+Honest framing (do not overclaim in the note):
+
+- Three of this translation's affinities (Murray, Lattimore, B&L) exceed
+  every human pair except Murray-B&L. High-percentile, said plainly.
+  The numbers cannot decompose "same method, same Greek, same register"
+  from "model influence"; no matched-method human control exists in the
+  panel (Wilson would be closest — row pending a measurable copy).
+- What IS bounded: verbatim reuse. Union test vs all eight at once:
+  81.6% of 5-grams / 95.7% of 8-grams / 68.6% of 4-grams appear in NONE.
+  Longest run with anyone: 29 words (Murray). Positive control: a
+  deliberate 12-token splice of Murray+B&L+Lattimore scores 67% on the
+  same union test vs the translation's 18.4% — the test detects real
+  stitching loudly. Correct scope of conclusion: "not assembled to any
+  substantial degree from verbatim passages of >=4 words." Sub-4-word
+  mosaic / one-word-in-five paraphrase would evade it; say so.
+- Fagles specifically: no support (1.7%, no run >=16; longest 14-word run
+  also shared verbatim between Fagles and Murray). Below four different
+  human pairings.
+- Proem, word by word (the actual accusation site): "Tell me the man"
+  keeps the bare accusative no alleged source keeps; "turnings" is the
+  root-literal polytropos no source uses; "holy citadel" diverges where
+  Lattimore+Murray agree ("sacred"); "driven" is the verb's core meaning
+  (that's why L and F have it too); mala ("very") dropped — concede.
+- What copying looks like: Butler's PG file shares a 253-word verbatim
+  run with B&L — his preface quoting them. (First analysis said 60 —
+  that was the search cap, caught in review.) Cleaned to bodies only,
+  Butler-B&L collapses to 3 runs, longest 14. Quotation vs convergence.
+- Fagles-Iliad cross-poem aside: 0.30% vs Murray's 0.20% — describe as
+  "same order," never "statistically indistinguishable" (no uncertainty
+  estimate).
+
+For the translator's note eventually: use the strongest defensible
+conclusion, roughly — "Across eight comparison texts we found no evidence
+of construction by extensive verbatim reuse; exact-text affinity to
+Fagles is weak; affinity to Lattimore is conspicuously higher and may
+reflect matched method, model influence, or both; these tests cannot
+exclude shorter-form, syntactic, semantic, or interpretive dependence —
+the debts every translator owes predecessors."
+
