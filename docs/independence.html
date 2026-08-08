@@ -4,9 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Is it a remix? — measuring the Claudyssey against nine translations</title>
-<meta name="description" content="An AI translation of the Odyssey is often assumed to be a re-synthesis of the human translations in its training data. Part of that claim is measurable. We measured it — against nine translations from Pope to Green, with all 36 human-vs-human pairs as controls, and we report exactly what the numbers do and do not establish.">
+<meta name="description" content="An AI translation of the Odyssey is often assumed to be a re-synthesis of the human translations in its training data. Part of that claim is measurable. We measured it against nine translations from Pope to Green, with all 36 human-vs-human pairs as controls, and we report exactly what the numbers do and do not establish.">
 <meta property="og:title" content="Is it a remix? Measuring the Claudyssey against nine translations">
-<meta property="og:description" content="N-gram overlap and verbatim shared-passage analysis against Murray, Lattimore, Fagles, Green, and five others — with the full human-vs-human control matrix and a synthetic-splice positive control.">
+<meta property="og:description" content="N-gram overlap and verbatim shared-passage analysis against Murray, Lattimore, Fagles, Green, and five others, with the full human-vs-human control matrix and a synthetic-splice positive control.">
 <style>
   :root{
     --wine:#46192b; --wine-deep:#1e0b15; --bone:#ead9b4; --gold:#c99b3f;
@@ -75,32 +75,32 @@
   <h2>The question, and what can be tested</h2>
   <p>When this translation was shared publicly, the most common objection was
   immediate and reasonable: a language model has read every famous English
-  Odyssey — Lattimore, Fagles, Wilson, and the rest are in its training data —
+  Odyssey (Lattimore, Fagles, Wilson, and the rest are in its training data),
   so its "translation" must really be a re-synthesis of theirs. One commenter
   called the opening "a crappy mishmash of Lattimore and Fagles"; another
   wrote that it "clearly combines a few translations line by line."</p>
   <p>Part of that objection is untestable, and we concede it up front: prior
   translations live in the model's weights regardless of what it was prompted
   with, just as they live in the memory of any human translator working
-  today. No output analysis can establish what a model — or a person — was
+  today. No output analysis can establish what a model, or a person, was
   shaped by. What <em>can</em> be measured is reuse: whether the text of this
   translation reproduces the wording of its predecessors, at what lengths,
   and how that compares with how much human translators of the same poem
   reproduce each other. This page reports those measurements, states exactly
   what they do and do not establish, and takes the accusation's strongest
-  form seriously — including a word-by-word look at the very lines the
+  form seriously, including a word-by-word look at the very lines the
   accusation was made about.</p>
 </section>
 
 <section>
   <h2>Method</h2>
   <p>Ten texts: this translation (~124,000 words) and nine English Odysseys
-  spanning 293 years — Pope (1725), Cowper (1791), Butcher &amp; Lang
-  (1879), Palmer (1891), Butler (1900), Murray (1919 — the Loeb prose facing
-  the very Greek text this project translated), Lattimore (1967), Fagles
-  (1996), and Green (2018). Each is trimmed to <em>translation body
+  spanning 293 years. The panel: Pope (1725), Cowper (1791), Butcher &amp;
+  Lang (1879), Palmer (1891), Butler (1900), Murray (1919, the Loeb prose
+  facing the very Greek text this project translated), Lattimore (1967),
+  Fagles (1996), and Green (2018). Each is trimmed to <em>translation body
   only</em>: prefaces, introductions, and footnotes removed, so that quoted
-  or editorial matter cannot masquerade as translation (this matters — see
+  or editorial matter cannot masquerade as translation (this matters; see
   "What copying looks like" below). Everything is lowercased, punctuation,
   possessives, and diacritics stripped, and proper names normalized across
   traditions (Ulysses→Odysseus, Lattimore's Telemachos→Telemachus, Green's
@@ -111,7 +111,7 @@
   other, taking the larger of the two directions; and every
   <strong>maximal verbatim shared passage</strong> of 12 or more words, with
   no cap on length. All 36 human-vs-human pairings are computed with the
-  identical procedure and shown below, the smallest grouped for space — the
+  identical procedure and shown below, the smallest grouped for space. The
   controls are the whole point, since any two literal translations of the
   same Greek converge substantially without either copying the other. The
   Lattimore, Green, and Palmer texts come from scans; residual OCR noise
@@ -119,10 +119,10 @@
   <p>Public-domain texts come from Project Gutenberg and the Perseus/Scaife
   library; the script downloads them and prints a hash of each cleaned
   corpus. Lattimore, Fagles, and Green, still in copyright, were measured
-  from privately held copies — only statistics are published, never their
-  text — so a public clone of <a
+  from privately held copies; only statistics are published, never their
+  text. A public clone of <a
   href="https://github.com/spinchange/claudyssey/blob/main/tools/independence_analysis.py">the
-  analysis script</a> reproduces the public-domain rows exactly and the
+  analysis script</a> therefore reproduces the public-domain rows exactly and the
   copyrighted rows given your own copies.</p>
 </section>
 
@@ -144,7 +144,7 @@
   </table>
   </div>
 
-  <p>And the complete human-vs-human control matrix — all 36 pairings of the
+  <p>And the complete human-vs-human control matrix, all 36 pairings of the
   nine prior translations, same procedure, sorted:</p>
   <div class="tblwrap">
   <table>
@@ -174,15 +174,15 @@
   <p>Read plainly, the tables say four things:</p>
   <p><strong>Overlap tracks literalness of method, in humans and machine
   alike.</strong> Among humans, the literal translations occupy the entire
-  top of the matrix while Cowper and Pope — translating the identical poem —
+  top of the matrix while Cowper and Pope, translating the identical poem,
   share 0.1%. This translation's affinities follow the same gradient:
   highest with the most literal predecessors, lowest with the poets. That
   profile is consistent with independent literal translation, and not with
   a pastiche of the famous poetic versions.</p>
   <p><strong>The matched-method human control behaves like the
-  machine.</strong> Green's 2018 translation — literal, modern register,
+  machine.</strong> Green's 2018 translation (literal, modern register,
   line-matched to the Greek, the closest existing human analogue to this
-  project's method — shows the second-highest human affinity in the whole
+  project's method) shows the second-highest human affinity in the whole
   matrix (5.0% with Murray), and nobody supposes Green copied the Loeb.
   This translation's relationship to Green is numerically very similar to
   Green's own relationship to Murray: 5.3% vs 5.0% at 5-grams, 49 vs 42
@@ -198,20 +198,20 @@
   that prevalence; method-convergence predicts it should follow
   literalness. The observed result: three times the affinity for the
   little-quoted methodological sibling (5.3%) as for the ubiquitous
-  poetic one (1.7%) — and century-old literalists nobody reads (Butcher
-  &amp; Lang, Palmer) also outscore Fagles. Within this panel, affinity
+  poetic one (1.7%). Century-old literalists nobody reads (Butcher &amp;
+  Lang, Palmer) also outscore Fagles. Within this panel, affinity
   follows method, not fame. This is an inference over the table, not a
   measurement, and it shares the table's limits.</p>
   <p><strong>Two rows remain elevated, and we say so.</strong> Against
   Murray (8.9%) and Lattimore (6.3%), this translation runs roughly twice
-  Green's own affinity to the same texts (5.0%, 3.2%) — higher than every
+  Green's own affinity to the same texts (5.0%, 3.2%), higher than every
   human pairing except Murray · Butcher &amp; Lang, a single towering pair
   at 15.2% that is itself no certificate of independence (Murray postdates
   Butcher &amp; Lang by forty years in the same archaizing tradition; the
   median human pairing is about 0.5%). Two explanations fit the residue and
   these numbers cannot decompose them: this translation is stricter than
-  even Green — same line count, same word-order discipline, and Murray's
-  own Greek text as source, all of which push convergence up — and the
+  even Green (same line count, same word-order discipline, and Murray's
+  own Greek text as source, all of which push convergence up), and the
   model may carry some real gravity toward the literal translations in its
   training data. What the numbers do bound is the form any such influence
   took: the run profile stays human-shaped throughout (11 runs of ≥16 words
@@ -219,9 +219,9 @@
   verbatim reuse is capped by the next section.</p>
   <p><strong>The Fagles signal is modest but, in fairness, not
   absent.</strong> This translation's 1.7% overlap with Fagles exceeds
-  every human–Fagles pairing in the panel (the highest are Lattimore's
-  1.1% and Green's 1.0%) — worth stating because it is the kind of detail
-  a defense would prefer to omit. But it is a fraction of the Murray and
+  every human-vs-Fagles pairing in the panel (the highest are Lattimore's
+  1.1% and Green's 1.0%). That is worth stating because it is the kind of
+  detail a defense would prefer to omit. But it is a fraction of the Murray and
   Lattimore affinities, it comprises five shared runs of 12+ words and
   none of 16+, and the longest match (14 words) is a Homeric formula that
   Fagles also shares verbatim with Murray. The data do not support Fagles
@@ -230,8 +230,8 @@
 
 <section>
   <h2>Bounding verbatim reuse</h2>
-  <p>The "stitching" version of the accusation — the text was assembled from
-  pieces of prior translations — was tested against the union of all nine at
+  <p>The "stitching" version of the accusation (that the text was assembled
+  from pieces of prior translations) was tested against the union of all nine at
   once: an n-gram counts as matched if it appears in <em>any</em> of them.
   Result: <strong>79.5%</strong> of this translation's 5-grams and
   <strong>95.1%</strong> of its 8-grams appear in none of the nine; at
@@ -261,13 +261,13 @@
   so <em>the results strongly disfavor substantial assembly from verbatim
   passages of roughly eight to twelve words or longer</em>. But a text
   built entirely of exact five-word fragments scores 20.7% on the 5-gram
-  test — essentially this translation's 20.5% — because most sliding
+  test, essentially this translation's 20.5%, because most sliding
   windows cross fragment boundaries. N-gram union statistics <em>cannot
   exclude</em> short-fragment mosaic composition at the 4–6 word scale,
   and we do not claim they can.</p>
   <p>One measured observation bears on that remaining hypothesis without
   settling it. In these cyclic splices, sub-12-word chunks produce no
-  shared runs of 12+ words — though a differently built mosaic could, if
+  shared runs of 12+ words, though a differently built mosaic could if
   adjacent fragments came from the same source. This translation shares
   170 such runs with Murray and 49 with Green, a long-tailed profile that
   resembles the human controls (Green shows 42 against Murray) more than
@@ -291,26 +291,26 @@
   was-driven-to-wander · after · of-Troy · holy · citadel · he-sacked</blockquote>
   <p>This translation renders: <em>"Tell me the man, Muse — the man of many
   turnings, who was driven / wandering far, once he had sacked Troy's holy
-  citadel."</em> What follows reads the line both ways — where it argues
+  citadel."</em> What follows reads the line both ways: where it argues
   from the Greek, and where it genuinely resembles the accused sources.</p>
-  <p><strong>"Tell me the man"</strong> keeps Homer's bare accusative —
+  <p><strong>"Tell me the man"</strong> keeps Homer's bare accusative:
   ἄνδρα is the direct object of ἔννεπε. Every alleged source inserts an
   "of": Murray "Tell me <em>of</em> the man," Lattimore "Tell me, Muse,
   <em>of</em> the man," Fagles "Sing to me <em>of</em> the man." (Green
-  feels the same pull the Greek exerts — he fronts the noun, "The man, Muse
-  — tell me about that resourceful man" — but resolves it with "about.")
+  feels the same pull the Greek exerts; he fronts the noun, "The man, Muse
+  — tell me about that resourceful man," but resolves it with "about.")
   The one construction in the line that is uniquely this translation's is
   the one closest to the Greek. Against that: the line then repeats "the
-  man" where the Greek has a single ἄνδρα — the same doubling Fagles uses
+  man" where the Greek has a single ἄνδρα, the same doubling Fagles uses
   (and Green, in his own way) to bridge the long gap between noun and
   epithet. A defensible solution to a real problem, but a solution Fagles
   arrived at first.</p>
   <p><strong>"Man of many turnings":</strong> πολύτροπος is πολύ ("many") +
-  τρόπος ("turn"). "Turnings" is the root-literal rendering — closer to the
+  τρόπος ("turn"). "Turnings" is the root-literal rendering, closer to the
   Greek than Lattimore's "ways," Fagles's "twists and turns," Murray's
   "devices," or Green's "resourceful," and identical to none of them. The
   "man of many ___" frame is shared with Murray and Lattimore, half a
-  century apart — Greek attaches a compound adjective to "man," English
+  century apart. Greek attaches a compound adjective to "man," English
   has no adjective "much-turned," and the genitive frame is the standard
   literalist's escape (though not the only one: Butcher &amp; Lang found
   "so ready at need," Palmer "the adventurous man").</p>
@@ -323,7 +323,7 @@
   either is ordinary English for the clause, and this translation's word
   order follows the Greek's, but the resemblance is there to see.</p>
   <p><strong>"Troy's holy citadel"</strong> shares its frame with
-  Lattimore's "Troy's sacred citadel" and swaps the adjective — ἱερόν can
+  Lattimore's "Troy's sacred citadel" and swaps the adjective; ἱερόν can
   be either. Divergence inside a shared construction is consistent with
   independent translation of the same words; it is not, by itself,
   evidence of independence, and we don't claim otherwise. And a concession
@@ -331,12 +331,12 @@
   kind of small-word sacrifice to meter and idiom that human translators
   make on every page.</p>
   <p>The honest summary of the proem: these are the most
-  Lattimore-and-Fagles-adjacent lines anyone has identified in the poem —
+  Lattimore-and-Fagles-adjacent lines anyone has identified in the poem:
   the most translated, most quoted, most memorized hexameters in Greek,
-  where the gravitational pull of famous renderings is at its strongest —
-  and they contain real echoes alongside choices independently warranted
+  where the gravitational pull of famous renderings is at its strongest.
+  They contain real echoes alongside choices independently warranted
   by the Greek. What a single
-  conspicuous line cannot do is sustain a verdict about a 124,000-word
+  conspicuous line cannot do, though, is sustain a verdict about a 124,000-word
   text; that is what the whole-book measurements above are for, and they
   bound long-form reuse tightly.</p>
 </section>
@@ -345,26 +345,26 @@
   <h2>What copying actually looks like</h2>
   <p>The corpus supplied its own demonstration. Butler's Project Gutenberg
   file contains a <strong>253-word verbatim match</strong> with Butcher
-  &amp; Lang — because Butler's preface quotes their rendering of the proem
+  &amp; Lang, because Butler's preface quotes their rendering of the proem
   at length in order to mock it. Once prefaces and notes are trimmed away
-  and only translation bodies compared, the Butler–Butcher &amp; Lang
+  and only translation bodies compared, the Butler/Butcher &amp; Lang
   figure collapses to three shared runs, longest 14 words. That is the
   difference between quotation and convergence: real reproduction announces
   itself in hundreds of consecutive words on the first string search.
   Nothing remotely like it exists between this translation and any
   predecessor.</p>
   <p>Where translations <em>do</em> converge verbatim, they converge on the
-  same lines — Homer's formulas. The longest passage this translation
+  same lines: Homer's formulas. The longest passage this translation
   shares with Fagles and the longest it shares with Green are the same
   passage: the recurring clothing-promise ("…a two-edged sword, and sandals
   for his feet, and send him wherever his heart and spirit bid…"), a
   formula the poem itself repeats five times (14.516 → 21.339) and which
-  this translation — following its rule that repeated Greek formulas recur
-  verbatim in English — renders identically at each return, as Murray,
+  this translation, following its rule that repeated Greek formulas recur
+  verbatim in English, renders identically at each return, as Murray,
   Fagles, and Green do too. The places that look most "copied" are the
   places Homer copied himself.</p>
-  <blockquote>A cross-poem aside: against Fagles's <em>Iliad</em> — his
-  voice, a different poem — this translation shares 0.30% of 5-grams
+  <blockquote>A cross-poem aside: against Fagles's <em>Iliad</em> (his
+  voice, a different poem) this translation shares 0.30% of 5-grams
   (longest run: 8 words, all stock formulas), of the same order as the
   0.20% that Murray's 1919 Odyssey shares with it. No formal test of
   style is claimed here; the point is only that no gross Fagles
@@ -374,9 +374,9 @@
 <section>
   <h2>Scope, and how to check this</h2>
   <p>What these measurements cannot do: establish what shaped the model
-  (conceded at the top); detect dependence carried in short fragments —
-  the calibration above shows the four-to-six-word scale is outside this
-  test's reach — in syntax, or in interpretive choices, the debts every
+  (conceded at the top); detect dependence carried in short fragments
+  (the calibration above shows the four-to-six-word scale is outside this
+  test's reach), in syntax, or in interpretive choices, the debts every
   translator, human or machine, owes their predecessors; or say anything
   about literary quality, copyright, or the ethics of machine translation,
   which are real questions outside this page's scope. Wilson (2017) and
@@ -385,13 +385,13 @@
   syntactic or semantic similarity measures would probe finer dependence
   than n-grams can; they remain open work.</p>
   <p>Provenance: this page was prepared with the same class of model that
-  made the translation, so don't take our framing on trust — the method is
+  made the translation, so don't take our framing on trust: the method is
   fully specified above, the script downloads and hashes the corpora, and
   <a href="https://github.com/spinchange/claudyssey/blob/main/tools/independence_analysis.py">a
   public clone reruns the entire table</a> (copyrighted texts supplied by
   path). Before publication the analysis was audited by a model from a
-  different lab — the same reviewer lineage used in this project's
-  two-agent review passes — which surfaced a run-length cap bug, preface
+  different lab (the same reviewer lineage used in this project's
+  two-agent review passes), which surfaced a run-length cap bug, preface
   contamination in two corpora, and framing that outran the metrics. The
   corrections are incorporated above and itemized in the repository's
   commit history; Green was added to the panel afterward, closing the
