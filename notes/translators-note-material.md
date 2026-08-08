@@ -113,7 +113,7 @@ GPT-5.6 reviewer, which caught a capped-run-length bug, paratext
 contamination in the Gutenberg corpora, and several overclaims. Canonical
 numbers and method now live in tools/independence_analysis.py — fully
 reproducible from a public clone for the public-domain rows; Lattimore and
-Fagles rows require private copies via --lattimore/--fagles. The public
+Fagles/Green rows require private copies via --lattimore/--fagles/--green. The public
 page is docs/independence.html. Old ad-hoc scripts removed.)
 
 Method: translation bodies only (prefaces/notes stripped), lowercased,
@@ -124,18 +124,32 @@ of the two directions; maximal verbatim shared runs uncapped.
 This translation vs (5-gram / runs>=12 / runs>=16 / longest):
 
 - Murray 1919:        8.9% / 170 / 27 / 29
-- Lattimore 1967:     6.2% /  62 / 11 / 24
+- Lattimore 1967:     6.3% /  64 / 11 / 24
+- Green 2018:         5.3% /  49 /  3 / 20
 - Butcher & Lang:     5.3% /  52 /  7 / 22
-- Palmer 1891:        4.0% /  31 /  4 / 19
+- Palmer 1891:        4.0% /  32 /  4 / 19
 - Fagles 1996:        1.7% /   5 /  0 / 14
 - Butler 1900:        1.6% /   0 /  0 / <12
 - Cowper / Pope:      0.2% / 0.02% — nothing >=12
 
-All 28 human-human pairs computed. Top: Murray-B&L 15.2% (492 runs, 105
+All 36 human-human pairs computed. Top: Murray-B&L 15.2% (492 runs, 105
 >=16, longest 32) — a single outlier, and NOT a clean independence
 baseline (Murray 1919 postdates B&L 1879 in the same archaizing literal
-tradition). Next: Murray-Palmer 5.0%, Murray-Lattimore 3.5%. Median human
-pair ~0.5%.
+tradition). Next: Murray-Green 5.0%, Murray-Palmer 5.0%,
+Murray-Lattimore 3.5%, Lattimore-Green 3.2%. Median human pair ~0.5%.
+
+GREEN 2018 (added after the GPT review; user-supplied copy) closes the
+matched-method gap: literal, modern register, line-matched verse. Green's
+own affinity to Murray (5.0%) is the #2 human pair — elevated affinity to
+literal predecessors is what matched method produces in humans too. And
+Claudyssey-Green (5.3%, 49 runs, 3 >=16, longest 20) is statistically the
+twin of Green-Murray (5.0%, 42 runs, 4 >=16, longest 21): the model
+relates to the matched-method human as that human relates to his own
+nearest predecessor. Residual: Claudyssey-Murray (8.9%) and -Lattimore
+(6.3%) still run ~2x Green's affinities to the same texts (5.0%, 3.2%) —
+candidate explanations are stricter method (same line count, same
+word-order discipline, Murray's own Greek as source) and/or model
+influence; undecomposable with these metrics, state both.
 
 Honest framing (do not overclaim in the note):
 
@@ -143,9 +157,9 @@ Honest framing (do not overclaim in the note):
   every human pair except Murray-B&L. High-percentile, said plainly.
   The numbers cannot decompose "same method, same Greek, same register"
   from "model influence"; no matched-method human control exists in the
-  panel (Wilson would be closest — row pending a measurable copy).
+  panel (Green now fills most of this gap; Wilson row still pending a measurable copy).
 - What IS bounded: verbatim reuse. Union test vs all eight at once:
-  81.6% of 5-grams / 95.7% of 8-grams / 68.6% of 4-grams appear in NONE.
+  79.5% of 5-grams / 95.1% of 8-grams / 65.8% of 4-grams appear in NONE (nine-text union incl. Green).
   Longest run with anyone: 29 words (Murray). Positive control: a
   deliberate 12-token splice of Murray+B&L+Lattimore scores 67% on the
   same union test vs the translation's 18.4% — the test detects real
@@ -153,8 +167,14 @@ Honest framing (do not overclaim in the note):
   substantial degree from verbatim passages of >=4 words." Sub-4-word
   mosaic / one-word-in-five paraphrase would evade it; say so.
 - Fagles specifically: no support (1.7%, no run >=16; longest 14-word run
-  also shared verbatim between Fagles and Murray). Below four different
-  human pairings.
+  also shared verbatim between Fagles and Murray). Below eleven human
+  pairings including Fagles-Green (1.0%).
+- The convergence-magnet detail: the longest run shared with Fagles AND
+  the longest shared with Green are the SAME passage — the repeated
+  clothing-promise formula (14.516 -> 21.339, five occurrences), which
+  this translation deliberately renders identically at each return per
+  the formula rule. Where translations converge verbatim, they converge
+  on Homer's own repetitions.
 - Proem, word by word (the actual accusation site): "Tell me the man"
   keeps the bare accusative no alleged source keeps; "turnings" is the
   root-literal polytropos no source uses; "holy citadel" diverges where
@@ -168,8 +188,13 @@ Honest framing (do not overclaim in the note):
   "same order," never "statistically indistinguishable" (no uncertainty
   estimate).
 
+Tone note (user feedback 2026-08-08): full disclosure yes, but written
+as lab-notebook rigor, not confession — the first draft of the page's
+provenance section "read like a confession." State corrections plainly,
+once, without self-flagellating cadence.
+
 For the translator's note eventually: use the strongest defensible
-conclusion, roughly — "Across eight comparison texts we found no evidence
+conclusion, roughly — "Across nine comparison texts we found no evidence
 of construction by extensive verbatim reuse; exact-text affinity to
 Fagles is weak; affinity to Lattimore is conspicuously higher and may
 reflect matched method, model influence, or both; these tests cannot

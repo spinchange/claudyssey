@@ -12,7 +12,7 @@ without them the script reproduces the public-domain subtable.
 
 Usage:  python tools/independence_analysis.py [--lattimore PATH] [--fagles PATH]
 """
-import argparse, glob, hashlib, os, re, sys, urllib.request
+import argparse, glob, hashlib, os, re, sys, unicodedata, urllib.request
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CORPUS = os.path.join(ROOT, 'corpus')
@@ -49,6 +49,9 @@ NAME_MAP = {
     'lakedaimon': 'lacedaemon', 'okeanos': 'oceanus', 'kronos': 'cronos',
     'skylla': 'scylla', 'kharybdis': 'charybdis', 'ikarios': 'icarius',
     'aigis': 'aegis', 'grey': 'gray',
+    # Green 2018 (after diacritics are stripped: Athene/Ithake/Kirke...)
+    'ithake': 'ithaca', 'theoklymenos': 'theoclymenus', 'peiraios': 'piraeus',
+    'ktesippos': 'ctesippus', 'philoitios': 'philoetius', 'seirenes': 'sirens',
 }
 
 
@@ -75,6 +78,13 @@ def fetch(name, url):
 def tokenize(text):
     text = text.replace('­', '')
     text = re.sub(r'(\w)-\s*\n\s*(\w)', r'\1\2', text)   # hyphen line-breaks
+    # diacritics -> base letters (Green's Athēnē/Ithákē; harmless elsewhere)
+    text = ''.join(c for c in unicodedata.normalize('NFD', text)
+                   if not unicodedata.combining(c))
+    # PDF ligature splits: "Th e man", "fi rst" (no clean text contains
+    # standalone "fi"/"fl"/"ff", so these joins are safe no-ops there)
+    text = re.sub(r'\b(ffi|ffl|fi|fl|ff)\s+(?=[a-z])', r'\1', text)
+    text = re.sub(r'\b(Th|th)\s+(?=[aeiouy])', r'\1', text)
     text = text.lower()
     text = re.sub(r'[‘’]', "'", text)
     text = re.sub(r"'s\b", '', text)
@@ -229,6 +239,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--lattimore', help='path to a private copy (pdf or txt)')
     ap.add_argument('--fagles', help='path to a private copy (pdf or txt)')
+    ap.add_argument('--green', help='path to a private copy (pdf or txt)')
     args = ap.parse_args()
 
     texts = load_public()
@@ -238,6 +249,9 @@ def main():
     if args.fagles:
         texts['fagles'] = load_private(
             args.fagles, 'Sing to me of the man, Muse')
+    if args.green:
+        texts['green'] = load_private(
+            args.green, 'tell me about that resourceful man', 'Synopsis')
 
     print('corpus (translation body only, normalized):')
     for k, v in texts.items():
