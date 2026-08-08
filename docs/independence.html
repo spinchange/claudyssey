@@ -115,7 +115,7 @@
   controls are the whole point, since any two literal translations of the
   same Greek converge substantially without either copying the other. The
   Lattimore, Green, and Palmer texts come from scans; residual OCR noise
-  slightly depresses their rows, equally in every pairing.</p>
+  systematically depresses comparisons involving those texts.</p>
   <p>Public-domain texts come from Project Gutenberg and the Perseus/Scaife
   library; the script downloads them and prints a hash of each cleaned
   corpus. Lattimore, Fagles, and Green, still in copyright, were measured
@@ -176,9 +176,9 @@
   alike.</strong> Among humans, the literal translations occupy the entire
   top of the matrix while Cowper and Pope — translating the identical poem —
   share 0.1%. This translation's affinities follow the same gradient:
-  highest with the most literal predecessors, lowest with the poets. That is
-  the profile an independent literal translation would produce, and not the
-  profile of a pastiche of the famous poetic versions.</p>
+  highest with the most literal predecessors, lowest with the poets. That
+  profile is consistent with independent literal translation, and not with
+  a pastiche of the famous poetic versions.</p>
   <p><strong>The matched-method human control behaves like the
   machine.</strong> Green's 2018 translation — literal, modern register,
   line-matched to the Greek, the closest existing human analogue to this
@@ -242,7 +242,8 @@
   </div>
   <p>The calibration cuts both ways, and both directions belong on this
   page. Against long-fragment assembly it is decisive: splices at 8 and 12
-  words score two and a half to three times this translation's figures,
+  words score two and a half to three times this translation's figure on
+  the 5-gram measure (1.9–2.2× at 4-grams),
   so <em>the results strongly disfavor substantial assembly from verbatim
   passages of roughly eight to twelve words or longer</em>. But a text
   built entirely of exact five-word fragments scores 20.7% on the 5-gram
@@ -251,15 +252,17 @@
   exclude</em> short-fragment mosaic composition at the 4–6 word scale,
   and we do not claim they can.</p>
   <p>One measured observation bears on that remaining hypothesis without
-  settling it. Every pure mosaic of sub-12-word fragments produces zero
-  shared runs of 12+ words, by construction; this translation shares 170
-  such runs with Murray and 49 with Green — the same long-tailed profile
-  Green himself shows against Murray (42), which is the signature of
-  convergent translation rather than concatenation. A mixture — mosaic
-  passages amid independent text — would land between the profiles, and
-  nothing in these statistics can rule that out. Finer-grained dependence
-  is a question for reading, not string-counting, which is why the next
-  section reads the actual lines the accusation cited.</p>
+  settling it. In these cyclic splices, sub-12-word chunks produce no
+  shared runs of 12+ words — though a differently built mosaic could, if
+  adjacent fragments came from the same source. This translation shares
+  170 such runs with Murray and 49 with Green, a long-tailed profile that
+  resembles the human controls (Green shows 42 against Murray) more than
+  it resembles the synthetic splices. That is suggestive of convergence,
+  not diagnostic of it: a differently constructed mosaic or a mixed text
+  could produce another profile, and nothing in these statistics rules
+  that out. Finer-grained dependence is a question for reading, not
+  string-counting, which is why the next section reads the actual lines
+  the accusation cited.</p>
 </section>
 
 <section>
@@ -317,7 +320,8 @@
   Lattimore-and-Fagles-adjacent lines anyone has identified in the poem —
   the most translated, most quoted, most memorized hexameters in Greek,
   where the gravitational pull of famous renderings is at its strongest —
-  and they contain real echoes alongside real independence. What a single
+  and they contain real echoes alongside choices independently warranted
+  by the Greek. What a single
   conspicuous line cannot do is sustain a verdict about a 124,000-word
   text; that is what the whole-book measurements above are for, and they
   bound long-form reuse tightly.</p>
@@ -356,8 +360,9 @@
 <section>
   <h2>Scope, and how to check this</h2>
   <p>What these measurements cannot do: establish what shaped the model
-  (conceded at the top); detect dependence carried in fragments under four
-  words, in syntax, or in interpretive choices — the debts every
+  (conceded at the top); detect dependence carried in short fragments —
+  the calibration above shows the four-to-six-word scale is outside this
+  test's reach — in syntax, or in interpretive choices, the debts every
   translator, human or machine, owes their predecessors; or say anything
   about literary quality, copyright, or the ethics of machine translation,
   which are real questions outside this page's scope. Wilson (2017) and
