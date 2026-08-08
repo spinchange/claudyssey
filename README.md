@@ -123,6 +123,14 @@ What the build does:
   used ranges as woff2 (~190 KB) and embedded, so the Greek in the notes renders
   on every device.
 
+The Kindle and PDF editions are calibre conversions of the EPUB (the PDF's
+page-count target is A5 at 17pt, matching the print-style layout):
+
+```powershell
+ebook-convert epub-build\odyssey.epub epub-build\odyssey.azw3
+ebook-convert epub-build\odyssey.epub epub-build\odyssey.pdf --paper-size a5 --pdf-default-font-size 17
+```
+
 `tools/check_epub.py <file.epub>` is a lightweight structural validator
 (mimetype, OPF manifest/spine, and every internal link — including the
 noteref↔backlink pairing). It is not a substitute for W3C `epubcheck`, but
