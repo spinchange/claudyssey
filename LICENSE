@@ -1,0 +1,84 @@
+# Licensing
+
+This repository contains several distinct works under different terms. Each
+layer is listed separately below. When in doubt, the governing statements are
+these; the README, the EPUB colophon, the site footers, and
+`docs/api/manifest.json` restate them in shorter form.
+
+---
+
+## 1. The English translation — CC0 1.0 (public domain dedication)
+
+The 12,107 translated verse lines in `translation/book-01.md` through
+`translation/book-24.md` — the verse text only, exclusive of the footnote
+blocks in those same files — are dedicated to the public domain under
+Creative Commons CC0 1.0 Universal.
+
+https://creativecommons.org/publicdomain/zero/1.0/
+
+To the extent possible under law, the author has waived all copyright and
+related or neighboring rights to this translation. You may copy, modify,
+distribute, and perform the work, including for commercial purposes, without
+asking permission and without providing attribution.
+
+Attribution is not required. It is appreciated, and the suggested form is:
+
+    The Odyssey, translated by Claude (Fable 5), edited by Chris Duffy.
+    https://theclaudyssey.com
+
+## 2. The apparatus — CC BY 4.0
+
+Copyright (c) 2026 Chris Duffy. Licensed under Creative Commons
+Attribution 4.0 International.
+
+https://creativecommons.org/licenses/by/4.0/
+
+This covers the scholarly apparatus built around the translation:
+
+  - the line notes (the footnote blocks in `translation/book-*.md`)
+  - the introduction and other front matter
+  - the index of names and places (`index/`)
+  - the register of fixed renderings (`FORMULAS.md`)
+  - the independence analysis (`docs/independence.html`)
+
+You may share and adapt this material for any purpose, including
+commercially, provided you give appropriate credit, link to the license, and
+indicate whether changes were made.
+
+## 3. The Greek source text — public domain / CC BY-SA
+
+A. T. Murray's Greek text (Homer: The Odyssey, 2 vols., Heinemann/Putnam,
+1919) is in the public domain.
+
+The digitization in `greek/` is from the Perseus Digital Library
+(CTS URN `urn:cts:greekLit:tlg0012.tlg002.perseus-grc2`, from the
+PerseusDL/canonical-greekLit repository) and is distributed under
+CC BY-SA. That attribution is retained for the `greek/` directory and
+travels with any redistribution of those files.
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
+## 4. Embedded font — SIL Open Font License
+
+The EPUB embeds Gentium Plus for polytonic Greek, used under the SIL Open
+Font License. The full license text travels with the font in
+`epub-build/assets/GentiumPlus-OFL.txt`.
+
+---
+
+## A note on the translation's authorship
+
+The English translation was produced by a large language model (Claude,
+Fable 5) under human editorial direction. The EPUB records this in its
+EPUB3 creator metadata with MARC relator roles: Homer as author (`aut`),
+Claude (Fable 5) as translator (`trl`), Chris Duffy as editor (`edt`).
+
+This is stated plainly here because the CC0 dedication above invites reuse
+without attribution, and anyone reusing the text should know what they are
+reusing.
+
+## Audio
+
+Audio derived from this text (the generated audiobook) is **not** covered by
+the grants above. Its licensing is undetermined at this time. Do not assume
+CC0 applies to any recording.

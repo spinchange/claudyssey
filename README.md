@@ -173,7 +173,8 @@ required, for any purpose including commercial use.
 
 **The apparatus** — the line notes (the footnote blocks in those same
 files), the introduction and front matter, the index of names and places
-(`index/`), and the independence analysis (`docs/independence.html`) — is
+(`index/`), the register of fixed renderings (`FORMULAS.md`), and the
+independence analysis (`docs/independence.html`) — is
 (c) 2026 Chris Duffy, licensed
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): use it freely
 with attribution.
