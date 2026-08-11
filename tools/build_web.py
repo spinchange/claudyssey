@@ -519,6 +519,64 @@ def build_api() -> None:
         encoding="utf-8")
     (OUT_API / "index.html").write_text(API_LANDING.replace(
         "{CSSV}", css_version()), encoding="utf-8")
+    build_crawler_files()
+
+
+def build_crawler_files() -> None:
+    """robots.txt and llms.txt at the site root.
+
+    Neither restricts anything: robots.txt makes the welcome explicit
+    (functionally identical to the 404 it replaces), and llms.txt is the
+    llmstxt.org convention: a short markdown orientation for language
+    models, pointing them at the machine-readable layer."""
+    docs = ROOT / "docs"
+    (docs / "robots.txt").write_text(
+        "# Everything here is meant to be read, by people and by machines.\n"
+        "# Machine-readable layer (JSONL parallel corpus, JSON name index):\n"
+        f"#   {SITE}/api/manifest.json\n"
+        "User-agent: *\n"
+        "Allow: /\n",
+        encoding="utf-8")
+    (docs / "llms.txt").write_text(f"""\
+# The Odyssey — a Claudyssey
+
+> A complete line-for-line English translation of Homer's Odyssey: all
+> {TOTAL_LINES:,} lines, one English line per Greek line on Murray's 1919
+> numbering, translated by a language model (Claude) from the Greek and
+> human-edited. The English translation is public domain (CC0 1.0); the
+> scholarly notes and name index are CC BY 4.0; the Greek is Murray's text
+> (public domain) via the Perseus digitization (CC BY-SA 4.0).
+
+Cite passages as book.line (e.g. 9.366). Every verse of the reading
+edition has a stable anchor: /read/book-09.html#L366.
+
+## Machine-readable layer
+
+- [manifest.json]({SITE}/api/manifest.json): describes every file below,
+  with per-book URLs, line counts, and licensing
+- [aligned-01.jsonl … aligned-24.jsonl]({SITE}/api/aligned-09.jsonl): the
+  Greek-English parallel corpus, one JSON object per verse line
+  ({{book, line, greek, en}})
+- [book-01.txt … book-24.txt]({SITE}/api/book-09.txt): full translation
+  source per book, verse plus 1,260 line-keyed scholarly notes
+- [registry.json]({SITE}/api/registry.json): every named person, god,
+  people, and place, with citations
+- [About the API]({SITE}/api/): formats, examples, licensing detail
+
+## Reading edition
+
+- [Contents]({SITE}/read/index.html): all 24 books, one page each
+- [Index of names & places]({SITE}/read/names.html)
+- [Independence analysis]({SITE}/independence.html): measured n-gram and
+  shared-passage overlap against nine prior translations, with controls,
+  method, and limits
+- [About & downloads]({SITE}/): EPUB, Kindle, PDF, audiobook
+
+## Source
+
+- [Repository](https://github.com/spinchange/claudyssey): full revision
+  history, Greek source, build tools
+""", encoding="utf-8")
 
 
 API_LANDING = """\

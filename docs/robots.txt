@@ -1,0 +1,5 @@
+# Everything here is meant to be read, by people and by machines.
+# Machine-readable layer (JSONL parallel corpus, JSON name index):
+#   https://theclaudyssey.com/api/manifest.json
+User-agent: *
+Allow: /
