@@ -1,200 +1,249 @@
 {
  "title": "The Odyssey — a Claudyssey",
- "description": "Machine-readable mirror of the Claudyssey, a line-for-line English translation of Homer's Odyssey. book-NN.txt is the translation source for one book: numbered verse lines ('123  text', one English line per Greek line, same numbering as the Greek), [^L123] markers pointing into a '## Notes' section of scholarly endnotes, and an italic argument line. registry.json is the index of names: every named person, god, people, and place, with category, aliases, note, and 'book.line' refs. Cite passages as book.line, e.g. 9.366. Human-readable edition with line anchors: /read/book-NN.html#L123.",
+ "description": "Machine-readable mirror of the Claudyssey, a line-for-line English translation of Homer's Odyssey. aligned-NN.jsonl is the parallel corpus for one book: one JSON object per verse line, {book, line, greek, en}, in Murray's printed order, English verse only (no note markers). book-NN.txt is the full translation source for one book: numbered verse lines ('123  text', one English line per Greek line, same numbering as the Greek), [^L123] markers pointing into a '## Notes' section of scholarly endnotes, and an italic argument line. registry.json is the index of names: every named person, god, people, and place, with category, aliases, note, and 'book.line' refs. Cite passages as book.line, e.g. 9.366. Human-readable edition with line anchors: /read/book-NN.html#L123.",
  "site": "https://theclaudyssey.com",
  "repository": "https://github.com/spinchange/claudyssey",
- "license": "Translation: CC0 1.0 (public domain dedication). Notes and index: CC BY 4.0, (c) 2026 Chris Duffy. Greek source (Murray 1919) public domain; Perseus digitization CC BY-SA.",
+ "license": "English translation (the 'en' fields and the verse in book-NN.txt): CC0 1.0 (public domain dedication). Notes and index: CC BY 4.0, (c) 2026 Chris Duffy. Greek: Murray 1919 (public domain), Perseus digitization CC BY-SA 4.0.",
+ "lines": 12107,
  "registry": "https://theclaudyssey.com/api/registry.json",
  "books": [
   {
    "book": 1,
    "argument": "Athena comes to Ithaca; Telemachus resolves to seek his father.",
+   "lines": 444,
    "last_line": 444,
    "notes": 36,
+   "aligned": "https://theclaudyssey.com/api/aligned-01.jsonl",
    "text": "https://theclaudyssey.com/api/book-01.txt",
    "html": "https://theclaudyssey.com/read/book-01.html"
   },
   {
    "book": 2,
    "argument": "The assembly at Ithaca; Penelope's web; Telemachus sails by night.",
+   "lines": 434,
    "last_line": 434,
    "notes": 35,
+   "aligned": "https://theclaudyssey.com/api/aligned-02.jsonl",
    "text": "https://theclaudyssey.com/api/book-02.txt",
    "html": "https://theclaudyssey.com/read/book-02.html"
   },
   {
    "book": 3,
    "argument": "Pylos: Nestor's tales of the returns; Telemachus rides for Sparta.",
+   "lines": 497,
    "last_line": 497,
    "notes": 37,
+   "aligned": "https://theclaudyssey.com/api/aligned-03.jsonl",
    "text": "https://theclaudyssey.com/api/book-03.txt",
    "html": "https://theclaudyssey.com/read/book-03.html"
   },
   {
    "book": 4,
    "argument": "Sparta: Helen and Menelaus remember Troy; Proteus; the suitors set their ambush.",
+   "lines": 847,
    "last_line": 847,
    "notes": 53,
+   "aligned": "https://theclaudyssey.com/api/aligned-04.jsonl",
    "text": "https://theclaudyssey.com/api/book-04.txt",
    "html": "https://theclaudyssey.com/read/book-04.html"
   },
   {
    "book": 5,
    "argument": "Calypso's island: the raft, Poseidon's storm, the landing on Scheria.",
+   "lines": 493,
    "last_line": 493,
    "notes": 43,
+   "aligned": "https://theclaudyssey.com/api/aligned-05.jsonl",
    "text": "https://theclaudyssey.com/api/book-05.txt",
    "html": "https://theclaudyssey.com/read/book-05.html"
   },
   {
    "book": 6,
    "argument": "Nausicaa at the river; the naked stranger; the road to the city.",
+   "lines": 331,
    "last_line": 331,
    "notes": 29,
+   "aligned": "https://theclaudyssey.com/api/aligned-06.jsonl",
    "text": "https://theclaudyssey.com/api/book-06.txt",
    "html": "https://theclaudyssey.com/read/book-06.html"
   },
   {
    "book": 7,
    "argument": "The palace and gardens of Alcinous; Arete's question.",
+   "lines": 347,
    "last_line": 347,
    "notes": 36,
+   "aligned": "https://theclaudyssey.com/api/aligned-07.jsonl",
    "text": "https://theclaudyssey.com/api/book-07.txt",
    "html": "https://theclaudyssey.com/read/book-07.html"
   },
   {
    "book": 8,
    "argument": "The games; the song of Ares and Aphrodite; the wooden horse, and the weeping guest.",
+   "lines": 586,
    "last_line": 586,
    "notes": 48,
+   "aligned": "https://theclaudyssey.com/api/aligned-08.jsonl",
    "text": "https://theclaudyssey.com/api/book-08.txt",
    "html": "https://theclaudyssey.com/read/book-08.html"
   },
   {
    "book": 9,
    "argument": "\"I am Odysseus\": the Cicones, the Lotus-eaters, and the Cyclops.",
+   "lines": 566,
    "last_line": 566,
    "notes": 54,
+   "aligned": "https://theclaudyssey.com/api/aligned-09.jsonl",
    "text": "https://theclaudyssey.com/api/book-09.txt",
    "html": "https://theclaudyssey.com/read/book-09.html"
   },
   {
    "book": 10,
    "argument": "Aeolus and the bag of winds; the Laestrygonians; a year with Circe.",
+   "lines": 573,
    "last_line": 574,
    "notes": 51,
+   "aligned": "https://theclaudyssey.com/api/aligned-10.jsonl",
    "text": "https://theclaudyssey.com/api/book-10.txt",
    "html": "https://theclaudyssey.com/read/book-10.html"
   },
   {
    "book": 11,
    "argument": "The dead: Tiresias' prophecy, Anticleia, the heroines, Agamemnon, Achilles, Ajax.",
+   "lines": 640,
    "last_line": 640,
    "notes": 66,
+   "aligned": "https://theclaudyssey.com/api/aligned-11.jsonl",
    "text": "https://theclaudyssey.com/api/book-11.txt",
    "html": "https://theclaudyssey.com/read/book-11.html"
   },
   {
    "book": 12,
    "argument": "The Sirens; Scylla and Charybdis; the cattle of the Sun.",
+   "lines": 453,
    "last_line": 453,
    "notes": 53,
+   "aligned": "https://theclaudyssey.com/api/aligned-12.jsonl",
    "text": "https://theclaudyssey.com/api/book-12.txt",
    "html": "https://theclaudyssey.com/read/book-12.html"
   },
   {
    "book": 13,
    "argument": "The sending home; the ship turned to stone; Athena and Odysseus on Ithaca.",
+   "lines": 440,
    "last_line": 440,
    "notes": 46,
+   "aligned": "https://theclaudyssey.com/api/aligned-13.jsonl",
    "text": "https://theclaudyssey.com/api/book-13.txt",
    "html": "https://theclaudyssey.com/read/book-13.html"
   },
   {
    "book": 14,
    "argument": "The hut of Eumaeus: the slave's welcome, the second Cretan tale, the cloak story.",
+   "lines": 533,
    "last_line": 533,
    "notes": 58,
+   "aligned": "https://theclaudyssey.com/api/aligned-14.jsonl",
    "text": "https://theclaudyssey.com/api/book-14.txt",
    "html": "https://theclaudyssey.com/read/book-14.html"
   },
   {
    "book": 15,
    "argument": "Telemachus called home; Theoclymenus; the life of Eumaeus.",
+   "lines": 557,
    "last_line": 557,
    "notes": 50,
+   "aligned": "https://theclaudyssey.com/api/aligned-15.jsonl",
    "text": "https://theclaudyssey.com/api/book-15.txt",
    "html": "https://theclaudyssey.com/read/book-15.html"
   },
   {
    "book": 16,
    "argument": "Father and son: the recognition at the swineherd's hut.",
+   "lines": 480,
    "last_line": 481,
    "notes": 64,
+   "aligned": "https://theclaudyssey.com/api/aligned-16.jsonl",
    "text": "https://theclaudyssey.com/api/book-16.txt",
    "html": "https://theclaudyssey.com/read/book-16.html"
   },
   {
    "book": 17,
    "argument": "The beggar comes to his own house; Argus; Antinous' footstool.",
+   "lines": 606,
    "last_line": 606,
    "notes": 67,
+   "aligned": "https://theclaudyssey.com/api/aligned-17.jsonl",
    "text": "https://theclaudyssey.com/api/book-17.txt",
    "html": "https://theclaudyssey.com/read/book-17.html"
   },
   {
    "book": 18,
    "argument": "The fight with Irus; the warning to Amphinomus; Penelope shines before the suitors.",
+   "lines": 428,
    "last_line": 428,
    "notes": 56,
+   "aligned": "https://theclaudyssey.com/api/aligned-18.jsonl",
    "text": "https://theclaudyssey.com/api/book-18.txt",
    "html": "https://theclaudyssey.com/read/book-18.html"
   },
   {
    "book": 19,
    "argument": "The interview by the fire; the scar; the contest announced.",
+   "lines": 604,
    "last_line": 604,
    "notes": 78,
+   "aligned": "https://theclaudyssey.com/api/aligned-19.jsonl",
    "text": "https://theclaudyssey.com/api/book-19.txt",
    "html": "https://theclaudyssey.com/read/book-19.html"
   },
   {
    "book": 20,
    "argument": "The night before; the omens of the last day; the ox-hoof; Theoclymenus sees the dark.",
+   "lines": 394,
    "last_line": 394,
    "notes": 62,
+   "aligned": "https://theclaudyssey.com/api/aligned-20.jsonl",
    "text": "https://theclaudyssey.com/api/book-20.txt",
    "html": "https://theclaudyssey.com/read/book-20.html"
   },
   {
    "book": 21,
    "argument": "The bow: pedigree, contest, recruitment, and the stringing.",
+   "lines": 434,
    "last_line": 434,
    "notes": 67,
+   "aligned": "https://theclaudyssey.com/api/aligned-21.jsonl",
    "text": "https://theclaudyssey.com/api/book-21.txt",
    "html": "https://theclaudyssey.com/read/book-21.html"
   },
   {
    "book": 22,
    "argument": "The slaughter in the hall.",
+   "lines": 501,
    "last_line": 501,
    "notes": 53,
+   "aligned": "https://theclaudyssey.com/api/aligned-22.jsonl",
    "text": "https://theclaudyssey.com/api/book-22.txt",
    "html": "https://theclaudyssey.com/read/book-22.html"
   },
   {
    "book": 23,
    "argument": "The bed; the test that Penelope wins; the long night held back.",
+   "lines": 371,
    "last_line": 372,
    "notes": 47,
+   "aligned": "https://theclaudyssey.com/api/aligned-23.jsonl",
    "text": "https://theclaudyssey.com/api/book-23.txt",
    "html": "https://theclaudyssey.com/read/book-23.html"
   },
   {
    "book": 24,
    "argument": "The second Nekyia; Laertes and the trees; the peace of Ithaca.",
+   "lines": 548,
    "last_line": 548,
    "notes": 71,
+   "aligned": "https://theclaudyssey.com/api/aligned-24.jsonl",
    "text": "https://theclaudyssey.com/api/book-24.txt",
    "html": "https://theclaudyssey.com/read/book-24.html"
   }

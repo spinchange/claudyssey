@@ -152,9 +152,17 @@ in `docs/pagefind/`). It indexes exactly the poem, the notes, and the name
 index (`pagefind.yml` disables stemming so name searches stay exact).
 
 The build also emits `docs/api/` — a machine-readable mirror for scripts and
-language models: `manifest.json`, `registry.json` (the name index with refs),
-and `book-NN.txt` (each book's translation source, verbatim), served at
-`theclaudyssey.com/api/`.
+language models, served at `theclaudyssey.com/api/` with its own landing
+page: `manifest.json`, `registry.json` (the name index with refs),
+`book-NN.txt` (each book's translation source, verbatim), and
+`aligned-NN.jsonl` — the Greek↔English parallel corpus, one JSON object per
+verse line (`{book, line, greek, en}`), keyed to Murray's numbering with his
+transpositions and omissions preserved. The build fails if the aligned
+corpus doesn't come out to exactly 12,107 lines.
+
+`tools/build_hf_dataset.py` packages the same corpus as a Hugging Face
+dataset (`hf-dataset/`, gitignored): `odyssey.jsonl` (all 24 books),
+`registry.json`, and a dataset card with the per-field licensing.
 
 After any rebuild:
 

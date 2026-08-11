@@ -19,7 +19,9 @@ category chips, an A-Z bar, and a live name filter.
 
 docs/api/ is a machine-readable mirror for LLMs and scripts that fetch the
 site: registry.json (the name index with refs), book-NN.txt (each book's
-translation source, verbatim), and manifest.json describing all of it.
+translation source, verbatim), aligned-NN.jsonl (the Greek and the English
+paired line by line, one JSON object per verse), manifest.json describing
+all of it, and an index.html landing page documenting the formats.
 
 Book pages and names.html carry data-pagefind-body so the site search covers
 exactly the poem, the notes, and the index. After building, refresh the
@@ -39,6 +41,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "translation"
+GREEK = ROOT / "greek"
 IDX = ROOT / "index" / "index.md"
 REGISTRY = ROOT / "index" / "registry.json"
 OUT = ROOT / "docs" / "read"
@@ -431,7 +434,10 @@ def build_names() -> str:
 
 API_NOTE = (
     "Machine-readable mirror of the Claudyssey, a line-for-line English "
-    "translation of Homer's Odyssey. book-NN.txt is the translation source "
+    "translation of Homer's Odyssey. aligned-NN.jsonl is the parallel "
+    "corpus for one book: one JSON object per verse line, "
+    "{book, line, greek, en}, in Murray's printed order, English verse "
+    "only (no note markers). book-NN.txt is the full translation source "
     "for one book: numbered verse lines ('123  text', one English line per "
     "Greek line, same numbering as the Greek), [^L123] markers pointing into "
     "a '## Notes' section of scholarly endnotes, and an italic argument line. "
@@ -440,68 +446,200 @@ API_NOTE = (
     "Cite passages as book.line, e.g. 9.366. Human-readable edition with "
     "line anchors: /read/book-NN.html#L123.")
 
+TOTAL_LINES = 12107  # 24 books, Murray's numbering, minus 3 athetized lines
+
+
+def aligned_book(n: int) -> list[dict]:
+    """Pair one book's Greek and English texts line by line.
+
+    Both sources carry Murray's own line numbers, including the transposed
+    pairs (3.304-305, 14.63-64, printed out of numeric order) and the three
+    athetized omissions (10.456, 16.101, 23.49), so rows are keyed by
+    number and emitted in the Greek file's printed order. English is the
+    verse text with the [^L123] note markers stripped."""
+    greek = []
+    for raw in (GREEK / f"book-{n:02d}.txt").read_text(
+            encoding="utf-8").splitlines():
+        num, _, text = raw.partition("\t")
+        greek.append((int(num), text.strip()))
+    _, stanzas, _ = parse_book(SRC / f"book-{n:02d}.md")
+    en = {num: REF_RE.sub("", text).rstrip()
+          for stanza in stanzas for num, text in stanza}
+    if len(greek) != len(en) or sorted(num for num, _ in greek) != sorted(en):
+        raise SystemExit(f"book {n}: Greek/English line numbers disagree")
+    return [{"book": n, "line": num, "greek": text, "en": en[num]}
+            for num, text in greek]
+
 
 def build_api() -> None:
     OUT_API.mkdir(parents=True, exist_ok=True)
     (OUT_API / "registry.json").write_text(
         REGISTRY.read_text(encoding="utf-8"), encoding="utf-8")
     books = []
+    total = 0
     for n in range(1, 25):
         src = SRC / f"book-{n:02d}.md"
         (OUT_API / f"book-{n:02d}.txt").write_text(
             src.read_text(encoding="utf-8"), encoding="utf-8")
+        rows = aligned_book(n)
+        total += len(rows)
+        (OUT_API / f"aligned-{n:02d}.jsonl").write_text(
+            "".join(json.dumps(r, ensure_ascii=False) + "\n" for r in rows),
+            encoding="utf-8")
         argument, stanzas, notes = parse_book(src)
         books.append({
             "book": n,
             "argument": argument,
+            "lines": len(rows),
             "last_line": stanzas[-1][-1][0],
             "notes": len(notes),
+            "aligned": f"{SITE}/api/aligned-{n:02d}.jsonl",
             "text": f"{SITE}/api/book-{n:02d}.txt",
             "html": f"{SITE}/read/book-{n:02d}.html",
         })
+    if total != TOTAL_LINES:
+        raise SystemExit(f"aligned corpus has {total} lines, "
+                         f"expected {TOTAL_LINES}")
     manifest = {
         "title": "The Odyssey — a Claudyssey",
         "description": API_NOTE,
         "site": SITE,
         "repository": "https://github.com/spinchange/claudyssey",
-        "license": ("Translation: CC0 1.0 (public domain dedication). "
+        "license": ("English translation (the 'en' fields and the verse in "
+                    "book-NN.txt): CC0 1.0 (public domain dedication). "
                     "Notes and index: CC BY 4.0, (c) 2026 Chris Duffy. "
-                    "Greek source (Murray 1919) public domain; Perseus "
-                    "digitization CC BY-SA."),
+                    "Greek: Murray 1919 (public domain), Perseus "
+                    "digitization CC BY-SA 4.0."),
+        "lines": total,
         "registry": f"{SITE}/api/registry.json",
         "books": books,
     }
     (OUT_API / "manifest.json").write_text(
         json.dumps(manifest, indent=1, ensure_ascii=False) + "\n",
         encoding="utf-8")
-    (OUT_API / "index.html").write_text(f"""<!doctype html>
+    (OUT_API / "index.html").write_text(API_LANDING.replace(
+        "{CSSV}", css_version()), encoding="utf-8")
+
+
+API_LANDING = """\
+<!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>API — the Odyssey, a Claudyssey</title>
-<meta name="description" content="Plain-text and JSON mirror of the translation, for scripts and language models.">
-<link rel="stylesheet" href="../read/read.css?v={css_version()}">
+<title>The text as data — the Odyssey, a Claudyssey</title>
+<meta name="description" content="The full translation, CC0, structured for machines: a Greek-English parallel corpus of the Odyssey in JSONL, all 12,107 lines aligned to Murray's numbering, plus the complete name index as JSON.">
+<link rel="stylesheet" href="../read/read.css?v={CSSV}">
+<style>
+  pre{background:rgba(30,11,21,.55); border:1px solid rgba(201,155,63,.3);
+      border-radius:6px; padding:12px 14px; overflow-x:auto;
+      font-size:.82rem; line-height:1.5}
+  code{font-size:.9em}
+  h2{font-weight:normal; font-variant:small-caps; letter-spacing:.06em;
+     margin:34px 0 10px; color:var(--gold)}
+  dl.files dt{font-family:ui-monospace,Consolas,monospace; margin-top:14px}
+  dl.files dd{margin:2px 0 0 0; opacity:.9; font-size:.95rem}
+  .lede{font-size:1.05rem}
+</style>
 </head>
 <body>
 <div class="meander"></div>
 <div class="wrap">
 <p class="site"><a href="../">The Odyssey · a Claudyssey</a></p>
-<header class="bookhead"><h1>Plain-text mirror</h1>
-<p class="argument">the translation as data, for scripts and language models</p></header>
-<p>{html.escape(API_NOTE)}</p>
-<ul>
-<li><a href="manifest.json">manifest.json</a> — all of the below, described</li>
-<li><a href="registry.json">registry.json</a> — the name index with citations</li>
-<li><code>book-01.txt</code> … <code>book-24.txt</code> — one file per book,
-e.g. <a href="book-09.txt">book-09.txt</a></li>
-</ul>
+<header class="bookhead"><h1>The text as data</h1>
+<p class="argument">the full translation, CC0, structured for machines</p></header>
+
+<p class="lede">Everything on this page is a stable, fetchable URL: a complete
+Greek-English parallel corpus of the Odyssey (12,107 verse lines, aligned
+one-to-one on Murray's 1919 numbering), the full translation source with its
+1,260 scholarly notes, and an index of every named person, god, people, and
+place in the poem. The English is public domain (CC0). No key, no rate limit,
+no tracking: it is a directory of static files.</p>
+
+<h2>The files</h2>
+<dl class="files">
+<dt><a href="manifest.json">manifest.json</a></dt>
+<dd>describes everything below: per-book URLs, line counts, note counts,
+book arguments, licensing. Start here if you are a script.</dd>
+<dt><a href="aligned-09.jsonl">aligned-01.jsonl … aligned-24.jsonl</a></dt>
+<dd>the parallel corpus, one book per file: one JSON object per verse line,
+Greek and English paired.</dd>
+<dt><a href="book-09.txt">book-01.txt … book-24.txt</a></dt>
+<dd>the full translation source, one book per file: numbered verse plus the
+scholarly endnotes (markdown footnotes keyed to line numbers).</dd>
+<dt><a href="registry.json">registry.json</a></dt>
+<dd>the name index: 434 entries with category, aliases, a gloss, and every
+line citation.</dd>
+</dl>
+
+<h2>The aligned corpus</h2>
+<p>One JSON object per line, in Murray's printed order. From
+<a href="aligned-09.jsonl">aligned-09.jsonl</a>, the moment Odysseus tells
+the Cyclops his name:</p>
+<pre>{"book": 9, "line": 366, "greek": "Οὖτις ἐμοί γʼ ὄνομα· Οὖτιν δέ με κικλήσκουσι", "en": "Nobody is my name. Nobody is what they call me —"}</pre>
+<p>The alignment is exact and complete: every English line was translated
+from, and verified one-to-one against, the Greek line it sits beside. The
+numbering is Murray's own, quirks included. His edition prints two pairs in
+transposed order (3.304–305 and 14.63–64; the files keep his printed order)
+and omits three lines as later interpolations (10.456, 16.101, 23.49; the
+numbering skips them). That is why the poem's 24 books sum to 12,107 lines,
+not 12,110.</p>
+
+<h2>The name index</h2>
+<p>Every named entity in the poem, with its citations. From
+<a href="registry.json">registry.json</a>:</p>
+<pre>{"headword": "Achaeans", "cat": "PEOPLE", "aliases": "the Argives; the Danaans",
+ "note": "the Greeks — the poem's default name for the host",
+ "count": 130, "refs": ["1.90", "1.239", …]}</pre>
+
+<h2>Citing and linking</h2>
+<p>Cite passages as <code>book.line</code> (e.g. <code>9.366</code>). Every
+line of the reading edition has a stable anchor, so any citation can become
+a link: <a href="../read/book-09.html#L366">theclaudyssey.com/read/book-09.html#L366</a>.</p>
+
+<h2>Examples</h2>
+<p>Fetch one book's alignment and pull out one line:</p>
+<pre>curl -s https://theclaudyssey.com/api/aligned-09.jsonl | grep '"line": 366'</pre>
+<p>Load the whole poem as a dataset:</p>
+<pre>import json, urllib.request
+rows = []
+for n in range(1, 25):
+    url = f"https://theclaudyssey.com/api/aligned-{n:02d}.jsonl"
+    with urllib.request.urlopen(url) as f:
+        rows += [json.loads(line) for line in f]
+assert len(rows) == 12107</pre>
+
+<h2>Licensing</h2>
+<p>Three layers, cleanly separated. The <strong>English translation</strong>
+(every <code>en</code> field, and the verse in <code>book-NN.txt</code>) is
+dedicated to the public domain under
+<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>:
+use it for anything, including commercially, with no permission or credit
+required. The <strong>Greek</strong> is Murray's 1919 text (public domain),
+as digitized by the
+<a href="https://github.com/PerseusDL/canonical-greekLit">Perseus Digital
+Library</a> (CC BY-SA 4.0; keep their attribution if you redistribute the
+Greek fields). The <strong>notes and the name index</strong> are © 2026
+Chris Duffy, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY
+4.0</a>.</p>
+
+<h2>Provenance</h2>
+<p>The translation was produced by a language model (Claude) from the Greek,
+line by line, and edited by a human; the method, the full revision history,
+and a measured analysis of its independence from prior translations are
+public: <a href="https://github.com/spinchange/claudyssey">the repository</a>
+and <a href="../independence.html">the independence page</a>. If you use
+this corpus to train or evaluate models, the alignment and the numbering are
+the contract: report passages as <code>book.line</code> and they will be
+checkable against any edition of the Greek.</p>
+
 </div>
 <div class="meander"></div>
-<footer><a href="../read/index.html">Contents</a> · <a href="../">About &amp; downloads</a></footer>
+<footer><a href="../read/index.html">Contents</a> · <a href="../">About &amp; downloads</a> ·
+<a href="../independence.html">Independence</a></footer>
 </body>
 </html>
-""", encoding="utf-8")
+"""
 
 
 CSS = """\

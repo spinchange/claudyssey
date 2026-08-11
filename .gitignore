@@ -16,7 +16,14 @@ audiobook-build-onyx-pron/captions/*-words.json
 tools/__pycache__/
 *.pyc
 
+# generated Hugging Face dataset package (rebuild: tools/build_hf_dataset.py)
+hf-dataset/
+
 # epub build scratch
 epub-build/work/
 epub-build/inspect/
 corpus/
+
+# print build scratch
+print-build/work/
+print-build/tools-calibrate/
