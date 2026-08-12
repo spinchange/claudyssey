@@ -109,7 +109,28 @@ def css_version() -> str:
     return hashlib.md5(CSS.encode("utf-8")).hexdigest()[:8]
 
 
-def page(title: str, desc: str, body: str, depth_home: str = "../",
+def social_meta(title: str, desc: str, path: str) -> str:
+    """Canonical + Open Graph + Twitter card tags, all with absolute URLs.
+
+    Scrapers (X, Discord, Slack, Facebook) ignore relative og: URLs, so
+    everything here is rooted at SITE. The card image is the 1200x630
+    social render of the cover art (docs/social.jpg, built by
+    tools/build_social_image.py)."""
+    url = f"{SITE}/{path}"
+    t, d = html.escape(title), html.escape(desc)
+    return f"""<link rel="canonical" href="{url}">
+<meta property="og:title" content="{t}">
+<meta property="og:description" content="{d}">
+<meta property="og:type" content="article">
+<meta property="og:url" content="{url}">
+<meta property="og:image" content="{SITE}/social.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+"""
+
+
+def page(title: str, desc: str, body: str, path: str, depth_home: str = "../",
          indexed: bool = False, head_extra: str = "") -> str:
     body_attr = " data-pagefind-body" if indexed else ""
     return f"""<!doctype html>
@@ -119,7 +140,7 @@ def page(title: str, desc: str, body: str, depth_home: str = "../",
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{html.escape(title)}</title>
 <meta name="description" content="{html.escape(desc)}">
-<link rel="stylesheet" href="read.css?v={css_version()}">
+{social_meta(title, desc, path)}<link rel="stylesheet" href="read.css?v={css_version()}">
 {head_extra}</head>
 <body>
 <div class="meander"></div>
@@ -175,8 +196,16 @@ def build_book(n: int) -> str:
             # substitute markers on the escaped text: the marker pattern
             # contains no characters that html.escape rewrites
             body = REF_RE.sub(ref, inline(text))
-            num = (f'<a class="ln" href="#L{lineno}">{lineno}</a>'
-                   if lineno % 5 == 0 or lineno == 1 else "")
+            # Every line gets a copyable permalink in the gutter; only every
+            # fifth is visible at rest, the others appear on hover ("ghost").
+            # data-pagefind-ignore keeps the numerals out of search excerpts;
+            # ghosts are hidden from AT and tab order (the id itself is the
+            # anchor - the visible fifth-line links remain accessible).
+            shown = lineno % 5 == 0 or lineno == 1
+            cls = "ln" if shown else "ln ghost"
+            extra = "" if shown else ' aria-hidden="true" tabindex="-1"'
+            num = (f'<a class="{cls}" href="#L{lineno}" data-pagefind-ignore'
+                   f' title="copy link to line {lineno}"{extra}>{lineno}</a>')
             out.append(f'<p class="v" id="L{lineno}">{num}{body}</p>')
         out.append("</div>")
     out.append("</div>")
@@ -195,12 +224,39 @@ def build_book(n: int) -> str:
         out.append("</section>")
 
     out.append(booknav(n, bottom=True))
+    out.append(COPY_JS)
 
     desc = f"Book {n} of the Odyssey, in a line-for-line English translation" \
            + (f": {argument.rstrip('.')}." if argument else ".")
     return page(f"Odyssey, Book {n} — a Claudyssey", desc, "\n".join(out),
-                indexed=True)
+                f"read/book-{n:02d}.html", indexed=True)
 
+
+# Clicking a line number still navigates to its anchor (which is what turns
+# on the :target highlight) and additionally puts the absolute permalink on
+# the clipboard, with a small confirmation by the number. Clipboard access
+# needs a secure context; elsewhere the numbers stay plain anchor links.
+COPY_JS = """\
+<script>
+(function () {
+  if (!navigator.clipboard) return;
+  document.addEventListener('click', function (ev) {
+    var a = ev.target.closest && ev.target.closest('a.ln');
+    if (!a) return;
+    var url = new URL(a.getAttribute('href'), location.href).href;
+    navigator.clipboard.writeText(url).then(function () {
+      var t = document.createElement('span');
+      t.className = 'copied';
+      t.textContent = 'link copied';
+      var r = a.getBoundingClientRect();
+      t.style.left = (r.left + window.scrollX) + 'px';
+      t.style.top = (r.top + window.scrollY) + 'px';
+      document.body.appendChild(t);
+      setTimeout(function () { t.remove(); }, 1200);
+    }).catch(function () {});
+  });
+})();
+</script>"""
 
 SEARCH_HEAD = '<link rel="stylesheet" href="../pagefind/pagefind-ui.css">\n'
 
@@ -236,7 +292,8 @@ def build_contents(arguments: dict[int, str]) -> str:
     return page("Read the Odyssey — a Claudyssey",
                 "Homer's Odyssey complete in a line-for-line English "
                 "translation with notes: all twenty-four books, free to read "
-                "online.", "\n".join(out), head_extra=SEARCH_HEAD)
+                "online.", "\n".join(out), "read/index.html",
+                head_extra=SEARCH_HEAD)
 
 
 # ---------------------------------------------------------------------------
@@ -425,7 +482,7 @@ def build_names() -> str:
                 f"Every named person, god, people, and place in the Odyssey: "
                 f"{len(entries)} entries with pronunciations, epithets, kin, "
                 f"and line citations linked into the text.",
-                "\n".join(out), indexed=True)
+                "\n".join(out), "read/names.html", indexed=True)
 
 
 # ---------------------------------------------------------------------------
@@ -518,7 +575,7 @@ def build_api() -> None:
         json.dumps(manifest, indent=1, ensure_ascii=False) + "\n",
         encoding="utf-8")
     (OUT_API / "index.html").write_text(API_LANDING.replace(
-        "{CSSV}", css_version()), encoding="utf-8")
+        "{CSSV}", css_version()).replace("{SITE}", SITE), encoding="utf-8")
     build_crawler_files()
 
 
@@ -535,7 +592,18 @@ def build_crawler_files() -> None:
         "# Machine-readable layer (JSONL parallel corpus, JSON name index):\n"
         f"#   {SITE}/api/manifest.json\n"
         "User-agent: *\n"
-        "Allow: /\n",
+        "Allow: /\n"
+        f"Sitemap: {SITE}/sitemap.xml\n",
+        encoding="utf-8")
+    urls = ([f"{SITE}/", f"{SITE}/read/index.html"]
+            + [f"{SITE}/read/book-{n:02d}.html" for n in range(1, 25)]
+            + [f"{SITE}/read/names.html", f"{SITE}/api/",
+               f"{SITE}/independence.html"])
+    (docs / "sitemap.xml").write_text(
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        + "".join(f"<url><loc>{u}</loc></url>\n" for u in urls)
+        + "</urlset>\n",
         encoding="utf-8")
     (docs / "llms.txt").write_text(f"""\
 # The Odyssey — a Claudyssey
@@ -587,6 +655,15 @@ API_LANDING = """\
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>The text as data — the Odyssey, a Claudyssey</title>
 <meta name="description" content="The full translation, CC0, structured for machines: a Greek-English parallel corpus of the Odyssey in JSONL, all 12,107 lines aligned to Murray's numbering, plus the complete name index as JSON.">
+<link rel="canonical" href="{SITE}/api/">
+<meta property="og:title" content="The text as data — the Odyssey, a Claudyssey">
+<meta property="og:description" content="A Greek-English parallel corpus of the Odyssey in JSONL, all 12,107 lines aligned to Murray's numbering, CC0, plus the complete name index as JSON. No key, no rate limit: static files.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="{SITE}/api/">
+<meta property="og:image" content="{SITE}/social.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="stylesheet" href="../read/read.css?v={CSSV}">
 <style>
   pre{background:rgba(30,11,21,.55); border:1px solid rgba(201,155,63,.3);
@@ -748,6 +825,18 @@ a{color:var(--gold)}
   text-align:right; font-size:.72em; color:var(--gold); opacity:.55;
   text-decoration:none; text-indent:0}
 .ln:hover{opacity:1}
+/* every line has a permalink; the non-fifth ones surface on hover only,
+   and not at all on touch screens (no hover, and an invisible tap target
+   in the gutter would just cause stray jumps) */
+.ln.ghost{opacity:0}
+.v:hover .ln.ghost{opacity:.55}
+.v:hover .ln.ghost:hover{opacity:1}
+@media (hover:none){.ln.ghost{display:none}}
+.copied{position:absolute; z-index:9; transform:translateY(-130%);
+  font-size:.7rem; font-variant:small-caps; letter-spacing:.08em;
+  color:var(--gold); background:rgba(30,11,21,.95);
+  border:1px solid rgba(201,155,63,.5); border-radius:10px;
+  padding:2px 9px; pointer-events:none; white-space:nowrap}
 .v:target, .note:target{background:rgba(201,155,63,.14); border-radius:3px}
 .fnref{text-decoration:none; padding:0 .08em}
 .fnref sup{font-size:.68em}

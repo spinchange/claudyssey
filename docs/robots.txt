@@ -3,3 +3,4 @@
 #   https://theclaudyssey.com/api/manifest.json
 User-agent: *
 Allow: /
+Sitemap: https://theclaudyssey.com/sitemap.xml

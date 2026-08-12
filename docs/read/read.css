@@ -45,6 +45,18 @@ a{color:var(--gold)}
   text-align:right; font-size:.72em; color:var(--gold); opacity:.55;
   text-decoration:none; text-indent:0}
 .ln:hover{opacity:1}
+/* every line has a permalink; the non-fifth ones surface on hover only,
+   and not at all on touch screens (no hover, and an invisible tap target
+   in the gutter would just cause stray jumps) */
+.ln.ghost{opacity:0}
+.v:hover .ln.ghost{opacity:.55}
+.v:hover .ln.ghost:hover{opacity:1}
+@media (hover:none){.ln.ghost{display:none}}
+.copied{position:absolute; z-index:9; transform:translateY(-130%);
+  font-size:.7rem; font-variant:small-caps; letter-spacing:.08em;
+  color:var(--gold); background:rgba(30,11,21,.95);
+  border:1px solid rgba(201,155,63,.5); border-radius:10px;
+  padding:2px 9px; pointer-events:none; white-space:nowrap}
 .v:target, .note:target{background:rgba(201,155,63,.14); border-radius:3px}
 .fnref{text-decoration:none; padding:0 .08em}
 .fnref sup{font-size:.68em}

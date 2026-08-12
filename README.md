@@ -164,6 +164,18 @@ corpus doesn't come out to exactly 12,107 lines.
 dataset (`hf-dataset/`, gitignored): `odyssey.jsonl` (all 24 books),
 `registry.json`, and a dataset card with the per-field licensing.
 
+Every generated page carries canonical, Open Graph, and Twitter-card
+metadata with absolute URLs, pointing at `docs/social.jpg` — the 1200x630
+link-preview card rendered from `art/claudyssey-social.svg` by
+`tools/build_social_image.py` (via the calibre cover pipeline, then
+rasterized with PyMuPDF; rerun it only when the social artwork changes).
+The build also writes `docs/sitemap.xml`, referenced from `robots.txt`.
+
+In the reading edition, every verse line's gutter number is a copyable
+permalink: the every-fifth-line numbers are always visible, the rest appear
+on hover (and stay out of the way on touch screens), and clicking one puts
+the absolute `#L`-anchored URL on the clipboard as well as navigating to it.
+
 After any rebuild:
 
 ```powershell
