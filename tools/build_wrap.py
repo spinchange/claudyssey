@@ -2,7 +2,7 @@
 """Build the paperback case wrap — back cover, spine, and front cover as a
 single flat landscape PDF, to a print-on-demand supplier's spec.
 
-Default geometry is the supplied spec for the 590-page 6x9 interior:
+Default geometry is the supplied spec for the 592-page 6x9 interior:
 
     trim            13.639 x 9.25 in   (346.43 x 234.95 mm)
     spine            1.389 in          (35.28 mm)

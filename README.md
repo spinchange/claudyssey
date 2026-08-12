@@ -228,11 +228,13 @@ python tools\build_wrap.py --no-url         # omit the site URL
 python tools\check_wrap.py art\claudyssey-wrap.pdf
 ```
 
-The default geometry is the supplier's figures for the 590-page interior:
-13.639 × 9.25 in overall, 1.389 in spine, which decomposes exactly into two
-6.125 in panels — a 6×9 trim with 0.125 in bleed on every outside edge. The
-spine figure also matches 590 pages on 50 lb cream stock (590 ÷ 426 ppi =
-1.385 in), so the spec and the interior agree. Change `--spine` and the
+The default geometry is the supplier's figures for the 592-page interior
+(the page count of `print-build/odyssey-print-6x9.pdf`, front matter and
+recto blanks included): 13.639 × 9.25 in overall, 1.389 in spine, which
+decomposes exactly into two 6.125 in panels — a 6×9 trim with 0.125 in
+bleed on every outside edge. The spine figure also matches 592 pages on
+50 lb cream stock (592 ÷ 426 ppi = 1.390 in), so the spec and the
+interior agree. Change `--spine` and the
 panels follow.
 
 The artwork is generated into `art/claudyssey-wrap.svg` and rendered from
