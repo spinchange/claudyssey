@@ -27,3 +27,5 @@ corpus/
 # print build scratch
 print-build/work/
 print-build/tools-calibrate/
+# single-book proofs
+print-build/*-book01.pdf

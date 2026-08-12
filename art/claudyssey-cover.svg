@@ -1,0 +1,139 @@
+<svg viewBox="0 0 800 1200" width="800" height="1200" xmlns="http://www.w3.org/2000/svg" role="img"
+     aria-label="Book cover for Homer's Odyssey — A Claudyssey: a Geometric-period Greek ship in pale bone on a wine-dark ground, framed by meander bands.">
+  <defs>
+    <linearGradient id="wine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#46192b"/>
+      <stop offset="0.55" stop-color="#331323"/>
+      <stop offset="1" stop-color="#1e0b15"/>
+    </linearGradient>
+    <radialGradient id="vig" cx="0.5" cy="0.42" r="0.85">
+      <stop offset="0.6" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0c0408" stop-opacity="0.5"/>
+    </radialGradient>
+    <pattern id="meander" width="40" height="40" patternUnits="userSpaceOnUse">
+      <g fill="none" stroke="#ead9b4" stroke-width="3.6">
+        <path d="M0 5 H40"/>
+        <path d="M0 34 H40"/>
+        <path d="M28 34 V11 H11 V26 H19"/>
+      </g>
+    </pattern>
+    <pattern id="zigzag" width="28" height="27" patternUnits="userSpaceOnUse">
+      <g fill="none" stroke="#ead9b4" stroke-width="3" stroke-linejoin="miter">
+        <path d="M0 10 L14 2 L28 10"/>
+        <path d="M0 23 L14 15 L28 23"/>
+      </g>
+    </pattern>
+    <pattern id="dots" width="15" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="6" cy="6" r="2.6" fill="#ead9b4"/>
+    </pattern>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.06"/></feComponentTransfer>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+
+  <!-- ground -->
+  <rect width="800" height="1200" fill="url(#wine)"/>
+  <rect width="800" height="1200" fill="#ead9b4" filter="url(#grain)"/>
+  <rect width="800" height="1200" fill="url(#vig)"/>
+
+  <!-- frame -->
+  <rect x="36" y="36" width="728" height="1128" fill="none" stroke="#ead9b4" stroke-width="2.5" opacity="0.9"/>
+  <rect x="48" y="48" width="704" height="1104" fill="none" stroke="#ead9b4" stroke-width="1" opacity="0.4"/>
+
+  <!-- top meander band -->
+  <rect x="80" y="72" width="640" height="40" fill="url(#meander)"/>
+
+  <!-- epigraph -->
+  <g font-family="'Palatino Linotype','Book Antiqua',Palatino,Georgia,serif" text-anchor="middle">
+    <text x="400" y="208" font-size="27" font-style="italic" fill="#ead9b4" opacity="0.8">&#7940;&#957;&#948;&#961;&#945; &#956;&#959;&#953; &#7956;&#957;&#957;&#949;&#960;&#949;, &#956;&#959;&#8166;&#963;&#945;, &#960;&#959;&#955;&#973;&#964;&#961;&#959;&#960;&#959;&#957;</text>
+    <text x="400" y="246" font-size="19" fill="#ead9b4" opacity="0.55">Tell me the man, Muse &#8212; the man of many turnings</text>
+  </g>
+
+  <!-- title -->
+  <g font-family="'Palatino Linotype','Book Antiqua',Palatino,Georgia,serif" text-anchor="middle" fill="#ead9b4">
+    <text x="400" y="356" font-size="44" textLength="320" lengthAdjust="spacingAndGlyphs">HOMER&#8217;S</text>
+    <text x="400" y="454" font-size="86" textLength="632" lengthAdjust="spacingAndGlyphs">ODYSSEY</text>
+    <line x1="280" y1="486" x2="520" y2="486" stroke="#c99b3f" stroke-width="1.3" opacity="0.9"/>
+    <text x="400" y="526" font-size="30" fill="#c99b3f" textLength="280" lengthAdjust="spacingAndGlyphs">&#927;&#916;&#933;&#931;&#931;&#917;&#921;&#913;</text>
+    <text x="400" y="568" font-size="18" letter-spacing="2"><tspan fill-opacity="0.78">LINE FOR LINE TRANSLATION BY FABLE 5</tspan><tspan fill="#c99b3f" dx="7">&#183; A CLAUDYSSEY</tspan></text>
+  </g>
+
+  <!-- ship register: top border -->
+  <line x1="90" y1="600" x2="710" y2="600" stroke="#ead9b4" stroke-width="2"/>
+  <rect x="100" y="606" width="600" height="12" fill="url(#dots)"/>
+  <line x1="90" y1="626" x2="710" y2="626" stroke="#ead9b4" stroke-width="2"/>
+
+  <!-- ship -->
+  <g stroke-linecap="round">
+    <!-- rigging (behind) -->
+    <path d="M400 640 L262 790 M400 640 L538 790" stroke="#ead9b4" stroke-width="2" opacity="0.75" fill="none"/>
+    <!-- mast and yard -->
+    <line x1="400" y1="798" x2="400" y2="638" stroke="#ead9b4" stroke-width="7"/>
+    <line x1="336" y1="656" x2="464" y2="656" stroke="#ead9b4" stroke-width="5"/>
+    <!-- rosettes in the field -->
+    <g stroke="#ead9b4" stroke-width="2.5" opacity="0.85">
+      <g transform="translate(196,672)">
+        <line x1="-12" y1="0" x2="12" y2="0"/><line x1="0" y1="-12" x2="0" y2="12"/>
+        <line x1="-8.5" y1="-8.5" x2="8.5" y2="8.5"/><line x1="-8.5" y1="8.5" x2="8.5" y2="-8.5"/>
+        <circle cx="0" cy="0" r="3.5" fill="#ead9b4" stroke="none"/>
+      </g>
+      <g transform="translate(604,672)">
+        <line x1="-12" y1="0" x2="12" y2="0"/><line x1="0" y1="-12" x2="0" y2="12"/>
+        <line x1="-8.5" y1="-8.5" x2="8.5" y2="8.5"/><line x1="-8.5" y1="8.5" x2="8.5" y2="-8.5"/>
+        <circle cx="0" cy="0" r="3.5" fill="#ead9b4" stroke="none"/>
+      </g>
+    </g>
+    <!-- hull -->
+    <path d="M152 688 C158 776 240 828 400 828 C555 828 638 778 654 680 C640 754 540 802 400 802 C262 802 170 764 160 692 Z"
+          fill="#ead9b4" stroke="#ead9b4" stroke-width="3" stroke-linejoin="round"/>
+    <!-- stern post with volute -->
+    <path d="M162 692 C150 664 141 634 138 606" fill="none" stroke="#ead9b4" stroke-width="9"/>
+    <circle cx="136" cy="598" r="7" fill="none" stroke="#ead9b4" stroke-width="4"/>
+    <!-- prow post with bird head -->
+    <path d="M648 686 C658 660 660 632 656 610" fill="none" stroke="#ead9b4" stroke-width="9"/>
+    <circle cx="654" cy="603" r="6.5" fill="#ead9b4"/>
+    <path d="M659 601 L678 595 L661 611 Z" fill="#ead9b4"/>
+    <!-- steering oar -->
+    <line x1="176" y1="776" x2="146" y2="862" stroke="#ead9b4" stroke-width="5"/>
+    <!-- rowers -->
+    <g fill="#ead9b4" stroke="#ead9b4">
+      <g transform="translate(258,786)">
+        <path d="M-11 0 L11 0 L0 -28 Z" stroke="none"/><circle cx="0" cy="-40" r="8.5" stroke="none"/>
+        <path d="M0 -20 L16 -6" fill="none" stroke-width="4"/><line x1="14" y1="-10" x2="44" y2="58" stroke-width="4"/>
+      </g>
+      <g transform="translate(328,796)">
+        <path d="M-11 0 L11 0 L0 -28 Z" stroke="none"/><circle cx="0" cy="-40" r="8.5" stroke="none"/>
+        <path d="M0 -20 L16 -6" fill="none" stroke-width="4"/><line x1="14" y1="-10" x2="44" y2="58" stroke-width="4"/>
+      </g>
+      <g transform="translate(472,796)">
+        <path d="M-11 0 L11 0 L0 -28 Z" stroke="none"/><circle cx="0" cy="-40" r="8.5" stroke="none"/>
+        <path d="M0 -20 L16 -6" fill="none" stroke-width="4"/><line x1="14" y1="-10" x2="44" y2="58" stroke-width="4"/>
+      </g>
+      <g transform="translate(542,786)">
+        <path d="M-11 0 L11 0 L0 -28 Z" stroke="none"/><circle cx="0" cy="-40" r="8.5" stroke="none"/>
+        <path d="M0 -20 L16 -6" fill="none" stroke-width="4"/><line x1="14" y1="-10" x2="44" y2="58" stroke-width="4"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- waves -->
+  <rect x="106" y="832" width="588" height="54" fill="url(#zigzag)"/>
+
+  <!-- ship register: bottom border -->
+  <line x1="90" y1="896" x2="710" y2="896" stroke="#ead9b4" stroke-width="2"/>
+  <rect x="100" y="902" width="600" height="12" fill="url(#dots)"/>
+  <line x1="90" y1="922" x2="710" y2="922" stroke="#ead9b4" stroke-width="2"/>
+
+  <!-- byline -->
+  <g font-family="'Palatino Linotype','Book Antiqua',Palatino,Georgia,serif" text-anchor="middle" fill="#ead9b4">
+    <text x="400" y="978" font-size="18" opacity="0.7" letter-spacing="6">TRANSLATED BY</text>
+    <text x="400" y="1026" font-size="44" textLength="260" lengthAdjust="spacingAndGlyphs">CLAUDE</text>
+    <text x="400" y="1062" font-size="18" font-style="italic" opacity="0.6">24 books &#183; 12,107 lines rendered from the Greek</text>
+  </g>
+
+  <!-- bottom meander band -->
+  <rect x="80" y="1088" width="640" height="40" fill="url(#meander)"/>
+</svg>

@@ -1,0 +1,310 @@
+/* ============================================================
+   The Odyssey — print edition stylesheet
+   6x9in US trade, black-ink interior for POD (KDP / IngramSpark).
+
+   Differs from the EPUB stylesheet in ways that matter on paper:
+     - No color. POD colour interiors cost several times mono, and
+       the wine/gold palette turns to muddy grey in mono anyway.
+       Emphasis is carried by size, spacing, and small caps instead.
+     - Fixed measure and leading (the reader cannot reflow paper).
+     - Verse turnovers are indented, not wrapped flush, so a long
+       line that runs over reads as one verse and not as two.
+     - Widow/orphan control, and no page break between a verse and
+       its line number.
+   ============================================================ */
+
+@font-face {
+  font-family: "Gentium";
+  font-style: normal;
+  font-weight: normal;
+  src: url("fonts/Gentium-Regular.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Gentium";
+  font-style: italic;
+  font-weight: normal;
+  src: url("fonts/Gentium-Italic.woff2") format("woff2");
+}
+
+/* NOTE ON SIZES. calibre's PDF renderer imposes its own root font size
+   (--pdf-default-font-size, set by the builder to the edition's body size)
+   and ignores an absolute `font-size` on body. So body carries no size of
+   its own, and every other size here is expressed in `em` relative to that
+   root. Setting absolute pt sizes here silently does nothing. */
+body {
+  font-family: "Gentium", Georgia, "Palatino Linotype", serif;
+  line-height: 1.34;
+  text-align: left;      /* verse is never justified */
+  hyphens: none;         /* never hyphenate a verse line */
+  margin: 0;
+  widows: 2;
+  orphans: 2;
+}
+
+:lang(grc), .greek {
+  font-family: "Gentium", Georgia, "Palatino Linotype", serif;
+}
+
+/* ---- Book openers ---------------------------------------------------
+   Each book starts on a new page. A book opener is a display page: the
+   book number, the argument, then the verse. Recto-forcing is handled
+   in the builder (it inserts a blank verso where needed), not here. */
+h1 {
+  font-family: "Gentium", Georgia, "Palatino Linotype", serif;
+  font-weight: normal;
+  font-size: 1.429em;
+  letter-spacing: 0.06em;
+  text-align: center;
+  margin: 0 0 0.15in;
+  line-height: 1.2;
+  page-break-before: always;
+  page-break-after: avoid;
+  string-set: booktitle content();
+}
+
+/* The argument (the one-line summary under the book number). */
+.argument {
+  font-style: italic;
+  text-align: center;
+  font-size: 0.9524em;
+  margin: 0 auto 0.32in;
+  max-width: 80%;
+  line-height: 1.35;
+  page-break-after: avoid;
+}
+
+/* ---- Verse ----------------------------------------------------------
+   Each verse is a block with a hanging line-number in the left margin
+   and an indented turnover, so a >measure line stays visually one verse.
+   text-indent is negative against a padding-left of the same size: the
+   first line starts at the margin, continuations indent. */
+/* The number column must hold four digits (the poem reaches line 1000+ in
+   several books) at the .ln size without wrapping, or a number like 110
+   breaks across two lines. 2.9em at the body size is ~4 digits plus the
+   gutter to the verse. padding-left and text-indent must stay equal and
+   opposite: the first line pulls back to the margin, turnovers indent. */
+p.v {
+  margin: 0;
+  padding-left: 2.9em;
+  text-indent: -2.9em;    /* first line pulls back to the margin */
+  page-break-inside: avoid;
+}
+
+/* The hanging line number. Small, spaced off the verse. Every 5th line
+   is numbered in the printed edition (see builder), the rest are blank
+   but keep the same indent so the left edge of the verse stays flush. */
+span.ln {
+  font-size: 0.7143em;
+  letter-spacing: 0.02em;
+  color: #000;
+  display: inline-block;
+  /* width is in .ln's own em, which is 0.7143 of the body em; to occupy
+     the 2.9 body-em column of p.v it must be 2.9 / 0.7143 = 4.06em. */
+  width: 4.06em;
+  text-indent: 0;
+  text-align: right;
+  padding-right: 0.8em;
+  box-sizing: border-box;
+  white-space: nowrap;
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+/* Stanza break: the blank line between verse paragraphs in the source. */
+div.stanza { margin-bottom: 0.62em; }
+
+/* A note marker in the verse: superscript, small, unobtrusive. */
+sup.nm {
+  font-size: 0.6286em;
+  line-height: 0;
+  vertical-align: super;
+  padding-left: 0.08em;
+}
+
+/* ---- Endnotes, per book --------------------------------------------- */
+h2.notes-head {
+  font-size: 0.9524em;
+  font-weight: normal;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 0.42in 0 0.18in;
+  page-break-before: always;
+  page-break-after: avoid;
+}
+
+/* A note: hanging indent on its line number, matching the verse feel.
+   Set smaller and tighter than the verse — apparatus, not text. */
+p.note {
+  font-size: 0.8381em;
+  line-height: 1.3;
+  margin: 0 0 0.5em;
+  padding-left: 2.1em;
+  text-indent: -2.1em;
+  text-align: left;
+  hyphens: auto;          /* prose may hyphenate; verse never does */
+  orphans: 2;
+  widows: 2;
+}
+p.note .nl {
+  font-weight: normal;
+  font-size: 0.7619em;
+  display: inline-block;
+  /* as with .ln: the width is in this span's own smaller em, so to fill
+     the 2.1em column of p.note it must be 2.1 / 0.7619 = 2.76em. */
+  width: 2.76em;
+  text-indent: 0;
+  padding-right: 0.5em;
+  box-sizing: border-box;
+  white-space: nowrap;
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+/* ---- Front matter ---------------------------------------------------- */
+.titlepage { text-align: center; padding-top: 1.15in; }
+.tp-title {
+  font-size: 2.857em;
+  letter-spacing: 0.1em;
+  margin: 0 0 0.1in;
+  line-height: 1.1;
+}
+.tp-sub {
+  font-size: 1.048em;
+  font-style: italic;
+  letter-spacing: 0.02em;
+  margin: 0 0 0.42in;
+}
+.tp-rule {
+  border: none;
+  border-top: 0.5pt solid #000;
+  width: 32%;
+  margin: 0 auto 0.42in;
+}
+.tp-role {
+  font-size: 0.8095em;
+  letter-spacing: 0.17em;
+  text-transform: uppercase;
+  margin: 0 0 0.06in;
+}
+.tp-name {
+  font-size: 1.332em;
+  margin: 0 0 0.3in;
+  letter-spacing: 0.02em;
+}
+.tp-small { font-size: 0.9524em; }
+
+/* Front-matter prose pages (note on the text, copyright). */
+h1.fm {
+  font-size: 1.238em;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 0 0 0.34in;
+  page-break-before: always;
+}
+p.fm {
+  font-size: 0.9143em;
+  line-height: 1.42;
+  text-align: left;
+  hyphens: auto;
+  margin: 0 0 0.72em;
+}
+.copyright-page p {
+  font-size: 0.8em;
+  line-height: 1.45;
+  margin: 0 0 0.6em;
+  hyphens: auto;
+}
+.copyright-page { padding-top: 3.1in; }
+
+/* ---- Table of contents ----------------------------------------------
+   One line per book: number, argument, dot leader, folio. Laid out as a
+   table rather than with flexbox or a tab stop — calibre's renderer gives
+   table cells reliable widths, whereas a flex row collapses here and the
+   leader dots end up in the wrong place. The leader is a repeating dotted
+   border on a full-width cell, which is what makes it stretch to fill
+   whatever space the argument leaves. */
+.toc { display: table; width: 100%; border-collapse: collapse; }
+p.toc-line {
+  display: table-row;
+  font-size: 0.86em;
+  line-height: 1.34;
+}
+p.toc-line > span {
+  display: table-cell;
+  padding: 0.34em 0;
+  vertical-align: top;
+}
+
+/* Column widths are set explicitly. Without them the table gives the
+   argument cell its minimum width and each summary stacks into a narrow
+   column six lines deep. */
+.toc-bk {
+  width: 15%;
+  white-space: nowrap;
+  padding-right: 0.6em !important;
+  font-variant-numeric: lining-nums tabular-nums;
+}
+.toc-arg {
+  width: 68%;
+  font-style: italic;
+  padding-right: 0.5em !important;
+  hyphens: none;
+}
+/* No dot leader. An argument runs to two lines, so a leader can only sit
+   at the foot of the row — stranded below the text and disconnected from
+   the folio, which reads worse than nothing. The columns are aligned and
+   the page number is hard right, which is enough to track a line by, and
+   is how most literary editions set a contents page. */
+.toc-dots { width: 0; padding: 0 !important; }
+.toc-pg {
+  width: 8%;
+  text-align: right;
+  white-space: nowrap;
+  padding-left: 0.8em !important;
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+/* A little air above the back-matter row, to set it off from the books. */
+p.toc-back > span { padding-top: 1.1em !important; }
+
+/* the back-matter rows (the index) read as furniture, not as books */
+p.toc-back .toc-bk { font-style: normal; }
+
+/* The proem epigraph page. */
+.epigraph-page { padding-top: 2.35in; text-align: center; }
+.epigraph {
+  font-size: 1.048em;
+  line-height: 1.6;
+  font-style: italic;
+  margin: 0 auto;
+  max-width: 76%;
+}
+.epigraph .greek { font-style: normal; display: block; margin-bottom: 0.42em; }
+
+/* Recto-forcing — book openers on a right-hand page — is done by the
+   builder, which measures where each book lands and inserts a blank page
+   before the ones that would open on a verso. calibre's renderer honours
+   neither `break-before: recto` nor @page :left/:right, so it cannot be
+   expressed here.
+
+   The blank carries INLINE styles rather than a class, deliberately:
+   calibre rewrites class-based rules into its own generated classes during
+   the html->epub step and drops the height in the process, so a rule here
+   would silently stop holding the page open. See the BLANK constant in
+   tools/build_print.py for what the markup has to be and why. */
+
+/* ---- Index of names -------------------------------------------------
+   Two columns on 6x9 would give ~34 chars per column: too tight for the
+   long headwords and pronunciations. Set single-column, small, with a
+   hanging indent per entry. */
+.name-index p {
+  font-size: 0.8em;
+  line-height: 1.29;
+  margin: 0 0 0.42em;
+  padding-left: 1.15em;
+  text-indent: -1.15em;
+  hyphens: auto;
+  orphans: 2;
+  widows: 2;
+}
+.name-index hr { display: none; }   /* the --- separators between entries */

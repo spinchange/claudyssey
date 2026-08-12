@@ -139,6 +139,159 @@ catches the build regressions that break readers.
 Requires Pandoc (`winget install JohnMacFarlane.Pandoc`) and, for regenerating
 the subsetted font, `fonttools` + `brotli`.
 
+## Print edition
+
+`tools/build_print.py` builds a press-ready PDF interior for print-on-demand
+(KDP, IngramSpark, Lulu). It is a separate build from the EPUB, not a
+conversion of it, because paper needs different decisions: a fixed measure,
+line numbers every fifth line instead of every line, printed note numerals
+instead of tappable links, running heads, folios, and book openers on a
+recto. It leaves `translation/` untouched.
+
+```powershell
+python tools\build_print.py                  # all 24 books, 6x9in
+python tools\build_print.py --books 1        # Book 1 only (proof)
+python tools\build_print.py --trim 5.5x8.5   # digest
+python tools\build_print.py --trim a5        # ISO A5
+```
+
+The default is **6x9in US trade**, black ink. What the build does:
+
+- **Measure set by the verse.** This is a line-for-line translation, so a
+  verse that wraps stops looking like one line. The poem's verses run to 90
+  characters (median 53); at 10.5pt the measure holds about 71 characters
+  and roughly 2% turn over, and those that do are indented so they still
+  read as continuations rather than as new verses.
+- **A contents page**, listing each book with its argument — the one-line
+  summary that also stands under the book's title — and its printed folio,
+  followed by the index. Printed page numbers only exist after pagination,
+  so the contents is built empty, the folios are measured, and the book is
+  rendered again with them filled in. The empty and filled pages are the
+  same size (same rows, same leading; only the numerals differ), so nothing
+  moves between the two passes and the numbers stay true. The builder
+  re-measures afterwards and warns if anything shifted anyway.
+- **Line numbers every fifth line**, hung in the margin. Numbering all
+  12,107 is right for a linked digital text and noise on a page.
+- **Endnotes per book**, numbered through each book, each note also giving
+  the verse line it belongs to (*l. 337*) — which is how it should be cited.
+- **Recto-forcing.** Book openers belong on a right-hand page. The builder
+  renders, measures where each book landed, inserts a blank leaf before the
+  first book that opened on a verso, and repeats. It fixes one book per pass
+  and never takes a blank back, which is what makes it terminate — inserting
+  a blank changes the length of everything after it, so reconsidering every
+  book each pass just oscillates.
+- **Furniture set for facing pages.** The running head is centered; the
+  folio sits on the outside edge of each page (bottom-left on a verso,
+  bottom-right on a recto), so the numbers stay visible while flipping.
+- **Front matter and blank leaves carry no folio.** Page 1 is the poem's
+  first page, and the title page, copyright, epigraph, note, and every
+  inserted blank print neither a running head nor a page number.
+- **Print-safe geometry.** Nothing, including the running head and folio,
+  sits within the ±3mm a printer cuts to.
+
+### Cover artwork as PDF
+
+`tools/build_cover_pdf.py` renders an SVG in `art/` to a borderless
+single-page PDF, sized to the artwork's own aspect ratio with the design
+running edge to edge:
+
+```powershell
+python tools\build_cover_pdf.py                   # art/claudyssey-cover.pdf, 8x12in
+python tools\build_cover_pdf.py --width 6         # a 6in-wide page
+python tools\build_cover_pdf.py --bleed 0.125     # add print bleed on all sides
+python tools\build_cover_pdf.py --svg art\claudyssey-social.svg
+```
+
+The output is vector — real paths and embedded Palatino text, so it scales
+and prints at any size. The single raster in the file is the `feTurbulence`
+grain layer, which has no PDF equivalent and is rasterized at ~300ppi; that
+is the intended result, since the grain is part of the design.
+
+Two things are load-bearing and easy to break. The SVG is referenced with an
+`<img>` tag rather than inlined: calibre's html→epub step rewrites inline
+SVG and discards `<defs>`, which silently strips the gradients, the
+meander/zigzag/dot patterns, and the grain, leaving a bare bone-coloured
+field. And every margin — both `--margin-*` and `--pdf-page-margin-*` — has
+to be zero, or a white border appears around the art. The script verifies the
+result by rendering the page and sampling its outermost pixels, because a
+white edge is invisible in the page-size numbers.
+
+### Paperback case wrap
+
+`tools/build_wrap.py` builds the printed case — back cover, spine, and front
+cover as one flat landscape page, to a print supplier's spec:
+
+```powershell
+python tools\build_wrap.py                  # art/claudyssey-wrap.pdf
+python tools\build_wrap.py --spine 1.42     # a different page count/stock
+python tools\build_wrap.py --no-url         # omit the site URL
+python tools\check_wrap.py art\claudyssey-wrap.pdf
+```
+
+The default geometry is the supplier's figures for the 590-page interior:
+13.639 × 9.25 in overall, 1.389 in spine, which decomposes exactly into two
+6.125 in panels — a 6×9 trim with 0.125 in bleed on every outside edge. The
+spine figure also matches 590 pages on 50 lb cream stock (590 ÷ 426 ppi =
+1.385 in), so the spec and the interior agree. Change `--spine` and the
+panels follow.
+
+The artwork is generated into `art/claudyssey-wrap.svg` and rendered from
+there, so the wrap is reproducible rather than hand-placed. The back cover
+sets its blurb by fitting: the type steps down until the text block fits the
+space between the epigraph and the wave band, because wrapping text by
+character count overruns the frame on wide words like "book.line".
+
+Two notes specific to this output. The front panel drops the `feTurbulence`
+grain used on the standalone cover — it is the one element with no vector
+equivalent, and keeping it would force a raster into a file the supplier
+requires flattened. And calibre cannot express the required page width:
+`--custom-size` quantizes to a 1.2 pt grid, so 13.639 in (982.008 pt) comes
+out as 982.080 and the next step down is 980.880. The builder therefore sets
+the MediaBox exactly afterwards and scales the content to match.
+
+`tools/check_wrap.py` checks the file against each of the supplier's
+requirements — one page, exact dimensions, fonts embedded, flattened (no
+optional content groups, annotations, or form fields) — plus the two things
+the spec implies but does not state: that the art bleeds to all four edges,
+and that no light-coloured content sits inside the bleed where trimming
+would cut it. That last check is the one that matters; it catches overrunning
+text, which no amount of measuring the page size will reveal.
+
+`tools/check_print.py` validates the finished PDF against the specification
+— trim size, verse point size, margins on every page, nothing overset past
+the trim, all fonts embedded, the turnover rate, and that every page number
+on the contents page really does point at the section it names:
+
+```powershell
+python tools\check_print.py print-build\odyssey-print-6x9.pdf
+```
+
+Run it after any rebuild. The PDF stage depends on several undocumented
+behaviours of calibre's renderer: content margins render at 2× their stated
+value; `--pdf-default-font-size` is scaled by 0.75, so only sizes that are a
+multiple of 0.75pt are reachable (hence a 10.5pt body); `@page` rules and
+`:left`/`:right` mirroring are dropped entirely; and class-based CSS is
+rewritten during the EPUB step, so anything load-bearing has to be an inline
+style. Those were established by measuring output, and a calibre upgrade can
+change them silently — the PDF still builds, it is just wrong. The checker is
+what catches that.
+
+Two of those were only visible in a full build, which is worth knowing before
+trusting a single-book proof: calibre also rescales fonts by a factor that
+depends on document length (a one-book proof suggested 0.844 where the real
+figure is 0.75), and three characters in the notes — `ʼ`, `→`, `≈` — are
+absent from the subsetted Gentium and fall back to Arial mid-Greek. The
+builder maps them to glyphs the font has (the koronis `᾽`, an en dash, and
+`c.`), and the checker fails if any new character starts falling back.
+
+Because mirrored margins cannot be expressed, the inner and outer margins
+are both generous enough to serve as a gutter. `--odd-even-offset N` adds
+calibre's CropBox-based shift for a deeper gutter, but many print shops
+ignore the CropBox, so it is opt-in rather than relied on.
+
+Requires calibre (`ebook-convert`), plus `pdfplumber` and `pypdf` for the
+recto pass and the checker.
+
 ## Web edition
 
 `tools/build_web.py` regenerates the reading edition in `docs/read/` (served by
