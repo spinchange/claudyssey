@@ -658,7 +658,7 @@ API_LANDING = """\
 <meta name="description" content="The full translation, CC0, structured for machines: a Greek-English parallel corpus of the Odyssey in JSONL, all 12,107 lines aligned to Murray's numbering, plus the complete name index as JSON.">
 <link rel="canonical" href="{SITE}/api/">
 <meta property="og:title" content="The text as data — the Odyssey, a Claudyssey">
-<meta property="og:description" content="A Greek-English parallel corpus of the Odyssey in JSONL, all 12,107 lines aligned to Murray's numbering, CC0, plus the complete name index as JSON. No key, no rate limit: static files.">
+<meta property="og:description" content="A Greek-English parallel corpus of the Odyssey in JSONL, all 12,107 lines aligned to Murray's numbering, CC0, plus the complete name index as JSON. No key, no auth: static files.">
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="The Odyssey — a Claudyssey">
 <meta property="og:url" content="{SITE}/api/">
@@ -690,8 +690,8 @@ API_LANDING = """\
 Greek-English parallel corpus of the Odyssey (12,107 verse lines, aligned
 one-to-one on Murray's 1919 numbering), the full translation source with its
 1,260 scholarly notes, and an index of every named person, god, people, and
-place in the poem. The English is public domain (CC0). No key, no rate limit,
-no tracking: it is a directory of static files.</p>
+place in the poem. The English is public domain (CC0). No key, no tracking,
+no limits of ours: it is a directory of static files.</p>
 
 <h2>The files</h2>
 <dl class="files">
