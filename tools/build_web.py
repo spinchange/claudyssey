@@ -122,6 +122,7 @@ def social_meta(title: str, desc: str, path: str) -> str:
 <meta property="og:title" content="{t}">
 <meta property="og:description" content="{d}">
 <meta property="og:type" content="article">
+<meta property="og:site_name" content="The Odyssey — a Claudyssey">
 <meta property="og:url" content="{url}">
 <meta property="og:image" content="{SITE}/social.jpg">
 <meta property="og:image:width" content="1200">
@@ -659,6 +660,7 @@ API_LANDING = """\
 <meta property="og:title" content="The text as data — the Odyssey, a Claudyssey">
 <meta property="og:description" content="A Greek-English parallel corpus of the Odyssey in JSONL, all 12,107 lines aligned to Murray's numbering, CC0, plus the complete name index as JSON. No key, no rate limit: static files.">
 <meta property="og:type" content="article">
+<meta property="og:site_name" content="The Odyssey — a Claudyssey">
 <meta property="og:url" content="{SITE}/api/">
 <meta property="og:image" content="{SITE}/social.jpg">
 <meta property="og:image:width" content="1200">
