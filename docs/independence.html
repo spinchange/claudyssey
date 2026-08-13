@@ -115,10 +115,14 @@
   controls are the whole point, since any two literal translations of the
   same Greek converge substantially without either copying the other. The
   Lattimore, Green, Palmer, and Wilson texts come from scans; residual OCR
-  noise systematically depresses comparisons involving those texts, and
-  Wilson's scan additionally retains its running page-heads, a further
-  small depressor of her rows (an estimated few percent relative, far
-  smaller than any gap read below).</p>
+  noise systematically depresses comparisons involving those texts.
+  Palmer's and Wilson's running page-heads are stripped under the
+  body-only rule (leaving Wilson's 394 head-lines in shifts her pairings
+  by a few percent relative; the repository records the exact token
+  counts and corpus hashes behind this page's numbers, so a rerun can
+  check extraction as well as method). Choosing the larger direction is
+  conservative against this translation, but it is a choice; per-pair
+  directional values are printed by the script.</p>
   <p>Public-domain texts come from Project Gutenberg and the Perseus/Scaife
   library; the script downloads them and prints a hash of each cleaned
   corpus. Lattimore, Fagles, Wilson, and Green, still in copyright, were
@@ -155,14 +159,14 @@
     <tr><th>human pair</th><th class="num">5-gram</th>
         <th>human pair</th><th class="num">5-gram</th></tr>
     <tr class="ctrl"><td>Murray · Butcher &amp; Lang</td><td class="num">15.2%</td><td>Lattimore · Wilson</td><td class="num">1.0%</td></tr>
-    <tr class="ctrl"><td>Murray · Green</td><td class="num">5.0%</td><td>Palmer · Wilson</td><td class="num">1.0%</td></tr>
-    <tr class="ctrl"><td>Murray · Palmer</td><td class="num">5.0%</td><td>Butler · Wilson</td><td class="num">1.0%</td></tr>
+    <tr class="ctrl"><td>Murray · Green</td><td class="num">5.0%</td><td>Butler · Wilson</td><td class="num">1.0%</td></tr>
+    <tr class="ctrl"><td>Murray · Palmer</td><td class="num">5.0%</td><td>Palmer · Wilson</td><td class="num">1.0%</td></tr>
     <tr class="ctrl"><td>Murray · Lattimore</td><td class="num">3.5%</td><td>Murray · Wilson</td><td class="num">0.9%</td></tr>
-    <tr class="ctrl"><td>Lattimore · Green</td><td class="num">3.2%</td><td>Palmer · Fagles</td><td class="num">0.8%</td></tr>
-    <tr class="ctrl"><td>Butcher &amp; Lang · Palmer</td><td class="num">2.8%</td><td>Green · Wilson</td><td class="num">0.8%</td></tr>
+    <tr class="ctrl"><td>Lattimore · Green</td><td class="num">3.2%</td><td>Green · Wilson</td><td class="num">0.8%</td></tr>
+    <tr class="ctrl"><td>Butcher &amp; Lang · Palmer</td><td class="num">2.8%</td><td>Palmer · Fagles</td><td class="num">0.8%</td></tr>
     <tr class="ctrl"><td>Butcher &amp; Lang · Lattimore</td><td class="num">2.3%</td><td>Murray · Fagles</td><td class="num">0.8%</td></tr>
     <tr class="ctrl"><td>Butcher &amp; Lang · Green</td><td class="num">2.2%</td><td>Fagles · Wilson</td><td class="num">0.7%</td></tr>
-    <tr class="ctrl"><td>Palmer · Green</td><td class="num">1.8%</td><td>Butcher &amp; Lang · Wilson</td><td class="num">0.6%</td></tr>
+    <tr class="ctrl"><td>Palmer · Green</td><td class="num">1.8%</td><td>Butcher &amp; Lang · Wilson</td><td class="num">0.7%</td></tr>
     <tr class="ctrl"><td>Murray · Butler</td><td class="num">1.8%</td><td>Butler · Fagles</td><td class="num">0.6%</td></tr>
     <tr class="ctrl"><td>Palmer · Lattimore</td><td class="num">1.7%</td><td>Butcher &amp; Lang · Fagles</td><td class="num">0.5%</td></tr>
     <tr class="ctrl"><td>Butler · Lattimore</td><td class="num">1.5%</td><td>Cowper · Palmer</td><td class="num">0.3%</td></tr>
@@ -173,11 +177,15 @@
     <tr class="ctrl"><td>Fagles · Green</td><td class="num">1.0%</td><td></td><td class="num"></td></tr>
   </table>
   </div>
-  <p class="tbl-note">Run counts for the closest human pairs: Murray ·
-  Butcher &amp; Lang share 492 runs of ≥12 words (105 of ≥16, longest 32);
-  Murray · Palmer 52 (10, longest 20); Murray · Green 42 (4, longest 21);
-  Murray · Lattimore 21 (2, longest 21); Green · Lattimore 17 (0, longest
-  15); Lattimore · Fagles 3 (0, longest 13).</p>
+  <p class="tbl-note">Run counting is anchored in one text of the pair
+  (the first named below; the table above anchors in this translation).
+  The two directions differ only slightly, e.g. Murray · Butcher &amp;
+  Lang counts 493 or 488 depending on anchor. Counts for the closest
+  human pairs: Murray · Butcher &amp; Lang share 493 runs of ≥12 words
+  (105 of ≥16, longest 32); Murray · Palmer 52 (10, longest 20);
+  Murray · Green 43 (4, longest 21); Murray · Lattimore 21 (2, longest
+  21); Green · Lattimore 17 (0, longest 15); Lattimore · Fagles 3 (0,
+  longest 13).</p>
 
   <p>Read plainly, the tables say five things:</p>
   <p><strong>Overlap tracks literalness of method, in humans and machine
@@ -210,21 +218,31 @@
   Lang, Palmer) also outscore Fagles. Within this panel, affinity
   follows method, not fame. This is an inference over the table, not a
   measurement, and it shares the table's limits.</p>
-  <p><strong>Two rows remain elevated, and we say so.</strong> Against
+  <p><strong>The elevated rows, stated in full.</strong> Against
   Murray (8.9%) and Lattimore (6.3%), this translation runs roughly twice
   Green's own affinity to the same texts (5.0%, 3.2%), higher than every
   human pairing except Murray · Butcher &amp; Lang, a single towering pair
   at 15.2% that is itself no certificate of independence (Murray postdates
   Butcher &amp; Lang by forty years in the same archaizing tradition; the
-  median human pairing is about 0.5%). Two explanations fit the residue and
-  these numbers cannot decompose them: this translation is stricter than
-  even Green (same line count, same word-order discipline, and Murray's
-  own Greek text as source, all of which push convergence up), and the
-  model may carry some real gravity toward the literal translations in its
-  training data. What the numbers do bound is the form any such influence
-  took: the run profile stays human-shaped throughout (11 runs of ≥16 words
-  with Lattimore, against the Murray · Palmer human pair's 10), and
-  verbatim reuse is capped by the next section.</p>
+  median human pairing is about 0.8%). Stated distributionally, because a
+  row-by-row defense can hide the aggregate: four of this translation's
+  rows (Murray, Lattimore, Green, Butcher &amp; Lang) exceed every human
+  pairing except that one, and the median of its ten rows is 2.9%
+  against the human-pair median of 0.8%. The four are the panel's most
+  literal predecessors, which is the direction the method account
+  predicts, but the elevation itself is a fact of the table. Two
+  explanations fit it and these numbers cannot decompose them: this
+  translation is stricter than even Green (word-order discipline, and
+  Murray's own Greek text as source; the line-count constraint itself
+  evidently contributes little, per the Wilson result below), and the
+  model may carry some real gravity toward the literal translations in
+  its training data. What the numbers do bound is the form any such
+  influence took: run counts are elevated in roughly the proportion of
+  the n-gram rows (170 runs of ≥12 words with Murray, against 52 for
+  the closest human pair outside Murray · Butcher &amp; Lang), but the
+  length ceiling stays inside the human range (longest 29 words,
+  against the human pairs' 32), and verbatim reuse is capped by the
+  next section.</p>
   <p><strong>The Fagles signal is modest but, in fairness, not
   absent.</strong> This translation's 1.7% overlap with Fagles exceeds
   every human-vs-Fagles pairing in the panel (the highest are Lattimore's
@@ -235,36 +253,55 @@
   Fagles also shares verbatim with Murray. The data do not support Fagles
   as a meaningful textual donor; they cannot rule out minor influence.</p>
   <p><strong>The newest row was predicted before it was measured, and
-  some of the predictions failed.</strong> Wilson's translation entered
-  the panel under preregistration: before her text was acquired, five
-  predictions and two falsification conditions were
+  the scorecard is mixed.</strong> Wilson's translation entered the
+  panel under preregistration: five predictions and two adverse-evidence
+  thresholds were
   <a href="https://github.com/spinchange/claudyssey/commit/e5db7ff7ebe347589e506237236a2d7f10c9054a">committed
-  to the repository</a> (2026-08-08), reasoned from the convergence
-  account. Predicted: a 5-gram affinity of 2.5–4.0%, between Fagles and
-  Green; no shared run of 20 or more words; a Wilson · Murray control between
-  1.5% and 3.0%. Measured: 1.4%, the lowest row in the table, below even
-  Fagles; longest shared run 13 words ("Son of Atreus, why ask me this?
-  You have no need to know," a line the poem gives Proteus at 4.492);
-  Wilson · Murray 0.9%. The falsification thresholds (affinity above
-  Green's 5.3%, or any 24-word run) were never approached, but every
-  numeric prediction missed low, and the misses extend to control
-  pairings that contain no AI text at all: Wilson runs below Green
-  against the whole human panel. The common cause is one the
-  preregistration named and underweighted: her deliberately plain,
-  compressed pentameter cuts n-gram continuity with everyone. Two
-  consequences are worth stating against our own predictions. First,
-  the fame inference above gets its second trial and passes more starkly
-  than we predicted: the most-discussed English Odyssey of the century
-  sits at the bottom of the affinity table. Second, a refinement of the
-  elevated-rows discussion: Wilson is the one translation sharing this
-  project's line-for-line constraint, and she shows the least affinity
-  of anyone, so the line discipline itself evidently leaves no n-gram
-  fingerprint; what these tests see is word-by-word literalism of
-  diction, whatever mixture of method and model gravity produces it. In
-  fairness, the detail we flagged for Fagles recurs here: this
-  translation's 1.4% modestly exceeds every human pairing with Wilson
-  (the highest reach 1.0%), a residue these numbers cannot
-  decompose.</p>
+  to the public repository</a> and pushed on 2026-08-08, four days
+  before a measurable copy of her text was acquired (the push is the
+  evidence that matters; a commit timestamp alone is author-controlled).
+  One disclosure belongs beside that claim: the predictions were
+  corpus-blind, not translator-blind. Her proem and the published
+  descriptions of her method were known to this project well before the
+  preregistration; an internal note from July analyzes her opening
+  lines. Scored plainly: both range predictions missed low (5-gram
+  predicted 2.5–4.0%, measured 1.4%; the Wilson · Murray human control
+  predicted 1.5–3.0%, measured 0.9%). The ordering prediction partly
+  failed: Wilson was predicted between Palmer and Fagles and landed
+  below Fagles, lower than every row except the two eighteenth-century
+  poets, Cowper and Pope. The longest-run prediction hit: predicted
+  under 20 words, measured a single 13-word run ("Son of Atreus, why
+  ask me this? You have no need to know," Proteus at 4.492). The
+  prediction that Wilson would run below Green against the whole human
+  panel failed at one pairing (Wilson · Cowper 0.15% against
+  Green · Cowper 0.13%). The thresholds that would have counted against
+  independence (affinity above Green's 5.3%, or any 24-word run) were
+  never approached; be clear about what that asymmetry means: only
+  high-side surprises could have counted against the convergence
+  account, so these low-side misses cost it a mechanism, not the
+  conclusion.</p>
+  <p>The mechanism they cost it is worth spelling out. The
+  preregistration expected Wilson's line-for-line constraint (the same
+  constraint this project worked under) to push overlap up and her
+  compressed, deliberately plain diction to push it down, with the
+  constraint winning. The diction won. And with Green (line-matched,
+  5.3%) and Wilson (line-for-line, 1.4%) both on the table, line
+  discipline alone evidently determines little; what separates the high
+  rows from the low ones, in humans and machine alike, is literal,
+  word-by-word rendering. On the fame question, her row points the same
+  direction as the Green–Fagles comparison above (the most-discussed
+  English Odyssey of the century shows less exact-text affinity than
+  century-old literalists nobody reads), but it is weaker evidence than
+  it looks, and we flag the confound ourselves: Wilson deliberately
+  varies Homer's repeated formulas where this translation, like Murray
+  and Fagles, repeats them verbatim, and that choice suppresses exactly
+  the n-grams and runs these tests count. A pattern consistent with
+  affinity-follows-method, not a second independent test of it.
+  Finally, the detail a defense would prefer to omit: this translation's
+  1.4% with Wilson exceeds every human pairing with her (the highest,
+  Lattimore's, is 1.0%), an excess of roughly forty percent in relative
+  terms, in the same direction as the Fagles and Lattimore excesses
+  noted above, and a residue these numbers cannot decompose.</p>
 </section>
 
 <section>
@@ -303,7 +340,11 @@
   test, essentially this translation's 21.0%, because most sliding
   windows cross fragment boundaries. N-gram union statistics <em>cannot
   exclude</em> short-fragment mosaic composition at the 4–6 word scale,
-  and we do not claim they can.</p>
+  and we do not claim they can. Two further limits on the calibration
+  itself: it is a pure, unedited splice, so partial mixtures and edited
+  chunks are uncalibrated; and these are whole-book averages, so reuse
+  concentrated in a single book or episode could hide inside them
+  (per-book statistics are open work, see Scope).</p>
   <p>One measured observation bears on that remaining hypothesis without
   settling it. In these cyclic splices, sub-12-word chunks produce no
   shared runs of 12+ words, though a differently built mosaic could if
@@ -421,12 +462,16 @@
   which are real questions outside this page's scope. Fitzgerald (1961) is
   not yet in the panel. Wilson's row, added in August 2026, was
   <a href="https://github.com/spinchange/claudyssey/blob/main/notes/translators-note-material.md">preregistered
-  in the repository</a>: five predictions and two falsification
-  conditions, commit-timestamped before her text was acquired, with the
-  outcome reported against them above, misses included, and the full
-  results appended to the same file. Line-aligned comparison and
+  in the repository</a>: five predictions and two adverse-evidence
+  thresholds, committed and publicly pushed before a measurable copy of
+  her text was acquired, with the outcome scored against them above,
+  misses included, and the full results and post-review corrections
+  appended to the same file. Line-aligned comparison and
   syntactic or semantic similarity measures would probe finer dependence
-  than n-grams can; they remain open work.</p>
+  than n-grams can; so would symmetric overlap statistics alongside the
+  directional-max reported here, per-book localization of shared runs,
+  and measured exposure proxies for the fame question. All of it remains
+  open work.</p>
   <p>Provenance: this page was prepared with the same class of model that
   made the translation, so don't take our framing on trust: the method is
   fully specified above, the script downloads and hashes the corpora, and
@@ -438,7 +483,14 @@
   contamination in two corpora, and framing that outran the metrics. The
   corrections are incorporated above and itemized in the repository's
   commit history; Green was added to the panel afterward, closing the
-  matched-method gap the audit identified.</p>
+  matched-method gap the audit identified. The Wilson revision went
+  through the same adversarial pass before merging, which caught a
+  misreading of our own table (Wilson described as the lowest row when
+  Cowper and Pope sit lower), a mis-scored prediction, a wrong
+  human-pair median carried since this page's first version (0.5%; the
+  correct figure is 0.8%), and Wilson's unstripped running page-heads.
+  Those corrections are incorporated above and itemized in the notes
+  file alongside the preregistration.</p>
 </section>
 
 </div>

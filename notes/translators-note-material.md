@@ -297,3 +297,52 @@ continuity" mechanism was right and underweighted; the "matched
 method (line discipline) pushes up" mechanism produced no visible
 signal. Lesson for the translator's note: shared formal constraints
 do not leave an n-gram fingerprint; shared diction does.
+
+### Corrections (appended 2026-08-12, after adversarial cross-review)
+
+A second-model adversarial review of the results above caught real
+errors. Per the append-only rule the original text stands; this
+section corrects it and its numbers are now canonical.
+
+1. "Panel minimum" / "dead last" was a misreading of our own table.
+   Wilson's row is the lowest among the modern translations, below
+   Fagles, but Cowper (0.19%) and Pope (0.02%) sit below her. She is
+   8th of 10, not 10th. Prediction 5 rescored: she landed lower than
+   the predicted lower-middle (a miss in placement), and the anti-fame
+   inference is supported but weaker than the original append claimed;
+   see also the formula confound below.
+2. "Every quantitative prediction missed low" (as echoed on the page
+   draft) was a miscount: the longest-run prediction was numeric and
+   HIT. Accurate tally: two range predictions missed low; ordering
+   partial miss (Wilson/Fagles swapped); longest-run hit; the
+   below-Green-everywhere prediction failed at one pairing (see 3).
+3. Prediction 4's second half is a partial miss, not a "HIT with a
+   wash": Wilson-Cowper 0.149% is above Green-Cowper 0.130%, and the
+   preregistration made no noise-floor exception, so scoring may not
+   invent one.
+4. The falsification thresholds were one-sided: only high-side
+   surprises could trigger them. The low-side misses were never
+   falsification-capable, and no claim of surviving a symmetric test
+   should be made.
+5. Method fix: the scan's 394 running page-head lines are now stripped
+   in the loader (same body-only treatment as Palmer). Canonical
+   post-fix numbers: Wilson 97,258 tokens (cleaned-corpus
+   sha256:5222dcd4bd1e0b91; source PDF sha256:
+   39a8078d2572f9a968601a7d19ad1a22582e2163d01dea5b130fd99398248aeb).
+   Claudyssey-Wilson 5-gram 1.42% (directions 1.33/1.42), 4g 4.31%,
+   6g 0.57%, 8g 0.10%, one run ≥12, longest 13. Wilson-Murray 0.91%.
+   Butcher & Lang-Wilson 0.653%, which now rounds to 0.7%. Human-pair
+   5-gram median (45 pairs) 0.83%; Claudyssey-row median 2.86%. No
+   conclusion changes.
+6. Disclosure: the predictions were corpus-blind, not translator-blind.
+   An internal note dated July 18-21 (before the Aug 8 prereg) contains
+   Wilson's proem and analysis of her diction, meter, and line-count
+   constraint. "Nothing of Wilson's text has been ingested" was true of
+   the measurement corpus, not of the authors' exposure to excerpts.
+   The public page now says so.
+7. Confound worth carrying into the translator's note: Wilson
+   deliberately varies Homer's repeated formulas where the Claudyssey
+   (like Murray and Fagles) repeats them verbatim; that choice alone
+   suppresses shared n-grams and runs, independent of fame or
+   literalism. Her row is consistent with affinity-follows-method but
+   is not a clean second trial of it.

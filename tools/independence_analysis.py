@@ -183,13 +183,15 @@ def load_public():
     return texts
 
 
-def load_private(path, start_marker, end_marker=None):
+def load_private(path, start_marker, end_marker=None, drop_re=None):
     if path.lower().endswith('.pdf'):
         from pypdf import PdfReader
         raw = '\n'.join((p.extract_text() or '') for p in PdfReader(path).pages)
     else:
         raw = open(path, encoding='utf-8', errors='replace').read()
     lines = raw.split('\n')
+    if drop_re:
+        lines = [l for l in lines if not re.match(drop_re, l)]
     norm = lambda l: re.sub(r'\s+', ' ', l)
     body = body_between(lines,
                         lambda l: start_marker in norm(l),
@@ -255,10 +257,15 @@ def main():
     if args.wilson:
         # Verified on first ingest (2026-08-12): the scan is poem-only and
         # ends with Book 24's final lines, so no end marker is needed.
+        # Running page-heads ("522 HOMER: THE ODYSSEY" / "BOOK 24: ...")
+        # are dropped, same treatment as Palmer's, per the body-only rule
+        # (394 lines; leaving them in shifts Wilson pairings by a few
+        # percent relative, e.g. claudyssey-wilson 5-gram 1.39% -> 1.42%).
         # Predictions preregistered in notes/translators-note-material.md
         # BEFORE first measurement — do not adjust them after running.
         texts['wilson'] = load_private(
-            args.wilson, 'Tell me about a complicated man')
+            args.wilson, 'Tell me about a complicated man',
+            drop_re=r'\s*(\d*\s*HOMER:\s*THE\s+ODYSSEY|BOOK\s+\d+\s*:)')
 
     print('corpus (translation body only, normalized):')
     for k, v in texts.items():
