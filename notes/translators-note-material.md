@@ -409,3 +409,53 @@ this clause): if Claudyssey-Johnston exceeds Green's 5.3%, or any
 shared run reaches 24+ words, the convergence account as stated on the
 independence page needs revision, and the page gets corrected — not
 the framing.
+
+### Results (appended 2026-08-12, first measurement, same day as prereg)
+
+Johnston = 128,127 tokens after normalization (cleaned-corpus
+sha256:a4c52babcf8a0c15; source txt sha256:
+fb627016748f24e7f48fcf053231304674d502dd07f9784d92f69dc301bb67d1).
+Prereg pushed as ece959d before the run.
+
+1. Claudyssey-Johnston 5-gram predicted 1.8-3.5%, above Fagles and
+   below Palmer: **HIT.** Measured 2.83% (directions 2.83/2.26);
+   4g 7.16%, 6g 1.26%, 8g 0.26%.
+2. Ordering: **FULL HIT, every position.** Murray 8.91 > Lattimore
+   6.29 > Green 5.35 ≈ B&L 5.28 > Palmer 3.98 > Johnston 2.83 >
+   Fagles 1.74 > Butler 1.58 > Wilson 1.42, Cowper and Pope below all.
+3. Longest run under 20 words, no run of 20+: **MISS, HIGH — the
+   first high-side miss in either preregistration.** A 21-word shared
+   run exists: Phemius setting down the lyre to supplicate Odysseus
+   (22.339-341, "the knees of laertes son odysseus so he set the
+   hollow lyre down on the ground between the mixing bowl and"). A
+   narrative passage occurring once in the poem, not a formula. 8 runs
+   ≥12, one ≥16 (the 21). Below the 24-word adverse threshold, but
+   this is now the longest run shared with any modern except
+   Lattimore's 24, and longer than Johnston shares with any human
+   (his max is 18, with Murray).
+4. Johnston-Murray predicted 1.5-3.0%: **HIT** (2.66%). Above Wilson's
+   and below Green's corresponding rows: **PARTIAL MISS.** Holds for
+   all seven substantive texts; fails at Cowper on both sides
+   (Johnston-Cowper 0.14 is below Wilson-Cowper 0.15 and above
+   Green-Cowper 0.13), at Pope on the Green side (0.02 vs 0.01), and,
+   more interestingly, at the Wilson pairing itself: Johnston-Wilson
+   1.50 is nearly twice Green-Wilson 0.83. Two plain modern registers
+   converge on each other; the prediction did not anticipate that.
+5. Web-prevalence check: **HIT as pattern** (caveat as preregistered:
+   consistent, not an isolated-variable test). The plausibly
+   most-training-available English Odyssey lands sixth of eleven,
+   exactly the predicted slot, not top-tier.
+
+Adverse-evidence thresholds: not triggered (2.83% < 5.3%; 21 < 24).
+
+Residual, for fairness: Claudyssey-Johnston 2.83% exceeds every
+human-Johnston pairing (max Murray 2.66%), a 1.06x relative excess,
+about the size of the Green-vs-Murray analog the page leans on, and
+far smaller than the Wilson (1.4x) or Lattimore (1.8x) excesses.
+
+Panel-wide updates with eleven priors: union test 5g 21.95% found
+(78.1% in none), 4g 36.42%, 8g 5.17%. Human-pair 5g median (55 pairs)
+0.97%; Claudyssey-row median (11 rows) 2.83%. Johnston's arrival
+raises the human median from 0.83% because his rows against the
+moderns are healthy mid-range values, which is itself evidence that
+modern-register translations converge on each other.

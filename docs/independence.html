@@ -3,10 +3,10 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Is it a remix? — measuring the Claudyssey against ten translations</title>
-<meta name="description" content="An AI translation of the Odyssey is often assumed to be a re-synthesis of the human translations in its training data. Part of that claim is measurable. We measured it against ten translations from Pope to Green, with all 45 human-vs-human pairs as controls, and we report exactly what the numbers do and do not establish.">
-<meta property="og:title" content="Is it a remix? Measuring the Claudyssey against ten translations">
-<meta property="og:description" content="N-gram overlap and verbatim shared-passage analysis against Murray, Lattimore, Fagles, Wilson, Green, and five others, with the full human-vs-human control matrix, a synthetic-splice positive control, and a preregistered prediction test.">
+<title>Is it a remix? — measuring the Claudyssey against eleven translations</title>
+<meta name="description" content="An AI translation of the Odyssey is often assumed to be a re-synthesis of the human translations in its training data. Part of that claim is measurable. We measured it against eleven translations from Pope to Green, with all 55 human-vs-human pairs as controls, and we report exactly what the numbers do and do not establish.">
+<meta property="og:title" content="Is it a remix? Measuring the Claudyssey against eleven translations">
+<meta property="og:description" content="N-gram overlap and verbatim shared-passage analysis against Murray, Lattimore, Fagles, Wilson, Green, and six others, with the full human-vs-human control matrix, a synthetic-splice positive control, and two preregistered prediction tests.">
 <style>
   :root{
     --wine:#46192b; --wine-deep:#1e0b15; --bone:#ead9b4; --gold:#c99b3f;
@@ -95,11 +95,12 @@
 
 <section>
   <h2>Method</h2>
-  <p>Eleven texts: this translation (~124,000 words) and ten English Odysseys
-  spanning 293 years. The panel: Pope (1725), Cowper (1791), Butcher &amp;
-  Lang (1879), Palmer (1891), Butler (1900), Murray (1919, the Loeb prose
-  facing the very Greek text this project translated), Lattimore (1967),
-  Fagles (1996), Wilson (2017), and Green (2018). Each is trimmed to <em>translation body
+  <p>Twelve texts: this translation (~124,000 words) and eleven English
+  Odysseys spanning 293 years. The panel: Pope (1725), Cowper (1791),
+  Butcher &amp; Lang (1879), Palmer (1891), Butler (1900), Murray (1919,
+  the Loeb prose facing the very Greek text this project translated),
+  Lattimore (1967), Fagles (1996), Johnston (2006), Wilson (2017), and
+  Green (2018). Each is trimmed to <em>translation body
   only</em>: prefaces, introductions, and footnotes removed, so that quoted
   or editorial matter cannot masquerade as translation (this matters; see
   "What copying looks like" below). Everything is lowercased, punctuation,
@@ -111,7 +112,7 @@
   <strong>n-word sequences</strong> (n = 4…8) appearing anywhere in the
   other, taking the larger of the two directions; and every
   <strong>maximal verbatim shared passage</strong> of 12 or more words, with
-  no cap on length. All 45 human-vs-human pairings are computed with the
+  no cap on length. All 55 human-vs-human pairings are computed with the
   identical procedure and shown below, the smallest grouped for space. The
   controls are the whole point, since any two literal translations of the
   same Greek converge substantially without either copying the other. The
@@ -128,8 +129,9 @@
   prints both directions for every pair.</p>
   <p>Public-domain texts come from Project Gutenberg and the Perseus/Scaife
   library; the script downloads them and prints a hash of each cleaned
-  corpus. Lattimore, Fagles, Wilson, and Green, still in copyright, were
-  measured from privately held copies; only statistics are published, never their
+  corpus. Lattimore, Fagles, Johnston, Wilson, and Green, still in
+  copyright, were measured from privately held copies (Johnston's text is
+  freely downloadable from his site but remains in copyright); only statistics are published, never their
   text. A public clone of <a
   href="https://github.com/spinchange/claudyssey/blob/main/tools/independence_analysis.py">the
   analysis script</a> therefore reproduces the public-domain rows exactly and the
@@ -147,6 +149,7 @@
     <tr class="hl"><td>Green (2018, literal line-matched verse)</td><td class="num">5.3%</td><td class="num">0.8%</td><td class="num">49</td><td class="num">3</td><td class="num">20</td></tr>
     <tr class="hl"><td>Butcher &amp; Lang (1879, literal prose)</td><td class="num">5.3%</td><td class="num">1.0%</td><td class="num">52</td><td class="num">7</td><td class="num">22</td></tr>
     <tr class="hl"><td>Palmer (1891, literal prose)</td><td class="num">4.0%</td><td class="num">0.7%</td><td class="num">32</td><td class="num">4</td><td class="num">19</td></tr>
+    <tr class="hl"><td>Johnston (2006, expansive free verse)</td><td class="num">2.8%</td><td class="num">0.3%</td><td class="num">8</td><td class="num">1</td><td class="num">21</td></tr>
     <tr class="hl"><td>Fagles (1996, free verse)</td><td class="num">1.7%</td><td class="num">0.2%</td><td class="num">5</td><td class="num">0</td><td class="num">14</td></tr>
     <tr class="hl"><td>Butler (1900, free prose)</td><td class="num">1.6%</td><td class="num">0.1%</td><td class="num">0</td><td class="num">0</td><td class="num">&lt;12</td></tr>
     <tr class="hl"><td>Wilson (2017, line-for-line iambic pentameter)</td><td class="num">1.4%</td><td class="num">0.1%</td><td class="num">1</td><td class="num">0</td><td class="num">13</td></tr>
@@ -155,29 +158,33 @@
   </table>
   </div>
 
-  <p>And the complete human-vs-human control matrix, all 45 pairings of the
-  ten prior translations, same procedure, sorted:</p>
+  <p>And the complete human-vs-human control matrix, all 55 pairings of the
+  eleven prior translations, same procedure, sorted:</p>
   <div class="tblwrap">
   <table>
     <tr><th>human pair</th><th class="num">5-gram</th>
         <th>human pair</th><th class="num">5-gram</th></tr>
-    <tr class="ctrl"><td>Murray · Butcher &amp; Lang</td><td class="num">15.2%</td><td>Lattimore · Wilson</td><td class="num">1.0%</td></tr>
-    <tr class="ctrl"><td>Murray · Green</td><td class="num">5.0%</td><td>Butler · Wilson</td><td class="num">1.0%</td></tr>
-    <tr class="ctrl"><td>Murray · Palmer</td><td class="num">5.0%</td><td>Palmer · Wilson</td><td class="num">1.0%</td></tr>
-    <tr class="ctrl"><td>Murray · Lattimore</td><td class="num">3.5%</td><td>Murray · Wilson</td><td class="num">0.9%</td></tr>
-    <tr class="ctrl"><td>Lattimore · Green</td><td class="num">3.2%</td><td>Green · Wilson</td><td class="num">0.8%</td></tr>
-    <tr class="ctrl"><td>Butcher &amp; Lang · Palmer</td><td class="num">2.8%</td><td>Palmer · Fagles</td><td class="num">0.8%</td></tr>
-    <tr class="ctrl"><td>Butcher &amp; Lang · Lattimore</td><td class="num">2.3%</td><td>Murray · Fagles</td><td class="num">0.8%</td></tr>
-    <tr class="ctrl"><td>Butcher &amp; Lang · Green</td><td class="num">2.2%</td><td>Fagles · Wilson</td><td class="num">0.7%</td></tr>
-    <tr class="ctrl"><td>Palmer · Green</td><td class="num">1.8%</td><td>Butcher &amp; Lang · Wilson</td><td class="num">0.7%</td></tr>
-    <tr class="ctrl"><td>Murray · Butler</td><td class="num">1.8%</td><td>Butler · Fagles</td><td class="num">0.6%</td></tr>
-    <tr class="ctrl"><td>Palmer · Lattimore</td><td class="num">1.7%</td><td>Butcher &amp; Lang · Fagles</td><td class="num">0.5%</td></tr>
-    <tr class="ctrl"><td>Butler · Lattimore</td><td class="num">1.5%</td><td>Cowper · Palmer</td><td class="num">0.3%</td></tr>
+    <tr class="ctrl"><td>Murray · Butcher &amp; Lang</td><td class="num">15.2%</td><td>Lattimore · Fagles</td><td class="num">1.1%</td></tr>
+    <tr class="ctrl"><td>Murray · Green</td><td class="num">5.0%</td><td>Butler · Palmer</td><td class="num">1.1%</td></tr>
+    <tr class="ctrl"><td>Murray · Palmer</td><td class="num">5.0%</td><td>Fagles · Green</td><td class="num">1.0%</td></tr>
+    <tr class="ctrl"><td>Murray · Lattimore</td><td class="num">3.5%</td><td>Lattimore · Wilson</td><td class="num">1.0%</td></tr>
+    <tr class="ctrl"><td>Lattimore · Green</td><td class="num">3.2%</td><td>Butler · Wilson</td><td class="num">1.0%</td></tr>
+    <tr class="ctrl"><td>Butcher &amp; Lang · Palmer</td><td class="num">2.8%</td><td>Palmer · Wilson</td><td class="num">1.0%</td></tr>
+    <tr class="ctrl"><td>Murray · Johnston</td><td class="num">2.7%</td><td>Fagles · Johnston</td><td class="num">1.0%</td></tr>
+    <tr class="ctrl"><td>Butcher &amp; Lang · Lattimore</td><td class="num">2.3%</td><td>Murray · Wilson</td><td class="num">0.9%</td></tr>
+    <tr class="ctrl"><td>Butcher &amp; Lang · Green</td><td class="num">2.2%</td><td>Green · Wilson</td><td class="num">0.8%</td></tr>
+    <tr class="ctrl"><td>Green · Johnston</td><td class="num">2.1%</td><td>Palmer · Fagles</td><td class="num">0.8%</td></tr>
+    <tr class="ctrl"><td>Palmer · Green</td><td class="num">1.8%</td><td>Murray · Fagles</td><td class="num">0.8%</td></tr>
+    <tr class="ctrl"><td>Palmer · Johnston</td><td class="num">1.8%</td><td>Fagles · Wilson</td><td class="num">0.7%</td></tr>
+    <tr class="ctrl"><td>Murray · Butler</td><td class="num">1.8%</td><td>Butcher &amp; Lang · Wilson</td><td class="num">0.7%</td></tr>
+    <tr class="ctrl"><td>Palmer · Lattimore</td><td class="num">1.7%</td><td>Butler · Fagles</td><td class="num">0.6%</td></tr>
+    <tr class="ctrl"><td>Butler · Lattimore</td><td class="num">1.5%</td><td>Butcher &amp; Lang · Fagles</td><td class="num">0.5%</td></tr>
+    <tr class="ctrl"><td>Wilson · Johnston</td><td class="num">1.5%</td><td>Cowper · Palmer</td><td class="num">0.3%</td></tr>
     <tr class="ctrl"><td>Butler · Butcher &amp; Lang</td><td class="num">1.4%</td><td>Murray · Cowper</td><td class="num">0.3%</td></tr>
-    <tr class="ctrl"><td>Butler · Green</td><td class="num">1.2%</td><td>Butcher &amp; Lang · Cowper</td><td class="num">0.3%</td></tr>
-    <tr class="ctrl"><td>Lattimore · Fagles</td><td class="num">1.1%</td><td>remaining 6 Cowper pairs</td><td class="num">≤0.2%</td></tr>
-    <tr class="ctrl"><td>Butler · Palmer</td><td class="num">1.1%</td><td>remaining 8 pairs (all involve Pope)</td><td class="num">≤0.04%</td></tr>
-    <tr class="ctrl"><td>Fagles · Green</td><td class="num">1.0%</td><td></td><td class="num"></td></tr>
+    <tr class="ctrl"><td>Lattimore · Johnston</td><td class="num">1.4%</td><td>Butcher &amp; Lang · Cowper</td><td class="num">0.3%</td></tr>
+    <tr class="ctrl"><td>Butcher &amp; Lang · Johnston</td><td class="num">1.3%</td><td>remaining 7 Cowper pairs</td><td class="num">≤0.2%</td></tr>
+    <tr class="ctrl"><td>Butler · Green</td><td class="num">1.2%</td><td>remaining 9 pairs (all involve Pope)</td><td class="num">≤0.04%</td></tr>
+    <tr class="ctrl"><td>Butler · Johnston</td><td class="num">1.2%</td><td></td><td class="num"></td></tr>
   </table>
   </div>
   <p class="tbl-note">Run counting is anchored in one text of the pair
@@ -190,7 +197,7 @@
   21); Green · Lattimore 17 (0, longest 15); Lattimore · Fagles 3 (0,
   longest 13).</p>
 
-  <p>Read plainly, the tables say five things:</p>
+  <p>Read plainly, the tables say six things:</p>
   <p><strong>Overlap tracks literalness of method, in humans and machine
   alike.</strong> Among humans, the literal translations occupy the entire
   top of the matrix while Cowper and Pope, translating the identical poem,
@@ -227,11 +234,11 @@
   human pairing except Murray · Butcher &amp; Lang, a single towering pair
   at 15.2% that is itself no certificate of independence (Murray postdates
   Butcher &amp; Lang by forty years in the same archaizing tradition; the
-  median human pairing is about 0.8%). Stated distributionally, because a
+  median human pairing is about 1.0%). Stated distributionally, because a
   row-by-row defense can hide the aggregate: four of this translation's
   rows (Murray, Lattimore, Green, Butcher &amp; Lang) exceed every human
-  pairing except that one, and the median of its ten rows is 2.9%
-  against the human-pair median of 0.8%. The four are the panel's most
+  pairing except that one, and the median of its eleven rows is 2.8%
+  against the human-pair median of 1.0%. The four are the panel's most
   literal predecessors, which is the direction the method account
   predicts, but the elevation itself is a fact of the table. Two
   explanations fit it and these numbers cannot decompose them: this
@@ -244,7 +251,7 @@
   is high (170 runs of ≥12 words with Murray, against 52 for the
   closest human pair outside Murray · Butcher &amp; Lang); the longest
   run, 29 words, sits below Murray · Butcher &amp; Lang's 32 but above
-  the other 44 human pairs, whose own maximum is 22; and verbatim reuse
+  the other 54 human pairs, whose own maximum is 22; and verbatim reuse
   is capped by the next section.</p>
   <p><strong>The Fagles signal is modest but, in fairness, not
   absent.</strong> This translation's 1.7% overlap with Fagles exceeds
@@ -309,16 +316,47 @@
   Lattimore's, is 1.0%), an excess of roughly forty percent in relative
   terms, in the same direction as the Fagles and Lattimore excesses
   noted above, and a residue these numbers cannot decompose.</p>
+  <p><strong>A second preregistered row separates web prevalence from
+  method.</strong> Ian Johnston's translation (2006), measured days
+  after Wilson's under the same protocol (predictions
+  <a href="https://github.com/spinchange/claudyssey/commit/ece959d">pushed
+  publicly</a> before measurement, inspection of the file itemized in
+  the preregistration), tests a sharper variable than fame: his text is
+  freely mirrored across the open web and is plausibly the most
+  training-available English Odyssey there is, while remaining little
+  known in print. Raw memorization would predict a top-tier row.
+  Measured: 2.8%, sixth of eleven, in the preregistered range
+  (1.8–3.5%, between Palmer and Fagles), and the predicted ordering of
+  all eleven rows was correct in every position. Two predictions
+  failed. One failed in the direction that deserves emphasis: the
+  longest-run prediction (under 20 words) broke on a 21-word shared
+  passage, Phemius setting down his lyre to plead for his life
+  (22.339–341). It is a narrative passage, not a recurring formula; it
+  stays below the 24-word adverse threshold; and it is now the longest
+  run this translation shares with any modern except Lattimore's 24,
+  and longer than Johnston shares with any human (his maximum is 18,
+  with Murray). The other miss is instructive rather than adverse: the
+  prediction that Johnston would sit below Green against the whole
+  panel failed at Wilson, where Johnston's 1.5% is nearly twice
+  Green's 0.8%; two plain modern registers converge on each other.
+  And the residual, as for every row: this translation's 2.8% with
+  Johnston modestly exceeds every human pairing with him (Murray's
+  2.7% is the highest), about the same relative size as the
+  Green-to-Murray analogy the matched-method paragraph leans on.
+  Consistent with affinity-follows-method; like the fame reading, not
+  an isolated-variable test, and Johnston's arrival raised the
+  human-pair median itself (0.8% to 1.0%), because modern-register
+  translations converge on one another.</p>
 </section>
 
 <section>
   <h2>Bounding verbatim reuse</h2>
   <p>The "stitching" version of the accusation (that the text was assembled
-  from pieces of prior translations) was tested against the union of all ten at
-  once: an n-gram counts as matched if it appears in <em>any</em> of them.
-  Result: <strong>79.0%</strong> of this translation's 5-grams and
-  <strong>95.0%</strong> of its 8-grams appear in none of the ten; at
-  4 words, 65.0% appear nowhere. The longest passage shared with any
+  from pieces of prior translations) was tested against the union of all
+  eleven at once: an n-gram counts as matched if it appears in <em>any</em>
+  of them. Result: <strong>78.1%</strong> of this translation's 5-grams and
+  <strong>94.8%</strong> of its 8-grams appear in none of the eleven; at
+  4 words, 63.6% appear nowhere. The longest passage shared with any
   predecessor, anywhere in 12,107 lines, is 29 words (with Murray, the
   facing translation of its own source text).</p>
   <p>What do those figures actually exclude? To calibrate the test rather
@@ -329,22 +367,22 @@
   <table>
     <tr><th>text</th><th class="num">4-grams found in union</th>
         <th class="num">5-grams found</th><th class="num">runs ≥12 words vs Murray</th></tr>
-    <tr class="ctrl"><td>splice of exact 4-word chunks</td><td class="num">26.6%</td><td class="num">0.9%</td><td class="num">0</td></tr>
-    <tr class="ctrl"><td>splice of exact 5-word chunks</td><td class="num">41.3%</td><td class="num">20.7%</td><td class="num">0</td></tr>
+    <tr class="ctrl"><td>splice of exact 4-word chunks</td><td class="num">26.7%</td><td class="num">0.9%</td><td class="num">0</td></tr>
+    <tr class="ctrl"><td>splice of exact 5-word chunks</td><td class="num">41.4%</td><td class="num">20.7%</td><td class="num">0</td></tr>
     <tr class="ctrl"><td>splice of exact 6-word chunks</td><td class="num">51.2%</td><td class="num">34.0%</td><td class="num">0</td></tr>
-    <tr class="ctrl"><td>splice of exact 8-word chunks</td><td class="num">63.3%</td><td class="num">50.5%</td><td class="num">0</td></tr>
+    <tr class="ctrl"><td>splice of exact 8-word chunks</td><td class="num">63.4%</td><td class="num">50.5%</td><td class="num">0</td></tr>
     <tr class="ctrl"><td>splice of exact 12-word chunks</td><td class="num">75.6%</td><td class="num">67.0%</td><td class="num">3,490</td></tr>
-    <tr class="hl"><td>this translation</td><td class="num">35.0%</td><td class="num">21.0%</td><td class="num">170</td></tr>
+    <tr class="hl"><td>this translation</td><td class="num">36.4%</td><td class="num">22.0%</td><td class="num">170</td></tr>
   </table>
   </div>
   <p>The calibration cuts both ways, and both directions belong on this
   page. Against long-fragment assembly it is decisive: splices at 8 and 12
-  words score 2.4 and 3.2 times this translation's figure on
-  the 5-gram measure (1.8–2.2× at 4-grams),
+  words score 2.3 and 3.1 times this translation's figure on
+  the 5-gram measure (1.7–2.1× at 4-grams),
   so <em>the results strongly disfavor substantial assembly from verbatim
   passages of roughly eight to twelve words or longer</em>. But a text
   built entirely of exact five-word fragments scores 20.7% on the 5-gram
-  test, essentially this translation's 21.0%, because most sliding
+  test, near this translation's 22.0%, because most sliding
   windows cross fragment boundaries. N-gram union statistics <em>cannot
   exclude</em> short-fragment mosaic composition at the 4–6 word scale,
   and we do not claim they can. Two further limits on the calibration
@@ -467,15 +505,14 @@
   translator, human or machine, owes their predecessors; or say anything
   about literary quality, copyright, or the ethics of machine translation,
   which are real questions outside this page's scope. Fitzgerald (1961) is
-  not yet in the panel; a Johnston row is preregistered in the repository
-  (predictions committed and pushed before measurement, same protocol as
-  the Wilson row above) and not yet measured as of this page's last update. Wilson's row, added in August 2026, was
+  not yet in the panel. The Wilson and Johnston rows, both added in
+  August 2026, were each
   <a href="https://github.com/spinchange/claudyssey/blob/main/notes/translators-note-material.md">preregistered
-  in the repository</a>: five predictions and two adverse-evidence
-  thresholds, committed and publicly pushed before a measurable copy of
-  her text was acquired, with the outcome scored against them above,
-  misses included, and the full results and post-review corrections
-  appended to the same file. Line-aligned comparison and
+  in the repository</a>: predictions and adverse-evidence thresholds
+  committed and publicly pushed before a measurable copy entered the
+  analysis, with the outcomes scored against them above, misses
+  included, and the full results and post-review corrections appended
+  to the same file. Line-aligned comparison and
   syntactic or semantic similarity measures would probe finer dependence
   than n-grams can; so would symmetric overlap statistics alongside the
   directional-max reported here, per-book localization of shared runs,
