@@ -9,11 +9,14 @@ Scaife/Perseus, archive.org) and trimmed to translation body only —
 prefaces, arguments, and footnotes removed. Lattimore, Fagles, Green, and
 Wilson are in copyright: supply private copies via --lattimore / --fagles
 / --green / --wilson (PDF or txt); without them the script reproduces the
-public-domain subtable. Expected token counts and cleaned-corpus hashes
-for the published run are recorded in tools/corpus-manifest.txt.
+public-domain subtable. --johnston takes a local copy of Johnston's
+translation (public domain; he has revised it repeatedly, so identify
+your copy — see tools/johnston_version_check.py). Expected token counts
+and cleaned-corpus hashes for the published run are recorded in
+tools/corpus-manifest.txt.
 
 Usage:  python tools/independence_analysis.py [--lattimore PATH]
-        [--fagles PATH] [--green PATH] [--wilson PATH]
+        [--fagles PATH] [--green PATH] [--wilson PATH] [--johnston PATH]
 """
 import argparse, glob, hashlib, os, re, sys, unicodedata, urllib.request
 

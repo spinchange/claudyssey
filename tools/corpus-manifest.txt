@@ -18,18 +18,25 @@ lattimore       138911   99e9dea745c7fda8
 fagles          128314   bb16310e2f70905f
 green           135483   a4b4dc8a0ba3f537
 wilson           97258   5222dcd4bd1e0b91
-johnston        128127   a4c52babcf8a0c15
+johnston        128127   a4c52babcf8a0c15   (pre-2024 web revision, see below)
 #
-# Private inputs (in copyright; statistics only are published). sha256
-# of the exact source files measured, so a differing result can be
-# traced to a differing edition or scan rather than to the method:
+# Non-public-domain inputs (statistics only are published). sha256 of
+# the exact source files measured, so a differing result can be traced
+# to a differing edition or scan rather than to the method:
 # lattimore  70c147ac8e24a4cdd7a35c780d222a8b66bb39e882037067eefd7acaf83a434a
 # fagles     c62f37051b1132eb65c02f059c8bc4dff8019cbed15a14a122dd9e4335fccb12
 # green      9d27d8b26c03e318f8e23f8c025d721dbb4bc7a6b83de3314bc4a7ebd671a680
 # wilson     39a8078d2572f9a968601a7d19ad1a22582e2163d01dea5b130fd99398248aeb
-# johnston   fb627016748f24e7f48fcf053231304674d502dd07f9784d92f69dc301bb67d1
-#            (plain-text file; Johnston's translation is freely
-#            downloadable from his site but remains in copyright)
+#
+# Johnston is PUBLIC DOMAIN (the current official PDF states "This
+# document is in the public domain"). He has revised the translation
+# repeatedly since it first went online in 2002, and revision choice
+# is material (see tools/johnston_version_check.py). Two versions:
+# johnston (measured row): a pre-2024 web revision, plain text
+#   source     fb627016748f24e7f48fcf053231304674d502dd07f9784d92f69dc301bb67d1
+# johnston canonical 2024 (sensitivity check): VIU repository PDF,
+#   generated 2024-10-16, cleaned corpus 128466 tokens b74716133191e744
+#   source     e898722ff0982251c78d561f7fe6bb57ccd653c41e3503d2862884613748523e
 #
 # Public-domain sources are downloaded and hashed by the script itself
 # (URLs in SOURCES / MURRAY_URN in tools/independence_analysis.py).

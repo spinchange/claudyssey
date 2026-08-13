@@ -459,3 +459,61 @@ Panel-wide updates with eleven priors: union test 5g 21.95% found
 raises the human median from 0.83% because his rows against the
 moderns are healthy mid-range values, which is itself evidence that
 modern-register translations converge on each other.
+
+### Corrections (appended 2026-08-12, after the third adversarial review)
+
+The review that audited the Johnston revision found the results append
+above defective in ways that matter. Originals stand per the
+append-only rule; this section corrects and supersedes.
+
+1. THE CORPUS WAS AN UNIDENTIFIED REVISION, AND IT MATTERS.
+   corpus/johnston.txt carries no edition statement; it is a pre-2024
+   web revision of a translation Johnston has revised repeatedly since
+   2002. Against his current official text (VIU repository PDF,
+   generated 2024-10-16, "This document is in the public domain";
+   source sha256:
+   e898722ff0982251c78d561f7fe6bb57ccd653c41e3503d2862884613748523e,
+   cleaned corpus 128,466 tokens sha256:b74716133191e744, cleaning
+   script tools/johnston_version_check.py), the row reads 5-gram 2.43%
+   (dir 2.43/1.95), longest run 12, one run >=12, Murray control
+   2.34%. The 21-word run does not exist in the 2024 text: Johnston
+   revised the Phemius lines ("clasp the knee ... He set down the
+   hollow lyre, left it on the ground"). The two Johnston versions
+   share only 72.3% of their own 5-grams. Both readings are reported
+   on the page: the run is revision-fragile, AND the old revision is
+   the training-era text, so for exposure questions the 21-word match
+   to it remains the finding. Range and ordering predictions hold
+   against either version.
+2. PROTOCOL AMENDMENT, binding on future rows: the preregistration
+   must commit the source-file hash BEFORE measurement. This prereg
+   committed only a line count and structural description; the hash
+   arrived with the results, locking the predictions but not the
+   corpus.
+3. Prediction 4 was mis-scored: it failed at THREE pairings (Cowper
+   violates both clauses: Johnston 0.141% < Wilson 0.149% and > Green
+   0.130%; Pope on the Green side: 0.02% > 0.01%; and Wilson:
+   Johnston-Wilson 1.50% > Green-Wilson 0.83%). "Holds for all seven
+   substantive texts" was wrong; the correct count is six (Murray,
+   Butler, Butcher & Lang, Palmer, Lattimore, Fagles). No noise-floor
+   carve-outs.
+4. Predictions 1, 2, and 5 were three descriptions of one outcome
+   (Johnston's placement); the other ten rows' order was already
+   known. "FULL HIT, every position" overstated; the honest statement
+   is one measured placement satisfying three dependent preregistered
+   descriptions.
+5. The web-prevalence "check" is withdrawn as a test. Prevalence was
+   never measured; the premise is unverified; and the version problem
+   shows "Johnston" is not one text. Post-hoc interpretation only.
+6. "Modern registers converge" is a hypothesis, not a result; of
+   Johnston's eight above-median pairings, five involve non-modern
+   texts. The median account is now descriptive on the page.
+7. Johnston is PUBLIC DOMAIN (his own statement in the 2024 PDF), not
+   in copyright as the page briefly claimed. Manifest and page fixed.
+8. Chronology: Johnston was measured about two hours after the Wilson
+   corrections merged, later the same day, not "days after."
+9. The file's 16,098 lines include 23 blank separators; 16,075
+   nonblank poem lines.
+10. Panel-wide error caught in the same review, predating Johnston:
+    Murray-Green is 5.055%, which rounds to 5.1%, not the 5.0% the
+    page had displayed since Green joined the panel. Fixed everywhere,
+    including the "5.3% vs 5.1%" matched-method comparison.

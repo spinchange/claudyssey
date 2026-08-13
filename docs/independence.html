@@ -99,8 +99,8 @@
   Odysseys spanning 293 years. The panel: Pope (1725), Cowper (1791),
   Butcher &amp; Lang (1879), Palmer (1891), Butler (1900), Murray (1919,
   the Loeb prose facing the very Greek text this project translated),
-  Lattimore (1967), Fagles (1996), Johnston (2006), Wilson (2017), and
-  Green (2018). Each is trimmed to <em>translation body
+  Lattimore (1967), Fagles (1996), Johnston (online 2002, book 2006,
+  revised since), Wilson (2017), and Green (2018). Each is trimmed to <em>translation body
   only</em>: prefaces, introductions, and footnotes removed, so that quoted
   or editorial matter cannot masquerade as translation (this matters; see
   "What copying looks like" below). Everything is lowercased, punctuation,
@@ -122,16 +122,18 @@
   body-only rule (leaving Wilson's 394 head-lines in shifts her pairings
   by a few percent relative). A committed manifest
   (<code>tools/corpus-manifest.txt</code>) records the expected token
-  counts and cleaned-corpus hashes for all eleven inputs, plus the
-  source-file hashes of the four private copies, so a rerun can check
+  counts and cleaned-corpus hashes for all twelve corpora, plus the
+  source-file hashes of every non-Gutenberg input, so a rerun can check
   extraction as well as method. Choosing the larger direction is
   conservative against this translation, but it is a choice; the script
   prints both directions for every pair.</p>
   <p>Public-domain texts come from Project Gutenberg and the Perseus/Scaife
   library; the script downloads them and prints a hash of each cleaned
-  corpus. Lattimore, Fagles, Johnston, Wilson, and Green, still in
-  copyright, were measured from privately held copies (Johnston's text is
-  freely downloadable from his site but remains in copyright); only statistics are published, never their
+  corpus. Lattimore, Fagles, Wilson, and Green, still in copyright, were
+  measured from privately held copies; Johnston's translation is public
+  domain (his current official PDF says so explicitly), and the exact
+  file measured, a pre-2024 web revision, is identified by hash in the
+  manifest because he has revised the text repeatedly (see below); only statistics are published, never their
   text. A public clone of <a
   href="https://github.com/spinchange/claudyssey/blob/main/tools/independence_analysis.py">the
   analysis script</a> therefore reproduces the public-domain rows exactly and the
@@ -149,7 +151,7 @@
     <tr class="hl"><td>Green (2018, literal line-matched verse)</td><td class="num">5.3%</td><td class="num">0.8%</td><td class="num">49</td><td class="num">3</td><td class="num">20</td></tr>
     <tr class="hl"><td>Butcher &amp; Lang (1879, literal prose)</td><td class="num">5.3%</td><td class="num">1.0%</td><td class="num">52</td><td class="num">7</td><td class="num">22</td></tr>
     <tr class="hl"><td>Palmer (1891, literal prose)</td><td class="num">4.0%</td><td class="num">0.7%</td><td class="num">32</td><td class="num">4</td><td class="num">19</td></tr>
-    <tr class="hl"><td>Johnston (2006, expansive free verse)</td><td class="num">2.8%</td><td class="num">0.3%</td><td class="num">8</td><td class="num">1</td><td class="num">21</td></tr>
+    <tr class="hl"><td>Johnston (2002–, expansive free verse; pre-2024 revision, see point six)</td><td class="num">2.8%</td><td class="num">0.3%</td><td class="num">8</td><td class="num">1</td><td class="num">21</td></tr>
     <tr class="hl"><td>Fagles (1996, free verse)</td><td class="num">1.7%</td><td class="num">0.2%</td><td class="num">5</td><td class="num">0</td><td class="num">14</td></tr>
     <tr class="hl"><td>Butler (1900, free prose)</td><td class="num">1.6%</td><td class="num">0.1%</td><td class="num">0</td><td class="num">0</td><td class="num">&lt;12</td></tr>
     <tr class="hl"><td>Wilson (2017, line-for-line iambic pentameter)</td><td class="num">1.4%</td><td class="num">0.1%</td><td class="num">1</td><td class="num">0</td><td class="num">13</td></tr>
@@ -165,7 +167,7 @@
     <tr><th>human pair</th><th class="num">5-gram</th>
         <th>human pair</th><th class="num">5-gram</th></tr>
     <tr class="ctrl"><td>Murray · Butcher &amp; Lang</td><td class="num">15.2%</td><td>Lattimore · Fagles</td><td class="num">1.1%</td></tr>
-    <tr class="ctrl"><td>Murray · Green</td><td class="num">5.0%</td><td>Butler · Palmer</td><td class="num">1.1%</td></tr>
+    <tr class="ctrl"><td>Murray · Green</td><td class="num">5.1%</td><td>Butler · Palmer</td><td class="num">1.1%</td></tr>
     <tr class="ctrl"><td>Murray · Palmer</td><td class="num">5.0%</td><td>Fagles · Green</td><td class="num">1.0%</td></tr>
     <tr class="ctrl"><td>Murray · Lattimore</td><td class="num">3.5%</td><td>Lattimore · Wilson</td><td class="num">1.0%</td></tr>
     <tr class="ctrl"><td>Lattimore · Green</td><td class="num">3.2%</td><td>Butler · Wilson</td><td class="num">1.0%</td></tr>
@@ -209,9 +211,9 @@
   machine.</strong> Green's 2018 translation (literal, modern register,
   line-matched to the Greek, the closest existing human analogue to this
   project's method) shows the second-highest human affinity in the whole
-  matrix (5.0% with Murray), and nobody supposes Green copied the Loeb.
+  matrix (5.1% with Murray), and nobody supposes Green copied the Loeb.
   This translation's relationship to Green is numerically very similar to
-  Green's own relationship to Murray: 5.3% vs 5.0% at 5-grams, 49 vs 42
+  Green's own relationship to Murray: 5.3% vs 5.1% at 5-grams, 49 vs 43
   long runs, longest 20 vs 21. The model sits with the line-faithful
   literalists where a new member of that method would sit.
   Green also supplies the table's sharpest test between the two
@@ -230,7 +232,7 @@
   measurement, and it shares the table's limits.</p>
   <p><strong>The elevated rows, stated in full.</strong> Against
   Murray (8.9%) and Lattimore (6.3%), this translation runs roughly twice
-  Green's own affinity to the same texts (5.0%, 3.2%), higher than every
+  Green's own affinity to the same texts (5.1%, 3.2%), higher than every
   human pairing except Murray · Butcher &amp; Lang, a single towering pair
   at 15.2% that is itself no certificate of independence (Murray postdates
   Butcher &amp; Lang by forty years in the same archaizing tradition; the
@@ -316,37 +318,64 @@
   Lattimore's, is 1.0%), an excess of roughly forty percent in relative
   terms, in the same direction as the Fagles and Lattimore excesses
   noted above, and a residue these numbers cannot decompose.</p>
-  <p><strong>A second preregistered row separates web prevalence from
-  method.</strong> Ian Johnston's translation (2006), measured days
-  after Wilson's under the same protocol (predictions
+  <p><strong>A second preregistered row, measured on a text that turned
+  out to be moving.</strong> Ian Johnston's translation entered the
+  panel hours after Wilson's, same day, same protocol (predictions
   <a href="https://github.com/spinchange/claudyssey/commit/ece959d">pushed
-  publicly</a> before measurement, inspection of the file itemized in
-  the preregistration), tests a sharper variable than fame: his text is
-  freely mirrored across the open web and is plausibly the most
-  training-available English Odyssey there is, while remaining little
-  known in print. Raw memorization would predict a top-tier row.
-  Measured: 2.8%, sixth of eleven, in the preregistered range
-  (1.8–3.5%, between Palmer and Fagles), and the predicted ordering of
-  all eleven rows was correct in every position. Two predictions
-  failed. One failed in the direction that deserves emphasis: the
-  longest-run prediction (under 20 words) broke on a 21-word shared
-  passage, Phemius setting down his lyre to plead for his life
-  (22.339–341). It is a narrative passage, not a recurring formula; it
-  stays below the 24-word adverse threshold; and it is now the longest
-  run this translation shares with any modern except Lattimore's 24,
-  and longer than Johnston shares with any human (his maximum is 18,
-  with Murray). The other miss is instructive rather than adverse: the
-  prediction that Johnston would sit below Green against the whole
-  panel failed at Wilson, where Johnston's 1.5% is nearly twice
-  Green's 0.8%; two plain modern registers converge on each other.
-  And the residual, as for every row: this translation's 2.8% with
-  Johnston modestly exceeds every human pairing with him (Murray's
-  2.7% is the highest), about the same relative size as the
-  Green-to-Murray analogy the matched-method paragraph leans on.
-  Consistent with affinity-follows-method; like the fame reading, not
-  an isolated-variable test, and Johnston's arrival raised the
-  human-pair median itself (0.8% to 1.0%), because modern-register
-  translations converge on one another.</p>
+  publicly</a> before measurement, the file inspection itemized in the
+  preregistration; one protocol gap, fixed for any future row: the
+  source-file hash was committed with the results, not before them).
+  Scored honestly, with the dependence between predictions stated: the
+  placement predictions were three descriptions of one outcome, not
+  three separate successes. The preregistered range (1.8–3.5%, between
+  Palmer and Fagles), the eleven-row ordering, and the prevalence
+  reading below all turn on where Johnston's single row landed, and it
+  landed where predicted: 2.8%, sixth of eleven (the other ten rows'
+  order was already known). The Johnston · Murray control also hit its
+  range (2.7%, predicted 1.5–3.0%). The prediction that Johnston would
+  sit above Wilson and below Green across the whole panel failed at
+  three pairings, not one: at Cowper it violates both clauses
+  (Johnston's 0.14% is below Wilson's 0.15% and above Green's 0.13%),
+  at Pope it exceeds Green's (0.02% against 0.01%), and at Wilson
+  herself Johnston's 1.5% is nearly twice Green's 0.8%. It holds for
+  the six remaining comparators. One reading of the Wilson failure,
+  offered as a hypothesis and not a result: plain modern registers may
+  converge on each other. The descriptive fact is that Johnston's
+  arrival moved the human-pair median from 0.8% to 1.0% (he added
+  eight pairings above the old median, two below); what causes his
+  mid-range affinities is not established by these numbers.</p>
+  <p>The row's most instructive result took a third adversarial review
+  to surface, and it concerns the text itself. The longest-run
+  prediction (under 20 words) failed against a 21-word shared passage,
+  Phemius setting down his lyre to plead for his life (22.339–341).
+  But Johnston has revised his translation repeatedly since it first
+  went online in 2002, and the file measured here is an unidentified
+  pre-2024 web revision. In his current official text (the 2024
+  public-domain PDF), the same lines read "clasp the knee … He set
+  down the hollow lyre, left it on the ground," and the run does not
+  exist: against that canonical text (cleaned the same way; script and
+  both versions' hashes in the repository), the row reads 2.4% instead
+  of 2.8%, longest run 12 words, still inside the preregistered range
+  and the same ordering slot. We state both readings of that
+  difference. Read one way, the row's headline anomaly is an artifact
+  of which revision you pick up. Read the other way, the older
+  revision is the text the open web carried for years and therefore
+  the version most likely to sit in training data, so for the exposure
+  question the 21-word match to that version is the finding, and the
+  2024 revision cannot dismiss it. These numbers cannot decompose
+  memorization from convergence for a single passage; the run stays
+  below the 24-word adverse threshold and is longer than the measured
+  Johnston text shares with any human (maximum 18, with Murray). On
+  web prevalence: the preregistration hoped this row would test
+  whether training availability drives affinity, and it cannot.
+  Prevalence was never measured, the premise ("plausibly the most
+  training-available English Odyssey") is unverified, and the version
+  question shows that "Johnston" is not even one text. His mid-table
+  row is consistent with affinity-follows-method and nothing stronger.
+  The residual, as for every row: this translation's affinity to
+  Johnston modestly exceeds every human pairing with him on either
+  version (2.8% against Murray's 2.7% as measured; 2.4% against 2.3%
+  on the canonical text).</p>
 </section>
 
 <section>
@@ -536,7 +565,16 @@
   human-pair median carried since this page's first version (0.5%; the
   correct figure is 0.8%), and Wilson's unstripped running page-heads.
   Those corrections are incorporated above and itemized in the notes
-  file alongside the preregistration.</p>
+  file alongside the preregistration. A third pass, on the Johnston
+  revision, found the most consequential defect yet: the measured
+  Johnston file was an unidentified revision of a text its translator
+  has repeatedly revised, and the row's 21-word shared run does not
+  exist against his current official text. It also caught a mis-scored
+  prediction, dependent predictions presented as separate successes,
+  and a Murray · Green rounding error (5.0%; correctly 5.1%) that had
+  stood since Green joined the panel. The version-sensitivity analysis
+  above, and the reporting of both readings, exist because of that
+  review.</p>
 </section>
 
 </div>
