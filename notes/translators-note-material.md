@@ -517,3 +517,31 @@ append-only rule; this section corrects and supersedes.
     Murray-Green is 5.055%, which rounds to 5.1%, not the 5.0% the
     page had displayed since Green joined the panel. Fixed everywhere,
     including the "5.3% vs 5.1%" matched-method comparison.
+
+### Provenance resolved (appended 2026-08-12, fourth review)
+
+The fourth adversarial pass traced corpus/johnston.txt to its exact
+source; all four of its findings were verified locally and adopted.
+
+1. Full chain, now in the manifest and reproducible: Johnston's May
+   2016 PDF, publicly hosted since 2016-05-13 at
+   bootthanoo.github.io/iliadodyssey (repo commit 95cb60e; sha256
+   b2fef533...c239769; local copy verified) -> local EPUB conversion
+   (sha256 c38bb33a...02771c) -> corpus/johnston.txt, reproduced
+   BYTE-FOR-BYTE from the EPUB by the new
+   tools/johnston_epub_to_text.py (verified: 16,098 lines, sha256
+   fb627016...bb67d1). "Unidentified pre-2024 web revision" is
+   replaced by "May 2016 revision" everywhere.
+2. License is version-specific: the 2016 PDF measured carries
+   noncommercial-use terms (verified in its own front matter); the
+   2024 document declares itself public domain. The page and manifest
+   now say exactly that; statistics only are published.
+3. Reproducibility claims narrowed to what the scripts deliver: a
+   clone reproduces auto-downloaded rows subject to the hosts,
+   verified against cleaned hashes; Johnston rows require the
+   manifest-identified sources. "Every non-Gutenberg input" and
+   "exactly" removed.
+4. Exposure language scoped: the 2016 revision had substantial
+   opportunity to enter training data (publicly hosted for years);
+   ingestion and relative prevalence remain unestablished; the
+   21-word run is the result for that version.

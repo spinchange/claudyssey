@@ -122,22 +122,29 @@
   body-only rule (leaving Wilson's 394 head-lines in shifts her pairings
   by a few percent relative). A committed manifest
   (<code>tools/corpus-manifest.txt</code>) records the expected token
-  counts and cleaned-corpus hashes for all twelve corpora, plus the
-  source-file hashes of every non-Gutenberg input, so a rerun can check
-  extraction as well as method. Choosing the larger direction is
+  counts and cleaned-corpus hashes for all twelve corpora, plus
+  source-file hashes for the inputs the script does not download
+  itself, so a rerun can check extraction as well as method (the
+  auto-downloaded inputs are re-fetched from the recorded URLs, so
+  reproducing those rows depends on the hosts serving the same
+  files). Choosing the larger direction is
   conservative against this translation, but it is a choice; the script
   prints both directions for every pair.</p>
   <p>Public-domain texts come from Project Gutenberg and the Perseus/Scaife
   library; the script downloads them and prints a hash of each cleaned
   corpus. Lattimore, Fagles, Wilson, and Green, still in copyright, were
-  measured from privately held copies; Johnston's translation is public
-  domain (his current official PDF says so explicitly), and the exact
-  file measured, a pre-2024 web revision, is identified by hash in the
-  manifest because he has revised the text repeatedly (see below); only statistics are published, never their
-  text. A public clone of <a
+  measured from privately held copies. Johnston's copyright status is
+  version-specific: his canonical 2024 document declares itself public
+  domain, while the May 2016 source actually measured carries
+  noncommercial-use terms, so only statistics from it are published and
+  its full source chain (URL and hashes at every derivation step) is
+  recorded in the manifest. Only statistics are ever published, never
+  the texts. A public clone of <a
   href="https://github.com/spinchange/claudyssey/blob/main/tools/independence_analysis.py">the
-  analysis script</a> therefore reproduces the public-domain rows exactly and the
-  copyrighted rows given your own copies.</p>
+  analysis script</a> reproduces the automatically downloaded rows
+  (subject to the hosts serving the same files, verified against the
+  manifest's cleaned hashes) and reproduces the other rows given the
+  source files the manifest identifies.</p>
 </section>
 
 <section>
@@ -151,7 +158,7 @@
     <tr class="hl"><td>Green (2018, literal line-matched verse)</td><td class="num">5.3%</td><td class="num">0.8%</td><td class="num">49</td><td class="num">3</td><td class="num">20</td></tr>
     <tr class="hl"><td>Butcher &amp; Lang (1879, literal prose)</td><td class="num">5.3%</td><td class="num">1.0%</td><td class="num">52</td><td class="num">7</td><td class="num">22</td></tr>
     <tr class="hl"><td>Palmer (1891, literal prose)</td><td class="num">4.0%</td><td class="num">0.7%</td><td class="num">32</td><td class="num">4</td><td class="num">19</td></tr>
-    <tr class="hl"><td>Johnston (2002–, expansive free verse; pre-2024 revision, see point six)</td><td class="num">2.8%</td><td class="num">0.3%</td><td class="num">8</td><td class="num">1</td><td class="num">21</td></tr>
+    <tr class="hl"><td>Johnston (2002–, expansive free verse; 2016 revision, see point six)</td><td class="num">2.8%</td><td class="num">0.3%</td><td class="num">8</td><td class="num">1</td><td class="num">21</td></tr>
     <tr class="hl"><td>Fagles (1996, free verse)</td><td class="num">1.7%</td><td class="num">0.2%</td><td class="num">5</td><td class="num">0</td><td class="num">14</td></tr>
     <tr class="hl"><td>Butler (1900, free prose)</td><td class="num">1.6%</td><td class="num">0.1%</td><td class="num">0</td><td class="num">0</td><td class="num">&lt;12</td></tr>
     <tr class="hl"><td>Wilson (2017, line-for-line iambic pentameter)</td><td class="num">1.4%</td><td class="num">0.1%</td><td class="num">1</td><td class="num">0</td><td class="num">13</td></tr>
@@ -349,8 +356,11 @@
   prediction (under 20 words) failed against a 21-word shared passage,
   Phemius setting down his lyre to plead for his life (22.339–341).
   But Johnston has revised his translation repeatedly since it first
-  went online in 2002, and the file measured here is an unidentified
-  pre-2024 web revision. In his current official text (the 2024
+  went online in 2002, and the file measured here derives from a May
+  2016 snapshot of his PDF, publicly hosted since 2016 (the full
+  source chain, hashed at every step, is in the manifest, and the
+  measured text is reproducible from it by a committed script). In his
+  current official text (the 2024
   public-domain PDF), the same lines read "clasp the knee … He set
   down the hollow lyre, left it on the ground," and the run does not
   exist: against that canonical text (cleaned the same way; script and
@@ -358,11 +368,12 @@
   of 2.8%, longest run 12 words, still inside the preregistered range
   and the same ordering slot. We state both readings of that
   difference. Read one way, the row's headline anomaly is an artifact
-  of which revision you pick up. Read the other way, the older
-  revision is the text the open web carried for years and therefore
-  the version most likely to sit in training data, so for the exposure
-  question the 21-word match to that version is the finding, and the
-  2024 revision cannot dismiss it. These numbers cannot decompose
+  of which revision you pick up. Read the other way, this exact 2016
+  revision was publicly hosted for years and so had substantial
+  opportunity to enter training data; we cannot establish that it did,
+  or rank its exposure against Johnston's other revisions, but the
+  21-word run remains the result for that version, and the 2024
+  revision cannot dismiss it. These numbers cannot decompose
   memorization from convergence for a single passage; the run stays
   below the 24-word adverse threshold and is longer than the measured
   Johnston text shares with any human (maximum 18, with Murray). On
@@ -574,7 +585,11 @@
   and a Murray · Green rounding error (5.0%; correctly 5.1%) that had
   stood since Green joined the panel. The version-sensitivity analysis
   above, and the reporting of both readings, exist because of that
-  review.</p>
+  review. A fourth pass then traced the measured Johnston file to its
+  exact source, a May 2016 snapshot publicly hosted since 2016, now
+  hashed at every derivation step in the manifest with a committed
+  extraction script, and tightened the reproducibility, copyright, and
+  exposure language to match what the tooling actually delivers.</p>
 </section>
 
 </div>

@@ -18,7 +18,7 @@ lattimore       138911   99e9dea745c7fda8
 fagles          128314   bb16310e2f70905f
 green           135483   a4b4dc8a0ba3f537
 wilson           97258   5222dcd4bd1e0b91
-johnston        128127   a4c52babcf8a0c15   (pre-2024 web revision, see below)
+johnston        128127   a4c52babcf8a0c15   (May 2016 revision, see below)
 #
 # Non-public-domain inputs (statistics only are published). sha256 of
 # the exact source files measured, so a differing result can be traced
@@ -28,15 +28,33 @@ johnston        128127   a4c52babcf8a0c15   (pre-2024 web revision, see below)
 # green      9d27d8b26c03e318f8e23f8c025d721dbb4bc7a6b83de3314bc4a7ebd671a680
 # wilson     39a8078d2572f9a968601a7d19ad1a22582e2163d01dea5b130fd99398248aeb
 #
-# Johnston is PUBLIC DOMAIN (the current official PDF states "This
-# document is in the public domain"). He has revised the translation
+# Johnston: license status is VERSION-SPECIFIC. His canonical 2024
+# document declares itself public domain; the measured 2016 source
+# carries noncommercial-use terms (download/distribute freely, no
+# commercial publication without permission). Only statistics from the
+# measured text are published. He has revised the translation
 # repeatedly since it first went online in 2002, and revision choice
 # is material (see tools/johnston_version_check.py). Two versions:
-# johnston (measured row): a pre-2024 web revision, plain text
-#   source     fb627016748f24e7f48fcf053231304674d502dd07f9784d92f69dc301bb67d1
+#
+# johnston (measured row) - full derivation chain:
+#   upstream:  May 2016 PDF, publicly hosted since 2016-05-13
+#     https://bootthanoo.github.io/iliadodyssey/The%20Odyssey/Full%20Book/theodyssey.pdf
+#     (repo commit 95cb60e, github.com/bootthanoo/iliadodyssey)
+#     sha256    b2fef5333eda2acd9608958da0f9acebb7779f98dad24626dd8616f87c239769
+#   local EPUB (PDF-to-EPUB conversion, documented by hash only):
+#     sha256    c38bb33a58c078884e18d2ace75cfe5bc8908ac9847289e586d9b1274802771c
+#   derived text = corpus/johnston.txt, reproduced byte-for-byte from
+#   the EPUB by tools/johnston_epub_to_text.py:
+#     sha256    fb627016748f24e7f48fcf053231304674d502dd07f9784d92f69dc301bb67d1
+#
 # johnston canonical 2024 (sensitivity check): VIU repository PDF,
 #   generated 2024-10-16, cleaned corpus 128466 tokens b74716133191e744
 #   source     e898722ff0982251c78d561f7fe6bb57ccd653c41e3503d2862884613748523e
 #
-# Public-domain sources are downloaded and hashed by the script itself
-# (URLs in SOURCES / MURRAY_URN in tools/independence_analysis.py).
+# Public-domain sources are re-downloaded by the script from the URLs
+# in SOURCES / MURRAY_URN in tools/independence_analysis.py; their raw
+# downloads are not hash-pinned here, so reproducing those rows
+# depends on the hosts serving the same files. The cleaned-token
+# hashes above are the check that matters: they are computed after all
+# trimming and normalization, so a match means the extraction and
+# method both reproduced.

@@ -1,10 +1,12 @@
 """Version-sensitivity check for the Johnston row.
 
-The Johnston corpus first measured (2026-08-12) turned out to be an
-unidentified pre-2024 web revision of the translation; Johnston has
-revised the text repeatedly since it first appeared online in 2002, and
-the current official PDF (VIU institutional repository, generated
-2024-10-16, released into the public domain) revises the very passage
+The Johnston corpus first measured (2026-08-12) derives from a May 2016
+snapshot of Johnston's PDF, publicly hosted since 2016 (full source
+chain with hashes in tools/corpus-manifest.txt; the text itself is
+reproduced from its EPUB by tools/johnston_epub_to_text.py). Johnston
+has revised the text repeatedly since it first appeared online in 2002,
+and the current official PDF (VIU institutional repository, generated
+2024-10-16, declaring itself public domain) revises the very passage
 that produced the row's 21-word shared run. This script measures the
 Claudyssey row against both versions so the difference is checkable:
 the older revision gives 5-gram 2.83% and a 21-word longest run; the
