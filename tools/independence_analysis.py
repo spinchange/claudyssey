@@ -245,6 +245,7 @@ def main():
     ap.add_argument('--fagles', help='path to a private copy (pdf or txt)')
     ap.add_argument('--green', help='path to a private copy (pdf or txt)')
     ap.add_argument('--wilson', help='path to a private copy (pdf or txt)')
+    ap.add_argument('--johnston', help='path to a private copy (pdf or txt)')
     args = ap.parse_args()
 
     texts = load_public()
@@ -269,6 +270,14 @@ def main():
         texts['wilson'] = load_private(
             args.wilson, 'Tell me about a complicated man',
             drop_re=r'\s*(\d*\s*HOMER:\s*THE\s+ODYSSEY|BOOK\s+\d+\s*:)')
+    if args.johnston:
+        # Verified before preregistration (structural checks only, no
+        # measurement): the file is poem-only, no headers/footnotes/page
+        # numbers, so no end marker and no drop_re are needed.
+        # Predictions preregistered in notes/translators-note-material.md
+        # §7 BEFORE first measurement — do not adjust them after running.
+        texts['johnston'] = load_private(
+            args.johnston, 'Muse, speak to me now of that resourceful man')
 
     print('corpus (translation body only, normalized):')
     for k, v in texts.items():

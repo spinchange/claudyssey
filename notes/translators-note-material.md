@@ -350,3 +350,62 @@ section corrects it and its numbers are now canonical.
    suppresses shared n-grams and runs, independent of fame or
    literalism. Her row is consistent with affinity-follows-method but
    is not a clean second trial of it.
+
+## 7. Preregistered predictions: the Johnston row
+
+(Recorded 2026-08-12, BEFORE any measurement of Johnston's translation.
+A copy of Ian Johnston's Odyssey sits at corpus/johnston.txt, gitignored
+like every in-copyright input; no overlap statistic, run, or token count
+of it has been computed as of this commit. The public push of this
+commit is the notarization. When the row is run, report the outcome
+against these predictions verbatim — hits and misses both — and do not
+revise this section except to append results.)
+
+Disclosure, stated up front per the Wilson corrections: this
+preregistration is not translator-blind and not exposure-blind. The
+July 18-21 internal note contains Johnston's proem and analysis of his
+diction; the pre-prediction inspection of the file itself was: first 25
+lines, last 15 lines, total line count (16,098), and four structural
+greps (book headers, bare page numbers, footnote brackets, tabs — all
+zero). The model coauthor's latent training exposure is unknown and
+plausibly HIGH: Johnston's text is freely mirrored across the open web,
+which is precisely what makes this row informative — it separates
+web-prevalence from print fame, and both from method.
+
+Method identical to the panel: tools/independence_analysis.py with
+--johnston, translation body only (the file is verifiably poem-only),
+name-normalized, directional-max n-gram overlap, uncapped runs.
+
+Known method profile (from the July note and public descriptions):
+modern plain register, free verse, moderately literal but openly
+expansive — 16,098 lines against the Greek's 12,110, no line-count
+constraint, explanatory padding ("that's why he snatched away their
+chance / of getting home someday").
+
+Predictions from the convergence account (overlap tracks literalness
+and diction, not fame and not raw web prevalence), with the Wilson
+lesson applied (diction outweighs shared-constraint effects):
+
+1. Claudyssey-Johnston, 5-gram: between 1.8% and 3.5%. Modern register
+   and moderate literalism push up; expansion and free-verse phrasing
+   dilute n-gram correspondence. Predicted slot: above Fagles (1.7%),
+   below Palmer (4.0%).
+2. Ordering: Murray > Lattimore > Green ≈ B&L > Palmer > Johnston >
+   Fagles > Butler > Wilson, with Cowper and Pope below all.
+3. Longest shared run: under 20 words; no run of 20+.
+4. Human controls: Johnston-Murray between 1.5% and 3.0%; Johnston's
+   panel affinities land above Wilson's corresponding ones (he does not
+   compress) and below Green's (he is not tightly literal).
+5. Web-prevalence check: Johnston's full text is plausibly the most
+   training-available English Odyssey there is. Raw memorization
+   predicts a top-tier row; the convergence account predicts the
+   mid-lower slot in (2). Like the fame inference, a hit here is a
+   consistent pattern, not an isolated-variable test, and will be
+   reported with that caveat.
+
+Adverse-evidence thresholds, one-sided by design and labeled as such
+(low-side misses are informative about mechanism but cannot trigger
+this clause): if Claudyssey-Johnston exceeds Green's 5.3%, or any
+shared run reaches 24+ words, the convergence account as stated on the
+independence page needs revision, and the page gets corrected — not
+the framing.
