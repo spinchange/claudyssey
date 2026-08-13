@@ -253,8 +253,8 @@ def main():
         texts['green'] = load_private(
             args.green, 'tell me about that resourceful man', 'Synopsis')
     if args.wilson:
-        # End marker None for now: verify where the scan's back matter
-        # begins (notes/glossary) on first ingest and add the marker then.
+        # Verified on first ingest (2026-08-12): the scan is poem-only and
+        # ends with Book 24's final lines, so no end marker is needed.
         # Predictions preregistered in notes/translators-note-material.md
         # BEFORE first measurement — do not adjust them after running.
         texts['wilson'] = load_private(

@@ -254,3 +254,46 @@ Falsification, stated in advance: if Claudyssey-Wilson exceeds Green's
 5.3%, or any shared run reaches 24+ words, the convergence account as
 stated on the independence page needs revision, and the page gets
 corrected — not the framing.
+
+### Results (appended 2026-08-12, first measurement)
+
+Scan: print copy, poem only (no back matter; no end marker needed),
+OCR verified clean (curly apostrophes intact, no ligature splits).
+Wilson = 98,750 tokens after normalization — shortest text in the
+panel, consistent with her line-for-line compression. Caveat noted
+before interpreting: the scan's running heads ("HOMER: THE ODYSSEY" /
+book titles) are not stripped, unlike Palmer's; at ~420 pages this
+depresses Wilson pairings by roughly 3% relative — far too small to
+explain the misses below.
+
+1. Claudyssey-Wilson 5-gram predicted 2.5–4.0%: **MISS, low.**
+   Actual 1.39% — below the predicted floor and below Fagles (1.74%).
+   (4g 4.29%, 6g 0.56%, 8g 0.10%.)
+2. Ordering predicted Murray > Lattimore > Green ≈ B&L > Palmer >
+   Wilson > Fagles: **PARTIAL MISS.** Wilson lands below Green and far
+   below Murray (8.91%) as predicted, but she and Fagles swap: actual
+   tail is … Palmer (3.98%) > Fagles (1.74%) > Wilson (1.39%). Wilson
+   is the panel minimum, not second-from-last.
+3. Longest shared run under 20 words: **HIT.** Longest is 13 words
+   ("son of atreus why ask me this you have no need to know"); only
+   one run ≥12 in the whole pairing, none ≥16.
+4. Wilson-Murray predicted 1.5–3.0%: **MISS, low** — actual 0.89%.
+   Wilson below Green's corresponding affinity across the panel:
+   **HIT** for every text that rises above the noise floor (e.g.
+   Murray 0.89% vs Green's 5.05%; Lattimore 0.99% vs 3.16%); the two
+   pairings at the floor are a wash (Cowper 0.15% vs 0.13%, Pope
+   0.01% vs 0.01%).
+5. Fame check predicted lower middle: **MISS in the direction that
+   strengthens the inference.** The most-discussed translation of the
+   century ranks dead last in the Claudyssey rows. Second trial of
+   the fame-vs-method inference: affinity does not track fame.
+
+Falsification conditions: not triggered (1.39% < 5.3%; longest run
+13 < 24). The convergence account survives, but the misses are
+one-directional and shared by the human controls: everything touching
+Wilson came in lower than predicted, including Wilson-vs-panel rows no
+Claudyssey text participates in. The "compression cuts n-gram
+continuity" mechanism was right and underweighted; the "matched
+method (line discipline) pushes up" mechanism produced no visible
+signal. Lesson for the translator's note: shared formal constraints
+do not leave an n-gram fingerprint; shared diction does.
