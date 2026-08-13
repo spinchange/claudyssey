@@ -334,12 +334,16 @@ section corrects it and its numbers are now canonical.
    Butcher & Lang-Wilson 0.653%, which now rounds to 0.7%. Human-pair
    5-gram median (45 pairs) 0.83%; Claudyssey-row median 2.86%. No
    conclusion changes.
-6. Disclosure: the predictions were corpus-blind, not translator-blind.
-   An internal note dated July 18-21 (before the Aug 8 prereg) contains
-   Wilson's proem and analysis of her diction, meter, and line-count
-   constraint. "Nothing of Wilson's text has been ingested" was true of
-   the measurement corpus, not of the authors' exposure to excerpts.
-   The public page now says so.
+6. Disclosure: what the preregistration establishes is narrow — the
+   predictions were made before any Wilson corpus entered the analysis
+   pipeline or any full-corpus statistic was computed. They were not
+   translator-blind: an internal note dated July 18-21 (before the
+   Aug 8 prereg) contains Wilson's proem and analysis of her diction,
+   meter, and line-count constraint. And the model coauthor's latent
+   training exposure to her text is unknown (the page's own opening
+   premise), so "corpus-blind" would overclaim too. "Nothing of
+   Wilson's text has been ingested" was true of the measurement
+   corpus, not of the authors' exposure. The public page now says so.
 7. Confound worth carrying into the translator's note: Wilson
    deliberately varies Homer's repeated formulas where the Claudyssey
    (like Murray and Fagles) repeats them verbatim; that choice alone

@@ -1,0 +1,31 @@
+# Corpus manifest for the run behind docs/independence.html
+# (ten-translation revision, measured 2026-08-12).
+#
+# Cleaned-corpus hash = first 16 hex chars of sha256 over the normalized
+# token stream, exactly as printed by tools/independence_analysis.py.
+# A rerun that reproduces these token counts and hashes has reproduced
+# our extraction, not just our method. Extraction library: pypdf 6.10.2.
+#
+# name          tokens   cleaned sha256:16
+claudyssey      124406   37ab5d5c1ec5fc3c
+murray          133839   a3430b5f41323789
+butler          118057   80e1599c3800947e
+butcher_lang    136919   021a27dec2d06d20
+cowper          117311   2984657c24a9cb6a
+pope            114303   7bc9241ff271221f
+palmer          116422   83551796a7c67916
+lattimore       138911   99e9dea745c7fda8
+fagles          128314   bb16310e2f70905f
+green           135483   a4b4dc8a0ba3f537
+wilson           97258   5222dcd4bd1e0b91
+#
+# Private inputs (in copyright; statistics only are published). sha256
+# of the exact source files measured, so a differing result can be
+# traced to a differing edition or scan rather than to the method:
+# lattimore  70c147ac8e24a4cdd7a35c780d222a8b66bb39e882037067eefd7acaf83a434a
+# fagles     c62f37051b1132eb65c02f059c8bc4dff8019cbed15a14a122dd9e4335fccb12
+# green      9d27d8b26c03e318f8e23f8c025d721dbb4bc7a6b83de3314bc4a7ebd671a680
+# wilson     39a8078d2572f9a968601a7d19ad1a22582e2163d01dea5b130fd99398248aeb
+#
+# Public-domain sources are downloaded and hashed by the script itself
+# (URLs in SOURCES / MURRAY_URN in tools/independence_analysis.py).

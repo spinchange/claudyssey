@@ -118,11 +118,13 @@
   noise systematically depresses comparisons involving those texts.
   Palmer's and Wilson's running page-heads are stripped under the
   body-only rule (leaving Wilson's 394 head-lines in shifts her pairings
-  by a few percent relative; the repository records the exact token
-  counts and corpus hashes behind this page's numbers, so a rerun can
-  check extraction as well as method). Choosing the larger direction is
-  conservative against this translation, but it is a choice; per-pair
-  directional values are printed by the script.</p>
+  by a few percent relative). A committed manifest
+  (<code>tools/corpus-manifest.txt</code>) records the expected token
+  counts and cleaned-corpus hashes for all eleven inputs, plus the
+  source-file hashes of the four private copies, so a rerun can check
+  extraction as well as method. Choosing the larger direction is
+  conservative against this translation, but it is a choice; the script
+  prints both directions for every pair.</p>
   <p>Public-domain texts come from Project Gutenberg and the Perseus/Scaife
   library; the script downloads them and prints a hash of each cleaned
   corpus. Lattimore, Fagles, Wilson, and Green, still in copyright, were
@@ -233,16 +235,16 @@
   predicts, but the elevation itself is a fact of the table. Two
   explanations fit it and these numbers cannot decompose them: this
   translation is stricter than even Green (word-order discipline, and
-  Murray's own Greek text as source; the line-count constraint itself
-  evidently contributes little, per the Wilson result below), and the
+  Murray's own Greek text as source; line-count discipline does not by
+  itself predict a high row, per the Wilson result below), and the
   model may carry some real gravity toward the literal translations in
   its training data. What the numbers do bound is the form any such
-  influence took: run counts are elevated in roughly the proportion of
-  the n-gram rows (170 runs of ≥12 words with Murray, against 52 for
-  the closest human pair outside Murray · Butcher &amp; Lang), but the
-  length ceiling stays inside the human range (longest 29 words,
-  against the human pairs' 32), and verbatim reuse is capped by the
-  next section.</p>
+  influence took: run counts rise in the same rows where n-gram overlap
+  is high (170 runs of ≥12 words with Murray, against 52 for the
+  closest human pair outside Murray · Butcher &amp; Lang); the longest
+  run, 29 words, sits below Murray · Butcher &amp; Lang's 32 but above
+  the other 44 human pairs, whose own maximum is 22; and verbatim reuse
+  is capped by the next section.</p>
   <p><strong>The Fagles signal is modest but, in fairness, not
   absent.</strong> This translation's 1.7% overlap with Fagles exceeds
   every human-vs-Fagles pairing in the panel (the highest are Lattimore's
@@ -260,11 +262,14 @@
   to the public repository</a> and pushed on 2026-08-08, four days
   before a measurable copy of her text was acquired (the push is the
   evidence that matters; a commit timestamp alone is author-controlled).
-  One disclosure belongs beside that claim: the predictions were
-  corpus-blind, not translator-blind. Her proem and the published
+  One disclosure belongs beside that claim: what the preregistration
+  establishes is narrow. The predictions were made before any Wilson
+  corpus was supplied to the analysis or any full-corpus statistic
+  computed; they were not translator-blind (her proem and the published
   descriptions of her method were known to this project well before the
   preregistration; an internal note from July analyzes her opening
-  lines. Scored plainly: both range predictions missed low (5-gram
+  lines), and the model coauthor's latent training exposure to her text
+  is unknown, which is the premise this page opened with. Scored plainly: both range predictions missed low (5-gram
   predicted 2.5–4.0%, measured 1.4%; the Wilson · Murray human control
   predicted 1.5–3.0%, measured 0.9%). The ordering prediction partly
   failed: Wilson was predicted between Palmer and Fagles and landed
@@ -275,20 +280,21 @@
   prediction that Wilson would run below Green against the whole human
   panel failed at one pairing (Wilson · Cowper 0.15% against
   Green · Cowper 0.13%). The thresholds that would have counted against
-  independence (affinity above Green's 5.3%, or any 24-word run) were
-  never approached; be clear about what that asymmetry means: only
-  high-side surprises could have counted against the convergence
-  account, so these low-side misses cost it a mechanism, not the
+  the convergence account as stated (affinity above Green's 5.3%, or
+  any 24-word run) were never approached; be clear about what that
+  asymmetry means: only high-side surprises could have forced revision,
+  so these low-side misses cost the account a mechanism, not the
   conclusion.</p>
   <p>The mechanism they cost it is worth spelling out. The
   preregistration expected Wilson's line-for-line constraint (the same
   constraint this project worked under) to push overlap up and her
   compressed, deliberately plain diction to push it down, with the
-  constraint winning. The diction won. And with Green (line-matched,
-  5.3%) and Wilson (line-for-line, 1.4%) both on the table, line
-  discipline alone evidently determines little; what separates the high
-  rows from the low ones, in humans and machine alike, is literal,
-  word-by-word rendering. On the fame question, her row points the same
+  constraint winning. It did not. With Green (line-matched, 5.3%) and
+  Wilson (line-for-line, 1.4%) both on the table, line discipline by
+  itself predicts nothing about a row's height. The observed
+  differences are consistent with differences in literal diction and in
+  formula policy, but these data cannot isolate their contributions.
+  On the fame question, her row points the same
   direction as the Green–Fagles comparison above (the most-discussed
   English Odyssey of the century shows less exact-text affinity than
   century-old literalists nobody reads), but it is weaker evidence than

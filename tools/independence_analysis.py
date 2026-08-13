@@ -6,11 +6,14 @@ a union ("stitching") test, and a synthetic splice as positive control.
 
 Public-domain texts are downloaded on first run into corpus/ (Gutenberg,
 Scaife/Perseus, archive.org) and trimmed to translation body only —
-prefaces, arguments, and footnotes removed. Lattimore and Fagles are in
-copyright: supply private copies via --lattimore / --fagles (PDF or txt);
-without them the script reproduces the public-domain subtable.
+prefaces, arguments, and footnotes removed. Lattimore, Fagles, Green, and
+Wilson are in copyright: supply private copies via --lattimore / --fagles
+/ --green / --wilson (PDF or txt); without them the script reproduces the
+public-domain subtable. Expected token counts and cleaned-corpus hashes
+for the published run are recorded in tools/corpus-manifest.txt.
 
-Usage:  python tools/independence_analysis.py [--lattimore PATH] [--fagles PATH]
+Usage:  python tools/independence_analysis.py [--lattimore PATH]
+        [--fagles PATH] [--green PATH] [--wilson PATH]
 """
 import argparse, glob, hashlib, os, re, sys, unicodedata, urllib.request
 
@@ -275,26 +278,30 @@ def main():
     humans = [k for k in texts if k != 'claudyssey']
     cl = texts['claudyssey']
 
-    print('\nclaudyssey vs each (directional-max):')
+    print('\nclaudyssey vs each (directional-max; 5g both directions in parens):')
     print(f'  {"text":14s} {"4g":>7s} {"5g":>7s} {"6g":>7s} {"8g":>7s} '
-          f'{"runs>=12":>9s} {"runs>=16":>9s} {"longest":>8s}')
+          f'{"5g cl->t/t->cl":>15s} {"runs>=12":>9s} {"runs>=16":>9s} {"longest":>8s}')
     for nm in humans:
         t = texts[nm]
         fr = [pair_overlap(cl, t, n) for n in (4, 5, 6, 8)]
+        d1, d2 = overlap_frac(cl, t, 5), overlap_frac(t, cl, 5)
         runs = maximal_runs(cl, t)
         longest = max((l for _, l in runs), default=0)
         print(f'  {nm:14s} ' + ' '.join(f'{f*100:6.2f}%' for f in fr) +
+              f' {d1*100:6.2f}/{d2*100:.2f}' +
               f' {len(runs):9d} {sum(1 for _, l in runs if l >= 16):9d} {longest:8d}')
         for i, l in sorted(runs, key=lambda r: -r[1])[:1]:
             print(f'      longest: "{" ".join(cl[i:i+l])}"')
 
-    print('\nall human-vs-human pairs, 5-gram (directional-max), sorted:')
+    print('\nall human-vs-human pairs, 5-gram (directional-max; both directions in parens), sorted:')
     hh = []
     for i, a in enumerate(humans):
         for b in humans[i+1:]:
-            hh.append((pair_overlap(texts[a], texts[b], 5), a, b))
-    for f, a, b in sorted(hh, reverse=True):
-        print(f'  {f*100:6.2f}%  {a} vs {b}')
+            fa = overlap_frac(texts[a], texts[b], 5)
+            fb = overlap_frac(texts[b], texts[a], 5)
+            hh.append((max(fa, fb), fa, fb, a, b))
+    for f, fa, fb, a, b in sorted(hh, reverse=True):
+        print(f'  {f*100:6.2f}%  ({fa*100:.2f}/{fb*100:.2f})  {a} vs {b}')
 
     print('\nunion ("stitching") test — claudyssey n-grams found in ANY prior text:')
     for n in (4, 5, 6, 8):
