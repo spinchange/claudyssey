@@ -175,7 +175,7 @@
 171  As for the oath — we will let it be. But may Odysseus
 172  come — as I wish it, as Penelope wishes,
 173  and old Laertes, and godlike Telemachus.
-174  And now it is the boy I mourn without ceasing — Odysseus' own son
+174  And now it is the boy I mourn past all forgetting — Odysseus' own son
 175  Telemachus. The gods reared him like a young tree,
 176  and I thought he would stand among men no whit behind
 177  his own dear father, a wonder in build and beauty —
