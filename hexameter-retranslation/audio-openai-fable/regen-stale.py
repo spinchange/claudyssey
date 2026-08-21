@@ -85,7 +85,11 @@ def main() -> None:
     # 4. Rebuild the four listening volumes from the per-book mp3s.
     ffmpeg = shutil.which("ffmpeg")
     if not ffmpeg:
-        raise SystemExit("ffmpeg not found on PATH")
+        if dry:
+            ffmpeg = "ffmpeg"
+            print("note: ffmpeg not on PATH in this shell; volume commands shown anyway")
+        else:
+            raise SystemExit("ffmpeg not found on PATH")
     books_dir = BUILD / "books"
     for volume, span in VOLUMES.items():
         listing = BUILD / f"{volume}.regen-concat.txt"
