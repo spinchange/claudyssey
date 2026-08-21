@@ -1,0 +1,1471 @@
+{
+  "source_dir": "hexameter-retranslation",
+  "build_dir": "hexameter-retranslation\\audio-openai-fable",
+  "max_chars": 3800,
+  "books": [
+    {
+      "book": "book-01",
+      "source": "hexameter-retranslation\\book-01.md",
+      "clean_text": "hexameter-retranslation\\audio-openai-fable\\clean\\book-01.txt",
+      "characters": 29675,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-01\\chunk-001.txt",
+          "characters": 3000
+        },
+        {
+          "index": 2,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-01\\chunk-002.txt",
+          "characters": 3358
+        },
+        {
+          "index": 3,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-01\\chunk-003.txt",
+          "characters": 3250
+        },
+        {
+          "index": 4,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-01\\chunk-004.txt",
+          "characters": 2343
+        },
+        {
+          "index": 5,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-01\\chunk-005.txt",
+          "characters": 3448
+        },
+        {
+          "index": 6,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-01\\chunk-006.txt",
+          "characters": 1437
+        },
+        {
+          "index": 7,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-01\\chunk-007.txt",
+          "characters": 3633
+        },
+        {
+          "index": 8,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-01\\chunk-008.txt",
+          "characters": 3520
+        },
+        {
+          "index": 9,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-01\\chunk-009.txt",
+          "characters": 3538
+        },
+        {
+          "index": 10,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-01\\chunk-010.txt",
+          "characters": 2129
+        }
+      ]
+    },
+    {
+      "book": "book-02",
+      "source": "hexameter-retranslation\\book-02.md",
+      "clean_text": "hexameter-retranslation\\audio-openai-fable\\clean\\book-02.txt",
+      "characters": 28822,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-02\\chunk-001.txt",
+          "characters": 2635
+        },
+        {
+          "index": 2,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-02\\chunk-002.txt",
+          "characters": 3666
+        },
+        {
+          "index": 3,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-02\\chunk-003.txt",
+          "characters": 3301
+        },
+        {
+          "index": 4,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-02\\chunk-004.txt",
+          "characters": 2131
+        },
+        {
+          "index": 5,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-02\\chunk-005.txt",
+          "characters": 3305
+        },
+        {
+          "index": 6,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-02\\chunk-006.txt",
+          "characters": 2681
+        },
+        {
+          "index": 7,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-02\\chunk-007.txt",
+          "characters": 3667
+        },
+        {
+          "index": 8,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-02\\chunk-008.txt",
+          "characters": 3502
+        },
+        {
+          "index": 9,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-02\\chunk-009.txt",
+          "characters": 2432
+        },
+        {
+          "index": 10,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-02\\chunk-010.txt",
+          "characters": 1483
+        }
+      ]
+    },
+    {
+      "book": "book-03",
+      "source": "hexameter-retranslation\\book-03.md",
+      "clean_text": "hexameter-retranslation\\audio-openai-fable\\clean\\book-03.txt",
+      "characters": 33372,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-03\\chunk-001.txt",
+          "characters": 3777
+        },
+        {
+          "index": 2,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-03\\chunk-002.txt",
+          "characters": 3200
+        },
+        {
+          "index": 3,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-03\\chunk-003.txt",
+          "characters": 3730
+        },
+        {
+          "index": 4,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-03\\chunk-004.txt",
+          "characters": 3427
+        },
+        {
+          "index": 5,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-03\\chunk-005.txt",
+          "characters": 2859
+        },
+        {
+          "index": 6,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-03\\chunk-006.txt",
+          "characters": 3741
+        },
+        {
+          "index": 7,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-03\\chunk-007.txt",
+          "characters": 3218
+        },
+        {
+          "index": 8,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-03\\chunk-008.txt",
+          "characters": 1842
+        },
+        {
+          "index": 9,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-03\\chunk-009.txt",
+          "characters": 2961
+        },
+        {
+          "index": 10,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-03\\chunk-010.txt",
+          "characters": 3233
+        },
+        {
+          "index": 11,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-03\\chunk-011.txt",
+          "characters": 1450
+        }
+      ]
+    },
+    {
+      "book": "book-04",
+      "source": "hexameter-retranslation\\book-04.md",
+      "clean_text": "hexameter-retranslation\\audio-openai-fable\\clean\\book-04.txt",
+      "characters": 55382,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-04\\chunk-001.txt",
+          "characters": 102
+        },
+        {
+          "index": 2,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-04\\chunk-002.txt",
+          "characters": 3800
+        },
+        {
+          "index": 3,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-04\\chunk-003.txt",
+          "characters": 3789
+        },
+        {
+          "index": 4,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-04\\chunk-004.txt",
+          "characters": 3735
+        },
+        {
+          "index": 5,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-04\\chunk-005.txt",
+          "characters": 3699
+        },
+        {
+          "index": 6,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-04\\chunk-006.txt",
+          "characters": 3650
+        },
+        {
+          "index": 7,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-04\\chunk-007.txt",
+          "characters": 3509
+        },
+        {
+          "index": 8,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-04\\chunk-008.txt",
+          "characters": 3694
+        },
+        {
+          "index": 9,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-04\\chunk-009.txt",
+          "characters": 3800
+        },
+        {
+          "index": 10,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-04\\chunk-010.txt",
+          "characters": 3791
+        },
+        {
+          "index": 11,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-04\\chunk-011.txt",
+          "characters": 3769
+        },
+        {
+          "index": 12,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-04\\chunk-012.txt",
+          "characters": 3789
+        },
+        {
+          "index": 13,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-04\\chunk-013.txt",
+          "characters": 3738
+        },
+        {
+          "index": 14,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-04\\chunk-014.txt",
+          "characters": 3591
+        },
+        {
+          "index": 15,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-04\\chunk-015.txt",
+          "characters": 3657
+        },
+        {
+          "index": 16,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-04\\chunk-016.txt",
+          "characters": 3685
+        }
+      ]
+    },
+    {
+      "book": "book-05",
+      "source": "hexameter-retranslation\\book-05.md",
+      "clean_text": "hexameter-retranslation\\audio-openai-fable\\clean\\book-05.txt",
+      "characters": 32550,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-05\\chunk-001.txt",
+          "characters": 91
+        },
+        {
+          "index": 2,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-05\\chunk-002.txt",
+          "characters": 3543
+        },
+        {
+          "index": 3,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-05\\chunk-003.txt",
+          "characters": 3773
+        },
+        {
+          "index": 4,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-05\\chunk-004.txt",
+          "characters": 3661
+        },
+        {
+          "index": 5,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-05\\chunk-005.txt",
+          "characters": 3765
+        },
+        {
+          "index": 6,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-05\\chunk-006.txt",
+          "characters": 3766
+        },
+        {
+          "index": 7,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-05\\chunk-007.txt",
+          "characters": 3709
+        },
+        {
+          "index": 8,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-05\\chunk-008.txt",
+          "characters": 3733
+        },
+        {
+          "index": 9,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-05\\chunk-009.txt",
+          "characters": 3744
+        },
+        {
+          "index": 10,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-05\\chunk-010.txt",
+          "characters": 2997
+        }
+      ]
+    },
+    {
+      "book": "book-06",
+      "source": "hexameter-retranslation\\book-06.md",
+      "clean_text": "hexameter-retranslation\\audio-openai-fable\\clean\\book-06.txt",
+      "characters": 21653,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-06\\chunk-001.txt",
+          "characters": 86
+        },
+        {
+          "index": 2,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-06\\chunk-002.txt",
+          "characters": 3795
+        },
+        {
+          "index": 3,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-06\\chunk-003.txt",
+          "characters": 3765
+        },
+        {
+          "index": 4,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-06\\chunk-004.txt",
+          "characters": 3724
+        },
+        {
+          "index": 5,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-06\\chunk-005.txt",
+          "characters": 3569
+        },
+        {
+          "index": 6,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-06\\chunk-006.txt",
+          "characters": 3581
+        },
+        {
+          "index": 7,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-06\\chunk-007.txt",
+          "characters": 3290
+        }
+      ]
+    },
+    {
+      "book": "book-07",
+      "source": "hexameter-retranslation\\book-07.md",
+      "clean_text": "hexameter-retranslation\\audio-openai-fable\\clean\\book-07.txt",
+      "characters": 22762,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-07\\chunk-001.txt",
+          "characters": 77
+        },
+        {
+          "index": 2,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-07\\chunk-002.txt",
+          "characters": 3775
+        },
+        {
+          "index": 3,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-07\\chunk-003.txt",
+          "characters": 3758
+        },
+        {
+          "index": 4,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-07\\chunk-004.txt",
+          "characters": 3644
+        },
+        {
+          "index": 5,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-07\\chunk-005.txt",
+          "characters": 3658
+        },
+        {
+          "index": 6,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-07\\chunk-006.txt",
+          "characters": 3758
+        },
+        {
+          "index": 7,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-07\\chunk-007.txt",
+          "characters": 3718
+        },
+        {
+          "index": 8,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-07\\chunk-008.txt",
+          "characters": 528
+        }
+      ]
+    },
+    {
+      "book": "book-08",
+      "source": "hexameter-retranslation\\book-08.md",
+      "clean_text": "hexameter-retranslation\\audio-openai-fable\\clean\\book-08.txt",
+      "characters": 38305,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-08\\chunk-001.txt",
+          "characters": 108
+        },
+        {
+          "index": 2,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-08\\chunk-002.txt",
+          "characters": 3756
+        },
+        {
+          "index": 3,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-08\\chunk-003.txt",
+          "characters": 3631
+        },
+        {
+          "index": 4,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-08\\chunk-004.txt",
+          "characters": 3738
+        },
+        {
+          "index": 5,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-08\\chunk-005.txt",
+          "characters": 3732
+        },
+        {
+          "index": 6,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-08\\chunk-006.txt",
+          "characters": 3721
+        },
+        {
+          "index": 7,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-08\\chunk-007.txt",
+          "characters": 3713
+        },
+        {
+          "index": 8,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-08\\chunk-008.txt",
+          "characters": 3623
+        },
+        {
+          "index": 9,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-08\\chunk-009.txt",
+          "characters": 3749
+        },
+        {
+          "index": 10,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-08\\chunk-010.txt",
+          "characters": 3772
+        },
+        {
+          "index": 11,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-08\\chunk-011.txt",
+          "characters": 3693
+        },
+        {
+          "index": 12,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-08\\chunk-012.txt",
+          "characters": 1350
+        }
+      ]
+    },
+    {
+      "book": "book-09",
+      "source": "hexameter-retranslation\\book-09.md",
+      "clean_text": "hexameter-retranslation\\audio-openai-fable\\clean\\book-09.txt",
+      "characters": 38263,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-09\\chunk-001.txt",
+          "characters": 87
+        },
+        {
+          "index": 2,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-09\\chunk-002.txt",
+          "characters": 3769
+        },
+        {
+          "index": 3,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-09\\chunk-003.txt",
+          "characters": 3728
+        },
+        {
+          "index": 4,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-09\\chunk-004.txt",
+          "characters": 3787
+        },
+        {
+          "index": 5,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-09\\chunk-005.txt",
+          "characters": 3787
+        },
+        {
+          "index": 6,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-09\\chunk-006.txt",
+          "characters": 3750
+        },
+        {
+          "index": 7,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-09\\chunk-007.txt",
+          "characters": 3799
+        },
+        {
+          "index": 8,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-09\\chunk-008.txt",
+          "characters": 3737
+        },
+        {
+          "index": 9,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-09\\chunk-009.txt",
+          "characters": 3760
+        },
+        {
+          "index": 10,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-09\\chunk-010.txt",
+          "characters": 3609
+        },
+        {
+          "index": 11,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-09\\chunk-011.txt",
+          "characters": 3682
+        },
+        {
+          "index": 12,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-09\\chunk-012.txt",
+          "characters": 1037
+        }
+      ]
+    },
+    {
+      "book": "book-10",
+      "source": "hexameter-retranslation\\book-10.md",
+      "clean_text": "hexameter-retranslation\\audio-openai-fable\\clean\\book-10.txt",
+      "characters": 38466,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-10\\chunk-001.txt",
+          "characters": 89
+        },
+        {
+          "index": 2,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-10\\chunk-002.txt",
+          "characters": 3690
+        },
+        {
+          "index": 3,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-10\\chunk-003.txt",
+          "characters": 3770
+        },
+        {
+          "index": 4,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-10\\chunk-004.txt",
+          "characters": 3643
+        },
+        {
+          "index": 5,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-10\\chunk-005.txt",
+          "characters": 3786
+        },
+        {
+          "index": 6,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-10\\chunk-006.txt",
+          "characters": 3716
+        },
+        {
+          "index": 7,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-10\\chunk-007.txt",
+          "characters": 3711
+        },
+        {
+          "index": 8,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-10\\chunk-008.txt",
+          "characters": 3735
+        },
+        {
+          "index": 9,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-10\\chunk-009.txt",
+          "characters": 3566
+        },
+        {
+          "index": 10,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-10\\chunk-010.txt",
+          "characters": 720
+        },
+        {
+          "index": 11,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-10\\chunk-011.txt",
+          "characters": 3788
+        },
+        {
+          "index": 12,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-10\\chunk-012.txt",
+          "characters": 3768
+        },
+        {
+          "index": 13,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-10\\chunk-013.txt",
+          "characters": 781
+        }
+      ]
+    },
+    {
+      "book": "book-11",
+      "source": "hexameter-retranslation\\book-11.md",
+      "clean_text": "hexameter-retranslation\\audio-openai-fable\\clean\\book-11.txt",
+      "characters": 41699,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-11\\chunk-001.txt",
+          "characters": 3452
+        },
+        {
+          "index": 2,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-11\\chunk-002.txt",
+          "characters": 2485
+        },
+        {
+          "index": 3,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-11\\chunk-003.txt",
+          "characters": 3753
+        },
+        {
+          "index": 4,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-11\\chunk-004.txt",
+          "characters": 3697
+        },
+        {
+          "index": 5,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-11\\chunk-005.txt",
+          "characters": 2209
+        },
+        {
+          "index": 6,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-11\\chunk-006.txt",
+          "characters": 2913
+        },
+        {
+          "index": 7,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-11\\chunk-007.txt",
+          "characters": 2510
+        },
+        {
+          "index": 8,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-11\\chunk-008.txt",
+          "characters": 3790
+        },
+        {
+          "index": 9,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-11\\chunk-009.txt",
+          "characters": 320
+        },
+        {
+          "index": 10,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-11\\chunk-010.txt",
+          "characters": 3735
+        },
+        {
+          "index": 11,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-11\\chunk-011.txt",
+          "characters": 1662
+        },
+        {
+          "index": 12,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-11\\chunk-012.txt",
+          "characters": 3615
+        },
+        {
+          "index": 13,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-11\\chunk-013.txt",
+          "characters": 3408
+        },
+        {
+          "index": 14,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-11\\chunk-014.txt",
+          "characters": 1670
+        },
+        {
+          "index": 15,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-11\\chunk-015.txt",
+          "characters": 2639
+        }
+      ]
+    },
+    {
+      "book": "book-12",
+      "source": "hexameter-retranslation\\book-12.md",
+      "clean_text": "hexameter-retranslation\\audio-openai-fable\\clean\\book-12.txt",
+      "characters": 30252,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-12\\chunk-001.txt",
+          "characters": 1088
+        },
+        {
+          "index": 2,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-12\\chunk-002.txt",
+          "characters": 3707
+        },
+        {
+          "index": 3,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-12\\chunk-003.txt",
+          "characters": 3668
+        },
+        {
+          "index": 4,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-12\\chunk-004.txt",
+          "characters": 3762
+        },
+        {
+          "index": 5,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-12\\chunk-005.txt",
+          "characters": 3367
+        },
+        {
+          "index": 6,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-12\\chunk-006.txt",
+          "characters": 1749
+        },
+        {
+          "index": 7,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-12\\chunk-007.txt",
+          "characters": 3724
+        },
+        {
+          "index": 8,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-12\\chunk-008.txt",
+          "characters": 3733
+        },
+        {
+          "index": 9,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-12\\chunk-009.txt",
+          "characters": 3705
+        },
+        {
+          "index": 10,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-12\\chunk-010.txt",
+          "characters": 1897
+        }
+      ]
+    },
+    {
+      "book": "book-13",
+      "source": "hexameter-retranslation\\book-13.md",
+      "clean_text": "hexameter-retranslation\\audio-openai-fable\\clean\\book-13.txt",
+      "characters": 28410,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-13\\chunk-001.txt",
+          "characters": 99
+        },
+        {
+          "index": 2,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-13\\chunk-002.txt",
+          "characters": 3728
+        },
+        {
+          "index": 3,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-13\\chunk-003.txt",
+          "characters": 3741
+        },
+        {
+          "index": 4,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-13\\chunk-004.txt",
+          "characters": 3642
+        },
+        {
+          "index": 5,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-13\\chunk-005.txt",
+          "characters": 3761
+        },
+        {
+          "index": 6,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-13\\chunk-006.txt",
+          "characters": 3791
+        },
+        {
+          "index": 7,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-13\\chunk-007.txt",
+          "characters": 3787
+        },
+        {
+          "index": 8,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-13\\chunk-008.txt",
+          "characters": 3715
+        },
+        {
+          "index": 9,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-13\\chunk-009.txt",
+          "characters": 2344
+        }
+      ]
+    },
+    {
+      "book": "book-14",
+      "source": "hexameter-retranslation\\book-14.md",
+      "clean_text": "hexameter-retranslation\\audio-openai-fable\\clean\\book-14.txt",
+      "characters": 34840,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-14\\chunk-001.txt",
+          "characters": 105
+        },
+        {
+          "index": 2,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-14\\chunk-002.txt",
+          "characters": 3786
+        },
+        {
+          "index": 3,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-14\\chunk-003.txt",
+          "characters": 3639
+        },
+        {
+          "index": 4,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-14\\chunk-004.txt",
+          "characters": 3770
+        },
+        {
+          "index": 5,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-14\\chunk-005.txt",
+          "characters": 3793
+        },
+        {
+          "index": 6,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-14\\chunk-006.txt",
+          "characters": 3639
+        },
+        {
+          "index": 7,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-14\\chunk-007.txt",
+          "characters": 3763
+        },
+        {
+          "index": 8,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-14\\chunk-008.txt",
+          "characters": 3542
+        },
+        {
+          "index": 9,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-14\\chunk-009.txt",
+          "characters": 3700
+        },
+        {
+          "index": 10,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-14\\chunk-010.txt",
+          "characters": 3754
+        },
+        {
+          "index": 11,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-14\\chunk-011.txt",
+          "characters": 1618
+        }
+      ]
+    },
+    {
+      "book": "book-15",
+      "source": "hexameter-retranslation\\book-15.md",
+      "clean_text": "hexameter-retranslation\\audio-openai-fable\\clean\\book-15.txt",
+      "characters": 35556,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-15\\chunk-001.txt",
+          "characters": 81
+        },
+        {
+          "index": 2,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-15\\chunk-002.txt",
+          "characters": 3794
+        },
+        {
+          "index": 3,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-15\\chunk-003.txt",
+          "characters": 3721
+        },
+        {
+          "index": 4,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-15\\chunk-004.txt",
+          "characters": 3786
+        },
+        {
+          "index": 5,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-15\\chunk-005.txt",
+          "characters": 3638
+        },
+        {
+          "index": 6,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-15\\chunk-006.txt",
+          "characters": 3790
+        },
+        {
+          "index": 7,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-15\\chunk-007.txt",
+          "characters": 3758
+        },
+        {
+          "index": 8,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-15\\chunk-008.txt",
+          "characters": 3797
+        },
+        {
+          "index": 9,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-15\\chunk-009.txt",
+          "characters": 3775
+        },
+        {
+          "index": 10,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-15\\chunk-010.txt",
+          "characters": 3772
+        },
+        {
+          "index": 11,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-15\\chunk-011.txt",
+          "characters": 1930
+        }
+      ]
+    },
+    {
+      "book": "book-16",
+      "source": "hexameter-retranslation\\book-16.md",
+      "clean_text": "hexameter-retranslation\\audio-openai-fable\\clean\\book-16.txt",
+      "characters": 31236,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-16\\chunk-001.txt",
+          "characters": 79
+        },
+        {
+          "index": 2,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-16\\chunk-002.txt",
+          "characters": 3764
+        },
+        {
+          "index": 3,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-16\\chunk-003.txt",
+          "characters": 3777
+        },
+        {
+          "index": 4,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-16\\chunk-004.txt",
+          "characters": 3661
+        },
+        {
+          "index": 5,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-16\\chunk-005.txt",
+          "characters": 3682
+        },
+        {
+          "index": 6,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-16\\chunk-006.txt",
+          "characters": 3604
+        },
+        {
+          "index": 7,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-16\\chunk-007.txt",
+          "characters": 3729
+        },
+        {
+          "index": 8,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-16\\chunk-008.txt",
+          "characters": 3541
+        },
+        {
+          "index": 9,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-16\\chunk-009.txt",
+          "characters": 3760
+        },
+        {
+          "index": 10,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-16\\chunk-010.txt",
+          "characters": 1881
+        }
+      ]
+    },
+    {
+      "book": "book-17",
+      "source": "hexameter-retranslation\\book-17.md",
+      "clean_text": "hexameter-retranslation\\audio-openai-fable\\clean\\book-17.txt",
+      "characters": 39070,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-17\\chunk-001.txt",
+          "characters": 87
+        },
+        {
+          "index": 2,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-17\\chunk-002.txt",
+          "characters": 3758
+        },
+        {
+          "index": 3,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-17\\chunk-003.txt",
+          "characters": 3794
+        },
+        {
+          "index": 4,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-17\\chunk-004.txt",
+          "characters": 3756
+        },
+        {
+          "index": 5,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-17\\chunk-005.txt",
+          "characters": 3625
+        },
+        {
+          "index": 6,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-17\\chunk-006.txt",
+          "characters": 3688
+        },
+        {
+          "index": 7,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-17\\chunk-007.txt",
+          "characters": 3652
+        },
+        {
+          "index": 8,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-17\\chunk-008.txt",
+          "characters": 3760
+        },
+        {
+          "index": 9,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-17\\chunk-009.txt",
+          "characters": 3742
+        },
+        {
+          "index": 10,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-17\\chunk-010.txt",
+          "characters": 3740
+        },
+        {
+          "index": 11,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-17\\chunk-011.txt",
+          "characters": 3738
+        },
+        {
+          "index": 12,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-17\\chunk-012.txt",
+          "characters": 2039
+        }
+      ]
+    },
+    {
+      "book": "book-18",
+      "source": "hexameter-retranslation\\book-18.md",
+      "clean_text": "hexameter-retranslation\\audio-openai-fable\\clean\\book-18.txt",
+      "characters": 27578,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-18\\chunk-001.txt",
+          "characters": 109
+        },
+        {
+          "index": 2,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-18\\chunk-002.txt",
+          "characters": 3693
+        },
+        {
+          "index": 3,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-18\\chunk-003.txt",
+          "characters": 3780
+        },
+        {
+          "index": 4,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-18\\chunk-004.txt",
+          "characters": 3668
+        },
+        {
+          "index": 5,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-18\\chunk-005.txt",
+          "characters": 3769
+        },
+        {
+          "index": 6,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-18\\chunk-006.txt",
+          "characters": 3781
+        },
+        {
+          "index": 7,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-18\\chunk-007.txt",
+          "characters": 3780
+        },
+        {
+          "index": 8,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-18\\chunk-008.txt",
+          "characters": 3786
+        },
+        {
+          "index": 9,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-18\\chunk-009.txt",
+          "characters": 1416
+        }
+      ]
+    },
+    {
+      "book": "book-19",
+      "source": "hexameter-retranslation\\book-19.md",
+      "clean_text": "hexameter-retranslation\\audio-openai-fable\\clean\\book-19.txt",
+      "characters": 38782,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-19\\chunk-001.txt",
+          "characters": 83
+        },
+        {
+          "index": 2,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-19\\chunk-002.txt",
+          "characters": 3741
+        },
+        {
+          "index": 3,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-19\\chunk-003.txt",
+          "characters": 3763
+        },
+        {
+          "index": 4,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-19\\chunk-004.txt",
+          "characters": 3793
+        },
+        {
+          "index": 5,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-19\\chunk-005.txt",
+          "characters": 3793
+        },
+        {
+          "index": 6,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-19\\chunk-006.txt",
+          "characters": 3781
+        },
+        {
+          "index": 7,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-19\\chunk-007.txt",
+          "characters": 3623
+        },
+        {
+          "index": 8,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-19\\chunk-008.txt",
+          "characters": 3600
+        },
+        {
+          "index": 9,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-19\\chunk-009.txt",
+          "characters": 3784
+        },
+        {
+          "index": 10,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-19\\chunk-010.txt",
+          "characters": 3498
+        },
+        {
+          "index": 11,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-19\\chunk-011.txt",
+          "characters": 3738
+        },
+        {
+          "index": 12,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-19\\chunk-012.txt",
+          "characters": 1892
+        }
+      ]
+    },
+    {
+      "book": "book-20",
+      "source": "hexameter-retranslation\\book-20.md",
+      "clean_text": "hexameter-retranslation\\audio-openai-fable\\clean\\book-20.txt",
+      "characters": 25746,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-20\\chunk-001.txt",
+          "characters": 108
+        },
+        {
+          "index": 2,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-20\\chunk-002.txt",
+          "characters": 3697
+        },
+        {
+          "index": 3,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-20\\chunk-003.txt",
+          "characters": 3752
+        },
+        {
+          "index": 4,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-20\\chunk-004.txt",
+          "characters": 3720
+        },
+        {
+          "index": 5,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-20\\chunk-005.txt",
+          "characters": 3725
+        },
+        {
+          "index": 6,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-20\\chunk-006.txt",
+          "characters": 3708
+        },
+        {
+          "index": 7,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-20\\chunk-007.txt",
+          "characters": 3653
+        },
+        {
+          "index": 8,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-20\\chunk-008.txt",
+          "characters": 3585
+        }
+      ]
+    },
+    {
+      "book": "book-21",
+      "source": "hexameter-retranslation\\book-21.md",
+      "clean_text": "hexameter-retranslation\\audio-openai-fable\\clean\\book-21.txt",
+      "characters": 27869,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-21\\chunk-001.txt",
+          "characters": 83
+        },
+        {
+          "index": 2,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-21\\chunk-002.txt",
+          "characters": 3790
+        },
+        {
+          "index": 3,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-21\\chunk-003.txt",
+          "characters": 3737
+        },
+        {
+          "index": 4,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-21\\chunk-004.txt",
+          "characters": 3745
+        },
+        {
+          "index": 5,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-21\\chunk-005.txt",
+          "characters": 3741
+        },
+        {
+          "index": 6,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-21\\chunk-006.txt",
+          "characters": 3788
+        },
+        {
+          "index": 7,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-21\\chunk-007.txt",
+          "characters": 3751
+        },
+        {
+          "index": 8,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-21\\chunk-008.txt",
+          "characters": 3485
+        },
+        {
+          "index": 9,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-21\\chunk-009.txt",
+          "characters": 1962
+        }
+      ]
+    },
+    {
+      "book": "book-22",
+      "source": "hexameter-retranslation\\book-22.md",
+      "clean_text": "hexameter-retranslation\\audio-openai-fable\\clean\\book-22.txt",
+      "characters": 32768,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-22\\chunk-001.txt",
+          "characters": 51
+        },
+        {
+          "index": 2,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-22\\chunk-002.txt",
+          "characters": 3733
+        },
+        {
+          "index": 3,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-22\\chunk-003.txt",
+          "characters": 3757
+        },
+        {
+          "index": 4,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-22\\chunk-004.txt",
+          "characters": 3663
+        },
+        {
+          "index": 5,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-22\\chunk-005.txt",
+          "characters": 3773
+        },
+        {
+          "index": 6,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-22\\chunk-006.txt",
+          "characters": 3770
+        },
+        {
+          "index": 7,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-22\\chunk-007.txt",
+          "characters": 3783
+        },
+        {
+          "index": 8,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-22\\chunk-008.txt",
+          "characters": 3686
+        },
+        {
+          "index": 9,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-22\\chunk-009.txt",
+          "characters": 3747
+        },
+        {
+          "index": 10,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-22\\chunk-010.txt",
+          "characters": 3043
+        }
+      ]
+    },
+    {
+      "book": "book-23",
+      "source": "hexameter-retranslation\\book-23.md",
+      "clean_text": "hexameter-retranslation\\audio-openai-fable\\clean\\book-23.txt",
+      "characters": 23897,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-23\\chunk-001.txt",
+          "characters": 89
+        },
+        {
+          "index": 2,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-23\\chunk-002.txt",
+          "characters": 3771
+        },
+        {
+          "index": 3,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-23\\chunk-003.txt",
+          "characters": 3780
+        },
+        {
+          "index": 4,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-23\\chunk-004.txt",
+          "characters": 3787
+        },
+        {
+          "index": 5,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-23\\chunk-005.txt",
+          "characters": 3762
+        },
+        {
+          "index": 6,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-23\\chunk-006.txt",
+          "characters": 3728
+        },
+        {
+          "index": 7,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-23\\chunk-007.txt",
+          "characters": 3705
+        },
+        {
+          "index": 8,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-23\\chunk-008.txt",
+          "characters": 1444
+        }
+      ]
+    },
+    {
+      "book": "book-24",
+      "source": "hexameter-retranslation\\book-24.md",
+      "clean_text": "hexameter-retranslation\\audio-openai-fable\\clean\\book-24.txt",
+      "characters": 34534,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-24\\chunk-001.txt",
+          "characters": 87
+        },
+        {
+          "index": 2,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-24\\chunk-002.txt",
+          "characters": 3798
+        },
+        {
+          "index": 3,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-24\\chunk-003.txt",
+          "characters": 3785
+        },
+        {
+          "index": 4,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-24\\chunk-004.txt",
+          "characters": 3757
+        },
+        {
+          "index": 5,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-24\\chunk-005.txt",
+          "characters": 3560
+        },
+        {
+          "index": 6,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-24\\chunk-006.txt",
+          "characters": 3776
+        },
+        {
+          "index": 7,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-24\\chunk-007.txt",
+          "characters": 3685
+        },
+        {
+          "index": 8,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-24\\chunk-008.txt",
+          "characters": 3749
+        },
+        {
+          "index": 9,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-24\\chunk-009.txt",
+          "characters": 3789
+        },
+        {
+          "index": 10,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-24\\chunk-010.txt",
+          "characters": 3674
+        },
+        {
+          "index": 11,
+          "path": "hexameter-retranslation\\audio-openai-fable\\chunks\\book-24\\chunk-011.txt",
+          "characters": 1153
+        }
+      ]
+    }
+  ],
+  "total_characters": 791487,
+  "total_chunks": 254
+}

@@ -1,0 +1,5 @@
+ffconcat version 1.0
+file 'books/book-01.mp3'
+file 'books/book-02.mp3'
+file 'books/book-03.mp3'
+file 'books/book-04.mp3'

@@ -1,0 +1,67 @@
+{
+  "source_dir": "hexameter-retranslation",
+  "build_dir": "hexameter-retranslation\\audio-elevenlabs-ge-america",
+  "max_chars": 3800,
+  "books": [
+    {
+      "book": "book-01",
+      "source": "hexameter-retranslation\\book-01.md",
+      "clean_text": "hexameter-retranslation\\audio-elevenlabs-ge-america\\clean\\book-01.txt",
+      "characters": 29692,
+      "chunks": [
+        {
+          "index": 1,
+          "path": "hexameter-retranslation\\audio-elevenlabs-ge-america\\chunks\\book-01\\chunk-001.txt",
+          "characters": 3000
+        },
+        {
+          "index": 2,
+          "path": "hexameter-retranslation\\audio-elevenlabs-ge-america\\chunks\\book-01\\chunk-002.txt",
+          "characters": 3358
+        },
+        {
+          "index": 3,
+          "path": "hexameter-retranslation\\audio-elevenlabs-ge-america\\chunks\\book-01\\chunk-003.txt",
+          "characters": 3250
+        },
+        {
+          "index": 4,
+          "path": "hexameter-retranslation\\audio-elevenlabs-ge-america\\chunks\\book-01\\chunk-004.txt",
+          "characters": 2343
+        },
+        {
+          "index": 5,
+          "path": "hexameter-retranslation\\audio-elevenlabs-ge-america\\chunks\\book-01\\chunk-005.txt",
+          "characters": 3448
+        },
+        {
+          "index": 6,
+          "path": "hexameter-retranslation\\audio-elevenlabs-ge-america\\chunks\\book-01\\chunk-006.txt",
+          "characters": 1437
+        },
+        {
+          "index": 7,
+          "path": "hexameter-retranslation\\audio-elevenlabs-ge-america\\chunks\\book-01\\chunk-007.txt",
+          "characters": 3635
+        },
+        {
+          "index": 8,
+          "path": "hexameter-retranslation\\audio-elevenlabs-ge-america\\chunks\\book-01\\chunk-008.txt",
+          "characters": 3534
+        },
+        {
+          "index": 9,
+          "path": "hexameter-retranslation\\audio-elevenlabs-ge-america\\chunks\\book-01\\chunk-009.txt",
+          "characters": 3538
+        },
+        {
+          "index": 10,
+          "path": "hexameter-retranslation\\audio-elevenlabs-ge-america\\chunks\\book-01\\chunk-010.txt",
+          "characters": 2130
+        }
+      ]
+    }
+  ],
+  "total_characters": 29692,
+  "total_chunks": 10
+}

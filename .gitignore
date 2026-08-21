@@ -29,3 +29,10 @@ print-build/work/
 print-build/tools-calibrate/
 # single-book proofs
 print-build/*-book01.pdf
+
+# hexameter-retranslation audio: rendered output not tracked — reproducible
+# from chunks/ + production settings (see audio-regen-batch.md)
+hexameter-retranslation/audio-openai-fable/audio-chunks/
+hexameter-retranslation/audio-openai-fable/books/
+hexameter-retranslation/audio-openai-fable/backups/
+hexameter-retranslation/audio-openai-fable/*.mp3
