@@ -2,25 +2,31 @@
 """Build the paperback case wrap — back cover, spine, and front cover as a
 single flat landscape PDF, to a print-on-demand supplier's spec.
 
-Default geometry is the supplied spec for the 595-page 6x9 interior:
+Default geometry is Lulu's spec for the 595-page 6x9 interior:
 
-    trim            13.647 x 9.25 in   (346.63 x 234.95 mm)
-    spine            1.397 in          (35.48 mm)
+    trim            13.650 x 9.25 in   (346.71 x 234.95 mm)
+    spine            1.400 in          (35.56 mm)
     panels           6.125 in each     = 6 in trim + 0.125 in bleed
 
 The panels are fixed by the trim; only the spine moves with the page
-count, and the overall width follows it (2 x 6.125 + spine). So a
-different page count or stock needs only --pages (spine = pages / 426,
-the supplier's pages-per-inch for 50 lb cream) or an explicit --spine.
-The supplier's own figure for the page count is the one to ship against:
-it is quoted to a thousandth and their formula can round differently from
-this one (they gave 1.389 for 592 pages where 592 / 426 = 1.390).
+count, and the overall width follows it (2 x 6.125 + spine). The spine
+is Lulu's published paperback formula, the same for every paper stock
+they offer (all are bulked at 444 pages per inch):
+
+    spine (in) = pages / 444 + 0.06
+
+(Lulu Book Creation Guide p.13; help.api.lulu.com, "How is spine width
+calculated?"). It reproduces the spec Lulu issued for the earlier
+590-page interior exactly — 590 / 444 + 0.06 = 1.3888 -> 1.389 in,
+13.639 in wide — which is the check that pins the formula. A different
+page count needs only --pages; --spine takes Lulu's own figure should the
+upload step's Requirements panel ever disagree.
 
     +---------------------------+-------+---------------------------+
     |        back cover         | spine |       front cover         |
-    |         6.125 in          | 1.397 |        6.125 in           |
+    |         6.125 in          | 1.400 |        6.125 in           |
     +---------------------------+-------+---------------------------+
-    0                        6.125   7.522                     13.647
+    0                        6.125   7.525                     13.650
 
 The artwork is generated rather than hand-placed: the front panel reuses
 the existing cover design, the spine and back are built to match it.
@@ -35,7 +41,7 @@ Print requirements this targets, all verified by tools/check_wrap.py:
 Usage:
     python tools/build_wrap.py                   # the 595-page interior
     python tools/build_wrap.py --pages 604       # spine from the page count
-    python tools/build_wrap.py --spine 1.42      # the supplier's exact figure
+    python tools/build_wrap.py --spine 1.42      # Lulu's figure, if it differs
     python tools/build_wrap.py --no-url          # omit the site URL
 """
 from __future__ import annotations
@@ -61,12 +67,13 @@ WRAP_H_IN = 9.25
 BLEED_IN = 0.125          # included in the panel and height figures above
 PANEL_IN = 6.125          # 6 in trim + bleed on the outside edge
 PAGES = 595               # print-build/odyssey-print-6x9.pdf, as built
-PAGES_PER_INCH = 426      # the supplier's figure for 50 lb cream stock
+PAGES_PER_INCH = 444      # Lulu's bulk for every paperback stock
+SPINE_ADD_IN = 0.06       # Lulu's fixed allowance on top of the page block
 
 
 def spine_for(pages: int) -> float:
-    """Spine width in inches for a page count, to the supplier's precision."""
-    return round(pages / PAGES_PER_INCH, 3)
+    """Lulu's paperback spine width for a page count, to their precision."""
+    return round(pages / PAGES_PER_INCH + SPINE_ADD_IN, 3)
 
 
 def wrap_width(spine_in: float) -> float:
@@ -74,8 +81,8 @@ def wrap_width(spine_in: float) -> float:
     return round(2 * PANEL_IN + spine_in, 3)
 
 
-SPINE_IN = spine_for(PAGES)          # 1.397
-WRAP_W_IN = wrap_width(SPINE_IN)     # 13.647
+SPINE_IN = spine_for(PAGES)          # 1.400
+WRAP_W_IN = wrap_width(SPINE_IN)     # 13.650
 
 # The SVG is drawn in user units at 100 units per inch, which keeps every
 # coordinate a readable number and is resolution-independent regardless.
@@ -534,11 +541,12 @@ def build(spine_in: float, with_url: bool, out: Path) -> Path:
 def _set_exact_page_size(pdf: Path, w_in: float, h_in: float) -> None:
     """Force the page boxes to the exact required size.
 
-    calibre quantizes --custom-size to a coarse grid: asking for 13.647in
-    (982.584 pt) yields a 983.040 pt page, and the next step down is
-    981.840 — it cannot express the value. A supplier quoting three
-    decimals may reject a page that is a thousandth of an inch out, so the
-    boxes are set exactly here.
+    calibre quantizes --custom-size to a 1.2 pt grid: asking for 13.639in
+    (982.008 pt) yields a 982.080 pt page, and the next step down is
+    980.880 — it cannot express the value. (13.650 in is 982.8 pt, on the
+    grid by luck; the next page count will not be.) A supplier quoting
+    three decimals may reject a page that is a thousandth of an inch out,
+    so the boxes are set exactly here.
 
     The artwork itself is already the right size: it is laid out to the
     CSS page (the exact figure), anchored at the top-left corner, and only
@@ -577,8 +585,8 @@ def _set_exact_page_size(pdf: Path, w_in: float, h_in: float) -> None:
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--pages", type=int, default=None,
-                    help=f"interior page count; sets the spine at "
-                         f"{PAGES_PER_INCH} pages/in (default {PAGES})")
+                    help="interior page count; the spine follows by "
+                         f"Lulu's formula (default {PAGES})")
     ap.add_argument("--spine", type=float, default=None,
                     help="spine width in inches, overriding --pages "
                          f"(default {SPINE_IN} for {PAGES} pages)")
