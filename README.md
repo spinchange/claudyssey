@@ -248,10 +248,15 @@ sets its blurb by fitting: the type steps down until the text block fits the
 space between the epigraph and the wave band, because wrapping text by
 character count overruns the frame on wide words like "book.line".
 
-Two notes specific to this output. The front panel drops the `feTurbulence`
+Three notes specific to this output. The front panel drops the `feTurbulence`
 grain used on the standalone cover — it is the one element with no vector
 equivalent, and keeping it would force a raster into a file the supplier
-requires flattened. And calibre cannot express the required page width:
+requires flattened. The decorative bands (meander, dots, zigzag) are drawn
+as SVG `<pattern>` fills, which calibre's renderer would paint into
+page-sized 72 ppi bitmaps — Lulu's preflight flags those as under 200 ppi —
+so the builder expands each pattern into explicit clipped `<use>` tiles
+before rendering; same picture, vector encoding. And calibre cannot express
+the required page width:
 `--custom-size` quantizes to a 1.2 pt grid, so 13.639 in (982.008 pt) came
 out as 982.080 and the next step down is 980.880 (13.650 in is 982.8 pt, on
 the grid by luck; the next page count will not be). The artwork is laid out
@@ -260,7 +265,9 @@ afterwards and leaves the drawing alone.
 
 `tools/check_wrap.py` checks the file against each of the supplier's
 requirements — one page, exact dimensions, fonts embedded, flattened (no
-optional content groups, annotations, or form fields) — plus the two things
+optional content groups, annotations, or form fields), no raster below
+300 ppi anywhere, including inside pattern and soft-mask resources — plus
+the two things
 the spec implies but does not state: that the art bleeds to all four edges,
 and that no light-coloured content sits inside the bleed where trimming
 would cut it. That last check is the one that matters; it catches overrunning

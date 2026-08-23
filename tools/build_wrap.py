@@ -37,6 +37,11 @@ Print requirements this targets, all verified by tools/check_wrap.py:
   * flattened — no optional content groups (layers), no transparency
     groups, no annotations
   * full bleed to all four edges
+  * no raster anywhere: the decorative bands are drawn as SVG <pattern>
+    fills, which calibre's renderer (Chromium) turns into page-sized
+    72 ppi bitmaps — Lulu flags them as under 200 ppi — so the builder
+    expands every pattern into explicit tiles before rendering
+    (see expand_patterns()).
 
 Usage:
     python tools/build_wrap.py                   # the 595-page interior
@@ -46,7 +51,9 @@ Usage:
 """
 from __future__ import annotations
 import argparse
+import math
 import os
+import re
 import shutil
 import subprocess
 import sys
@@ -484,10 +491,76 @@ def front_defs() -> str:
     )
 
 
+_PATTERN_RE = re.compile(
+    r'<pattern id="(?P<id>[^"]+)" width="(?P<w>[\d.]+)" '
+    r'height="(?P<h>[\d.]+)" patternUnits="userSpaceOnUse">'
+    r'(?P<body>.*?)</pattern>', re.S)
+_PATTERN_RECT_RE = re.compile(r'<rect\s+(?P<attrs>[^>]*?)/>')
+_ATTR_RE = re.compile(r'([\w-]+)="([^"]*)"')
+
+
+def expand_patterns(svg: str) -> str:
+    """Replace every <pattern> fill with explicit, clipped <use> tiles.
+
+    Chromium (calibre's PDF renderer) cannot write an SVG pattern fill as
+    a PDF tiling pattern of vector art: it paints the fill into a bitmap
+    the size of the page at the device resolution — 72 ppi — and embeds
+    that inside a /Pattern resource. Lulu's preflight then reports
+    "images with resolution less than 200 pixels per inch", and on paper
+    the meander, dots, and zigzag bands would print soft.
+
+    A <use> of the same tile, repeated across the band and clipped to its
+    rectangle, is ordinary vector geometry to every renderer. The tiles
+    are laid from the user-space origin at multiples of the tile size,
+    which is exactly where patternUnits="userSpaceOnUse" puts them, so
+    the artwork does not change — only its encoding does.
+    """
+    tiles: dict[str, tuple[float, float]] = {}
+
+    def _def(m: re.Match) -> str:
+        tiles[m.group("id")] = (float(m.group("w")), float(m.group("h")))
+        return f'<g id="{m.group("id")}">{m.group("body")}</g>'
+
+    svg = _PATTERN_RE.sub(_def, svg)
+    n = 0
+
+    def _rect(m: re.Match) -> str:
+        nonlocal n
+        attrs = dict(_ATTR_RE.findall(m.group("attrs")))
+        fill = attrs.get("fill", "")
+        if not (fill.startswith("url(#") and fill[5:-1] in tiles):
+            return m.group(0)
+        tile = fill[5:-1]
+        tw, th = tiles[tile]
+        x, y = float(attrs["x"]), float(attrs["y"])
+        w, h = float(attrs["width"]), float(attrs["height"])
+        n += 1
+        clip = f"tile-clip-{n}"
+        extra = "".join(f' {k}="{v}"' for k, v in attrs.items()
+                        if k not in ("x", "y", "width", "height", "fill"))
+        out = [f'<clipPath id="{clip}"><rect x="{x:g}" y="{y:g}" '
+               f'width="{w:g}" height="{h:g}"/></clipPath>',
+               f'<g clip-path="url(#{clip})"{extra}>']
+        for j in range(math.floor(y / th), math.ceil((y + h) / th)):
+            for k in range(math.floor(x / tw), math.ceil((x + w) / tw)):
+                out.append(f'<use href="#{tile}" x="{k * tw:g}" '
+                           f'y="{j * th:g}"/>')
+        out.append("</g>")
+        return "".join(out)
+
+    svg = _PATTERN_RECT_RE.sub(_rect, svg)
+    if 'fill="url(#' in svg:
+        left = [t for t in tiles if f'url(#{t})' in svg]
+        if left:
+            raise RuntimeError(f"pattern fill(s) not expanded: {left}")
+    return svg
+
+
 def build(spine_in: float, with_url: bool, out: Path) -> Path:
     svg = build_svg(spine_in, with_url)
     # splice the front panel's own pattern defs into the shared <defs>
     svg = svg.replace('</defs>', front_defs() + '</defs>', 1)
+    svg = expand_patterns(svg)
 
     svg_path = ART / "claudyssey-wrap.svg"
     svg_path.write_text(svg, encoding="utf-8")

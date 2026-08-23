@@ -178,20 +178,22 @@ def check(pdf: Path, width_in: float, height_in: float,
 
     # ---- images (a flattened wrap may contain rasters; report them so the
     # resolution can be judged)
-    # Recurse: the artwork is drawn inside Form XObjects, so an image
-    # nested in one would be missed by looking only at the page resources.
+    # Recurse through every place a renderer can hide one: Form XObjects
+    # (the artwork is drawn inside them), tiling patterns (Chromium writes
+    # an SVG <pattern> fill as a page-sized 72 ppi bitmap inside a
+    # /Pattern resource — this is what Lulu's "images under 200 ppi"
+    # preflight catches), and the forms behind ExtGState soft masks.
     imgs = []
     seen: set[int] = set()
 
     def scan_images(r) -> None:
-        r = r.get_object() if hasattr(r, "get_object") else r
+        r = deref(r)
         if not isinstance(r, dict) or id(r) in seen:
             return
         seen.add(id(r))
-        xo = r.get("/XObject")
-        xo = xo.get_object() if hasattr(xo, "get_object") else xo
+        xo = deref(r.get("/XObject"))
         for _k, ref in (xo.items() if isinstance(xo, dict) else []):
-            o = ref.get_object() if hasattr(ref, "get_object") else ref
+            o = deref(ref)
             if not isinstance(o, dict):
                 continue
             if str(o.get("/Subtype")) == "/Image":
@@ -199,6 +201,17 @@ def check(pdf: Path, width_in: float, height_in: float,
                 imgs.append((iw, ih, iw / (w_pt / 72) if w_pt else 0))
             else:
                 scan_images(o.get("/Resources"))
+        pats = deref(r.get("/Pattern"))
+        for _k, ref in (pats.items() if isinstance(pats, dict) else []):
+            o = deref(ref)
+            if isinstance(o, dict):
+                scan_images(o.get("/Resources"))
+        gs = deref(r.get("/ExtGState"))
+        for _k, ref in (gs.items() if isinstance(gs, dict) else []):
+            o = deref(ref)
+            sm = deref(o.get("/SMask")) if isinstance(o, dict) else None
+            if isinstance(sm, dict) and sm.get("/G") is not None:
+                scan_images(deref(sm["/G"]).get("/Resources"))
 
     scan_images(res)
     for iw, ih, ppi in imgs:
