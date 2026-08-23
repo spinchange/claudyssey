@@ -16,6 +16,8 @@ the EPUB does not:
   - A centered running head, and folios mirrored to the outside edge:
     bottom-left on a verso, bottom-right on a recto.
   - Black ink only: POD colour interiors cost several times mono.
+  - Dictionary-style guide words on the index pages: the running head
+    names the first and last entry beginning on that page.
 
 Pipeline: translation/*.md -> one print HTML -> EPUB -> PDF (calibre).
 translation/ is never modified.
@@ -450,12 +452,25 @@ def front_matter() -> list[tuple[str, str]]:
 CITE_RE = re.compile(r"\b([12]?\d)\.(\d{1,3})(–\d{1,3}|ff)?")
 
 
-def index_html(present: set[int]) -> str:
+def index_html(present: set[int],
+               guides: dict[str, str] | None = None) -> str:
     """The index of names as print back matter.
 
     The EPUB turns every book.line citation into a link. On paper a link
     is meaningless, so the citations are left as printed references — the
     reader turns to the line. Everything else is carried over.
+
+    Each line of an entry is classed by what it is (headword, description,
+    references, cross-references) so the stylesheet can size the headword
+    above the apparatus lines beneath it.
+
+    `guides` maps a headword to the guide words of the page that entry
+    opens ("Achaea – Aeetes"). The marker is written as a zero-size span at
+    the start of that entry's headword line; calibre's chapter detection
+    picks the span up as a section and its text becomes that page's
+    running head (see the --chapter option in build()). The mapping comes
+    from measuring a rendered copy: which entries share a page is not
+    knowable before the book is paginated.
     """
     src = ROOT / "index" / "index.md"
     if not src.exists():
@@ -473,13 +488,159 @@ def index_html(present: set[int]) -> str:
         "reading; stress falls on the capitalized syllable.</p>",
         '<div class="name-index">',
     ]
+    guides = guides or {}
     for raw in text.splitlines():
         s = raw.strip()
         if not s or s == "---":
             continue
-        out.append(f"<p>{md_inline(s)}</p>")
+        m = HEADWORD_RE.match(s)
+        if m:
+            guide = guides.get(m.group(1))
+            marker = (f'<span class="guide">{html.escape(guide)}</span>'
+                      if guide else "")
+            out.append(f'<p class="hw">{marker}{md_inline(s)}</p>')
+            continue
+        if s.startswith("**Refs:**"):
+            cls = "refs"
+        elif s.startswith("*See also:*"):
+            cls = "xref"
+        elif s.startswith("*"):
+            cls = "meta"          # Epithets, Also called, Kin
+        else:
+            cls = "desc"
+        out.append(f'<p class="{cls}">{md_inline(s)}</p>')
     out.append("</div>")
     return "\n".join(out)
+
+
+# A headword line: "**Achaea** (Ἀχαΐα) · PLACE — ..." or "**Apeire** · PLACE".
+# "**Refs:**" lines are bold too, hence the lookahead.
+HEADWORD_RE = re.compile(r"^\*\*(?!Refs:)([^*]+)\*\*\s+[(·]")
+
+GUIDE_SEP = " – "
+
+
+def _index_headwords() -> list[str]:
+    """The index's headwords, in the order they are printed."""
+    src = ROOT / "index" / "index.md"
+    if not src.exists():
+        return []
+    out = []
+    for ln in src.read_text(encoding="utf-8").splitlines():
+        m = HEADWORD_RE.match(ln.strip())
+        if m:
+            out.append(m.group(1))
+    return out
+
+
+def _index_guides(pdf_path: Path, headwords: list[str]) -> dict[str, str]:
+    """Guide words for the index pages, measured from the rendered PDF.
+
+    Returns {first headword beginning on the page: "First – Last"} for
+    every index page after the first. The first page keeps the index title
+    as its head, as a chapter opener does. A page on which no entry begins
+    (one entry filling the page) gets no marker of its own and inherits
+    the previous page's head; none of the entries is that long, and it is
+    reported if one ever is.
+
+    The headwords are matched in printed order against the start of the
+    extracted lines, with the "(" or "·" that follows every headword as
+    the guard against a description line that happens to open with a name.
+    """
+    try:
+        from pypdf import PdfReader
+    except ImportError:
+        return {}
+    start = _index_page(pdf_path)
+    if not start:
+        return {}
+    reader = PdfReader(str(pdf_path))
+    guides: dict[str, str] = {}
+    pos = 0
+    orphan_pages = 0
+    for i in range(start - 1, len(reader.pages)):
+        text = reader.pages[i].extract_text() or ""
+        found: list[str] = []
+        for ln in text.split("\n"):
+            if pos >= len(headwords):
+                break
+            if re.match(re.escape(headwords[pos]) + r"\s+[(·]", ln.strip()):
+                found.append(headwords[pos])
+                pos += 1
+        if i == start - 1:
+            continue
+        if not found:
+            orphan_pages += 1
+            continue
+        first, last = found[0], found[-1]
+        guides[first] = (first if first == last
+                         else f"{first}{GUIDE_SEP}{last}")
+    if pos != len(headwords):
+        print(f"  WARNING: index guide words: matched {pos} of "
+              f"{len(headwords)} headwords in the rendered index; the "
+              "guide words after the last match will be wrong")
+    if orphan_pages:
+        print(f"  WARNING: {orphan_pages} index page(s) on which no entry "
+              "begins carry the previous page's guide words")
+    return guides
+
+
+def _strip_outline(pdf_path: Path, titles: set[str]) -> int:
+    """Drop the outline (bookmark) entries whose title is in `titles`.
+
+    The guide-word markers reach the running head by way of calibre's TOC,
+    and calibre also writes the TOC into the PDF's outline; seventy
+    bookmarks reading "Achaea – Aeetes" are not wanted there. The outline
+    is a doubly linked list under /Outlines; the unwanted items are
+    unlinked in place.
+    """
+    try:
+        from pypdf import PdfReader, PdfWriter
+        from pypdf.generic import NameObject, NumberObject
+    except ImportError:
+        return 0
+    reader = PdfReader(str(pdf_path))
+    writer = PdfWriter(clone_from=reader)
+    root = writer._root_object
+    if "/Outlines" not in root:
+        return 0
+    outlines = root["/Outlines"].get_object()
+    removed = 0
+    node = outlines.get("/First")
+    while node is not None:
+        item = node.get_object()
+        nxt = item.get("/Next")
+        if str(item.get("/Title", "")) in titles:
+            prev = item.get("/Prev")
+            if prev is not None:
+                pv = prev.get_object()
+                if nxt is not None:
+                    pv[NameObject("/Next")] = nxt
+                else:
+                    del pv["/Next"]
+            elif nxt is not None:
+                outlines[NameObject("/First")] = nxt
+            else:
+                del outlines["/First"]
+            if nxt is not None:
+                nx = nxt.get_object()
+                if prev is not None:
+                    nx[NameObject("/Prev")] = prev
+                else:
+                    del nx["/Prev"]
+            elif prev is not None:
+                outlines[NameObject("/Last")] = prev
+            else:
+                del outlines["/Last"]
+            removed += 1
+        node = nxt
+    if removed:
+        count = int(outlines.get("/Count", 0))
+        if count > 0:
+            outlines[NameObject("/Count")] = NumberObject(count - removed)
+        with open(pdf_path, "wb") as fh:
+            writer.write(fh)
+    return removed
 
 
 def page_html(title: str, body: str) -> str:
@@ -682,7 +843,9 @@ def build(book_nums: list[int], trim: str, force_recto: bool,
              "--language", "en",
              "--disable-font-rescaling",
              "--change-justification", "left",
-             "--chapter", "//h:h1",
+             # h1 for the running heads; the guide spans in the index give
+             # each index page its own head (see index_html)
+             "--chapter", "//h:h1 | //h:span[@class='guide']",
              "--chapter-mark", "none",
              "--no-default-epub-cover",
              "--dont-split-on-page-breaks"],
@@ -882,6 +1045,41 @@ def build(book_nums: list[int], trim: str, force_recto: bool,
         elif len(after) != len(openers):
             print("  WARNING: the book count changed on the contents pass")
 
+    # --- index guide words.
+    # The running head on each index page names the first and last entry
+    # beginning on it, as a dictionary does. Which entries share a page is
+    # only known once the book is paginated, so the finished layout is
+    # measured and the markers written in. They are zero-size spans, so
+    # nothing should move; that is verified by measuring again, and the
+    # pass repeats from the new measurement if it did.
+    guide_titles: set[str] = set()
+    headwords = _index_headwords() if idx else []
+    if headwords:
+        guides = _index_guides(out, headwords)
+        openers_before = _book_opener_pages(out)
+        for attempt in range(1, 4):
+            if not guides:
+                break
+            idx = index_html(set(book_nums), guides)
+            root.write_text(page_html("The Odyssey", assemble(blanks)),
+                            encoding="utf-8")
+            to_epub()
+            to_pdf()
+            again = _index_guides(out, headwords)
+            if again == guides:
+                print(f"index guide words: {len(guides)} page(s)")
+                guide_titles = set(guides.values())
+                break
+            print(f"index guide words: pagination shifted on pass "
+                  f"{attempt}; re-measuring")
+            guides = again
+        else:
+            print("  WARNING: index guide words did not settle in 3 passes")
+        if _book_opener_pages(out) != openers_before:
+            print("  WARNING: the books shifted when the guide words were "
+                  "added; the contents page numbers are wrong. Check "
+                  "tools/check_print.py before using this file.")
+
     # --- final pass over the finished file.
     # Clear the head and folio from the front matter (calibre draws a
     # literal "0" there rather than omitting the folio) and from the blank
@@ -895,6 +1093,11 @@ def build(book_nums: list[int], trim: str, force_recto: bool,
             print(f"cleared the running head and folio from {cleared} page(s)"
                   f" ({len(blanks_found)} blank leaf/leaves, "
                   f"{len(strip) - len(blanks_found)} front matter)")
+
+    if guide_titles:
+        n = _strip_outline(out, guide_titles)
+        if n:
+            print(f"dropped {n} guide-word entries from the pdf outline")
 
     print(f"\nwrote {out}  ({out.stat().st_size:,} bytes)")
     return out

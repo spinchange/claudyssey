@@ -223,19 +223,22 @@ cover as one flat landscape page, to a print supplier's spec:
 
 ```powershell
 python tools\build_wrap.py                  # art/claudyssey-wrap.pdf
-python tools\build_wrap.py --spine 1.42     # a different page count/stock
+python tools\build_wrap.py --pages 604      # a different page count
+python tools\build_wrap.py --spine 1.42     # the supplier's exact figure
 python tools\build_wrap.py --no-url         # omit the site URL
 python tools\check_wrap.py art\claudyssey-wrap.pdf
 ```
 
-The default geometry is the supplier's figures for the 592-page interior
-(the page count of `print-build/odyssey-print-6x9.pdf`, front matter and
-recto blanks included): 13.639 × 9.25 in overall, 1.389 in spine, which
-decomposes exactly into two 6.125 in panels — a 6×9 trim with 0.125 in
-bleed on every outside edge. The spine figure also matches 592 pages on
-50 lb cream stock (592 ÷ 426 ppi = 1.390 in), so the spec and the
-interior agree. Change `--spine` and the
-panels follow.
+The geometry follows the interior's page count (595 pages in
+`print-build/odyssey-print-6x9.pdf`, front matter and recto blanks
+included): two fixed 6.125 in panels — a 6×9 trim with 0.125 in bleed on
+every outside edge — either side of a spine of 595 ÷ 426 pages-per-inch
+(50 lb cream stock) = 1.397 in, for 13.647 × 9.25 in overall. Only the
+spine moves with the page count; the panels never do. The supplier's own
+spec for the page count is the figure to ship against — it is quoted to a
+thousandth and their rounding can differ (they gave 1.389 in for the
+earlier 592-page interior, where 592 ÷ 426 = 1.390) — so confirm it and
+pass `--spine` if it differs.
 
 The artwork is generated into `art/claudyssey-wrap.svg` and rendered from
 there, so the wrap is reproducible rather than hand-placed. The back cover
@@ -247,9 +250,10 @@ Two notes specific to this output. The front panel drops the `feTurbulence`
 grain used on the standalone cover — it is the one element with no vector
 equivalent, and keeping it would force a raster into a file the supplier
 requires flattened. And calibre cannot express the required page width:
-`--custom-size` quantizes to a 1.2 pt grid, so 13.639 in (982.008 pt) comes
-out as 982.080 and the next step down is 980.880. The builder therefore sets
-the MediaBox exactly afterwards and scales the content to match.
+`--custom-size` quantizes to a 1.2 pt grid, so 13.647 in (982.584 pt) comes
+out as 983.040 and the next step down is 981.840. The artwork is laid out to
+the exact figure regardless, so the builder cuts the page boxes to it
+afterwards and leaves the drawing alone.
 
 `tools/check_wrap.py` checks the file against each of the supplier's
 requirements — one page, exact dimensions, fonts embedded, flattened (no

@@ -20,6 +20,7 @@ reasons a wrap is rejected:
 
 Usage:
     python tools/check_wrap.py art/claudyssey-wrap.pdf
+    python tools/check_wrap.py <pdf> --spine 1.389          # width follows
     python tools/check_wrap.py <pdf> --width 13.639 --height 9.25 --spine 1.389
 """
 from __future__ import annotations
@@ -27,9 +28,10 @@ import argparse
 import sys
 from pathlib import Path
 
-WIDTH_IN = 13.639
 HEIGHT_IN = 9.25
-SPINE_IN = 1.389
+SPINE_IN = 1.397          # 595 pages at 426 pages/in; see build_wrap.py
+PANEL_IN = 6.125          # 6 in trim + 0.125 in bleed, fixed by the trim
+WIDTH_IN = round(2 * PANEL_IN + SPINE_IN, 3)    # 13.647
 
 # A supplier quoting three decimals is working to a thousandth of an inch
 # (0.072 pt). Allow a tenth of a point — tight enough to catch calibre's
@@ -292,8 +294,12 @@ def check(pdf: Path, width_in: float, height_in: float,
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("pdf", type=Path)
-    ap.add_argument("--width", type=float, default=WIDTH_IN)
+    ap.add_argument("--width", type=float, default=None,
+                    help="overall width in inches (default: two panels "
+                         "plus the spine)")
     ap.add_argument("--height", type=float, default=HEIGHT_IN)
     ap.add_argument("--spine", type=float, default=SPINE_IN)
     args = ap.parse_args()
-    sys.exit(check(args.pdf, args.width, args.height, args.spine))
+    width = (args.width if args.width is not None
+             else round(2 * PANEL_IN + args.spine, 3))
+    sys.exit(check(args.pdf, width, args.height, args.spine))

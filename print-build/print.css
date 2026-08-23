@@ -308,3 +308,16 @@ p.toc-back .toc-bk { font-style: normal; }
   widows: 2;
 }
 .name-index hr { display: none; }   /* the --- separators between entries */
+
+/* The headword sits above the apparatus beneath it: set at the body
+   size (1.25 x 0.8em = 1em) against the 0.8em of the description and the
+   Refs line, with a little air before each entry so that entries, not
+   lines, are the unit the eye lands on. A headword is never left alone
+   at the foot of a page. */
+.name-index p.hw { margin-top: 0.55em; page-break-after: avoid; }
+.name-index p.hw > strong:first-of-type { font-size: 1.25em; }
+
+/* The guide-word marker (build_print.index_html). Zero-size so that it
+   occupies nothing on the page; its text reaches the running head through
+   calibre's chapter detection, not through the stylesheet. */
+.name-index .guide { font-size: 0; line-height: 0; visibility: hidden; }

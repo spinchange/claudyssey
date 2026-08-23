@@ -2,21 +2,25 @@
 """Build the paperback case wrap — back cover, spine, and front cover as a
 single flat landscape PDF, to a print-on-demand supplier's spec.
 
-Default geometry is the supplied spec for the 592-page 6x9 interior:
+Default geometry is the supplied spec for the 595-page 6x9 interior:
 
-    trim            13.639 x 9.25 in   (346.43 x 234.95 mm)
-    spine            1.389 in          (35.28 mm)
-    panels           6.125 in each     = (13.639 - 1.389) / 2
-                                       = 6 in trim + 0.125 in bleed
+    trim            13.647 x 9.25 in   (346.63 x 234.95 mm)
+    spine            1.397 in          (35.48 mm)
+    panels           6.125 in each     = 6 in trim + 0.125 in bleed
 
-Everything is derived from those three numbers, so a different page count
-or stock only needs --spine (and the panels follow).
+The panels are fixed by the trim; only the spine moves with the page
+count, and the overall width follows it (2 x 6.125 + spine). So a
+different page count or stock needs only --pages (spine = pages / 426,
+the supplier's pages-per-inch for 50 lb cream) or an explicit --spine.
+The supplier's own figure for the page count is the one to ship against:
+it is quoted to a thousandth and their formula can round differently from
+this one (they gave 1.389 for 592 pages where 592 / 426 = 1.390).
 
     +---------------------------+-------+---------------------------+
     |        back cover         | spine |       front cover         |
-    |         6.125 in          | 1.389 |        6.125 in           |
+    |         6.125 in          | 1.397 |        6.125 in           |
     +---------------------------+-------+---------------------------+
-    0                        6.125   7.514                     13.639
+    0                        6.125   7.522                     13.647
 
 The artwork is generated rather than hand-placed: the front panel reuses
 the existing cover design, the spine and back are built to match it.
@@ -29,8 +33,9 @@ Print requirements this targets, all verified by tools/check_wrap.py:
   * full bleed to all four edges
 
 Usage:
-    python tools/build_wrap.py
-    python tools/build_wrap.py --spine 1.42 --pages 604
+    python tools/build_wrap.py                   # the 595-page interior
+    python tools/build_wrap.py --pages 604       # spine from the page count
+    python tools/build_wrap.py --spine 1.42      # the supplier's exact figure
     python tools/build_wrap.py --no-url          # omit the site URL
 """
 from __future__ import annotations
@@ -52,10 +57,25 @@ EBOOK_CONVERT = (
 )
 
 # ---- spec ---------------------------------------------------------------
-WRAP_W_IN = 13.639
 WRAP_H_IN = 9.25
-SPINE_IN = 1.389
 BLEED_IN = 0.125          # included in the panel and height figures above
+PANEL_IN = 6.125          # 6 in trim + bleed on the outside edge
+PAGES = 595               # print-build/odyssey-print-6x9.pdf, as built
+PAGES_PER_INCH = 426      # the supplier's figure for 50 lb cream stock
+
+
+def spine_for(pages: int) -> float:
+    """Spine width in inches for a page count, to the supplier's precision."""
+    return round(pages / PAGES_PER_INCH, 3)
+
+
+def wrap_width(spine_in: float) -> float:
+    """Overall width: two fixed panels and the spine between them."""
+    return round(2 * PANEL_IN + spine_in, 3)
+
+
+SPINE_IN = spine_for(PAGES)          # 1.397
+WRAP_W_IN = wrap_width(SPINE_IN)     # 13.647
 
 # The SVG is drawn in user units at 100 units per inch, which keeps every
 # coordinate a readable number and is resolution-independent regardless.
@@ -138,8 +158,8 @@ def wrap_text(text: str, width_units: float, size: float) -> list[str]:
 
 
 def build_svg(spine_in: float, with_url: bool) -> str:
-    panel_in = (WRAP_W_IN - spine_in) / 2
-    W = WRAP_W_IN * UPI
+    panel_in = PANEL_IN
+    W = wrap_width(spine_in) * UPI
     H = WRAP_H_IN * UPI
     P = panel_in * UPI
     S = spine_in * UPI
@@ -471,7 +491,7 @@ def build(spine_in: float, with_url: bool, out: Path) -> Path:
     WORK.mkdir(parents=True)
     shutil.copy(svg_path, WORK / svg_path.name)
 
-    w, h = WRAP_W_IN, WRAP_H_IN
+    w, h = wrap_width(spine_in), WRAP_H_IN
     (WORK / "wrap.html").write_text(
         "<!DOCTYPE html>\n"
         '<html><head><meta charset="utf-8"/><title>Wrap</title>\n'
@@ -514,44 +534,39 @@ def build(spine_in: float, with_url: bool, out: Path) -> Path:
 def _set_exact_page_size(pdf: Path, w_in: float, h_in: float) -> None:
     """Force the page boxes to the exact required size.
 
-    calibre quantizes --custom-size to a coarse grid: asking for 13.639in
-    (982.008 pt) yields 982.080, and the next step down is 980.880 — it
-    cannot express the value. A supplier quoting three decimals may reject
-    a page that is a thousandth of an inch out, so the MediaBox is set
-    exactly here and the content scaled to match.
+    calibre quantizes --custom-size to a coarse grid: asking for 13.647in
+    (982.584 pt) yields a 983.040 pt page, and the next step down is
+    981.840 — it cannot express the value. A supplier quoting three
+    decimals may reject a page that is a thousandth of an inch out, so the
+    boxes are set exactly here.
 
-    The artwork is scaled about the origin by the ratio between the
-    rendered size and the required size, so the design still bleeds to
-    every edge rather than leaving a hairline gap on two sides.
+    The artwork itself is already the right size: it is laid out to the
+    CSS page (the exact figure), anchored at the top-left corner, and only
+    the PDF page around it is the quantized size. So the boxes are cut to
+    the wanted size from the top-left and the drawing is left alone.
+    (Scaling the drawing to the quantized page, as an earlier version did,
+    shrank it below the page and left a hairline of white down the right
+    edge — 0.46 pt at this width, enough for the bleed check to catch.)
     """
     from pypdf import PdfReader, PdfWriter
-    from pypdf.generic import (ArrayObject, FloatObject, NameObject,
-                               DecodedStreamObject)
+    from pypdf.generic import ArrayObject, FloatObject, NameObject
 
     want_w, want_h = w_in * 72.0, h_in * 72.0
     reader = PdfReader(str(pdf))
     writer = PdfWriter()
     page = reader.pages[0]
-    got_w = float(page.mediabox.width)
     got_h = float(page.mediabox.height)
 
-    sx = want_w / got_w
-    sy = want_h / got_h
-    if abs(sx - 1) > 1e-9 or abs(sy - 1) > 1e-9:
-        # prepend a scale so the drawing fills the corrected page exactly
-        pre = DecodedStreamObject()
-        pre.set_data(f"{sx:.9f} 0 0 {sy:.9f} 0 0 cm\n".encode("ascii"))
-        contents = page.get_contents()
-        merged = DecodedStreamObject()
-        merged.set_data(pre.get_data() + contents.get_data())
-        page[NameObject("/Contents")] = writer._add_object(merged)
-
+    # PDF y runs upward from the bottom, so top-left anchoring means the
+    # box keeps the top edge and drops any excess height at the bottom.
+    x0, y0 = 0.0, got_h - want_h
     for name in ("/MediaBox", "/CropBox", "/TrimBox", "/BleedBox",
                  "/ArtBox"):
         if name == "/MediaBox" or name in page:
             page[NameObject(name)] = ArrayObject([
-                FloatObject(0), FloatObject(0),
-                FloatObject(round(want_w, 4)), FloatObject(round(want_h, 4)),
+                FloatObject(round(x0, 4)), FloatObject(round(y0, 4)),
+                FloatObject(round(x0 + want_w, 4)),
+                FloatObject(round(y0 + want_h, 4)),
             ])
 
     writer.add_page(page)
@@ -561,11 +576,20 @@ def _set_exact_page_size(pdf: Path, w_in: float, h_in: float) -> None:
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("--spine", type=float, default=SPINE_IN,
-                    help=f"spine width in inches (default {SPINE_IN})")
+    ap.add_argument("--pages", type=int, default=None,
+                    help=f"interior page count; sets the spine at "
+                         f"{PAGES_PER_INCH} pages/in (default {PAGES})")
+    ap.add_argument("--spine", type=float, default=None,
+                    help="spine width in inches, overriding --pages "
+                         f"(default {SPINE_IN} for {PAGES} pages)")
     ap.add_argument("--no-url", action="store_true",
                     help="omit the site URL from the back cover")
     ap.add_argument("-o", "--out", type=Path,
                     default=ART / "claudyssey-wrap.pdf")
     args = ap.parse_args()
-    build(args.spine, not args.no_url, args.out)
+    if args.spine is not None and args.pages is not None:
+        sys.exit("give --pages or --spine, not both")
+    spine = (args.spine if args.spine is not None
+             else spine_for(args.pages) if args.pages is not None
+             else SPINE_IN)
+    build(spine, not args.no_url, args.out)
