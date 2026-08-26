@@ -5,12 +5,12 @@
 1 But in the forecourt there lay down noble Odysseus for sleeping.
 2 Under him first he spread a raw hide stripped from an ox for bedding,
 3 and above it many the fleeces of sheep that Achaeans had slaughtered.
-4 Then Eurynome cast a cloak over him there as he slumbered.
+4 And Eurynome cast a cloak over him there as he slumbered.
 5 There lay Odysseus awake, in his spirit devising destruction
 6 for the suitors; and out from the hall came forth all the women,
 7 those who before had consorted and lain with the suitors continually,
 8 giving each other bright laughter and sharing delight in each other.
-9 Then in the breast that was his his spirit was stirred into tumult;
+9 But in the breast that was his his spirit was stirred into tumult;
 10 much did he ponder in mind and in heart as he turned it all over,
 11 whether to rush upon them and bring death down upon every woman,
 12 or to allow them once more with the suitors so proud to be mingling,
@@ -23,7 +23,7 @@
 19 on that day when the Cyclops with ravenous strength beyond bearing
 20 ate my powerful comrades; yet you endured, till your cunning
 21 led you out from the cave, though you thought you were doomed there to perish.”
-22 So he spoke, as there in his breast he upbraided his own dear heart there;
+22 So he spoke, in his breast his own dear heart rebuking;
 23 and his heart in obedience stood enduring and patient
 24 ceaselessly; but he himself kept turning from this side to that side.
 25 As when a man by a great fire blazing in strength and in brightness
@@ -33,28 +33,28 @@
 29 how he might lay hands at last on the suitors, the shameless offenders,
 30 one man alone against many. Then Athena came close beside him,
 31 down from the sky descending, and in form she resembled a woman.
-32 Then she stood overhead by his head and addressed him in speech there:
+32 Over his head she took her stand, and she spoke to him, saying:
 33 “Why are you wakeful again, most wretched by far of all mortals?
 34 This is indeed your house, and here in the house is your own wife,
 35 and your child, such a son as a man in his prayers would desire for.”
-36 Then resourceful Odysseus addressed her again in reply thus:
+36 Answering her in return spoke resourceful Odysseus, saying:
 37 “Yes indeed, goddess, in all that you said you have spoken with justice.
 38 But this is the thing my spirit keeps turning and weighing within me:
 39 how I shall lay my hands on the suitors, the shameless offenders,
-40 being alone by myself; and they are forever assembled within there.
+40 being alone by myself, while indoors they are forever assembled.
 41 And besides, yet another and greater concern I keep pondering:
 42 if by the will of Zeus and by yours I should kill them and conquer,
 43 where could I flee to escape? This is what I command you to consider.”
-44 Then again the gray-eyed goddess Athena addressed him:
+44 To him in turn made answer the goddess, gray-eyed Athena:
 45 “Stubborn man, and yet one may trust in a companion far weaker,
 46 one who is mortal indeed and does not know counsels so many.
 47 But I am a god, and through all things continually I guard you
 48 in every labor. And now I will tell you the matter out plainly.
 49 Even if fifty companies of men who eat bread all around us
 50 stood there to hem us in, with desire to destroy us in Ares,
-51 still from them you would drive off cattle and sturdy fat sheep there.
+51 still you would drive off from them their cattle and sturdy fat sheep-flocks.
 52 No, let sleep now take hold upon you; for wretched it is to be watching
-53 all through the night without rest, and from evils you soon will emerge now.”
+53 wakeful the whole night through; but soon from your evils you shall be emerging.”
 54 So she spoke, and upon his eyelids she poured down sweet slumber,
 55 and then the bright goddess of goddesses went back to Olympus.
 56 When sleep now seized him, releasing the cares that troubled his spirit,
@@ -82,7 +82,7 @@
 78 and delivered them over to hateful Erinyes for service.
 79 So may the Olympian dwellers blot me also away and make me vanish,
 80 or may fair-tressed Artemis strike me, so that with Odysseus
-81 seeing him, I might even go down under the hateful earth there,
+81 seeing him, I might even go down beneath the earth that is hateful,
 82 and never again bring joy to the mind of an inferior man.
 83 Yet even that evil can still be endured, whenever a person
 84 weeps through the days, with the heart in its inmost places afflicted,
@@ -92,10 +92,10 @@
 88 For in this very night there slept beside me one like to himself,
 89 such as he was when he went with the host; and my own heart within me
 90 rejoiced, since I thought it was not a dream, but waking already.”
-91 So she spoke, and at once came Dawn on her golden high throne there.
-92 Then noble Odysseus took note of the sound of her weeping;
+91 So she spoke, and at once came Dawn on her throne that was golden.
+92 And noble Odysseus took note of the sound of her weeping;
 93 afterward in his heart he pondered, and this seemed likely within him,
-94 that she, knowing him now, had come and stood close over his head there.
+94 that already knowing him, close to his head she had come and was standing.
 95 He gathered the cloak and the fleeces in which he had taken his sleeping,
 96 set them within the hall on a chair, and the oxhide beside them
 97 carried outdoors and laid it away; then, raising his hands, prayed to Zeus:
@@ -106,7 +106,7 @@
 102 So he spoke in prayer, and Zeus of the counsels heard what he asked for.
 103 Straightway he thundered aloud from radiant heights of Olympus,
 104 high from the clouds; and noble Odysseus rejoiced at the portent.
-105 Then from the house there came an omen-word from a woman at grinding,
+105 Out of the house an omen-word came from a woman at grinding,
 106 near where the mills of the shepherd of people were ranged for his household.
 107 There were twelve women in all who labored there at them always,
 108 making barley meal and fine wheat flour, the marrow of mortals.
@@ -123,20 +123,20 @@
 119 while I prepare them their barley meal; now may they dine for the last time.”
 120 So she spoke, and noble Odysseus rejoiced in the spoken omen,
 121 and in the thunder of Zeus; for he said in his heart they would pay for their outrage.
-122 Then the other serving women through noble house of Odysseus,
+122 But the other serving women through noble house of Odysseus,
 123 gathered together, kindled the tireless fire on the hearthstone.
 124 Out from his bed uprose Telemachus, like to an immortal,
-125 put on his clothes, and about his shoulder he slung his sharp sword there;
+125 put on his clothes, and slung his sharp sword about his shoulder;
 126 under his gleaming feet he bound his beautiful sandals,
-127 took up a mighty spear with its point made keen by sharp bronze there,
+127 took up a mighty spear, its point with keen bronze sharpened,
 128 stood as he went on the threshold, and spoke then to Eurycleia:
 129 “Dear nurse, did you honor the stranger here in the house as was fitting,
 130 with a bed and with food, or does he lie there uncared for wholly?
 131 Such is the way of my mother, though wise in her thought she may be still:
 132 at random she honors another of mortal men, though the worse man,
 133 but a better man she sends away with dishonor upon him.”
-134 Then to him in reply spoke prudent and watchful Eurycleia:
-135 “Child, do not now accuse the guiltless woman without a cause there.
+134 To him in turn made answer the prudent and watchful Eurycleia:
+135 “Child, you would not now blame her, the guiltless, with any blaming.
 136 Truly he sat and drank of the wine for as long as he wished it himself,
 137 and of food he said he no longer had hunger; she asked him about it.
 138 But when now he began to bethink him of rest and of slumber,
@@ -148,37 +148,37 @@
 144 So she spoke, and Telemachus passed straight out through the great hall,
 145 holding his spear, and along with him followed two swift dogs together.
 146 He went on his way to the place of assembly among the Achaeans.
-147 Then again to the serving women that godlike lady of women,
+147 Once again to the serving women that godlike lady of women,
 148 Eurycleia, daughter of Ops, son of Peisenor, called out:
 149 “Come now, some of you sweep through the hall and put all things in order,
 150 sprinkle it down, and on the well-fashioned chairs spread purple coverlets;
 151 others with sponges wipe down all of the tables around them,
 152 and cleanse the mixing bowls and the carefully wrought two-handled goblets;
 153 others of you go after water and hasten away to the fountain,
-154 and bring it back with speed; for not much longer away from the hall here
-155 will the suitors remain, but early indeed they will gather,
+154 and bring it back with all speed; for not much longer will linger
+155 the suitors away from the hall, but early indeed they will gather,
 156 since for all people alike this day is a day of festival.”
 157 So she spoke, and they listened intently and did as she bade them.
 158 Twenty of them went off to the spring with its dark-flowing water,
 159 while the others within the house worked busily, knowing their business.
-160 Then came in the attendants of the Achaeans; these men in the meantime
+160 In came the attendants of the Achaeans; these men in the meantime
 161 They split the firewood well and with an accomplished neatness;
-162 then from the spring the women came back, and behind them the swineherd
-163 came driving three fat hogs, which were the best of them all there.
+162 Back from the spring the women came, and behind them the swineherd
+163 came driving three fat hogs, which of all the herd were the finest.
 164 These he let graze through the beautiful pens and enclosures,
-165 then in his turn addressed Odysseus with gentle words, saying:
+165 and in his turn addressed Odysseus with gentle words, saying:
 166 “Stranger, do the Achaeans regard you a little more kindly,
-167 or do they still disgrace you all through the halls, as before now?”
-168 Then resourceful Odysseus answered him, saying:
+167 or, just as before, do they still hold you through the halls in dishonor?”
+168 Answering him in return spoke resourceful Odysseus, saying:
 169 “If only, Eumaeus, the gods might repay them that outrage,
 170 all that these men in their insolence plot and keep plotting,
 171 here in another man's house; they possess not a portion of shame.”
-172 So they were speaking such things to each other in turn there;
-173 then Melanthius came near to them, the goatherd of goats there,
+172 Thus they were speaking such things in turn to one another;
+173 Close beside them came the goatherd of goats, Melanthius,
 174 driving the goats that surpassed all the rest of the goat-herds,
 175 as a meal for the suitors; and two herdsmen went with him.
 176 These he tied up beneath the loud-echoing porch of the courtyard,
-177 then in his turn addressed Odysseus with mocking words, saying:
+177 and in his turn addressed Odysseus with mocking words, saying:
 178 “Stranger, are you still here in the house and still pestering people,
 179 begging from men? Will you not yet go outside through the doorway?
 180 Surely I do not think that the two of us now will be parted
@@ -186,12 +186,12 @@
 182 There are also other feasts among the Achaeans elsewhere.”
 183 So he spoke, but resourceful Odysseus answered him nothing;
 184 silently only he shook his head, while he pondered deep evil.
-185 Then there came as the third one Philoetius, leader of men there,
+185 Third after them to arrive was the leader of men, Philoetius,
 186 driving a barren cow for the suitors, and fat goats beside her.
-187 Ferrymen brought them across, the same men who also convey there
+187 Ferrymen brought them across, the very same men who also carry
 188 all other travelers too, any man who arrives there among them.
 189 These he tied up well beneath the loud-echoing porch of the courtyard,
-190 then standing close by the swineherd he asked him a question:
+190 and standing close by the swineherd he asked him a question:
 191 “Swineherd, who is this stranger that newly has come to our household?
 192 What men does he declare are his own? From what people is he?
 193 Where then are his lineage and the land of his fathers?
@@ -222,89 +222,89 @@
 218 it is indeed a terrible thing, while his son still is living,
 219 going away with the cattle to visit the land of another,
 220 passing to foreign men; but more chilling still is it, staying
-221 here to endure the grief while one sits by cattle not one's own now.
+221 here to sit by the cattle of others, suffering sorrows.
 222 Long since I would have gone and fled to some other great monarch,
-223 since these things are no longer at all to be borne or endured here;
+223 fleeing, since these things no longer at all are endurable;
 224 but still I think on that unhappy man, in case he should come back
 225 out of some place and scatter the suitors all through the household.”
-226 Then resourceful Odysseus answered him, saying:
-227 “Cowherd, since you resemble no wicked man and no fool here,
+226 Answering him in return spoke resourceful Odysseus, saying:
+227 “Cowherd, since you resemble no man that is wicked or witless,
 228 and I myself can perceive that good sense reaches your spirit,
 229 therefore I will tell you a thing and swear a great oath upon it:
 230 let Zeus now know first, highest of gods, and the guest-table here too,
-231 and the hearth of noble Odysseus, to which I have come now,
+231 and the hearth of noble Odysseus, whereto I have made my coming,
 232 that while you are still here, Odysseus will come to his homecoming.
-233 With your own eyes you will see it, if that is indeed your desire there:
+233 With your own eyes you shall see it, if only you are willing:
 234 suitors being cut down, who here are the masters and rulers.”
-235 Then the herdsman of cattle replied to him in his answer:
+235 To him in turn made answer the herdsman over the cattle:
 236 “If only, stranger, the son of Cronos would bring that word to fulfillment;
 237 then you would know what strength there is in me and what hands follow.”
 238 So in the same way Eumaeus also prayed to all the immortals
 239 that wise Odysseus might come back home to his own house.
 240 Thus they were speaking such things in turn to one another.
 241 Meanwhile the suitors were shaping for Telemachus death-doom,
-242 but to them on the left there came as a sign a great bird then,
-243 an eagle high in flight, and he held in his talons a dove there.
-244 Then among them Amphinomus rose in assembly and spoke thus:
+242 but to them on the left-hand side there came a bird-omen,
+243 an eagle high in flight, and he held a dove that was trembling.
+244 Up among them Amphinomus rose in assembly and spoke thus:
 245 “Friends, this design of ours will not be fulfilled to the ending,
 246 this killing of Telemachus. Come, let us think of the banquet.”
-247 Thus spoke Amphinomus, and his counsel was pleasing among them.
-248 Then they came to the house of Odysseus, godlike in spirit,
-249 and they laid down their cloaks on the benches and chairs in the hall there.
-250 Then they slaughtered great sheep and fattened goats for the feasting,
-251 slaughtered as well sleek swine and a heifer brought from the herd there.
-252 Then they roasted the innards and shared them about, and the wine then
+247 So he spoke, Amphinomus, and his counsel was pleasing among them.
+248 And they came to the house of Odysseus, godlike in spirit,
+249 and they laid their cloaks down across the chairs and the benches.
+250 So they slaughtered great sheep and fattened goats for the feasting,
+251 slaughtered as well sleek swine, and out of the herd a heifer.
+252 After they roasted the innards they shared them about, and the wine
 253 mixed in the mixing-bowls; and the swineherd handed the cups round.
 254 Bread for them Philoetius dealt, the leader of oxherds,
-255 set in beautiful baskets, and Melanthius poured the wine there.
-256 Then to the good fare ready and spread before them they reached out.
+255 set in beautiful baskets; and pouring the wine was Melanthius.
+256 Out went their hands to the good fare ready and spread before them.
 257 But Telemachus, turning his mind to guile, seated Odysseus
 258 there in the well-built hall, by the side of the threshold of stonework,
 259 placing a shabby stool beneath him and there a small table.
-260 By him he set portions of innards and poured out the wine then
+260 By him he set portions of innards, and wine he was pouring
 261 into a golden cup, and he spoke and addressed him in words thus:
 262 “Here now sit among men and drink your wine in their company.
 263 I myself will hold off from you all taunts and all violence,
 264 all from the suitors, since this house is not common to all men,
 265 but Odysseus’ house, and for me that man won and acquired it.
 266 And you suitors, keep back your spirit from insults and handblows,
-267 lest some quarrel arise and a fight be stirred in the hall here.”
-268 Thus he spoke, and they all bit hard with their teeth on their lip-edges,
+267 lest some quarrel arise between us and strife be awakened.”
+268 So he spoke, and they all bit hard with their teeth on their lip-edges,
 269 marveling at Telemachus, how he had spoken so boldly.
-270 Then among them Antinous spoke, the son of Eupeithes:
+270 Out among them spoke Antinous, the son of Eupeithes:
 271 “Though it is hard, Achaeans, let us accept what is spoken,
 272 Telemachus’ word; for with force and with threats he addresses us.
 273 Zeus son of Cronos would not allow it; else long before now we
 274 would have stopped him inside these halls, though he is a clear speaker.”
-275 Thus spoke Antinous; but he paid no heed to his speaking.
+275 So he spoke, Antinous; but he paid no heed to his sayings.
 276 Through the town then the heralds were leading the holy hecatomb,
 277 and the long-haired Achaeans assembled together in thronging
-278 under the shady grove of Apollo who strikes from afar there.
-279 Then when they had roasted the outer flesh and drawn it away there,
+278 under the shady grove of him who strikes from afar, Apollo.
+279 But when they had drawn away the outer flesh they had roasted,
 280 sharing the portions out, they feasted on the splendid banquet.
-281 And a portion beside Odysseus the servants set down there,
+281 And beside Odysseus a portion was set by those who were serving,
 282 equal to what they themselves had obtained as allotted among them;
 283 for so Telemachus ordered, dear son of godlike Odysseus.
-284 Yet Athena did not let the haughty suitors at all then
+284 Yet Athena did not at all let the haughty suitors
 285 hold back from the bitter abuse that gives pain to the spirit,
 286 so that still deeper grief might sink in the heart of Odysseus.
 287 There among those suitors was one man knowing unlawful behavior;
 288 Ctesippus was his name, and in Same his dwelling was founded.
 289 He, relying indeed on possessions exceeding in splendor,
-290 wooed the wife of Odysseus, though long he had been gone from home there.
+290 wooed the wife of Odysseus, who had for so long been departed.
 291 He then spoke out among the overbearing suitors and said thus:
 292 “Hear me, lordly suitors, so I may speak out a word to you.
 293 Long now the stranger has had his portion, equal to all men,
 294 as is fitting; for it is neither noble nor just to dishonor
-295 any guest of Telemachus who may come to this house here.
+295 any guest of Telemachus who may arrive at this dwelling.
 296 But come, I also will give him a guest-gift, so that he likewise
 297 may give some prize to the bath-attendant woman, or perhaps to
 298 some other slave in the house of Odysseus, godlike in spirit.”
-299 So he spoke and with his heavy hand he hurled an ox-hoof at him,
+299 So having spoken, with heavy hand he hurled an ox-hoof at him,
 300 taking it up from the basket where it was lying; Odysseus
-301 dodged it by bending his head a little aside, and he smiled then
-302 inwardly with a sardonic smile; and it struck the strong wall there.
-303 Then with words Telemachus sharply rebuked Ctesippus before them:
+301 dodged it by bending his head a little aside, and was smiling
+302 inwardly, a smile most sardonic; and it struck the strong wall.
+303 Sharply with words Telemachus rebuked Ctesippus before them:
 304 “Ctesippus, surely this turned out much better thus for your spirit:
 305 you did not hit the stranger, for he himself dodged the missile.
 306 Else with my sharp spear I would have struck you square in the middle,
@@ -313,16 +313,16 @@
 309 For by now I perceive and I know every matter before me,
 310 both the good and the worse; but before this I still was childish.
 311 Yet even so we endure these things as we look on and suffer:
-312 sheep being slaughtered, and wine being drunk, and bread being consumed here;
+312 sheep being slaughtered, and wine being drunk, and the bread being eaten;
 313 for it is hard for one man to restrain and rebuke so many.
 314 Come then, no longer work me these evils in hostile intention.
 315 But if now you are eager to kill me myself with the bronze blade,
-316 even that I would choose, and it would be far better for me then
+316 even that I would choose, and by far it would be the better,
 317 to have died than forever to look on these shameful actions,
 318 guests being brutally handled, and women servants as well being
-319 dragged in disgrace through the beautiful rooms of the house there.”
-320 Thus he spoke, and they all became wholly silent in stillness.
-321 Then at the last Damastor's son, Agelaus, addressed them:
+319 dragged about shamefully all through the beautiful chambers.”
+320 So he spoke, and they all of them then became hushed in a silence.
+321 Late and at last Damastor's son, Agelaus, addressed them:
 322 “Friends, no man could justly take offense at a fair-spoken saying
 323 and answer back in contention, fastening on it with harsh words.
 324 Do not be bullying this stranger at all, nor any other
@@ -330,67 +330,67 @@
 326 But to Telemachus I would speak, and also his mother,
 327 speaking gently, if this might please the hearts of both of them.
 328 So long as your spirit within your breasts still kept on hoping
-329 wise Odysseus would return again to this house here,
+329 wise Odysseus would come back again to the house of his fathers,
 330 so long there was no blame if she waited and held off
 331 these suitors here in the house, since this indeed was the better,
 332 if Odysseus returned and came back home to his dwelling.
 333 But now this much is plain: he is no longer returning.
 334 Come then, sit beside your mother and tell her these matters:
-335 let her wed whatever man is best and offers the most there,
+335 let her wed the noblest man there is, and the greatest giver,
 336 so that you may rejoice and possess all your father's belongings,
 337 eating and drinking, while she keeps the house of another.”
-338 Then in reply to him spoke prudent Telemachus clearly:
+338 And in answer to him spoke prudent Telemachus clearly:
 339 “No, by Zeus, Agelaus, and by the griefs of my father,
 340 who somewhere far from Ithaca either is dead or is wandering,
 341 I am not delaying my mother's marriage; indeed I exhort her
 342 to wed whomsoever she will, and I will give countless gifts too.
-343 But I am ashamed to send her away from the hall against her will there
+343 But I am ashamed to be driving her out of the hall unwilling
 344 by a compelling word; may a god never bring this to pass for me.”
-345 So spoke Telemachus. Then Pallas Athena among them
+345 So he spoke, Telemachus. Pallas Athena among them
 346 stirred in the suitors unquenchable laughter and warped their perceptions.
 347 They by now with jaws that were no longer their own fell to laughing,
-348 and they were eating flesh that was smeared all over with blood there;
+348 and blood-defiled indeed was the flesh that they now were eating;
 349 and their eyes were filled up with tears, and their hearts sensed a wailing.
-350 Then among them spoke godlike Theoclymenus, saying:
+350 Also among them spoke godlike Theoclymenus, saying:
 351 “Ah, wretched men, what evil is this that you suffer among you?
 352 Night has wrapped round your heads and faces and down to your knees too.
 353 Wailing bursts into flame, and the cheeks are all drenched with weeping;
-354 walls are bespattered with blood, and the beautiful beams in the house there.
+354 and with blood are the walls all bespattered, and the roof-beams so beautiful.
 355 The forecourt is full of phantoms, the courtyard also is crowded,
 356 streaming down into Erebus under the gloom and the darkness;
 357 out of the sky the sun has perished, and evil mist spreads on us.”
 358 So he spoke, and they all at him broke into sweet laughing.
-359 Then Eurymachus, Polybus' son, began speaking among them:
+359 Polybus' son Eurymachus led off the speaking among them:
 360 “The stranger is mad, this fellow newly arrived from elsewhere.
 361 Come, young men, quickly now, escort him out of the doorway
-362 to the assembly place, since these things seem to him like night here.”
-363 Then in reply to him spoke godlike Theoclymenus:
+362 to the assembly place, since these things seem to him nighttime.”
+363 To him in turn made answer godlike Theoclymenus, saying:
 364 “Eurymachus, I do not ask that you furnish escorts for me.
-365 I have eyes of my own and ears and both of my feet here,
+365 I have eyes of my own, and ears, and my two feet under me,
 366 and within my breast a mind well-fashioned and nothing unworthy.
 367 Trusting in these, I shall go out of doors, since I see evil
 368 coming on all of you, an evil that no one among you
 369 of the suitors can flee from or ever avoid in the household
 370 of godlike Odysseus, while you outrage men and plot folly.”
-371 Having spoken, he went from the well-inhabited dwelling,
+371 So having spoken, he went from the well-inhabited dwelling,
 372 and he came to Peiraeus, who welcomed him gladly before him.
-373 Then the suitors all, glancing each one toward one another,
+373 All of the suitors, glancing each one toward one another,
 374 baited Telemachus now, with laughter directed at strangers.
-375 Thus would a man among those overbearing young suitors be saying:
+375 So would a man among those overbearing young suitors be saying:
 376 “Telemachus, no man has guests more troublesome than yours are.
 377 See what a fellow is here, this importunate wandering beggar,
 378 wanting bread and wine, yet knowing nothing of labor
-379 and nothing of strength, but merely a burden of earth here.
-380 Then this other man too stood up to play at the prophet.
+379 and nothing of strength, but merely a burden upon the ploughland.
+380 Up in his turn this other man stood to play at the prophet.
 381 But if you would listen to me, this would be far more profitable:
 382 let us put these guests aboard a ship with many row-benches
 383 and send them off to Sicily, where they would fetch you good payment.”
-384 Thus the suitors were speaking, but he took no heed of their sayings;
+384 So they spoke, the suitors; but he took no heed of their sayings;
 385 silently he kept gazing at his father, waiting forever
 386 till at last he would set his hands on the shameless suitors.
-387 Meanwhile she, in the facing place, had set down her beautiful chair there,
+387 Meanwhile she, in the facing place, had set down her chair of great beauty,
 388 Icarius' daughter, the circumspect Penelope, sitting,
-389 and she heard in the hall the speech of each one of the men there.
+389 and to the words of each one of the men in the hall she was listening.
 390 For they had prepared their dinner with laughter and with loud mockery,
 391 sweet to the taste and abundant, since they had slaughtered so many.
 392 Yet there could never have been any supper more joyless than that one,

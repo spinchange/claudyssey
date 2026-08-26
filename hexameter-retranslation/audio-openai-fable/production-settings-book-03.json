@@ -5,9 +5,9 @@
   "response_format": "mp3",
   "speed": 0.96,
   "source": "../book-03.md",
-  "source_characters": 33372,
+  "source_characters": 33368,
   "chunk_count": 11,
   "max_chunk_characters": 3800,
-  "instructions": "Read as a measured, dignified, single-narrator epic performance in contemporary English. Give each verse line a perceptible six-beat hexameter pulse, using natural stresses and a light line-final cadence without chanting or pausing mechanically at every line. Let enjambed syntax carry across line breaks. Keep dialogue distinct but do not use separate character voices. Pronounce Greek names carefully.",
+  "instructions": "Read as a measured, dignified, single-narrator epic performance in contemporary English. Give each verse line a perceptible six-beat hexameter pulse, using natural stresses and a light line-final cadence without chanting or pausing mechanically at every line. Let enjambed syntax carry across line breaks. Keep dialogue distinct but do not use separate character voices. Read every word of the supplied input exactly once; do not omit, repeat, or slur words. Pronounce Greek names carefully. Pronounce Zeus exactly as Zoos: one syllable, rhyming with moose, never Zee-us. Pronounce Straightway with a clear long A: STRAIGHT-way, never strought-way.",
   "pronunciation_fixes": "pronunciation-fixes-book-03.tsv"
 }

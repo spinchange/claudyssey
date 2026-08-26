@@ -123,7 +123,7 @@
       "book": "book-03",
       "source": "hexameter-retranslation\\book-03.md",
       "clean_text": "hexameter-retranslation\\audio-openai-fable\\clean\\book-03.txt",
-      "characters": 33372,
+      "characters": 33368,
       "chunks": [
         {
           "index": 1,

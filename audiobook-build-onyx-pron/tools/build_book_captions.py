@@ -23,21 +23,27 @@ MANUAL_START_OVERRIDES = {
     # Whisper compressed several omitted words into one long token here.
     # The replacement is anchored to the measured pause immediately before
     # "and dropped it into the shrewd old woman's hands."
-    "book-01": {336: 1411.55},
+    # Shifted +3.00s on 2026-08-18: chunk-001 was regenerated to fix the
+    # narrator saying "Odysseus" for "Aegisthus" (new take 213.60s vs 210.60s).
+    "book-01": {336: 1414.55},
     # Whisper combined the source phrase "every one" into "everyone".
     # Anchor this cue just before that spoken word rather than at the next
     # directly matched word, "and".
     "book-02": {129: 540.62},
     # Proper names were recognized phonetically rather than matched to the
     # source spelling. Anchor these cues to the actual first spoken word.
+    # Re-derived 2026-08-18 after regenerating chunk-001 (garbled "Odyssey"
+    # title read; -1.200s) and chunk-004 (Aegisthus said as "Odysseus";
+    # +11.784s). Cues 1 and 139 fall inside the new takes and were re-anchored
+    # to the new spoken words; 102 shifts by -1.200s, 210/231 by +10.584s.
     "book-03": {
-        # The deck ends at 7.68 and narration begins at 7.70, leaving no room
+        # The deck ends just before narration begins at 7.80, leaving no room
         # for the normal visual lead without cutting off the title card.
-        1: 7.68,
-        102: 438.60,
-        139: 596.44,
-        210: 888.30,
-        231: 981.68,
+        1: 7.78,
+        102: 437.40,
+        139: 602.54,
+        210: 898.88,
+        231: 992.26,
     },
     "book-04": {
         65: 278.88,
@@ -442,6 +448,13 @@ MANUAL_START_OVERRIDES = {
 # Cues whose entire wording was swallowed by a long Whisper token and
 # therefore have no exact lexical match from which to derive a timestamp.
 MANUAL_UNANCHORED_STARTS = {
+    # After the 2026-08-18 chunk regenerations shifted this book +10.584s,
+    # the fresh transcription emitted one 4.6-second "and" token swallowing
+    # "and the other immortals, and then think of sleep..." This cue keeps
+    # its old position shifted by the delta (1067.12 + 10.584).
+    "book-03": {
+        249: 1077.70,
+    },
     # Whisper emitted one 5.32-second "the" token across the stable sequence
     # from "the mangers..." through "and leaned the...". This cue begins
     # between those two matched neighboring phrases.

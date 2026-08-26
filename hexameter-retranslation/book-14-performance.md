@@ -20,34 +20,34 @@ quantity to English vowels.
   8  BÚILT it  | HIMSÉLF for the  | SWÍNE of his  | LÓRD who had  | GÓNE from the  | ÍSLAND,
   9  with NÓ  | HÉLP from the  | MÍSTRESS nor  | HÉLP from  | ÓLD lord  | LAÉRTES,
  10  BÚILT it of  | QÚARRIED  | STÓNES and  | TÓPPED it with  | THÓRN of  | WÍLD pearwood;
- 11  and ÓUTSIDE he had  | DRÍVEN  | STÁKES  | ÁLL  | ARÓUND on both  | SÍDES there,
+ 11  and OUTSÍDE he had  | DRÍVEN the  | STÁKES right  | THRÓUGH, this  | WÁY and  | THÁT way,
  12  THÍCK-SET and  | CRÓWDED,  | SPLÍT from the  | DÁRK  | HÉARTWOOD of the  | ÓAK tree.
- 13  INSÍDE the  | ÝARD he had  | FÁSHIONED a  | DÓZEN  | PÉNS for the  | SWÍNE there,
+ 13  A DÓZEN  | PÉNS for the  | SWÍNE he had  | FÁSHIONED  | INSÍDE the  | CÓURTYARD,
  14  CLÓSE by  | ÓNE  | ANÓTHER, as  | BEDDÍNG and  | LÁIRS for the  | SHÉ-SWINE;
- 15  and in ÉACH  | PÉN  | FÍFTY  | SÓWS that  | LÁY upon the  | GRÓUND there
+ 15  and in ÉACH  | PÉN  | FÍFTY  | SÓWS that  | CÓUCHED on the  | GRÓUND for their sleeping
  16  had been ENCLÓSED,  | BRÉEDING  | FÉMALES; the  | BÓARS  | SLÉPT  | ÓUTSIDE them,
  17  MÁNY  | FÉWER in  | NÚMBER,  | FÓR these were  | CONSÚMED and  | DIMÍNISHED
  18  by the GÓDLIKE  | SÚITORS at  | FÉASTS,  | SÍNCE  | ÉVER the  | SWÍNEHERD
- 19  SÉNT  | THÉM the  | BÉST of the  | WÉLL-FATTENED  | HÓGS of the  | DRÓVE there;
+ 19  SÉNT  | THÉM the  | BÉST of them  | ÁLL, of the  | HÓGS most  | RÍCHLY fattened;
  20  and the BÓARS were in  | NÚMBER  | THRÉE  | HÚNDRED and  | SÍXTY  | TOGÉTHER.
  21  BESÍDE them  | FÓUR hounds,  | LÍKE  | SÁVAGE beasts,  | ÁLWAYS were  | SLÉEPING,
  22  DÓGS that the  | SWÍNEHERD had  | REÁRED, that  | CÁPTAIN and  | MÁSTER of  | SÉRVANTS.
  23  He HIMSÉLF was  | FÍTTING and  | BÍNDING  | SÁNDALS under his  | ÓWN  | FÉET,
  24  CÚTTING the  | LÉATHER from  | HÍDE of an  | ÓX, well  | CÚRED and  | SHÍNING.
  25  The ÓTHERS had  | GÓNE, each  | MÁN in a  | DÍFFERENT  | WÁY, with the  | GÁTHERED
- 26  SWÍNE, the  | THRÉE; but the  | FÓURTH he had  | SÉNT to the  | CÍTY  | PÉRFORCE there,
+ 26  SWÍNE, the  | THRÉE; but the  | FÓURTH one he had  | SÉNT  | FÓRTH to the  | CÍTY,
  27  DRÍVING a  | HÓG to the  | ÁRROGANT  | SÚITORS  | AGÁINST his  | ÓWN wishing,
- 28  SÓ that,  | ÁFTER the  | SLÁUGHTER, their  | HÉARTS might be  | GLÚTTED with  | MÉAT there.
+ 28  SÓ that,  | ÁFTER the  | SLÁUGHTER, with  | MÉAT their  | HÉARTS might be  | GLÚTTED.
  29  SÚDDENLY then the  | LÓUD-BAYING  | DÓGS  | CÁUGHT  | SÍGHT of  | ODÝSSEUS;
  30  THÉSE with  | BÁRKING and  | ÝELPING  | RÚSHED  | STRÁIGHT upon him; but  | ODÝSSEUS
- 31  SÁT himself  | DÓWN in his  | CRÁFT, and his  | STÁFF fell  | LÓOSE from his  | HÁND there.
+ 31  SÁT himself  | DÓWN in his  | CRÁFT, and the  | STÁFF  | DRÓPPED out of his  | FÍNGERS.
  32  THÉRE by his  | ÓWN  | STÓCKYARD  | HÉ would have  | ENDÚRED a  | DISGRÁCEFUL
  33  WÓUND and  | AFFLÍCTION, but  | QÚICKLY the  | SWÍNEHERD  | RÁN after  | THÉM,
- 34  DÁRTING through the  | FÓREDOOR in  | HÁSTE, and the  | HÍDE  | DRÓPPED out of his  | HÁND there.
+ 34  DÁRTING  | FÓRTH through the  | FÓREDOOR, and the  | HÍDE  | DRÓPPED out of his  | FÍNGERS.
  35  SHÓUTING  | ALÓUD, he  | DRÓVE off the  | DÓGS, each  | ÓNE in a  | DÍFFERENT
  36  DIRÉCTION,  | PÉLTING them  | HÁRD with a  | THÍCK rain of  | STÓNES, and he  | TÓLD him:
  37  “ÓLD man, the  | DÓGS came  | CLÓSE  | INDÉED to  | TÉARING and  | MÁNGLING
- 38  you ÁLL at  | ÓNCE, and on me you would have  | PÓURED  | DÓWN  | SHÁME and  | REPRÓACH there.
+ 38  you ÁLL at  | ÓNCE, and on  | MÉ you would  | HÁVE  | PÓURED down  | REPRÓACHES.
  39  YÉT on me the  | GÓDS have  | BESTÓWED  | ÓTHER  | GRÍEFS and  | LÁMENTINGS;
  40  FÓR I  | SÍT here  | GRÍEVING and  | MÓURNING a  | GÓDLIKE  | MÁSTER,
  41  while for ÓTHER  | MÉN I  | TÉND and  | FÁTTEN the  | TÚSKED  | SWÍNE for eating;
@@ -55,16 +55,16 @@ quantity to English vowels.
  43  over the PÉOPLE and  | CÍTY of  | MÉN who  | SPÉAK  | ÁLIEN  | LÁNGUAGE,
  44  if INDÉED he  | STÍLL  | LÍVES and  | STÍLL looks on the  | LÍGHT of the  | SÚNLIGHT.
  45  But CÓME now,  | FÓLLOW me,  | ÓLD  | SÍR, and let us  | GÓ to the  | SHÉLTER,
- 46  so that you TÓO, when your  | SPÍRIT has  | TÁKEN its  | FÍLL of  | FÓOD and  | WÍNE there,
+ 46  so that you TÓO, when with  | FÓOD and  | WÍNE your  | SPÍRIT  | ÍS  | SÁTED,
  47  may TÉLL me what  | LÁND is your  | ÓWN and what  | TRÓUBLES  | YÓU have  | SÚFFERED.”
- 48  SÓ he  | SPÓKE, and the  | NÓBLE  | SWÍNEHERD  | LÉD him on to the  | SHÉLTER,
+ 48  So HÁVING  | SPÓKEN, the  | NÓBLE  | SWÍNEHERD  | LÉD him to the  | SHÉLTER,
  49  BRÓUGHT him  | WITHÍN and  | SÁT him  | DÓWN, and he  | HÉAPED up  | THÍCK brushwood,
- 50  and over it SPRÉAD the  | HÍDE of a  | SHÁGGY and  | WÍLD  | MÓUNTAIN  | GÓAT there,
+ 50  and the HÍDE of a  | SHÁGGY  | WÍLD  | GÓAT he  | SPRÉAD out  | UPÓN it,
  51  where he HIMSÉLF  | ÚSED to  | SLÉEP,  | LÁRGE and furry; and  | GLÁD was  | ODÝSSEUS
  52  THÁT he  | RECÉIVED him  | THÚS, and he  | SPÓKE and  | ADDRÉSSED him by  | SÁYING:
  53  “May ZÉUS  | GRÁNT to you,  | STRÁNGER, and  | ÁLL the  | ÓTHER  | IMMÓRTALS,
  54  that THÍNG which  | ABÓVE all  | ÉLSE you  | DESÍRE, since you  | WÉLCOMED me  | KÍNDLY.”
- 55  THÉN in  | ÁNSWER  | TÓ him you  | SPÓKE,  | ÉUMAEUS the  | SWÍNEHERD:
+ 55  ÁNSWERING  | HÍM in  | TÚRN you  | SPÓKE,  | EUMÁEUS the  | SWÍNEHERD:
  56  “STRÁNGER, it is not  | RÍGHT for me, not  | ÉVEN if  | ÓNE  | STÍLL  | PÓORER
  57  CÁME here than you, to  | DISHÓNOR a  | GÚEST; for from  | ZÉUS are  | ÁLL  | STRÁNGERS
  58  and ÁLL  | BEGGÁRS; and a  | GÍFT, though  | LÍTTLE, is  | PRECÍOUS and  | WÉLCOME,
@@ -75,17 +75,17 @@ quantity to English vowels.
  64  HÓUSE and a  | PÓRTION of  | LÁND and a  | WÍFE much  | CÓURTED by  | MÁNY,
  63  SÚCH things as a  | KÍNDLY  | MÁSTER  | GÍVES to his  | HÓUSEHOLD  | DEPÉNDENT,
  65  ÓNE who has  | LÁBORED  | MÚCH for him, and a  | GÓD  | GÍVES  | INCRÉASE upon it,
- 66  JÚST as  | INCRÉASE is  | GÍVEN  | TÓ this  | WÓRK of mine, where I  | STÁY here.
+ 66  JÚST as  | INCRÉASE is  | GÍVEN  | TÓ this  | WÓRK of mine, which I  | LÁBOR at.
  67  In RETÚRN my  | MÁSTER would  | GRÉATLY have  | PRÓSPERED and  | HÓNORED me, had  | HÉ
  68  GRÓWN  | ÓLD here; but he is  | DÉAD. Would that  | HÉLEN'S  | WHÓLE breed had  | PÉRISHED,
  69  SÚNK to  | DESTRÚCTION before,  | SÍNCE she  | LÓOSED the  | KNÉES of so  | MÁNY;
  70  for he TÓO  | WÉNT  | FÓRTH for the  | SÁKE of the  | HÓNOR of  | AGAMÉMNON,
  71  WÉNT to  | HÓRSE-BREEDING  | ÍLIUM there, to  | BÁTTLE  | AGÁINST the  | TRÓJANS.”
- 72  So he SPÓKE, and  | SWÍFTLY he  | TÍGHTENED his  | TÚNIC  | CLÓSE with a  | GÍRDLE,
- 73  then he WÉNT to the  | STÍES where the  | GÁTHERED  | LÍTTERS of  | PÍGLETS were  | PÉNNED there.
- 74  From there he TÓOK  | ÓUT  | TWÓ and  | BRÓUGHT them, and  | SLÁUGHTERED them  | BÓTH there,
+ 72  So HÁVING  | SPÓKEN, he  | SWÍFTLY  | TÍGHTENED his  | TÚNIC with a  | GÍRDLE,
+ 73  then he WÉNT on his  | WÁY to the  | STÍES, where the  | TRÍBES of the  | PÍGLETS were  | PÉNNED in.
+ 74  From there he TÓOK  | ÓUT  | TWÓ and  | BRÓUGHT them, and  | SLÁUGHTERED the  | PÁIR of them,
  75  SÍNGED them and  | CÚT them in  | PÍECES and  | SPÍTTED them  | ÓVER the  | FÍREWOOD.
- 76  THÉN when he had  | RÓASTED  | ÁLL, he  | BRÓUGHT it and  | SÉT it by him  | THÉRE,
+ 76  When he had RÓASTED it  | ÁLL, he  | BRÓUGHT it and  | SÉT it  | BEFÓRE  | ODÝSSEUS,
  77  HÓT on the  | SPÍTS  | THEMSÉLVES, and over it  | SPRÍNKLED  | WHÍTE  | BÁRLEY;
  78  and in an ÍVYWOOD  | CÚP he  | MÍXED the  | WÍNE that was  | HÓNEY-SWEET for  | HÍM;
  79  then he SÁT  | DÓWN  | ACRÓSS from his  | GÚEST, and  | ÚRGED him  | ÓNWARD, saying:
@@ -98,7 +98,7 @@ quantity to English vowels.
  86  LÍVING upon  | FÓREIGN  | LÁND when  | ZÉUS grants  | BÓOTY  | ÚNTO them,
  87  ÓNCE they have  | FÍLLED  | ÚP their ships they  | DEPÁRT for  | RETÚRNING  | HÓMEWARD,
  88  ÉVEN on them there  | FÁLLS in the  | HÉART a  | STRÓNG  | FÉAR of  | REQÚITAL.
- 89  But these MÉN  | ÁLSO know  | SÓMETHING; they  | HÉARD  | SÓME voice of a  | GÓD there,
+ 89  But these MÉN  | ÁLSO know  | SÓMETHING; some  | GÓD’S voice  | CÁME to their  | HÉARING,
  90  TÉLLING of his  | GRÍM  | RÚIN;  | THÉREFORE they are not  | WÍLLING in  | JÚSTICE
  91  ÉITHER to  | WÓO or go  | BÁCK to the  | HÓMES that  | BELÓNG to them,  | RÁTHER
  92  HÉRE at their  | ÉASE they  | CONSÚME his  | POSSÉSSIONS with  | ÁRROGANT  | WÁSTEFULNESS.
@@ -118,7 +118,7 @@ quantity to English vowels.
 106  WHÍCHEVER of  | ÁLL the  | RÍCH-FATTENED  | GÓATS may  | APPÉAR to be  | FÍNEST.
 107  BÚT as  | FÓR me, I  | KÉEP these  | SWÍNE and  | GÚARD them from  | DESTRÚCTION,
 108  and I CHÓOSE  | ÓUT the  | BÉST of the  | PÍGS and  | SÉND it before  | THÉM.”
-109  So he SPÓKE, and the  | ÓTHER  | KÉPT  | ÉATING the  | MÉAT and the  | WÍNE there
+109  So he SPÓKE, and the  | ÓTHER ate  | MÉAT and  | DRÁNK of the  | WÍNE,  | ATTÉNTIVE,
 110  ÉAGERLY,  | SÁYING no  | WÓRD, but in  | HÉART sowing  | DÓOM for the  | SÚITORS.
 111  BÚT when he had  | SÚPPED and had  | SÁTISFIED  | FÚLLY his  | SPÍRIT with  | VÍCTUALS,
 112  then the MÁN  | FÍLLED  | ÚP for him the  | CÚP from which he  | HIMSÉLF  | DRÁNK,
@@ -133,7 +133,7 @@ quantity to English vowels.
 121  THÉN in  | ÁNSWER the  | SWÍNEHERD  | REPLÍED, that  | CÓMMANDER of  | PÉOPLE:
 122  “ÓLD sir, no  | MÁN that  | CÁME here  | WÁNDERING, bringing  | NÉWS of that  | MÁSTER,
 123  ÉVER would  | PÉRSUADE his  | WÍFE or the  | SÓN that he  | CHÉRISHED  | DEÁRLY.
-124  RÁTHER, men  | WÁNTING  | SÚPPORT, mere  | VÁGABONDS  | RÓAMING  | ABÓUT here,
+124  RÁTHER, men  | WÁNTING  | SÚPPORT, mere  | VÁGABONDS  | ÉVER  | RÓAMING,
 125  ÚTTER  | LÍES at  | RÁNDOM and do not  | WÍSH to  | TÉLL what is  | TRÚTHFUL.
 126  WHÓEVER  | CÓMES  | WÁNDERING into the  | PÉOPLE and  | LÁND of  | ÍTHACA,
 127  GÓING then  | TÓ my  | MÍSTRESS,  | TÁLKS over  | DECÉITS and  | INVÉNTIONS.
@@ -145,7 +145,7 @@ quantity to English vowels.
 133  But by NÓW his  | SKÍN from his  | BÓNES have the  | DÓGS and the  | SWÍFT  | BÍRDS torn off,
 134  ÁND the  | LÍFE-BREATH has  | LÉFT him; or  | FÍSHES have  | ÉATEN him in the  | SÉA-DEPTH,
 135  ÁND his  | BÓNES on the  | MÁINLAND are  | LÝING  | SÓMEWHERE on the  | SÉASHORE,
-136  CÓVERED  | ARÓUND and  | CONCÉALED in a  | MÚLTITUDE  | DÉEP of the  | SÁND there.
+136  CÓVERED  | ARÓUND and  | CONCÉALED in a  | MÚLTITUDE  | DÉEP of the  | SÁND-DRIFT.
 137  THÚS he has  | PÉRISHED  | AWÁY from us there, and  | BEHÍND him has  | LÉFT  | GRÍEF
 138  ÚNTO  | ÁLL of his  | FRÍENDS, and to me  | MÓST of  | ÁLL  | BEÝOND others;
 139  NÉVER  | AGÁIN shall I  | FÍND so  | GÉNTLE a lord,  | WHERÉVER I  | TRÁVEL,
@@ -157,13 +157,13 @@ quantity to English vowels.
 145  Him, my FRÍEND,  | THÓUGH  | ÁBSENT, I am  | ASHÁMED  | ÉVEN now to  | NÁME loudly,
 146  SÍNCE  | EXCÉEDINGLY he  | LÓVED me and  | CÁRED for me  | DÉEP in his  | SPÍRIT.
 147  STÍLL I  | CÁLL him my  | DÉAR one,  | ALTHÓUGH he is  | FÁR off and  | ÁBSENT.”
-148  THÉN to him  | AGÁIN  | SPÓKE  | RESÓURCEFUL  | DIVÍNE  | ODÝSSEUS:
+148  ÓNCE  | AGÁIN to him  | SPÓKE  | RESÓURCEFUL  | DIVÍNE  | ODÝSSEUS:
 149  “FRÍEND, since you  | ÚTTERLY  | NÓW  | DÉNY, and  | NÓ  | LÓNGER are saying
 150  that he will CÓME, but  | ÁLWAYS your  | HÉART is  | SÉT  | FÁST in  | MÍSTRUSTING,
 151  THÉREFORE  | Í shall not  | SPÉAK  | MÉRELY so, but  | SWÉAR you an  | ÓATH on it:
 152  HÓME will  | CÓME  | ODÝSSEUS; and  | LÉT there be  | GÓOD-NEWS  | REWÁRD for me
 153  INSTÁNTLY,  | ÓNCE in his  | GÓING he  | REÁCHES his  | ÓWN halls in  | SÁFETY:
-154  CLÓTHE me then in a  | MÁNTLE and  | TÚNIC,  | FÁIR  | GÁRMENTS to  | WÉAR there.
+154  clothe me THÉN in a  | MÁNTLE  | ÁND  | TÚNIC, in  | BÉAUTIFUL  | GÁRMENTS.
 155  But before that TÍME,  | THÓUGH I am in  | NÉED  | BEÝOND  | MÉASURE, I  | TÁKE nothing.
 156  FÓR as  | HÁTEFUL  | TÓ me as the  | GÁTES of  | HÁDES is that  | MÁN
 157  who, ÝIELDING to  | PÓVERTY,  | SPÉAKS  | ÓUT  | DECÉIT and  | FÁLSE stories.
@@ -174,11 +174,11 @@ quantity to English vowels.
 162  As this MÓNTH  | WÁNES  | AWÁY, and the  | NÉXT  | ÓNE  | RÍSES upon us,
 163  HÓME he will  | MÁKE his  | RETÚRN,  | ÁND he will  | PÚNISH  | WHÓEVER
 164  here in this PLÁCE  | DISHÓNORS his  | WÍFE and his  | GLÓRIOUS  | YÓUNG  | SÓN.”
-165  THÉN  | ÍN  | REPLÝ you  | ÁNSWERED him,  | ÉUMAEUS the  | SWÍNEHERD:
+165  ÁNSWERING  | HÍM in  | TÚRN you  | SPÓKE,  | EUMÁEUS the  | SWÍNEHERD:
 166  “ÓLD  | MÁN, I for  | ÓNE will not  | PÁY for this  | GÓOD news you  | BRÍNG me,
 167  NÓR will  | ODÝSSEUS  | CÓME  | ÉVER  | AGÁIN to his  | HÓUSEHOLD.
 168  DRÍNK now in  | PÉACE, and  | LÉT us  | REMÉMBER some  | DÍFFERENT  | MÁTTER;
-169  DÓ not  | REMÍND  | MÉ of these  | THÍNGS. My  | HÉART in my  | BRÉAST here
+169  DÓ not  | REMÍND  | MÉ of these  | THÍNGS. For the  | HÉART in my  | BÓSOM
 170  ÁCHES  | WHÉNEVER a  | MÁN calls  | BÁCK my  | NÓBLE  | LÓRD to my mind.
 171  But CÓME,  | LÉT us  | LÉAVE  | ÁSIDE this  | ÓATH; and yet may  | ODÝSSEUS
 172  CÓME as  | Í  | WÍSH in my  | HÉART, and as  | PENÉLOPE  | WÍSHES,
@@ -197,10 +197,10 @@ quantity to English vowels.
 185  But CÓME,  | ÓLD sir,  | TÉLL me  | NÓW of your own  | GRÍEF and  | AFFLÍCTION,
 186  and TÉLL me this  | TRÚTHFULLY  | TÓO, so that  | Í may  | KNÓW it  | CLÉARLY:
 187  WHÓ are  | YÓU among  | MÉN, and  | FRÓM where?  | WHÉRE is your  | CÍTY?
-188  WHÉRE are your  | PÁRENTS?  | ÓN what  | KÍND of  | SHÍP did you  | CÓME here?
+188  WHÉRE are your  | PÁRENTS?  | ÓN what  | KÍND of  | VÉSSEL did you  | JÓURNEY?
 189  HÓW did the  | SÁILORS  | CONVÉY you to  | ÍTHACA?  | WHÓ were they  | SÁYING
 190  THÉY were? For  | Í do not  | SÚPPOSE you  | ARRÍVED  | HÉRE on  | FÓOTPATH.”
-191  Then RESÓURCEFUL  | ODÝSSEUS  | MÁDE  | ÁNSWER and  | SPÓKE in  | REPLÝ to him:
+191  MÁKING an  | ÁNSWER,  | RESÓURCEFUL  | ODÝSSEUS  | SPÓKE in  | REPLÝ to him:
 192  “THÉREFORE  | Í shall  | TÉLL  | ÁLL these  | THÍNGS to you with  | PRECÍSION.
 193  ÍF there were  | FÓOD for us  | TWÓ for a  | LÓNG while  | BEFÓRE  | ÚS,
 194  and SWÉET  | WÍNE in the  | HÚT while we  | SÁT here  | WITHÍN  | ÍT,
@@ -210,7 +210,7 @@ quantity to English vowels.
 198  GRÍEFS, all the  | TÓILS I  | ENDÚRED by the  | ÓRDINANCE  | GÍVEN from  | HÉAVEN.
 199  I DECLÁRE that my  | LÍNEAGE  | SPRÍNGS from  | BRÓAD  | CRÉTE'S  | PÉOPLE:
 200  I am the SÓN of a  | RÍCH  | MÁN; and  | MÁNY  | SÓNS in  | ADDÍTION
-201  GRÉW up and were  | BÓRN in his  | HÁLLS,  | TRÚE sons by his  | WÉDDED  | WÍFE there.
+201  GRÉW up and were  | BÓRN in his  | HÁLLS,  | TRÚE sons of the  | WÍFE he had  | WÉDDED.
 202  MÉ a  | PÚRCHASED  | MÓTHER  | BÓRE, a  | CONCÚBINE in his  | HÓUSEHOLD.
 203  Yet CÁSTOR  | SÓN of  | HÝLAX, whose  | STÓCK I  | DECLÁRE that I  | CÓME from,
 204  HÓNORED me  | ÉQUALLY  | THÉRE with the  | CHÍLDREN  | BÓRN in the  | HÓUSEHOLD.
@@ -242,9 +242,9 @@ quantity to English vowels.
 230  NÍNE  | TÍMES over I  | LÉD  | BÓTH men and  | SWÍFT-FARING  | VÉSSELS
 231  ÓUT against  | FÓREIGN  | MÉN, and  | MÚCH  | CÁME into my  | KÉEPING.
 232  From the SPÓIL I would  | CHÓOSE what my  | HÉART  | DESÍRED, and  | MÚCH  | ÁFTERWARD
-233  ÚSED to  | FÁLL to me by  | LÓT; so  | QÚICKLY my  | HÓUSEHOLD  | INCRÉASED then,
+233  ÚSED to  | FÁLL to my  | SHÁRE by  | LÓT; and  | QUÍCKLY my  | HÓUSEHOLD prospered,
 234  and THÉREAFTER  | AMÓNG the  | CRÉTANS I  | GRÉW to be  | FÉARED and  | RESPÉCTED.
-235  BÚT when at  | LÁST  | ZÉUS of the  | WÍDE-SEEING  | CÓUNSEL  | DEVÍSED there
+235  But WHÉN at  | LÁST  | ZÉUS of the  | WÍDE-SEEING  | CÓUNSEL had  | PÚRPOSED
 236  that HÁTEFUL  | RÓAD which  | LÓOSENED the  | KNÉES of so  | MÁNY  | MÓRTALS,
 237  THÉN they  | CÓMMANDED  | THÁT  | Í and  | GLÓRIOUS  | IDÓMENEUS
 238  should LÉAD the  | SHÍPS  | ÚNTO  | ÍLIOS. There was  | NÓ  | CONTRÍVING
@@ -254,7 +254,7 @@ quantity to English vowels.
 242  HÓMEWARD  | WÍTH our  | SHÍPS, but a  | GÓD  | DISPÉRSED the  | ACHÁEANS.
 243  Yet AGÁINST  | PÍTIFUL me  | ZÉUS the  | DEÉP-COUNSELING  | PLÓTTED  | ÉVILS.
 244  ÓNE month  | ÓNLY I  | STÁYED,  | TÁKING  | JÓY in my  | CHÍLDREN,
-245  ÍN my  | LÁWFUL  | WÍFE and my  | WÉALTH; but  | ÁFTER that  | TÍME then
+245  in my LÁWFUL  | WÉDDED  | WÍFE and my  | WÉALTH; but  | THÉN,  | THEREÁFTER,
 246  my ÓWN  | SPÍRIT  | ÚRGED me to  | VÓYAGE  | SÉAWARD to  | ÉGYPT,
 247  after I FÍTTED my  | SHÍPS with my  | CÓMRADES  | LÍKE  | GÓDS  | BESÍDE me.
 248  NÍNE ships I  | FÍTTED  | ÓUT, and  | SWÍFTLY the  | PÉOPLE  | ASSÉMBLED.
@@ -267,7 +267,7 @@ quantity to English vowels.
 255  CÁME to  | ÁNY  | HÁRM, but  | ÚNINJURED  | ÁLL and  | ÚNTROUBLED
 256  THÉRE we  | SÁT, while the  | WÍND and the  | HÉLMSMEN  | GÚIDED them  | ÓNWARD.
 257  On the FÍFTH  | DÁY then we  | CÁME to the  | FÁIR-FLOWING  | NÍLE of  | ÉGYPT,
-258  ÁND there in the  | RÍVER of  | ÉGYPT I  | MÓORED my  | CÚRVING  | SHÍPS there.
+258  and THÉRE in the  | RÍVER of  | ÉGYPT I  | MÓORED my  | SHÍPS,  | DÓUBLE-CURVING.
 259  THÉRE  | INDÉED  | Í  | CÓMMANDED my  | TRÚSTY  | COMPÁNIONS
 260  THÉRE by the  | SHÍPS to  | REMÁIN and to  | GÚARD the  | SÉAFARING  | VÉSSELS,
 261  and I SÉNT  | ÓUT  | LÓOKOUTS to  | GÓ to the  | PÓSTS of  | ÓBSERVANCE.
@@ -275,7 +275,7 @@ quantity to English vowels.
 263  ÁND at  | ÓNCE they  | RÁVAGED the  | SPLÉNDID  | FÍELDS of the  | ÉGYPTIANS,
 264  CÁRRIED  | AWÁY their  | WÓMEN and  | LÍTTLE  | INNÓCENT  | CHÍLDREN,
 265  and KÍLLED the  | MÉN; and  | QÚICKLY the  | ÓUTCRY  | REÁCHED to the  | CÍTY.
-266  HÉARING the  | SHÓUTING, as  | SÓON as the  | DÁWN was  | BEGÍNNING to  | SHÓW there,
+266  HÉARING the  | SHÓUTING, as  | SÓON as the  | DÁWN came  | FÓRTH in her  | SHÍNING,
 267  they CÁME, and the  | WHÓLE  | PLÁIN filled  | FÚLL of  | FÓOTMEN and  | HÓRSEMEN,
 268  ÁND with the  | FLÁSH of  | BRÓNZE; and  | ZÉUS who  | DELÍGHTS in the  | THÚNDER
 269  CÁST  | RÚINOUS  | PÁNIC on my  | COMPÁNIONS, and  | NÓ  | MÁN among them
@@ -285,23 +285,23 @@ quantity to English vowels.
 273  BÚT for me  | ZÉUS  | HIMSÉLF  | PÚT this  | DESÍGN in my  | SPÍRIT—
 274  WÓULD that  | Í there had  | DÍED and had  | MÉT with my  | DESTÍNY in  | ÉGYPT,
 275  SÍNCE there was  | STÍLL  | MÓRE  | SÓRROW  | WÁITING there to  | RECÉIVE me—
-276  STRÁIGHTWAY I  | LÍFTED the  | WÉLL-WROUGHT  | HÉLMET  | DÓWN from my  | HÉAD then,
-277  ÁND the  | SHÍELD from my  | SHÓULDERS, and  | CÁST the  | SPÉAR from my  | HÁND there.
-278  THÉN I  | WÉNT to the  | KÍNG where he  | STÓOD by the  | FRÓNT of his  | CHÁRIOT,
+276  STRÁIGHTWAY  | DÓWN from my  | HÉAD I  | LÍFTED the  | WÉLL-WROUGHT  | HÉLMET,
+277  and the SHÍELD from my  | SHÓULDERS, and  | CÁST the  | SPÉAR from my  | HÁND  | ÓUTWARD.
+278  But I WÉNT to the  | KÍNG  | WHÉRE he  | STÓOD by the  | FRÓNT of his  | CHÁRIOT,
 279  CLÁSPED his  | KNÉES and  | KÍSSED  | THÉM; and he  | PRÓTECTED and  | PÍTIED me,
-280  SÉT me  | ÍNTO his  | CÁR and  | CÁRRIED me  | HÓME while I  | WÉPT there.
+280  SÉT me  | ÍNTO his  | CÁR and  | CÁRRIED me,  | WÉEPING,  | HÓMEWARD.
 281  TRÚLY then  | MÁNY  | MÉN kept  | RÚSHING  | AGÁINST me with  | ASHWÓOD spears,
 282  ÉAGER to  | KÍLL me, for they were  | ENRÁGED  | BEÝOND  | ÁLL  | MÉASURE;
 283  but he HÉLD them  | BÁCK, for he  | FÉARED the  | ÁNGER of  | ZÉUS the  | PRÓTECTOR
 284  of STRÁNGERS, who  | MÓST of  | ÁLL is  | INDÍGNANT at  | ÉVIL  | ACTÍONS.
 285  There for SÉVEN  | FÚLL  | ÝEARS I  | REMÁINED in that  | LÁND, and I  | GÁTHERED
-286  MÚCH wealth among  | EGÝPTIAN  | MÉN, for  | ÁLL of them  | GÁVE me  | GÍFTS there.
+286  MÚCH wealth among  | EGÝPTIAN  | MÉN, for  | ÁLL of them  | KÉPT  | GÍVING.
 287  BÚT when the  | ÉIGHTH  | RETÚRNING  | YÉAR had  | CÓME upon  | MÉ,
-288  then there CÁME a  | PHÓENICIAN  | MÁN  | WÉLL  | VÉRSED in  | DECÉITS there,
+288  then INDÉED there  | CÁME a  | PHOENÍCIAN  | MÁN,  | WÉLL versed in  | DECÉPTIONS,
 289  a CHÉAT, a  | MÁN-DEVOURING  | RÓGUE, who had  | WRÓUGHT  | MÁNY  | ÉVILS.
 290  He BEGÚILED  | MÉ with  | CRÁFT in his  | HÉART, so that we  | CÁME  | TOGÉTHER
 291  ÍNTO  | PHÓENICIA, the  | PLÁCE where his  | HÓUSE and  | POSSÉSSIONS were  | LÝING.
-292  THÉRE I  | REMÁINED  | BESÍDE him through the  | FÚLL  | CÓURSE of a  | YÉAR there.
+292  THÉRE I  | REMÁINED  | BESÍDE him  | UNTÍL a full  | YÉAR was  | COMPLÉTED.
 293  BÚT  | WHÉN the  | MÓNTHS and the  | DÁYS were  | NÓW being  | CÓMPLETED,
 294  as the YÉAR  | WHÉELED  | RÓUND  | AGÁIN and the  | SÉASONS  | CÁME onward,
 295  then on a SÉAFARING  | SHÍP he  | PÚT me  | ABÓARD  | BÓUND for  | LÍBYA,
@@ -317,13 +317,13 @@ quantity to English vowels.
 305  ZÉUS at the  | SÁME time  | THÚNDERED and  | CÁST his  | BÓLT at the  | VÉSSEL;
 306  ÁLL of the  | SHÍP reeled  | RÓUND when  | STRÚCK by the  | BÓLT of the  | THÚNDER-GOD,
 307  and it FÍLLED with  | SÚLFUROUS  | SMÓKE; and  | ÁLL  | MÉN fell from the  | VÉSSEL.
-308  LÍKE to the  | SÉA-CROWS they  | DRÍFTED  | ARÓUND the  | BLÁCK  | SHÍP there,
+308  And THÉY, like to the  | SÉA-CROWS,  | ARÓUND the  | BLÁCK  | SHÍP were  | DRÍFTING,
 309  BÓRNE on the  | WÁVES; and the  | GÓD  | TÓOK away their  | DÁY of  | RETÚRNING.
-310  BÚT to me  | ZÉUS  | HIMSÉLF,  | THÓUGH I had  | PÁIN in the  | HÉART there,
+310  But to MÉ  | ZÉUS  | HIMSÉLF, though I  | CÁRRIED  | GRÍEFS in my  | SPÍRIT,
 311  PLÁCED in my  | HÁNDS the  | IMMÉNSE  | TÁLL mast of the  | DÁRK-PROWED  | VÉSSEL,
 312  SÓ that I  | STÍLL might  | SÓMEHOW  | ÉSCAPE from the  | ÉVIL before  | MÉ.
 313  RÓUND it I  | WÓUND myself  | FÁST and was  | BÓRNE by the  | BÁNEFUL  | STÓRMWINDS.
-314  NÍNE  | DÁYS I was  | BÓRNE, and on the  | TÉNTH in the  | BLÁCKNESS of  | NÍGHT then
+314  NÍNE  | DÁYS I was  | BÓRNE, and then on the  | TÉNTH, in the  | NÍGHT’S  | BLÁCKNESS
 315  a GRÉAT  | RÓLLING wave  | DRÓVE me  | NÉAR to the  | LÁND of the  | THÉSPROTIANS.
 316  THÉRE did  | PHÉIDON the  | HÉRO, the  | KÍNG of the  | THÉSPROTIANS,  | SÁVE me,
 317  ASKÍNG no  | PRÍCE; for his  | ÓWN dear  | SÓN had  | ENCÓUNTERED and  | FÓUND me,
@@ -354,7 +354,7 @@ quantity to English vowels.
 342  and ARÓUND me they  | CÁST  | SÓME  | ÓTHER wretched  | RÁG and a  | TÚNIC,
 343  TÁTTERED and  | TÓRN, the  | SÁME that you can  | BEHÓLD with your  | ÓWN  | ÉYES;
 344  ÁND by  | ÉVENING they  | CÁME to the  | FÍELDS of  | CLÉAR-SEEN  | ÍTHACA.
-345  THÉRE they  | BÓUND me  | FÁST in the  | WÉLL-BENCHED  | SHÍP where I  | SÁT there,
+345  THÉRE they  | BÓUND me  | FÁST  | WITHÍN the  | WÉLL-BENCHED  | VÉSSEL,
 346  TÍGHTLY  | WÍTH  | TWÍSTED  | CÓRD, while they  | THEMSÉLVES,  | DISÉMBARKING,
 347  HÁSTENED  | ALÓNG by the  | BÉACH of the  | SÉA to  | TÁKE their  | ÉVENING meal.
 348  But the GÓDS  | THEMSÉLVES  | ÚNWOUND and  | LÓOSENED the  | BÓND that was on  | MÉ
@@ -362,14 +362,14 @@ quantity to English vowels.
 350  and by the SMÓOTH  | STÉERING-PLANK I  | SLÍPPED  | DÓWN and  | ÉNTERED the  | SÉAWATER,
 351  BRÉAST  | FÍRST, then with  | BÓTH of my  | HÁNDS I  | PÚLLED through the  | WÁTER,
 352  SWÍMMING, and  | VÉRY  | SÓON I  | LÉFT them all  | FÁR in the  | DISTÁNCE.
-353  Then I CLÍMBED where there  | STÓOD the  | DÉNSE  | GRÓWTH of a  | MÁNY-FLOWERED  | THÍCKET,
+353  ÚP I  | CLÍMBED where there  | STÓOD the dense  | GRÓWTH of a  | MÁNY-FLOWERED  | THÍCKET,
 354  and I LÁY there  | CRÓUCHED; and they  | WÉNT  | ABÓUT with  | LÓUD  | LAMENTÁTION.
 355  YÉT it did not  | APPÉAR to their  | MÍNDS  | MÓRE  | PRÓFITABLE,  | FÚRTHER,
 356  to SÉARCH  | ÁNY more; so  | BÁCK once  | AGÁIN they  | MÁDE for the  | VÉSSEL,
 357  BÁCK to the  | HÓLLOW  | SHÍP; but the gods  | THEMSÉLVES  | HÍD and  | CONCÉALED me
 358  VÉRY  | ÉASILY, and  | GÚIDED me  | ÓN to the  | STÉADING and  | SHÉEPFOLD
 359  ÓF a  | MÁN who had  | KNÓWLEDGE; for  | STÍLL it is  | FÁTED I  | LÍVE on.”
-360  Then in ÁNSWER you  | SPÓKE,  | ÉUMAEUS,  | SWÍNEHERD and  | GÓOD  | MÁN:
+360  MÁKING an  | ÁNSWER you  | SPÓKE,  | EUMÁEUS,  | SWÍNEHERD and  | GÓOD man:
 361  “ÁH poor  | STRÁNGER,  | ÚNLUCKY  | INDÉED, you have  | GRÉATLY  | DISTÚRBED me,
 362  TÉLLING each  | THÍNG in  | ÓRDER, the  | SÚFFERINGS and  | WÁNDERINGS you have  | BÓRNE through.
 363  Yet in GÓOD  | ÓRDER  | ÓNE  | PÓINT is not, and you  | NÉVER will  | WÍN me,
@@ -378,13 +378,13 @@ quantity to English vowels.
 366  of my MÁSTER'S  | RETÚRN,  | HÓW  | HÁTED he was by  | ÁLL the  | IMMÓRTALS,
 367  ÚTTERLY,  | SÍNCE they  | DÍD not  | LÉT him be  | KÍLLED among  | TRÓJANS,
 368  or in the ÁRMS of his  | FRÍENDS, when at  | LÁST he had  | WÓUND  | ÚP the  | WÁR-WEB.
-369  THÉN the  | PÁNACHAEANS  | WÓULD have  | MÁDE him a  | BÚRIAL  | MÓUND there,
+369  THÉN would the  | PANACHÁEANS  | HÁVE  | FÁSHIONED his  | BÚRIAL  | BÁRROW,
 370  ÁND for his  | SÓN  | THÉREAFTER he would have  | WÓN  | MÍGHTY  | GLÓRY.
 371  But NÓW  | INGLÓRIOUSLY  | HÁRPIES have  | SWÉPT him  | AWÁY and have  | TÁKEN him.
 372  ÁS for me, I  | STÁY here  | APÁRT among  | SWÍNE; and I do not  | GÓ  | CÍTYWARD,
 373  ÚNLESS  | CÍRCUMSPECT  | PENÉLOPE  | SÓMEWHERE should  | ÚRGE and  | CÓMMAND me
 374  to CÓME,  | WHÉNEVER  | TÍDINGS have  | CÓME in from  | SÓMEWHERE or  | ÓTHER.
-375  Then they ÁLL  | SÍT  | ARÓUND and  | ÁSK the man  | QUÉSTIONS on  | ÁLL things,
+375  But they ÁLL  | SÍT  | ARÓUND and  | ÁSK the man  | QUÉSTIONS on  | ÁLL things,
 376  BÓTH those who  | GRÍEVE for the  | LÓRD who has  | LÓNG been  | ÁBSENT and  | VÁNISHED,
 377  and those who REJÓICE while they  | ÉAT  | ÚP his  | SÚBSTANCE  | WITHÓUT  | PÁYING.
 378  BÚT for me it is not  | DÉAR at  | ÁLL to  | INQUÍRE and  | ÁSK  | FÚRTHER
@@ -399,7 +399,7 @@ quantity to English vowels.
 387  DÓ not  | SÉEK my  | GÓOD will by  | FÁLSEHOODS,  | ÁND do not  | ENCHÁNT me;
 388  FÓR it  | ÍS not  | FÓR this that  | Í shall  | RESPÉCT you or  | LÓVE you,
 389  but from FÉAR of  | ZÉUS,  | GÓD of  | STRÁNGERS, and  | PÍTY for your  | CONDÍTION.”
-390  THÉN in  | ÁNSWER to him  | SPÓKE  | ODÝSSEUS,  | RESÓURCEFUL and  | STÉADFAST:
+390  MÁKING his  | ÁNSWER to him  | SPÓKE  | ODÝSSEUS,  | RESÓURCEFUL and  | STÉADFAST:
 391  “SÚRELY  | THÉRE is in your  | BRÉAST a  | HÉART that is  | WHÓLLY  | ÚNTRUSTING,
 392  SÉEING that not  | ÉVEN  | SWÉARING an  | ÓATH can  | PÉRSUADE you or  | MÓVE you.
 393  But CÓME now,  | LÉT us  | ÉSTABLISH  | BETWÉEN us a  | BÍNDING  | AGRÉEMENT;
@@ -410,68 +410,68 @@ quantity to English vowels.
 398  BÚT if your  | MÁSTER does not  | CÓME  | HÓME, as I  | NÓW am  | DECLÁRING,
 399  THÉN  | ÚRGE on your  | SÉRVING-MEN to  | TÁKE me and  | THRÓW me  | HÉADLONG
 400  DÓWN from a  | GRÉAT sheer  | RÓCK, so another  | PÓOR  | MÁN may shrink from  | DECÉPTION.”
-401  Then in REPLÝ the  | NÓBLE  | SWÍNEHERD  | SPÓKE and  | ADDRÉSSED  | HÍM:
-402  “STRÁNGER, that  | SÚRELY would  | WÍN me  | FÁIR glory and  | NÓBLE  | REPÚTE there
+401  In his TÚRN the  | NÓBLE  | SWÍNEHERD  | SPÓKE  | ÁND  | ADDRÉSSED him:
+402  “STRÁNGER, that  | SÚRELY would  | WÍN me  | NÓBLE  | REPÚTE and fair  | GLÓRY
 403  BÓTH among  | MÉN of the  | PRÉSENT and  | MÉN of the  | ÁGES  | HÉREAFTER,
 404  ÍF, when I  | BRÓUGHT you  | ÍNTO my  | HÚT and had  | GÍVEN you  | GÚEST-GIFTS,
 405  then I should KÍLL you  | AGÁIN and  | TÁKE your  | DÉAR  | LÍFE-BREATH from  | YÓU.
 406  Then with a WÍLLING  | HÉART I could  | PRÁY to  | ZÉUS  | SÓN of  | CRÓNOS.
-407  But NÓW it is  | TÍME for  | SÚPPER; and  | QÚICKLY my  | CÓMRADES  | WITHÍN here
+407  But NÓW it is  | TÍME for  | SÚPPER; and  | QÚICKLY  | INDÓORS my  | COMPÁNIONS
 408  ÓUGHT to be, so in the  | HÚT we may  | MÁKE us a  | HÉARTY  | MÉAL  | RÉADY.”
-409  THÚS then the  | TWÓ of them  | SPÓKE  | SÚCH words to  | ÓNE  | ANÓTHER there.
+409  THÚS they were  | SPÉAKING such  | THÍNGS in  | TÚRN to  | ÓNE  | ANÓTHER.
 410  And NÓW the  | SWÍNE and the  | MÉN who were  | HÉRDING them  | CÁME  | ÚP near them.
-411  Then INDÉED they  | PÉNNED  | ÚP the  | SÓWS in their  | PLÁCES for  | SLÉEPING,
+411  So it WÁS that they  | PÉNNED  | ÚP the  | SÓWS in their  | PLÁCES for  | SLÉEPING,
 412  ÁND an  | ÚNSPEAKABLE  | DÍN of the  | PÍGS  | ARÓSE in the  | FÓLD-YARD.
-413  Then to his ÓWN  | COMPÁNIONS the  | NÓBLE  | SWÍNEHERD  | CÁLLED  | ÓUT:
+413  But to his ÓWN  | COMPÁNIONS the  | NÓBLE  | SWÍNEHERD  | CÁLLED  | ÓUT:
 414  “BRÍNG the  | BÉST of the  | HÓGS, so that  | Í may  | SÁCRIFICE  | FÓR
 415  this GÚEST from  | FÁR  | AWÁY; and we  | ÁLSO shall  | PRÓFIT  | THÉREBY, we
 416  WHÓ for  | LÓNG have  | ENDÚRED and  | SÚFFERED  | DISTRÉSS for these  | WHÍTE-TUSKS,
 417  while ÓTHER  | MÉN  | ÉAT up our  | TÓIL and  | PÁY us  | NÓ payment.”
-418  SÓ then he  | SPÓKE, and with  | PÍTILESS  | BRÓNZE he was  | SPLÍTTING the  | KÍNDLING.
-419  They then BRÓUGHT in a  | HÓG,  | VÉRY  | FÁT, of  | FÍVE years of  | ÁGE there.
-420  Him they NÉXT  | SÉT  | BESÍDE the  | HÉARTH; and the  | SWÍNEHERD did not  | THÉN
+418  So HÁVING  | SPÓKEN, with  | PÍTILESS  | BRÓNZE he was  | SPLÍTTING the  | KÍNDLING.
+419  ÍN they  | LÉD a  | FÍVE-YEAR-OLD  | HÓG,  | EXCÉEDINGLY  | FÁTTENED.
+420  HÍM  | THEREÁFTER they  | SÉT by the  | HÉARTH; nor  | DÍD the  | SWÍNEHERD
 421  FÁIL to  | REMÉMBER the  | DEÁTHLESS  | GÓDS, for his  | THÓUGHTS had  | TRÚE goodness.
 422  BÚT  | BEGÍNNING the  | RÍTE, he  | CÁST in the  | FÍRE the  | HÉAD-BRISTLES
 423  FRÓM the  | WHÍTE-TUSKED  | BÓAR, and he  | PRÁYED to the  | CÓMPANY of  | GÓDS
 424  that WÍSE  | ODÝSSEUS might  | CÓME  | AGÁIN  | HÓME to his  | ÓWN house.
-425  THÉN,  | LÍFTING a  | BÍLLET of  | ÓAK that was  | LÉFT from the  | CHÓPPING,
-426  he STRÚCK, and the  | LÍFE  | LÉFT the  | BÓAR; and the  | RÉST slit the  | THRÓAT there.
-427  QÚICKLY they  | SÍNGED him and  | CÚT him  | APÁRT; and the  | SWÍNEHERD then  | MÁDE ready
+425  RÁISING  | ALÓFT a  | BÍLLET of  | ÓAK that was  | LÉFT from the  | CHÓPPING,
+426  he STRÚCK, and the  | LÍFE  | LÉFT the  | BÓAR; and they  | SLÍT his throat and  | SÍNGED him.
+427  QUÍCKLY they  | CÚT him  | APÁRT; and the  | SWÍNEHERD then  | MÁDE  | RÉADY
 428  FÍRSTLINGS from  | ÉVERY  | LÍMB of the  | FLÉSH,  | LÁYING them in  | FÁT richness,
 429  ÁND these he  | CÁST in the  | FÍRE,  | SPRÍNKLING them  | ÓVER with  | BÁRLEY.
 430  The RÉST they  | CÁRVED into  | PÍECES and  | RÁN them through  | SPÍTS for  | RÓASTING,
-431  RÓASTED them  | CÁREFULLY through, and when  | ÁLL was  | DÓNE  | DRÉW them  | ÓFF there,
+431  RÓASTED them  | CÁREFULLY  | THRÓUGH, and  | DRÉW them off,  | ÉVERY  | MÓRSEL,
 432  ÁND they  | LÁID them  | ÁLL in the  | TRÉNCHERS  | TOGÉTHER. The  | SWÍNEHERD
 433  STÓOD there  | DÍVIDING the  | FÉAST, for his  | MÍND  | KNÉW fitting  | MÉASURE.
-434  THÉN he  | CÚT and  | ALLÓTTED the  | WHÓLE into  | SÉVEN  | PÓRTIONS.
+434  And he CÚT and  | ALLÓTTED the  | WHÓLE  | ÍNTO  | SÉVEN  | PÓRTIONS.
 435  ÓNE of  | THÉSE, with a  | PRÁYER, he  | SÉT for the  | NÝMPHS and for  | HÉRMES,
 436  MÁIA’S  | SÓN; and the  | ÓTHER  | SÍX he  | DIVÍDED to  | ÉACH one.
 437  BÚT  | ODÝSSEUS he  | HÓNORED with  | CHÍNE  | ÚNBROKEN and  | LÉNGTHY
 438  FRÓM the  | WHÍTE-TUSKED  | HÓG, and he  | GLÁDDENED the  | HÉART of his  | MÁSTER.
-439  THÉN  | RESÓURCEFUL  | ODÝSSEUS  | SPÓKE and  | ADDRÉSSED him  | DIRÉCTLY:
+439  And RESÓURCEFUL  | ODÝSSEUS  | SPÓKE  | ÁND  | ADDRÉSSED him  | DIRÉCTLY:
 440  “WÓULD that,  | ÉUMAEUS, you might be  | DÉAR to  | FÁTHER  | ZÉUS  | TRÚLY
 441  ÉVEN as you are  | DÉAR to me,  | SÍNCE you  | HÓNOR me,  | THÓUGH I am  | WRÉTCHED.”
-442  THÉN  | ÍN  | REPLÝ you  | ÁNSWERED him,  | ÉUMAEUS the  | SWÍNEHERD:
+442  ÁNSWERING  | HÍM in  | TÚRN you  | SPÓKE,  | EUMÁEUS the  | SWÍNEHERD:
 443  “ÉAT, my  | ÚNCANNY  | GÚEST, and  | DELÍGHT  | YÓURSELF in what is here for  | ÚS.
 444  ÓNE thing a  | GÓD  | GÍVES,  | ANÓTHER he  | LÉAVES; it is as he  | CHÓOSES,
 445  WHÁTEVER may  | PLÉASE his  | ÓWN  | HÉART, for  | INDÉED he can do  | ÁLL things.”
 446  So he SPÓKE, and he  | BÚRNED the  | FÍRST  | CÚTS for the  | GÓDS  | EVERLÁSTING;
-447  then he PÓURED  | ÓUT the  | FLÁMING  | WÍNE and  | SÉT it in the  | HÁNDS there
-448  ÓF  | ODÝSSEUS,  | SÁCKER of  | CÍTIES; then  | SÁT by his  | PÓRTION.
+447  then, when he had PÓURED the  | FLÁMING  | WÍNE  | ÍN  | LIBÁTION, he  | SÉT it
+448  in the HÁNDS of  | ODÝSSEUS,  | SÁCKER of  | CÍTIES; then  | SÁT by his  | PÓRTION.
 449  And MÉSAULIOS  | SÉRVED  | THÉM the  | BRÉAD, whom the  | SWÍNEHERD had  | PÚRCHASED
 450  for HIMSÉLF  | ÁLL  | ALÓNE while his  | LÓRD had been  | GÓNE and  | FÁR absent,
 451  APÁRT from his  | MÍSTRESS and  | ÓLD  | LAÉRTES not  | KNÓWING of  | ÍT.
 452  HÍM from the  | TÁPHIAN  | MÉN he had  | BÓUGHT with  | POSSÉSSIONS of his  | ÓWN.
-453  Then to the GÓOD  | FÁRE  | LÝING before them they  | STRÉTCHED  | ÓUT their  | HÁNDS there.
+453  ÓUT they  | STRÉTCHED their  | HÁNDS to the  | GÓOD things  | LÁID ready  | BEFÓRE them.
 454  BÚT when they had  | PÚT from  | THEMSÉLVES the  | DESÍRE for  | DRÍNKING and  | ÉATING,
 455  then MÉSAULIOS  | TÓOK  | AWÁY the  | BRÉAD, and the  | ÓTHERS toward  | SLÉEPING,
-456  FÍLLED  | FÚLL with bread and with  | MÉAT, were  | TÚRNING and  | MÓVING to  | BÉD there.
-457  Then there CÁME on a  | MÓONLESS and  | ÉVIL  | NÍGHT, and  | ZÉUS  | SÉNT rain down
+456  FÚLL-SATED  | BÓTH with the  | BRÉAD  | ÁND the  | MÉAT, were  | HÁSTENING.
+457  ÓN there  | CÁME a  | MÓONLESS and  | ÉVIL  | NÍGHT, and  | ZÉUS sent rain down
 458  ÁLL through the  | NÍGHT, while the  | MÍGHTY  | WÉT West  | WÍND blew  | ÚNCEASING.
-459  THÉN  | ODÝSSEUS  | SPÓKE among them,  | TÉSTING the  | SWÍNEHERD’S  | SPÍRIT,
+459  And ODÝSSEUS  | SPÓKE  | AMÓNG them,  | TÉSTING the  | SWÍNEHERD’S  | SPÍRIT,
 460  WHÉTHER  | PERHÁPS he would  | TÁKE  | ÓFF his  | CLÓAK and  | BESTÓW it upon him,
 461  or ÉLSE urge  | ÓNE of his  | CÓMRADES to  | GÍVE it, since he  | CÁRED for him  | DEÉPLY:
-462  “LÍSTEN to me  | NÓW,  | ÉUMAEUS, and  | ÁLL you  | COMPÁNIONS  | BESÍDES here;
+462  “LÍSTEN to me  | NÓW,  | ÉUMAEUS, and  | ÁLL you  | ÓTHER  | COMPÁNIONS;
 463  BÓASTING, I  | THÍNK, I will  | ÚTTER a  | WÓRD; for the  | WÍNE gives  | CÓMMANDMENT,
 464  MÁDDENING  | STÚFF, which  | CÓMPELS even  | ÓNE who is  | PRÚDENT to  | SÍNG out,
 465  MÁKES him  | LÁUGH softly, and  | RÓUSES him  | ÚP to  | DÁNCE in his  | GLÁDNESS,
@@ -488,7 +488,7 @@ quantity to English vowels.
 476  FRÉEZING; and over us  | SNÓW was  | FÁLLING  | LÍKE  | HÓARFROST in  | WHÍTENESS,
 477  CÓLD, and  | ARÓUND on the  | SHÍELDS the  | RÍME and the  | ÍCE-CRUST were  | FÓRMING.
 478  There ÁLL the  | ÓTHERS had  | CLÓAKS and  | TÚNICS to  | CÓVER them  | WÁRMLY,
-479  ÁND at their  | ÉASE they  | SLÉPT with their  | SHÓULDERS  | WRÁPPED under their  | SHÍELDS there.
+479  and they SLÉPT  | ÁLL at their  | ÉASE, with  | SHÍELDS  | ENWRÁPPING their  | SHÓULDERS.
 480  But I, FÓOL, had  | LÉFT my  | CLÓAK  | BEHÍND with my  | CÓMRADES  | DEPÁRTING.
 481  ÍN my  | ÓWN  | FÓOLISHNESS,  | SÍNCE I had not  | THÓUGHT I would  | SHÍVER;
 482  NÓ, I had  | FÓLLOWED with  | ÓNLY my  | SHÍELD and my  | GLÍTTERING  | WÁR-BELT.
@@ -499,7 +499,7 @@ quantity to English vowels.
 487  Í will not  | ÁNY  | LÓNGER  | REMÁIN with the  | LÍVING; this  | STÓRM-COLD
 488  MÁSTERS me,  | SÍNCE I have  | NÓ  | CLÓAK; some  | GÓD has  | DECÉIVED me
 489  into being in ÓNE  | TÚNIC  | ÓNLY;  | NÓW there is  | NÓ  | ÉSCAPE left.”
-490  SÓ I  | SPÓKE, and at  | ÓNCE in his  | HÉART he  | CONCÉIVED this  | DESÍGN there,
+490  SÓ I  | SPÓKE, and at  | ÓNCE this  | DESÍGN he  | CONCÉIVED in his  | SPÍRIT,
 491  SÚCH as that  | MÁN was in  | PLÁNNING as  | WÉLL as in  | STÁNDING to  | BÁTTLE;
 492  ÁND then  | SPÉAKING  | LÓW, from  | BEHÍND me, he  | SÁID me this  | CÓUNSEL:
 493  “SÍLENCE  | NÓW, lest some  | ÓTHER  | ACHÁEAN  | HÁPPEN to  | HÉAR you.”
@@ -510,13 +510,13 @@ quantity to English vowels.
 498  that he should ÚRGE  | MÓRE  | MÉN from  | BESÍDE the  | SHÍPS to come  | TÓWARD us.”
 499  So he SPÓKE, and then  | THÓAS  | ARÓSE,  | ANDRÁEMON’S  | SÓN, in his  | SWÍFTNESS,
 500  SPRÍNGING  | ÚP, and he  | LÁID down his  | CLÓAK of the  | DÉEP purple  | CÓLOR,
-501  and RÁN on his  | WÁY to the  | SHÍPS; and  | Í in that  | MÁN’S  | CLÓAK there
+501  and RÁN on his  | WÁY to the  | SHÍPS; and  | Í in that  | MÁN’S  | GÁRMENT
 502  LÁY there  | GLÁDLY at  | RÉST, till  | DÁWN on her  | GÓLDEN  | THRÓNE shone.
 503  If ÓNLY  | NÓW I were  | YÓUNG, and my  | STRÉNGTH were  | ABÍDING  | WITHÍN me,
 504  then would ÓNE of the  | SWÍNEHERDS  | HÉRE in the  | FÓLDS  | GÍVE a  | CLÓAK to me,
 505  BÓTH for  | KÍNDNESS and  | ÓUT of  | RESPÉCT for the  | WÓRTH of the  | WÉARER;
 506  NÓW they  | DISHÓNOR me,  | SÍNCE I have  | ÉVIL  | CLÓTHING upon  | MÉ.”
-507  THÉN  | ÍN  | REPLÝ you  | ÁNSWERED him,  | ÉUMAEUS the  | SWÍNEHERD:
+507  ÁNSWERING  | HÍM in  | TÚRN you  | SPÓKE,  | EUMÁEUS the  | SWÍNEHERD:
 508  “ÓLD  | MÁN, the  | TÁLE that you have  | RECÓUNTED is  | WHÓLLY  | BLÁMELESS;
 509  not ÓNE  | WÓRD have you  | SPÓKEN  | BEÝOND what is  | FÍTTING and  | ÚSEFUL.
 510  THÉREFORE  | YÓU shall not  | LÁCK for  | CLÓTHING, nor  | ANÝTHING  | ÉLSE of
@@ -525,9 +525,9 @@ quantity to English vowels.
 513  FÓR there are not  | MÁNY  | CLÓAKS here, nor  | SPÁRE  | TÚNICS for  | CHÁNGING,
 514  here to be WÓRN; there is  | ÓNLY  | ÓNE  | GÁRMENT for  | ÉACH  | MÁN among us.
 515  Yet WHÉNEVER the  | DÉAR  | SÓN of  | GRÉAT  | ODÝSSEUS  | CÓMES to us,
-516  HÉ  | HIMSÉLF will  | GÍVE you a  | CLÓAK and a  | TÚNIC to  | WÉAR here,
+516  HÉ  | HIMSÉLF will  | GÍVE you a  | CLÓAK and a  | TÚNIC for  | CLÓTHING,
 517  ÁND he will  | SÉND you  | WHERÉVER your  | HÉART and your  | SPÍRIT  | CÓMMAND you.”
-518  So SÁYING, he  | SPRÁNG to his  | FÉET, and  | SÉT him a  | BÉD by the  | FÍRELIGHT,
+518  So HÁVING  | SPÓKEN, he  | SPRÁNG up and  | SÉT him a  | BÉD by the  | FÍRELIGHT,
 519  ÁND upon it he  | THRÉW  | DÓWN the  | FLÉECES of  | SHÉEP and of  | SHÉ-GOATS.
 520  There ODÝSSEUS  | LÁY  | DÓWN, and over  | HÍM then he  | CÁST a  | CLÓAK on,
 521  THÍCK and  | LÁRGE, which he  | KÉPT there  | BESÍDE him, a  | CHÁNGE for his  | WÉARING,
@@ -541,7 +541,7 @@ quantity to English vowels.
 529  then ARÓUND him he  | PÚT a  | DÉNSE  | CLÓAK to  | BÉAT back the  | WÍND-BLASTS,
 530  and he TÓOK  | ÚP the  | SKÍN of a  | GÓAT that was  | LÁRGE and  | WÉLL-FATTENED,
 531  and he TÓOK  | ÚP a  | SHÁRP-POINTED  | SPÉAR, for defense  | AGÁINST  | DÓGS and men too.
-532  Then he WÉNT to  | LÍE  | DÓWN where the  | WHÍTE-TUSKED  | SWÍNE were  | ACCÚSTOMED,
+532  ÓFF he  | WÉNT to lie  | DÓWN where the  | WHÍTE-TUSKED  | SWÍNE were  | ACCÚSTOMED,
 533  SLÉEPING under a  | HÓLLOWED  | RÓCK, in the  | LÉE of the  | NÓRTH  | WÍND.
 ```
 
@@ -577,6 +577,7 @@ Vowels: *a* cat, *ah* father, *aw* saw, *ay* day, *ee* see, *eye* sky,
 | Maia | MY-uh; also MAY-uh |
 | Odysseus | oh-DIS-ee-us; also oh-DISS-yoos |
 | Olympus | oh-LIM-pus |
+| Panachaeans | pan-uh-KEE-unz |
 | Penelope | puh-NEL-uh-pee |
 | Pheidon | FY-don |
 | Phoenicia | fih-NISH-uh |

@@ -22,7 +22,7 @@
 18 sang to the lyre, while two of the tumblers among the assembly,
 19 keeping the time of the music, spun and revolved through the center.
 20 There at the gateway the two young men drew up and halted,
-21 horses beside them— Telemachus and Nestor’s glorious son there.
+21 horses beside them— Telemachus and Nestor’s glorious offspring.
 22 Eteoneus the hero came from the doorway and saw them,
 23 diligent servant attending the famous and lordly Menelaus;
 24 into the house he went bearing word to the shepherd of peoples.
@@ -38,7 +38,7 @@
 34 coming here homeward, in hope that at last great Zeus might release us
 35 out of our misery. Hurry and loose the strangers’ horses,
 36 then lead the visitors into the house to partake of the banquet.”
-37 Thus he spoke; and the servant dashed through the hall, and he summoned
+37 So he spoke, and the servant dashed through the hall, and he summoned
 38 all of the other diligent servants to follow behind him.
 39 Under the yoke they loosened the sweating and hard-driven horses,
 40 tethered them there by the mangers, the feeding troughs of the horses,
@@ -65,11 +65,11 @@
 61 supper together, we then shall ask what manner of men you
 62 are; for the lineage born of your parents is not lost within you.
 63 You are descended from scepter-bearing rulers, the Zeus-born;
-64 never could ordinary people engender such sons as I see here.”
-65 Thus he spoke, and he lifted the fat-rich chine of the roasted ox there,
+64 never could ordinary people engender such sons as I look on.”
+65 So he spoke, and he lifted the fat-rich, roasted ox-chine,
 66 setting it down before them, the portion of honor they gave him.
 67 Both reached their hands to the excellent food that was ready before them.
-68 Then, when desire for food and for drinking was put from their bodies,
+68 But when desire for food and for drinking was put from their bodies,
 69 thoughtful Telemachus spoke to the glorious offspring of Nestor,
 70 leaning his head there close, so the others would never overhear him:
 71 “Look here, O son born of Nestor, delight of the heart in my bosom,
@@ -113,8 +113,8 @@
 109 since he is gone such a long time, and we know nothing about him,
 110 whether he lives or is dead. Surely all of his loved ones are mourning:
 111 aged Laertes and steadfast Penelope, also the young man
-112 Telemachus, whom as a newborn child he abandoned at home there.”
-113 Thus he spoke and awakened in him a longing to mourn for his father.
+112 Telemachus, whom as a newborn child he left in the household.”
+113 So he spoke, and awakened in him a longing to mourn for his father.
 114 Tears from his eyelids fell to the ground when he heard of his father;
 115 up to his eyes with both hands lifting his purple-colored
 116 mantle, he hid them. The lord Menelaus observed and considered,
@@ -132,7 +132,7 @@
 128 Two silver bathtubs Polybus gave to the lord Menelaus,
 129 also a pair of tripods and ten whole talents of gold-work.
 130 Apart from these gifts, the wife of Polybus gave Helen fair presents,
-131 giving a distaff of gold and a basket provided with wheels there,
+131 giving a distaff of gold, and a basket that ran on wheelwork,
 132 fashioned of silver with rims that were finished in glittering gold-work.
 133 This was the basket her serving maid Phylo brought out and placed by her,
 134 filled with the yarn from the spindle; and over its uppermost surface
@@ -148,7 +148,7 @@
 144 young Telemachus, left as a newborn child in the household
 145 when for the sake of my shameless face you Achaeans assembled,
 146 coming to Troy with audacious war in the depth of your spirits.”
-147 Then in reply fair-haired Menelaus addressed Helen, saying:
+147 Answering, fair-haired Menelaus addressed Helen, saying:
 148 “Wife, I perceive it as well, just as you have likened and judged him.
 149 Those are the feet of Odysseus, these are his hands in appearance,
 150 such is the glance of his eyes, and the head and the hair that surrounds it.
@@ -156,7 +156,7 @@
 152 I was recounting the measure of all he endured and accomplished
 153 there for my sake, while this young man let fall a bitter tear downward,
 154 holding the purple-colored mantle in front of his two eyes.”
-155 Then Peisistratus, Nestor’s glorious son, gave him answer:
+155 Nestor’s glorious son Peisistratus gave him his answer:
 156 “Lord Menelaus, Atreus’ son, Zeus-nurtured commander,
 157 this is indeed the son of that man, exactly as you say.
 158 Yet he is modest in spirit; the heart in his bosom is bashful,
@@ -168,14 +168,14 @@
 164 Many the woes that a son must endure in the house of his father
 165 when he is gone, and no other defenders are standing beside him;
 166 so with Telemachus now: his father is gone, and no others
-167 live in the country to shield him and beat his afflictions away there.”
-168 Then in reply fair-haired Menelaus addressed them, saying:
+167 live in the country to shield him and drive away his affliction.”
+168 Answering, fair-haired Menelaus addressed them, saying:
 169 “Wonderful! Truly the son of a well-beloved man has entered
 170 into my house, whose father endured many trials for my sake.
 171 I used to say I would welcome him over all other Achaeans
 172 if wide-thundering Zeus on Olympus had granted the two of us
 173 safe homecoming over the sea in our own swift ships from the conflict.
-174 I would have founded a city in Argos for him, made a house there,
+174 I would have built him a house, and founded a city in Argos,
 175 bringing him out of Ithaca, all his possessions and offspring,
 176 all of his people, and emptying one of the cities around me,
 177 cities that lie all around and submit to my rule as their master.
@@ -184,7 +184,7 @@
 180 till the black cloud that is death had enfolded and covered us over.
 181 Yet, I imagine, godhead himself must have looked with resentment,
 182 making that sorrowful man alone unable to reach home.”
-183 Thus he spoke and awakened in all a longing for mourning.
+183 So he spoke, and awakened in all of them longing for mourning.
 184 Helen of Argos wept, the daughter of Zeus in her beauty;
 185 young Telemachus wept, Menelaus the offspring of Atreus;
 186 nor could the glorious son born of Nestor keep dry his eyelids,
@@ -199,12 +199,12 @@
 195 come to us also. I do not begrudge lamentation for any
 196 mortal who dies and encounters the doom that has been appointed.
 197 This is the only respect that remains for afflicted human beings:
-198 cutting a lock of the hair and letting a tear down the cheek there.
+198 cutting a lock of the hair, from the cheeks letting fall a tear-drop.
 199 I too had a brother who died, and he was not the meanest
 200 man of the Argives; you knew him, though I neither knew him nor saw him.
 201 Yet they declare that above all others the lord Antilochus
 202 excelled in speed of his feet and excelled as a warrior in battle.”
-203 Then in reply fair-haired Menelaus addressed him, saying:
+203 Answering, fair-haired Menelaus addressed him, saying:
 204 “Dear friend, all you have spoken is such as a prudent man might have
 205 spoken and acted, even a man who was older than you are.
 206 Such is your father; therefore your words have been fashioned with wisdom.
@@ -212,14 +212,14 @@
 208 spins out prosperity both in his marriage and birth of his children,
 209 just as he now has granted to Nestor throughout all his lifetime,
 210 gently to age in his halls in the midst of abundant possessions,
-211 while all his sons are intelligent men and unrivaled with spears there.
+211 while all his sons in their turn are wise, and unrivaled spearmen.
 212 Now we shall cease the lamentation that came down upon us,
 213 turning our thoughts once again to the meal; let the servants pour water
 214 over our hands. In the morning again there shall be many stories
 215 young Telemachus and I may exchange and relate to each other.”
-216 Thus he spoke, and Asphalion poured clean water upon them,
+216 So he spoke, and Asphalion poured clean water upon them,
 217 diligent servant attending the famous and lordly Menelaus.
-218 Then to the excellent food lying ready they stretched out their two hands.
+218 Onto the excellent food lying ready they stretched out their two hands.
 219 Helen, the daughter of Zeus, then formed a new thought in her bosom:
 220 into the wine they were drinking at once she cast down a medicine,
 221 quieting anger and grief and bringing forgetfulness of evil.
@@ -250,11 +250,11 @@
 246 entering into the broad-wayed city that belonged to his foemen.
 247 There he concealed himself in the form of a different person,
 248 taking the shape of a beggar, though such was he never by our ships.
-249 So he went into the city of Troy, and they all were deceived there;
+249 So he went into the city of Troy, and they all were baffled;
 250 only I knew who he was and perceived through the likeness he carried.
 251 I put him questions, but he in his cunning continually shunned me.
 252 Yet when at last I had bathed him and rubbed his body with olive oil,
-253 put the clothes on his body, and sworn a powerful oath there,
+253 put the clothes on his body, and sworn him an oath of great power,
 254 never to name Odysseus or reveal him among the Trojans
 255 till he had come to the swift-running ships and Achaean encampment,
 256 then he disclosed every plan the Achaean people were forming.
@@ -266,7 +266,7 @@
 262 gave when she led me away to that place from the land of my fathers,
 263 leaving my child and the bridal chamber and husband behind me,
 264 one who was lacking in neither his mind nor his bodily beauty.”
-265 Then in reply fair-haired Menelaus addressed Helen, saying:
+265 Answering, fair-haired Menelaus addressed Helen, saying:
 266 “Wife, you have given the whole of the story with fitting proportion.
 267 Many the minds and the counsels of warlike men I have studied,
 268 wandering also across an abundance of earth in my lifetime;
@@ -291,19 +291,19 @@
 287 Yet with the strength of his hands Odysseus closed up his mouth and
 288 held him unyieldingly so, and he rescued the whole of the war host,
 289 holding him till the goddess Athena conducted you elsewhere.”
-290 Then in reply spoke the thoughtful and steadfast young Telemachus:
+290 And in reply spoke the thoughtful and steadfast young Telemachus:
 291 “Lord Menelaus, Atreus’ son, Zeus-nurtured commander,
 292 greater the grief, for none of these deeds kept away bitter death-doom,
 293 not if the heart in the depth of his bosom were fashioned of iron.
 294 Come now, send us away to our beds, so at last we may settle
 295 down in repose and delight in the sweetness of sleep there together.”
-296 Thus he spoke, and Helen of Argos commanded the slave women
+296 So he spoke, and Helen of Argos commanded the slave women
 297 under the porch to set out the bedsteads and lay on their surfaces
 298 beautiful purple blankets, and rugs to be spread there above them,
 299 fleecy wool cloaks on top of them all for the sleepers’ protection.
 300 Out from the hall they went with the fire-blazing torches they carried,
 301 making the beds, while the herald conducted the strangers before him.
-302 There in the forecourt both of the traveling heroes reposed then,
+302 There in the palace forecourt the two lay down and slumbered,
 303 young Telemachus and the glorious offspring of Nestor.
 304 Atreus’ son lay down in the inward room of the high house;
 305 close by his side long-robed Helen, most radiant of women.
@@ -312,14 +312,14 @@
 308 put on his clothing, and slung the sharp-edged sword round his shoulder,
 309 under his glittering feet bound the beautiful sandals securely,
 310 out of the chamber emerging in bodily form like a godhead.
-311 Close by Telemachus then he sat and addressed him by name there:
+311 Close by Telemachus sitting, he spoke a word, and named him:
 312 “What kind of need has conducted you here, O hero Telemachus,
 313 into the shining Lacedaemon over the broad back of ocean?
 314 Is it a public affair or a private? Reveal the truth plainly.”
-315 Then in reply spoke the thoughtful and steadfast young Telemachus:
+315 And in reply spoke the thoughtful and steadfast young Telemachus:
 316 “Lord Menelaus, Atreus’ son, Zeus-nurtured commander,
 317 I have arrived in the hope you may tell me a word of my father.
-318 Men consume my household, and all my abundant fields are destroyed now;
+318 Men are devouring my household, and my fertile farmlands have perished;
 319 hostile men have crowded the house, and continually slaughter
 320 all my abundant sheep and my lumbering crooked-horned cattle—
 321 suitors who court my mother in overbearing transgression.
@@ -345,7 +345,7 @@
 341 Father Zeus and Athena and Phoebus Apollo, if only
 342 such as he once was in strongly built Lesbos, the lord Odysseus,
 343 rose to the wrestling challenge and grappled with Philomeleides,
-344 hurled him down with tremendous force, while Achaeans rejoiced there—
+344 hurled him mightily down, to the joy of all the Achaeans—
 345 let that Odysseus come on the suitors in such an appearance!
 346 Swift would the death be for all, and the marriage exceedingly bitter.
 347 Yet for the thing you inquire of me and beseech me to answer,
@@ -376,15 +376,15 @@
 372 or do you choose to be slack and delight in the pain you are suffering?
 373 Long have you now been held on the island, unable to discover
 374 any escape, while the hearts of your comrades are dwindling within them.’
-375 Thus did she speak, and at once I replied and addressed her in answer:
+375 So she spoke, and at once I replied and addressed her in answer:
 376 ‘I shall declare it to you, whoever you are among goddesses:
 377 not by my free inclination am I being held on the island.
 378 Surely I sinned against the immortals who govern broad heaven.
 379 Tell me, however—for gods understand everything that is hidden—
 380 which of the deathless immortals has shackled me here and obstructed
 381 all my return, and how I may sail over the fish-thronging sea-way.’
-382 Thus did I speak, and the radiant goddess at once gave me answer:
-383 ‘Then I shall tell you, O stranger, and all that I tell shall be truthful.
+382 So I spoke, and the radiant goddess at once gave me answer:
+383 ‘Therefore I tell you, O stranger, and all that I tell shall be truthful.
 384 Here there is dwelling a deathless, infallible Ancient of Ocean,
 385 Proteus out of Egyptian waters, who knows every ocean
 386 depth, and he serves the earth-shaking lord Poseidon beneath him.
@@ -395,12 +395,12 @@
 391 He would reveal to you also, O Zeus-descended, if you ask him,
 392 all that was done in your house, whether evil or good in its outcome,
 393 while you were gone on your lengthy and difficult road of returning.’
-394 Thus did she speak, and at once I replied and addressed her in answer:
+394 So she spoke, and at once I replied and addressed her in answer:
 395 ‘You must devise the ambush yourself for the ancient immortal,
 396 lest he perceive me before I can seize him or know and escape me.
 397 Difficult is it for any mortal man ever to master godhead.’
-398 Thus did I speak, and the radiant goddess at once gave me answer:
-399 ‘Then I shall tell you, O stranger, and all that I tell shall be truthful.
+398 So I spoke, and the radiant goddess at once gave me answer:
+399 ‘Therefore I tell you, O stranger, and all that I tell shall be truthful.
 400 When in his course Helios bestrides the middle of heaven,
 401 then from the sea comes the deathless and infallible Ancient of Ocean,
 402 under the West Wind’s breath, in the dark-colored shiver of water;
@@ -411,11 +411,11 @@
 407 There I shall lead you myself at the earliest showing of daylight,
 408 lay you in order; but carefully choose three men from your comrades,
 409 all of the best you possess by your vessels with well-fitted benches.
-410 I shall reveal every cunning device the old god may employ there.
+410 I shall reveal to you all of the tricks of the old man’s cunning.
 411 First he shall go to the seals and count every one as he passes;
 412 after he counts them by fives and has looked at the whole of the number,
 413 down in their midst he shall lie like a shepherd at rest in his sheep flock.
-414 Then at the moment you see he is settled and lying among them,
+414 Just at the moment you see he is settled and lying among them,
 415 strength and the force of your hands must remain at the heart of your thinking.
 416 Hold him securely for all of his struggling and striving to flee you.
 417 Every device he shall try, transforming to all living creatures
@@ -426,14 +426,14 @@
 422 then, O hero, relax your force and release the old godhead.
 423 Ask which divinity troubles you so and blocks you from homeward,
 424 also your homecoming, how you may sail over fish-thronging sea-way.’
-425 Thus having spoken, she plunged underneath the turbulent sea swell.
+425 So having spoken, she plunged underneath the turbulent sea swell.
 426 Back to the ships I returned where they stood in the sand of the seashore;
 427 darkly the heart in my bosom was troubled by many reflections.
-428 Then, when I came to the edge of the sea and the vessel awaiting,
+428 But when I came to the edge of the sea and the vessel awaiting,
 429 there we prepared and consumed our supper, and ambrosial nighttime
 430 came, and we laid ourselves down on the surf-beaten strand of the sea-way.
 431 When Dawn in her earliness rose with her rose-colored fingers,
-432 then I proceeded along the shore of the wide-wayed sea there,
+432 then, along by the shore of the wide-wayed sea, I proceeded,
 433 earnestly praying to gods, and I brought three men of my comrades,
 434 all whom I trusted the most in every variety of venture.
 435 Meanwhile under the wide-curving bosom of ocean she entered,
@@ -457,22 +457,22 @@
 453 never suspected deception; and then he lay down there among them.
 454 Shouting aloud, we rushed him at once and surrounded his body
 455 there with our arms; but the ancient remembered his difficult cunning.
-456 First he became a tremendous lion with beautiful mane there,
-457 then a tremendous serpent, a leopard, a mountain-sized boar there;
+456 Truly he first became a goodly-bearded lion,
+457 then in turn a serpent, a mighty boar, and a leopard;
 458 then he became running water and then a high tree full of foliage.
 459 Still we held firm with unshakable grip and enduring spirits.
 460 Yet when at last the old god had grown tired of all his devices,
 461 then he began to inquire of me there and address me directly:
 462 ‘Which of the gods devised this counsel with you, son born of Atreus,
 463 so you could ambush and hold me against my desire? What need moves you?’
-464 Thus did he speak, and at once I replied and addressed him in answer:
+464 So he spoke, and at once I replied and addressed him in answer:
 465 ‘Ancient, you know; why put me a sideways question about it?
 466 Long I have now been held on the island, unable to discover
 467 any escape, while the heart in the depth of my bosom is dwindling.
 468 Tell me, however—for gods understand everything that is hidden—
 469 which of the deathless immortals has shackled me here and obstructed
 470 all my return, and how I may sail over the fish-thronging sea-way.’
-471 Thus did I speak, and immediately he gave me this answer:
+471 So I spoke, and immediately he gave me this answer:
 472 ‘You should have offered to Zeus and the other immortals fine victims
 473 ere you embarked, so that quickly you might reach the land of your fathers,
 474 sailing your ship on the surface of ocean’s wine-colored water.
@@ -482,7 +482,7 @@
 478 up that heaven-descended river and offered holy hecatombs
 479 there to the gods everlasting who govern the breadth of the heavens.
 480 Then shall the gods give the road that your heart has desired to travel.’
-481 Thus did he speak, and the heart in the depth of my bosom was broken,
+481 So he spoke, and the heart in the depth of my bosom was broken,
 482 since he had sent me again on the mist-covered sea-way to Egypt,
 483 making me travel once more on the long and the difficult roadway.
 484 Still I addressed him and spoke out a word in reply to his counsel:
@@ -492,7 +492,7 @@
 488 all whom Nestor and I left behind when we sailed out from Troyland?
 489 Or did one suffer a bitter death in the hull of his vessel,
 490 or in the arms of his friends when he wound the war to completion?’
-491 Thus did I speak, and immediately he gave me this answer:
+491 So I spoke, and immediately he gave me this answer:
 492 ‘Atreus’ son, why question me this? You have no necessity
 493 either to know or discover my mind; and I say you shall not long
 494 keep yourself free from tears when the whole of the story has reached you.
@@ -521,7 +521,7 @@
 517 onto the furthest border of country where Thyestes once had
 518 made his dwelling, and now his own son Aegisthus was living.
 519 Yet from that place safe homecoming also at last was revealed him;
-520 gods turned the wind to an excellent course, and at home they arrived then.
+520 gods turned the wind to a favorable course, and they came to their homeland.
 521 Gladly he placed both his feet on the land of his fathers and kissed it,
 522 clasping his country, while many a hot tear streamed from his eyelids,
 523 such was the joy in his heart to behold his own country before him.
@@ -533,13 +533,13 @@
 529 Straightway Aegisthus devised a treacherous scheme in his bosom:
 530 picking the twenty best of the men he possessed in the country,
 531 setting an ambush, and ordering there in the hall a feast readied.
-532 Then with his horses and chariots went to invite Agamemnon,
+532 Off with his horses and chariots went to invite Agamemnon,
 533 shepherd of peoples, while harboring unspeakable purpose within him.
 534 Leading him up unaware of his death, he killed him at dinner,
 535 just as a man at the manger cuts down an ox for the slaughter.
-536 Not one companion of Atreus’ son who had followed remained there,
+536 Not one was left of the comrades that followed the son of Atreus,
 537 nor one man of Aegisthus; they all were cut down in the palace.’
-538 Thus did he speak, and the heart in the depth of my bosom was broken.
+538 So he spoke, and the heart in the depth of my bosom was broken.
 539 Sitting in sand I wept, and the heart in my bosom no longer
 540 wished to continue to live or to look on the bright light of Helios.
 541 Yet when at last I was sated with weeping and writhing in sorrow,
@@ -549,13 +549,13 @@
 545 quickly devise how again you may come to the land of your fathers.
 546 Either you still shall discover Aegisthus living, or noble
 547 Orestes already has killed him, and you may arrive for the burial.’
-548 Thus did he speak; and the heart and the resolute spirit within me,
+548 So he spoke, and the heart and the resolute spirit within me,
 549 even although I was grieved, grew warm once again in my bosom.
 550 Raising my voice, I addressed him, and these words took wing as I uttered:
 551 ‘Now I have learned of these men, but name me the third in the story,
 552 that one alive and still held back on the broad sea’s surface,
 553 or one dead; though grieving, I still have desire to hear of him.’
-554 Thus did I speak, and immediately he gave me this answer:
+554 So I spoke, and immediately he gave me this answer:
 555 ‘Laertes’ son, whose house is established in Ithaca’s country.
 556 Him I beheld on an island, letting the great tears fall downward,
 557 there in the halls of Calypso the nymph, who continues to hold him
@@ -571,10 +571,10 @@
 567 always from Ocean the singing and soft-blowing breath of the West Wind
 568 rises to give human beings refreshment and coolness of spirit,
 569 since Helen is your wife and therefore you are son-in-law to great Zeus.’
-570 Thus having spoken, he plunged underneath the turbulent sea swell.
+570 So having spoken, he plunged underneath the turbulent sea swell.
 571 Back to the ships I returned with my godlike traveling companions;
 572 darkly the heart in my bosom was troubled by many reflections.
-573 Then, when we came to the edge of the sea and the vessel awaiting,
+573 But when we came to the edge of the sea and the vessel awaiting,
 574 there we prepared and consumed our supper, and ambrosial nighttime
 575 came, and we laid ourselves down on the surf-beaten strand of the sea-way.
 576 When Dawn in her earliness rose with her rose-colored fingers,
@@ -583,8 +583,8 @@
 579 Men then boarded the ships and sat down in their places at oarlocks;
 580 seated in order, they struck with the oars on the gray-colored water.
 581 Back to the waters of Egypt I brought my assembled vessels,
-582 up the heaven-descended river, and offered full hecatombs there.
-583 Then, when I laid to rest the wrath of the gods everlasting,
+582 up the heaven-descended river, and offered full hecatombs.
+583 After I laid to rest the wrath of the gods everlasting,
 584 over the king Agamemnon I heaped up a mound for his deathless
 585 fame. This done, I sailed, and the gods everlasting provided
 586 wind and immediately brought me again to the land of my fathers.
@@ -594,7 +594,7 @@
 590 three strong horses together with one well-polished conveyance;
 591 also a beautiful cup, so that you may pour to immortals,
 592 always remembering me through all of the days of your lifetime.”
-593 Then in reply spoke the thoughtful and steadfast young Telemachus:
+593 And in reply spoke the thoughtful and steadfast young Telemachus:
 594 “Atreus’ son, do not hold me for any long time in your household.
 595 Gladly I might for a year remain here and sit at your side still,
 596 feeling no longing arise for my home or the parents who bore me,
@@ -610,8 +610,8 @@
 606 goat-feeding country, more lovely to me than a horse-feeding country.
 607 None of the islands that lean toward the sea is a land made for horses,
 608 none is rich in its meadows, and Ithaca less than the others.”
-609 Thus he spoke, and Menelaus renowned for the war cry smiled there;
-610 stroking him there with his hand, he addressed him aloud by his name there:
+609 So he spoke, and Menelaus, renowned for the war cry, was smiling;
+610 stroking him gently with his hand, he spoke a word, and named him:
 611 “Dear child, you are of excellent blood, as your speech makes apparent.
 612 Therefore I gladly shall alter the gifts, since I have the power.
 613 Out of the many treasures that lie in the halls of my household,
@@ -639,17 +639,17 @@
 635 meaning to cross to the broad dance grounds of Elis, where twelve young
 636 mares I possess with their sturdy mule foals nursing beneath them,
 637 still unbroken, and one I would drive from the herd and then break him.”
-638 Thus he spoke; and they marveled in heart, for they never imagined
+638 So he spoke, and they marveled in heart, for they never imagined
 639 he had proceeded to Neleian Pylos; instead he was somewhere
-640 close in the fields with the flocks or beside the keeper of swine there.
-641 Then in reply spoke Antinous, son of Eupeithes:
+640 close in the fields with the flocks, or out with the swine and their herdsman.
+641 Next in reply spoke Antinous, son of Eupeithes:
 642 “Tell me the truth of the matter: what day did he leave, and what young men
 643 went at his side? Were they chosen Ithacans, or were they his own hired
 644 servants and slaves? He could manage even this kind of venture.
 645 Tell me this also truly, that I may understand clearly:
 646 did he take off with the black-hulled ship by force and unwilling
 647 leave you, or freely did you give it because his fair words had persuaded?”
-648 Then Noemon, the son of Phronius, gave him his answer:
+648 Noemon, the son of Phronius, gave him his answer directly:
 649 “Freely I gave it myself. What else could another man have done
 650 when such a man, with such cares weighing heavily down on his spirit,
 651 asked him? It would have been difficult surely to withhold the favor.
@@ -658,10 +658,10 @@
 654 Mentor—or else it was godhead exactly resembling Mentor.
 655 Yet this fills me with wonder: I saw noble Mentor here only
 656 yesterday early at dawn, though he boarded the vessel for Pylos.”
-657 Thus having spoken, he went to the house of his father and left them.
+657 So having spoken, he went to the house of his father and left them.
 658 Both men’s insolent hearts were stunned with the news that he gave them.
 659 There in a body they seated the suitors and stopped all the contests.
-660 Then Antinous, son of Eupeithes, addressed the assembly,
+660 And Antinous, son of Eupeithes, addressed the assembly,
 661 furious, while in the depth of his heart black anger was brimming,
 662 filling him greatly with wrath, and his eyes were like blazing firelight:
 663 “Curse it! A terrible deed has been arrogantly accomplished,
@@ -673,8 +673,8 @@
 669 Come then, give me a swift-running ship and companions of twenty,
 670 so I may watch for and ambush the man on the course of his homeward
 671 passage between the rugged land Samos and Ithaca’s country.
-672 Thus may his sailing in search of his father end bitter and costly.”
-673 Thus he spoke, and they all gave approval and urged the endeavor.
+672 so that his voyage in search of his father may end in disaster.”
+673 So he spoke, and they all gave approval and urged the endeavor.
 674 Straightway rising, they entered the house of the lord Odysseus.
 675 Nor did Penelope long remain unaware of the secret
 676 purpose the suitors devised and were weaving in depth of their spirits.
@@ -693,7 +693,7 @@
 689 what kind of man among all of your fathers the lord Odysseus
 690 was, never doing a deed beyond measure or speaking unjustly
 691 there in the country, although this is often the custom of godlike
-692 kings: they may hate one mortal and love one mortal in turn there.
+692 kings: they may hate one man among mortals, and cherish another.
 693 Never, however, did he commit violence against any person.
 694 Now your own hearts have been shown and the ugliness of your endeavors:
 695 afterward no gratitude lives for the good that a man has accomplished.”
@@ -704,7 +704,7 @@
 700 They are determined to kill Telemachus there with the sharp bronze
 701 during his homeward journey; he sailed out in search of his father,
 702 going to sacred Pylos and shining Lacedaemon.”
-703 Thus he spoke, and her knees and the heart in her body were loosened;
+703 So he spoke, and her knees and the heart in her body were loosened;
 704 long she was gripped by a speechlessness holding the words she would utter.
 705 Tears filled her eyes, and the flower of the voice in her throat was arrested.
 706 Yet in the end she found words and addressed him in answer, inquiring:
@@ -716,8 +716,8 @@
 712 “I do not know if some god aroused him, or whether his own heart
 713 drove him to Pylos, that there he might learn and discover his father’s
 714 homeward return, or else what destiny finally met him.”
-715 Thus having spoken, he went through the house of the lord Odysseus.
-716 Then the pain eating the heart poured around her; she no longer could bear to
+715 So having spoken, he went through the house of the lord Odysseus.
+716 Round her poured pain that eats at the heart; she no longer could bear to
 717 sit any longer, though chairs stood abundant throughout the household;
 718 down on the threshold she sank by the richly constructed bedchamber,
 719 pitifully moaning; and all of the slave women whimpered around her,
@@ -743,7 +743,7 @@
 739 Maybe Laertes shall weave some counsel in depth of his bosom,
 740 coming before all the people to weep and implore them, who purpose
 741 utterly ruining both his own line and the line of Odysseus.”
-742 Then Eurycleia, the well-loved nurse, gave answer and told her:
+742 Her in turn the well-loved nurse Eurycleia answered, saying:
 743 “Beloved child, either kill me with bronze that is pitiless, or else
 744 leave me alive in the house, but I shall not hide from you longer.
 745 All this I knew, and I gave him whatever provisions he ordered,
@@ -759,33 +759,33 @@
 755 I do not think that the gods everlasting entirely hate the
 756 line of Arceisius’ son; one man shall survive who possesses
 757 both the high-roofed house and the fertile and far-spreading farmland.”
-758 Thus did she speak, lulled the grief, and restrained both her eyelids from weeping.
-759 Then Penelope bathed and put fresh clothing around her body,
+758 So she spoke, and she lulled the grief and restrained her eyes from weeping.
+759 Bathing, Penelope put fresh clothing around her body,
 760 went with the slave women serving her up to the room at the rooftop,
 761 setting the barley grains in a basket and praying Athena:
 762 “Hear me, Unwearying daughter of Zeus who possesses the aegis!
 763 If the Odysseus of manifold counsels within this household
-764 ever burned fatty thighbones for you from an ox or a sheep here,
+764 ever burned fatty thighbones for you from an ox or a heifer,
 765 call them to mind for me now, and preserve my beloved son safely;
-766 beat the oppressive and wickedly arrogant suitors away now.”
-767 Thus did she cry, and the goddess Athena attended her prayer.
+766 drive far away the oppressive and wickedly arrogant suitors.”
+767 So having spoken, she cried aloud, and the goddess gave ear to her.
 768 Meanwhile suitors made clamor throughout all the shadowy chambers,
-769 and one of the arrogant younger men spoke to another:
+769 and so would one of the arrogant younger men say to another:
 770 “Surely the queen who is courted by many prepares for a marriage
-771 here with one of us, knowing no part of the death of her son there.”
+771 here with one of us suitors, not knowing her son’s death is plotted.”
 772 So they would speak, knowing nothing of what was prepared in the darkness.
-773 Then Antinous addressed them all in the midst of assembly:
+773 Now Antinous addressed them all in the midst of assembly:
 774 “Fools, you must keep altogether away from all arrogant speeches,
 775 lest somebody carry the word to the queen who remains in the inside.
 776 Come, let us silently rise and bring to accomplishment quickly
 777 that same plan which delighted the heart in the bosom of each man.”
-778 Thus he spoke and selected the twenty best men among them.
+778 So having spoken, he chose the twenty best men among them.
 779 Down to the swift-running ship and the sand-covered seashore they hastened.
 780 First of all they dragged down the vessel to deep-colored water,
 781 setting the mast and the sails in the black-colored ship for the passage.
 782 All of the oars they fitted inside of the leather-made oar straps,
 783 all in appropriate order, and spread out the white sail above them.
-784 High-hearted servants carried the weapons and placed them aboard there.
+784 High-hearted servants carried the weapons and stowed them aboard her.
 785 Out in the water they moored her securely and came to the seashore,
 786 ate their supper together and waited for evening to reach them.
 787 Yet in the upper room the attentive Penelope rested,
@@ -803,13 +803,13 @@
 799 This she dispatched to the house of the godlike hero Odysseus,
 800 so it might bring to Penelope, weeping and making lamentation,
 801 respite from sorrowful tears and the pain of her mourning and weeping.
-802 Into the chamber it came by the strap that secured the door bolt there,
+802 By the strap of the door-bolt it entered into the chamber,
 803 stood at the head of her bed and addressed her and gave her instruction:
 804 “Do you sleep, Penelope, while the heart in your body is grieving?
 805 No, the gods everlasting who live without trouble shall never
 806 let you lament and be anguished, for still your son has a homeward
 807 journey; he has committed no sin in the sight of immortals.”
-808 Then the attentive Penelope gave the phantom an answer,
+808 Making her answer, attentive Penelope spoke to the phantom,
 809 sleeping exceedingly sweet at the shadowy gateway of dreamland:
 810 “Why have you come to me now, dear sister? You never before were
 811 accustomed to visit, because you live very far from my household.
@@ -822,26 +822,26 @@
 818 only a boy, unpracticed in labor and councils of manhood.
 819 Therefore I mourn for the young man even more deeply than that one;
 820 trembling for him and fearing lest something befall him and hurt him,
-821 whether among the men of the land where he went or at sea there.
+821 whether among the men of the land where he journeyed, or seaward,
 822 Many the enemies plotting against him and longing to kill him,
 823 ere he returns once again to the land and the home of his fathers.”
-824 Then the shadowy phantom replied to her words and addressed her:
+824 Speaking in answer, the shadowy phantom addressed her, saying:
 825 “Take heart now, and do not excessively fear in your spirit.
 826 Such an attendant goes by his side as all other men have
 827 prayed might be standing beside them, for she has power to protect him—
 828 Pallas Athena, who pities your mourning and all your affliction;
 829 she is the one who has sent me to tell you the truth of this matter.”
-830 Then the attentive Penelope answered the phantom and told it:
+830 Once more attentive Penelope answered the phantom and told it:
 831 “If you are truly a god and have heard a divinity’s true voice,
 832 come then, reveal to me also the man so greatly afflicted:
-833 whether he still lives somewhere and looks on the light of the sun there,
+833 whether he still is alive somewhere, and looks on the sunlight,
 834 or he is dead and already has gone to the household of Hades.”
-835 Then the shadowy phantom replied to her words and addressed her:
+835 Speaking in answer, the shadowy phantom addressed her, saying:
 836 “Of that man I shall not reveal to you all of the story,
 837 whether he lives or is dead, for it is evil to speak empty language.”
-838 Thus having spoken, it slipped by the bolt at the post of the doorway,
+838 So having spoken, it slipped by the bolt at the post of the doorway,
 839 into the breath of the winds; and the daughter of lord Icarius
-840 started awake from her sleep, and the heart in her bosom was warmed then,
+840 started awake from her sleep, and the heart in her bosom grew warmer,
 841 such was the vividness there of the dream in the dark of the nighttime.
 842 Meanwhile suitors had boarded and sailed on the watery pathways,
 843 turning the sheer murder of young Telemachus over within them.

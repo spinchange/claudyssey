@@ -3,8 +3,8 @@
 *The Sirens; Scylla and Charybdis; the cattle of the Sun.*
 
 1 When our ship had departed at last from the stream of the Ocean,
-2 entering out on the swell of the broad-roaded face of the sea there,
-3 then we arrived at Aeaea, the island where early-born Dawn has
+2 out on the swell of the broad-roaded face of the sea we were entering,
+3 On to Aeaea we came, to the island where early-born Dawn has
 4 both her palace and dancing grounds and the sun has his rising.
 5 There on the sand we beached our vessel and ran her ashoreward;
 6 we ourselves disembarked on the line where the sea washed the shingle.
@@ -15,8 +15,8 @@
 11 Swiftly we cut wooden billets, and there at the farthest-projecting
 12 point of the headland we buried him, shedding our great tears in mourning.
 13 When we had burned the dead man and all of the armor belonging to him,
-14 we built the mound and dragged onto it a great pillar of stone there;
-15 then on the very top of the mound we implanted his well-fashioned oar-blade.
+14 we built up the mound, and dragged onto it a stone pillar;
+15 firmly we planted his well-fashioned oar on the top of the grave-mound.
 16 Everything thus we attended. Our coming from Hades did not pass
 17 Circe’s notice; at once she prepared herself, quickly approaching,
 18 bringing along her maids, who carried an ample provision
@@ -29,7 +29,7 @@
 25 then you shall sail, and I shall point out your road and explain each
 26 thing, so no ruinous scheme may destroy you and make you encounter
 27 terrible grief in the sea or upon the dry land in your journey.”
-28 Thus did she speak, and our proud hearts consented and yielded within us.
+28 So she spoke, and our proud hearts consented and yielded within us.
 29 So through the whole of the day till the light of the sun had descended,
 30 feasting we sat upon meat beyond counting and sweet wine beside it.
 31 But when the sun went down and the sacred darkness had gathered,
@@ -53,22 +53,22 @@
 49 Yet you yourself may listen, if that is the thing you desire:
 50 let them bind both your hands and your feet in the swift-moving vessel,
 51 upright against the mast-step, with ends of the rope round the mast-tree,
-52 so you may hear the voices of both Sirens and take your delight there.
+52 so that you may hear the voices of both of the Sirens, delighting.
 53 If you entreat your companions and order the men to release you,
-54 then let the men bind you down with a greater number of bonds there.
+54 then let the men bind you down in a greater number of fetters.
 55 After your comrades have driven the vessel beyond them, I shall not
 56 tell you completely from there which road you must choose of the two ways.
 57 You must weigh every choice in the heart that is beating within you;
 58 yet I will give an account of both, so that you can consider.
 59 On the one side are the overhanging rocks, and against them
 60 roars the tremendous swell of Amphitrite, the dark-eyed sea-queen;
-61 all of the blessed immortals call these the Wandering Rocks there.
+61 these are the rocks the blessed immortal gods call the Wanderers.
 62 That way even the winged things cannot pass through, nor the timid
 63 doves that bring ambrosia upward to father Zeus’s dwelling;
 64 always the vertical rock takes one from the line as they pass it,
-65 then the great Father sends one more bird, so their number remains full.
+65 but the great Father sends one more bird, so their number remains full.
 66 That way never has any man’s ship succeeded in passing;
-67 pieces of ships and the bodies of men are together conveyed there,
+67 pieces of ships and the bodies of men are conveyed all together,
 68 carried away by the salt-water waves and the storms of destructive fire.
 69 Only one sea-running vessel has ever gone safely between them,
 70 Argo, renowned in the minds of all men, coming home from Aeetes;
@@ -92,7 +92,7 @@
 88 ever with joy, not even a god should an immortal meet her.
 89 Twelve are the feet that she has, and each one dangles beneath her;
 90 six are the necks she possesses, immensely long, and on each neck
-91 sits one hideous head, and the teeth stand in three crowded rows there,
+91 sits one hideous head, and the teeth in three crowded rows are standing,
 92 crowded and thick, and containing the blackest destruction within them.
 93 Up to her middle she stands in the hollow cave that encloses
 94 her, but the heads are extended outside of the terrible chasm;
@@ -112,23 +112,23 @@
 108 No, draw as close as you can to the crag where Scylla is living,
 109 quickly drive past in your vessel; for it is exceedingly better
 110 six of the men in your vessel should die than your whole band together.”
-111 Thus did she speak, and I answered the goddess and said in response then:
+111 So she spoke, and in words of response I answered the goddess:
 112 “Goddess, come tell me this other, and speak with the truth as I ask you:
 113 might I in any way slip from below death-dealing Charybdis,
-114 then stand off Scylla and fight when she comes for my faithful companions?”
-115 Thus did I speak, and at once the radiant goddess responded:
+114 stand off Scylla and fight her when she assails my companions?”
+115 So I spoke, and at once the radiant goddess responded:
 116 “Hardy man, your heart even now is concerned with the works of the war-god,
 117 also with struggle. Will you not yield to the deathless immortals?
 118 Scylla is no mortal creature, but evil immortal,
 119 terrible, grim and savage, a thing that can never be battled.
 120 There is no defense; in fleeing from her lies the greatest of courage.
 121 If by the crag you remain for a moment to put on your armor,
-122 then, as I fear, she may dart once again from the cave and attack you,
-123 seize with all six heads and carry six more of your men there.
+122 fearful I am she may dart once again from the cave and attack you,
+123 seize with all six of her heads, and carry off six more of your comrades.
 124 Row with all strength you possess, and invoke the divine Crataeis,
 125 mother of Scylla, who bore her to serve as a plague upon mortals;
 126 she will restrain her from darting a second time to attack you.
-127 Then you will reach Thrinacia’s island, and there in abundance
+127 Unto Thrinacia’s island you come, and there in abundance
 128 graze Helios’ cattle with all of his strong-fleeced sheep-flocks,
 129 seven herds of the cattle and also as many beautiful sheep-flocks,
 130 fifty in each; they produce no young and are never diminished.
@@ -142,8 +142,8 @@
 138 journey, you still may arrive upon Ithaca, suffering greatly.
 139 But if you harm them, I prophesy utter destruction
 140 both for your ship and companions; and even if you should escape it,
-141 late will you come and in evil condition, with all comrades lost there.”
-142 Thus did she speak; and at once came Dawn on her gold-glimmering throne-seat.
+141 late will you come and in evil condition, having lost all companions.”
+142 So she spoke; and at once came Dawn on her gold-glimmering throne-seat.
 143 Then she proceeded away up the island, the radiant goddess;
 144 I made my way to the ship and aroused my companions from slumber,
 145 bidding them board in their turn and release every stern-fastened cable.
@@ -152,33 +152,33 @@
 148 Circe behind our vessel, the dark-blue-prowed ship of the seaway,
 149 sent us a following wind that filled out the sail, a companion
 150 excellent, Circe of beautiful hair, dread goddess, humanly speaking.
-151 Then, when we carefully tended the tackle throughout the black vessel,
+151 Straightway, tending the tackle in order throughout the black vessel,
 152 taking our seats, we were borne on our way by the wind and the steersman.
 153 Grieving at heart, I addressed the companions who sat in the vessel:
 154 “Friends, it is not fitting that only one man or two men
 155 know of the fates that the radiant goddess Circe revealed me;
 156 therefore I speak, so that knowing them all we may either be dying,
-157 or turn aside from the death and destruction and make our escape there.
+157 or make our escape, turning aside from the death and destruction.
 158 First she commanded avoidance of marvelous Sirens, the beautiful
 159 voices they have and the flowering meadow where both sit together.
 160 Me she alone gave leave to be hearing their song, but you others
 161 bind me in painful bonds, so I stay unmoving before you,
 162 upright against the mast-step, with ends of the rope round the mast-tree.
 163 If I entreat you and order the men to release me from bondage,
-164 then you must bind me down with a greater number of bonds there.”
+164 then you must bind me down in a greater number of fetters.”
 165 Everything thus I explained as I spoke to the faithful companions,
 166 while the well-constructed ship kept running with speed on the water,
 167 nearing the island of both Sirens, compelled by the fair wind.
 168 Suddenly there the wind came to rest, and a breathless and perfect
 169 calmness arose, for a god lulled all of the waves into slumber.
-170 Then the companions arose and furled up the sails of the vessel,
+170 My companions arose and they furled up the sails of the vessel,
 171 stowed them away in the hollow ship, and sat down by the oar-blades,
 172 whitening water around them with polished fir oars in their rowing.
 173 I with the edge of the bronze cut pieces from one rounded wax cake,
 174 small in their size, and I kneaded them all in my powerful fingers;
 175 quickly the wax grew warm, compelled by the strength I exerted,
 176 also the beam of the lord Hyperion’s Helios, sun-god.
-177 Then, going man after man, I stopped both ears of my comrades.
+177 Going from man to man, I stopped up the ears of my comrades.
 178 They in the vessel bound both my hands and my feet there together,
 179 upright against the mast-step, with ends of the rope round the mast-tree;
 180 sitting in order, they struck with the polished oars on the gray brine.
@@ -193,8 +193,8 @@
 189 Well do we know every deed that throughout wide Troy the Achaeans
 190 and all the Trojans endured and accomplished by will of immortals;
 191 well do we know every thing that occurs on the nourishing earth-land.”
-192 Thus did they sing as they sent from the meadow their beautiful voices;
-193 then my heart longed terribly to hear, and I ordered the comrades
+192 So they spoke, as they sent from the meadow their beautiful voices;
+193 but my own heart longed terribly to hear, and I ordered the comrades
 194 there to release me, signaling them with my eyebrows; but forward
 195 they bent and rowed, and Perimedes arose with Eurylochus quickly,
 196 binding me down with a greater number of bonds and constricting.
@@ -211,7 +211,7 @@
 207 standing beside every man and exhorting him gently in order:
 208 “Friends, we are certainly not unacquainted with evils and hardships.
 209 This is no greater an evil than when in his powerful cavern
-210 Cyclops confined us by terrible force, and yet from the cave there,
+210 Cyclops confined us by terrible force, and yet from its hollow,
 211 aided by my great prowess and counsel and thoughtful perception,
 212 all we escaped. Some day, I imagine, we shall remember this also.
 213 Come now, every one of you do precisely the thing I command you.
@@ -223,7 +223,7 @@
 219 ship: keep the vessel outside of that smoke and the surf of the water;
 220 hold to the crag, lest before you perceive it she suddenly races
 221 off to the opposite side and you throw all of us in the evil.”
-222 Thus did I speak, and the men gave heed to the word I had spoken.
+222 So I spoke, and the men gave heed to the word I had spoken.
 223 Yet of Scylla I did not tell, of that inescapable horror,
 224 fearing that all my companions, becoming terrified, might abandon
 225 oars and go packing themselves in the hold of the vessel together.
@@ -238,7 +238,7 @@
 234 So through the straits we proceeded in grief and lamentation,
 235 Scylla upon the one side, and shining Charybdis upon the
 236 other, in terrible swallows gulping the salt of the sea down.
-237 When she vomited upward, resembling over a powerful fire there
+237 When she vomited up, over a powerful fire resembling
 238 some great cauldron, she boiled and seethed in her whole depth with churning;
 239 high flew the foam till it fell on the summits of both mighty crag-tops.
 240 Yet when she swallowed again the salt sea’s turbulent water,
@@ -267,7 +267,7 @@
 263 cattle and numerous powerful sheep of the lord Hyperion.
 264 While on the open sea and aboard the black vessel, I heard the
 265 lowing of cattle returning to folds and the bleating of sheep-flocks.
-266 Then in my heart I remembered the words of the prophet and seer-man,
+266 And in my heart I remembered the words of the prophet and seer-man,
 267 blind Tiresias, Theban by birth, and the goddess of Aeaea,
 268 Circe, who over and over commanded avoidance of Helios’
 269 island, the land of the sun-god who brings such delight to the mortals.
@@ -278,8 +278,8 @@
 274 shunning the island of Helios, bringer of joy to the mortals;
 275 there she declared the most terrible evil is waiting to take us.
 276 Drive the black vessel far from the isle, and continue beyond it.”
-277 Thus did I speak, and their own hearts broke in their bodies completely.
-278 Then did Eurylochus answer me straightaway with his hateful
+277 So I spoke, and their own hearts broke in their bodies completely.
+278 Quickly Eurylochus answered me, uttering back his hateful
 279 language: “Hard is your heart, Odysseus; your strength is excessive;
 280 none of your limbs ever tires. You surely are fashioned of iron,
 281 since you refuse to allow your companions, exhausted from labor
@@ -295,18 +295,18 @@
 291 No; for the present we all should yield to the blackness of nightfall,
 292 making our supper prepared and remaining beside the swift vessel;
 293 when Dawn appears, we shall board her again and sail onto wide sea.”
-294 Thus spoke Eurylochus, and the other companions approved him.
+294 So spoke Eurylochus, and the other companions approved him.
 295 Then I knew well an immortal was plotting an evil against us;
 296 raising my voice, I addressed him, and these words took wing as I uttered:
 297 “Lord Eurylochus, I am only one man, and you force me.
-298 Come then, every one of you swear me a powerful oath here:
+298 Come then, all of you swear me a powerful oath I may trust in:
 299 if we encounter a herd of the cattle or beautiful great flock
 300 there of the sheep, let no one in terrible blind-minded folly
 301 slaughter a sheep or a cow, but remain there quiet and feed on
 302 all of the food that immortal Circe supplied for our journey.”
-303 Thus did I speak, and at once they swore the strong oath as I ordered.
+303 So I spoke, and at once they swore the strong oath as I ordered.
 304 When they had sworn, and they brought their oath to a proper completion,
-305 then we proceeded to moor the well-constructed ship in a hollow
+305 we ourselves brought to moorings the well-constructed ship in a hollow
 306 harbor, beside a spring from which sweet-flowing water was rising.
 307 All the companions went out on the shore and skillfully fashioned supper.
 308 After we put away all desire for eating and drinking,
@@ -325,8 +325,8 @@
 321 therefore keep hands from the cattle, lest terrible harm come upon us.
 322 These are the cattle and powerful sheep of a terrible godhead,
 323 Helios, lord who sees all things and hears every utterance.”
-324 Thus did I speak, and their proud hearts consented and yielded within them.
-325 Then for an entire month the South Wind blew without ceasing;
+324 So I spoke, and their proud hearts consented and yielded within them.
+325 All through a month entire the South Wind blew without ceasing;
 326 never another wind rose but the East Wind and powerful South Wind.
 327 While there remained any bread in the ship or the fire-colored red wine,
 328 all kept their hands from the cattle because of desire for their lifebreath.
@@ -337,10 +337,10 @@
 333 Then I proceeded away up the island, desiring to offer
 334 prayers to the gods, in the hope one might show me a path to my homeland.
 335 When, going over the island, I left my companions behind me,
-336 then I washed both my hands in a shelter secure from the windstorm;
+336 having washed both my hands in a shelter secure from the windstorm;
 337 there I prayed to all of the gods who possess great Olympus,
-338 but they poured down a sweetness of sleep on the lids of my eyes there.
-339 Then did Eurylochus give his companions a ruinous counsel:
+338 but down on the lids of my eyes they poured a sweetness of slumber.
+339 Eurylochus led for his comrades the way to a ruinous counsel:
 340 “Hear these words, my comrades, although you are suffering hardship.
 341 Every manner of death is hateful to miserable mortals,
 342 but to die from hunger and meet with one’s doom is most pitiful.
@@ -353,21 +353,21 @@
 349 shatter our ship, and the other immortals consent to his purpose,
 350 I would prefer with one gulp of the wave to surrender my lifebreath,
 351 rather than slowly to starve on an island abandoned and empty.”
-352 Thus spoke Eurylochus, and the other companions approved him.
+352 So spoke Eurylochus, and the other companions approved him.
 353 Swiftly they drove the best of the cattle of Helios toward them,
 354 grazing nearby, since not at a distance from our dark-blue-prowed
 355 vessel the beautiful broad-browed cattle with curved horns were grazing.
-356 Standing around the victims, they prayed to the gods, and they plucked there
+356 Standing around the victims, they prayed to the gods, and were plucking
 357 tender young leaves from the crown of an oak tree that towered above them,
 358 since no white barley remained in the well-benched vessel for worship.
 359 After they prayed and had cut all the throats and had skinned the dead victims,
-360 then they cut out the thigh bones and wrapped them with fat in abundance,
+360 cutting the thigh bones out, they wrapped them in fat in abundance,
 361 folding it double, and over the fat placed pieces of raw meat.
 362 Since they had no wine to pour in libation on blazing oblations,
 363 water they poured, and they roasted the inward parts over the fire.
 364 After the thigh bones burned and they tasted the entrails together,
-365 then they cut all that remained into pieces and threaded the spit-rods.
-366 Then did the sleep of great depth fly off from the lids of my eyes there;
+365 all that remained they cut into pieces and threaded the spit-rods.
+366 Then from the lids of my eyes did the sleep of great depth go flying;
 367 down to the swift-running ship and the shore of the sea I proceeded.
 368 But as I came in my walking to where the curved vessel was waiting,
 369 round me the sweet-smelling cloud of the fat’s smoke suddenly drifted.
@@ -377,7 +377,7 @@
 373 while my companions remained and devised this monstrous transgression.”
 374 Swiftly the message was carried to lord Hyperion’s Helios;
 375 long-robed Lampetie brought him the news we had slaughtered his cattle.
-376 Then with his anger aroused he addressed the assembled immortals:
+376 At once, with his anger aroused, he addressed the assembled immortals:
 377 “Father Zeus, and you other blessed gods who live forever,
 378 punish the faithful companions of lord Odysseus, Laertes’
 379 son, for they wickedly slaughtered my cattle, the creatures I always
@@ -385,33 +385,33 @@
 381 also whenever I turned from the heavens toward earth and its creatures.
 382 If they do not pay me an equitable price for my cattle,
 383 I shall descend into Hades and shine for the people departed.”
-384 Then cloud-assembling Zeus the almighty responded in answer:
+384 Answering him spoke Zeus the almighty, assembler of storm-clouds:
 385 “Helios, shine as before for the deathless immortals above us,
 386 also for mortals who live on the grain-giving fields of the earth-land.
 387 As for the men you accuse, I shall soon strike their swift-moving vessel,
 388 using my glittering thunderbolt, breaking it midmost on wine-dark sea-brine.”
 389 This in the time afterward I heard from Calypso, the fair-haired;
 390 she said she heard the story herself from the guide-god Hermes.
-391 When I had come once again to the ship and the shore of the sea there,
+391 When I had come once again down to the ship and the sea-brine,
 392 going to every man, I rebuked them, but there was no remedy
 393 anywhere we could discover; the cattle already were lifeless.
-394 Soon the immortals began to display strange signs for the men there:
+394 Soon thereafter the immortals revealed to the men strange portents:
 395 hides of the cattle crawled, and the meat on the spits gave a lowing,
 396 both what was roasted and raw, and the voice came forth like the cattle’s.
 397 Six days afterward all my faithful companions continued
-398 feasting on Helios’ cattle they stole, the best in the herd there.
+398 feasting, since they had driven away the best of Helios’ cattle.
 399 But when Zeus, son of Cronus, at last brought the seventh day to us,
 400 only then did the wind desist from the raging strength of the squall-storm.
 401 Swiftly we boarded the vessel and sailed on the broad face of sea-brine,
 402 setting the mast upright and extending the glistening white sails.
-403 After we left the island behind, and no other land there
+403 After we left the island behind us, and no land other
 404 anywhere showed, but the sea and the heavens extended before us,
 405 then did the son born of Cronus establish a dark-colored cloud bank
 406 over the hollow vessel; the sea turned black underneath it.
 407 She did not run much longer; at once came the shrieking and storming
 408 West Wind, fiercely assaulting the ship with a great howling squall-storm.
 409 Both of the forestays snapped from the powerful blast of the tempest;
-410 backward the mast fell, casting its tackle all into the bilge there.
+410 backward the mast fell, and into the bilge went all of its tackle.
 411 There in the stern of the ship did the mast strike downward and crush the
 412 head of the steersman, breaking the bones of the skull all together;
 413 just like a diver he dropped from the deck of the vessel to water,
@@ -420,7 +420,7 @@
 416 all of the ship reeled round when struck by the bolt of the thunder-god,
 417 filled with the sulfur’s stench, and the men fell out of the vessel.
 418 Like the sea-crows they were carried around the black hull in the water,
-419 borne on the waves, and the god denied their homeward return there.
+419 borne on the waves, and the god denied them their homeward returning.
 420 Yet I kept moving throughout the ship, till the storm-surge
 421 ripped both of her sides from the keel and a wave carried off the bare bottom,
 422 snapping the mast from the keel; but round that mast had been tangled
@@ -453,5 +453,5 @@
 449 lives, the dread goddess, humanly speaking, with beautiful tresses;
 450 she gave me love and attended me. Why should I tell you the tale twice?
 451 Only yesterday here in this house I recounted the story,
-452 both to yourself and your powerful wife; and it is hateful to me now,
+452 both to yourself and your powerful wife; and to me it is hateful,
 453 telling a story again that was fully and plainly recounted.”

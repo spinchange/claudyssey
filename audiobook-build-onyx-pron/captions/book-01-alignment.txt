@@ -1,349 +1,349 @@
 ODYSSEY — BOOK I full-book caption alignment
-Duration: 1431.338s
+Duration: 1434.360s
 Narration cues: 340
 Source words: 4541
-Directly matched source words: 4300 (94.7%)
-Recognized words: 4543
+Directly matched source words: 4281 (94.3%)
+Recognized words: 4506
 Visual lead: 0.16s
 
 Cue | Start | Anchor | Missing prefix | Caption
-  1 |    6.220 | Tell               |              0 | Tell me the man, Muse — the man / of many turnings, who was driven
-  2 |   10.320 | wandering          |              0 | wandering far, once he had sacked Troy's holy citadel:
-  3 |   14.660 | Many               |              0 | many were the cities of men he saw, / and he learned their minds,
-  4 |   18.200 | Many               |              0 | many the griefs he suffered at heart on the open sea,
-  5 |   21.280 | striving           |              0 | striving to win his own life / and his companions' homecoming.
-  6 |   25.180 | Even               |              0 | Even so he could not save them, hard though he strove:
-  7 |   28.300 | They               |              0 | they perished by their own recklessness, / fools, who ate the cattle of Helios Hyperion,
-  8 |   34.600 | and                |              0 | and the god took from them their day of homecoming.
-  9 |   37.360 | Begin              |              0 | Begin where you will, goddess, / daughter of Zeus — tell us, too, the tale.
- 10 |   41.680 | By                 |              0 | By then all the others, all who had escaped sheer ruin, / were home, safely past the war and past the sea.
- 11 |   48.840 | him                |              0 | Him alone — aching for homecoming and his wife —
- 12 |   51.420 | The                |              0 | the queenly nymph Calypso, / shining among goddesses, held back
- 13 |   55.300 | in                 |              0 | in her hollow caves, hungry to make him her husband.
- 14 |   58.560 | But                |              0 | But when the year came, in the wheeling round of seasons,
- 15 |   61.900 | in                 |              0 | in which the gods had spun the thread of his return / home to Ithaca — not even there was he free of trials,
- 16 |   67.860 | even               |              0 | even among his own. And the gods pitied him, / all but Poseidon: he raged without rest
- 17 |   73.820 | against            |              0 | against godlike Odysseus, / until the day he reached his own land.
- 18 |   77.680 | But                |              0 | But now Poseidon was gone among the far-off Ethiopians —
- 19 |   81.020 | The                |              0 | the Ethiopians, sundered in two, remotest of mankind, / half where Hyperion sets and half where he rises —
- 20 |   88.920 | to                 |              0 | to receive a hecatomb of bulls and rams, and there / he sat at the feast, delighting. But the other gods
- 21 |   94.980 | were               |              0 | were gathered together in the halls of Olympian Zeus,
- 22 |   98.100 | And                |              0 | and among them the father of men and gods began to speak, / for his heart was remembering blameless Aegisthus,
- 23 |  104.340 | whom               |              0 | whom Agamemnon's son, far-famed Orestes, killed.
- 24 |  108.140 | Remembering        |              0 | Remembering him, he spoke among the immortals:
- 25 |  111.040 | shameful,          |              0 | "Shameful! — how mortals lay their blame upon the gods.
- 26 |  114.620 | From               |              0 | From us, they say, all evils come — while they themselves,
- 27 |  117.460 | by                 |              0 | by their own recklessness, / earn griefs beyond their portion:
- 28 |  120.900 | As                 |              0 | as Aegisthus now, beyond his portion, took to wife
- 29 |  123.700 | the                |              0 | the wedded bride of Atreus' son, / and killed the man at his homecoming,
- 30 |  127.760 | knowing            |              0 | knowing it meant sheer ruin — for we told him beforehand,
- 31 |  131.120 | sending            |              0 | sending Hermes down, the sharp-eyed slayer of Argus, / not to kill the man and not to court his wife:
- 32 |  137.220 | for                |              0 | for vengeance for the son of / Atreus would come from Orestes
- 33 |  140.020 | the                |              0 | the day he came of age and longed for his own land.
- 34 |  143.300 | so                 |              0 | So Hermes spoke, meaning him well — / but the mind of Aegisthus
- 35 |  146.660 | he                 |              0 | he could not turn. Now he has / paid for everything at once."
- 36 |  150.260 | Then               |              0 | Then the goddess answered him, gray-eyed Athena:
- 37 |  153.420 | Father             |              0 | "Father of us all, son of Cronos, highest of the mighty, / that man, yes, lies in a ruin he richly earned —
- 38 |  160.380 | So                 |              0 | so may any other perish who does such things.
- 39 |  162.820 | but                |              0 | But my heart is on fire for battle-wise Odysseus, / ill-starred man, who far from his own people suffers long
- 40 |  169.120 | a                  |              1 | on a sea-ringed island, at the navel of the sea.
- 41 |  172.280 | A                  |              0 | A wooded island; a goddess has her dwelling there, / the daughter of Atlas the deadly-minded, he who knows
- 42 |  178.000 | the                |              0 | the depths of every sea, and himself grips the pillars, / the tall ones, that hold earth and heaven apart.
- 43 |  184.920 | It                 |              0 | It is his daughter who keeps that broken, grieving man,
- 44 |  188.020 | and                |              0 | and always with soft words, with winding, coaxing words, / she charms him to forget Ithaca. But Odysseus,
- 45 |  194.820 | who                |              0 | who would be glad to see even the smoke go leaping / up from his own country, aches to die. And your heart
- 46 |  200.480 | does               |              0 | does not turn for it, Olympian. Did Odysseus never / please you, offering sacrifice beside the Argive ships
- 47 |  206.660 | wide               |              1 | in wide Troy? Why so at odds with Odysseus, Zeus?"
- 48 |  210.600 | then               |              0 | Then Zeus who gathers the clouds answered her:
- 49 |  214.580 | My                 |              0 | "My child, what a word has / slipped the fence of your teeth!
- 50 |  217.860 | How                |              0 | How could I ever forget godlike Odysseus, / who is beyond all mortals in mind, and beyond all others gave
- 51 |  224.120 | offerings          |              0 | offerings to the deathless gods who hold wide heaven?
- 52 |  227.640 | No,                |              0 | No: it is Poseidon who holds the earth, in anger
- 53 |  230.520 | unbending,         |              0 | unbending, always, for the Cyclops, / whose one eye Odysseus blinded —
- 54 |  236.680 | whose              |              2 | godlike Polyphemus, whose power is greatest among / all the Cyclopes. The nymph Thoösa bore him,
- 55 |  242.100 | daughter           |              0 | daughter of Phorcys, a lord of the barren salt sea, / when in her hollow caves she lay with Poseidon.
- 56 |  248.180 | Ever               |              0 | Ever since, Poseidon the shaker of earth does not kill
- 57 |  251.340 | Odysseus,          |              0 | Odysseus, but drives him wandering from his father's land.
- 58 |  255.340 | But                |              0 | But come, let all of us here take careful thought together
- 59 |  258.000 | for                |              0 | for his homecoming — how he shall come. Poseidon / will let go his anger. He cannot, against us all,
- 60 |  265.020 | wrangle            |              0 | wrangle alone in the teeth of the deathless gods."
- 61 |  267.980 | Then               |              0 | Then the goddess answered him, gray-eyed Athena:
- 62 |  270.820 | father             |              0 | "Father of us all, son of Cronos, highest of the mighty, / if this now truly pleases the blessed gods,
- 63 |  276.780 | that               |              0 | that Odysseus of the many designs / come home to his own house,
- 64 |  279.840 | Then               |              0 | then let us dispatch Hermes, the guide, the slayer of / Argus, to the island Ogygia, so that with all speed
- 65 |  286.280 | he                 |              0 | he may tell the nymph of the / lovely braids our fixed decree:
- 66 |  289.980 | the                |              0 | the homecoming of enduring-hearted / Odysseus — that he shall return.
- 67 |  294.040 | And                |              0 | And I will go to Ithaca, to stir his son the more, / and set strength of purpose in his heart
- 68 |  298.800 | to                 |              0 | to call the long-haired Achaeans into assembly / and speak out to all the suitors, who day upon day
- 69 |  304.640 | slaughter          |              0 | slaughter his thronging flocks and / his shambling crook-horned cattle.
- 70 |  308.640 | And                |              0 | And I will send him to Sparta and to sandy Pylos
- 71 |  311.500 | to                 |              0 | to ask after his dear father's / homecoming, if he may hear of it —
- 72 |  315.400 | and                |              0 | and so that good report among men may be his."
- 73 |  318.440 | So                 |              0 | So she spoke, and bound beneath / her feet the beautiful sandals,
- 74 |  323.220 | golden,            |              1 | ambrosial, golden, that carry her over the water and / over the boundless earth with the breath of the wind;
- 75 |  328.160 | and                |              0 | and she took up her strong spear, edged with sharp bronze,
- 76 |  332.020 | heavy,             |              0 | heavy, huge, and solid, / with which she breaks the ranks of men,
- 77 |  335.940 | of                 |              0 | of heroes, when the daughter of / the mighty Father is angered.
- 78 |  339.460 | Down               |              0 | Down she went, darting from the peaks of Olympus, / and stood in the land of Ithaca at Odysseus' doorway,
- 79 |  345.600 | on                 |              0 | on the courtyard's threshold, / the bronze spear in her palm,
- 80 |  349.200 | in                 |              0 | in the likeness of a stranger: / Mentes, leader of the Taphians.
- 81 |  353.200 | There              |              0 | There she found the lordly suitors. They were pleasing
- 82 |  355.780 | their              |              0 | their hearts with counters, out in front of the doors,
- 83 |  358.380 | sitting            |              0 | sitting on hides of oxen they themselves had slaughtered, / with heralds and quick serving-men among them:
- 84 |  363.520 | Some               |              0 | some were mixing wine and water in the great bowls, / and some were wiping the tables down with porous sponges
- 85 |  369.180 | and                |              0 | and setting them out, and some carved meat in plenty.
- 86 |  372.880 | Telemachus         |              1 | Godlike Telemachus saw her far the first, / for he sat among the suitors, sore at heart,
- 87 |  378.260 | seeing             |              0 | seeing his noble father in his / mind's eye: if only he would come
- 88 |  381.660 | from               |              0 | from somewhere, and make a scattering / of the suitors through the house,
- 89 |  385.740 | and                |              0 | and take back his honor, / and be lord of his own possessions.
- 90 |  389.360 | So                 |              0 | So he brooded, sitting among / the suitors — and he saw Athena.
- 91 |  393.440 | went               |              1 | He went straight for the porch, indignant at heart
- 92 |  395.980 | that               |              0 | that a stranger be left standing / at the door; and standing near her
- 93 |  399.400 | he                 |              0 | he took her right hand, / and relieved her of the bronze spear,
- 94 |  402.820 | and                |              0 | and lifting his voice he spoke winged words to her:
- 95 |  405.860 | welcome            |              0 | "Welcome, stranger. Here you will / find kindness — and afterward,
- 96 |  409.560 | when               |              0 | when you have tasted supper, / you shall tell us what you need."
- 97 |  412.860 | so                 |              0 | So saying he led the way, and Pallas Athena followed.
- 98 |  416.400 | And                |              0 | And when they were inside the high-roofed house, / he carried the spear to the tall pillar and set it upright
- 99 |  423.020 | inside             |              0 | inside the polished spear-rack, where already other / spears stood in numbers, enduring-hearted Odysseus' own;
-100 |  429.960 | and                |              0 | and he led her to a high seat, / spreading linen beneath her,
-101 |  433.540 | a                  |              0 | a beautiful seat, cunningly worked, / with a footstool for her feet.
-102 |  437.860 | For                |              0 | For himself he set a painted bench / beside her, apart from the others,
-103 |  441.760 | the                |              0 | the suitors, for fear the stranger, sickened by the din,
-104 |  445.140 | might              |              0 | might lose all taste for supper, fallen among bullies —
-105 |  448.620 | and                |              0 | and so that he might ask him about his absent father.
-106 |  452.280 | A                  |              0 | A handmaid brought water for their hands in a pitcher,
-107 |  455.160 | a                  |              0 | a beautiful golden one, and poured it over a silver basin
-108 |  458.240 | for                |              0 | for them to wash, and drew up / a polished table beside them.
-109 |  462.000 | The                |              0 | The grave housekeeper brought / bread and set it before them,
-110 |  465.660 | laying             |              0 | laying out delicacies in plenty, giving gladly of her / store; a carver lifted platters of meat of every kind
-111 |  472.340 | and                |              0 | and set them down, and placed gold cups beside them,
-112 |  476.040 | and                |              0 | and a herald kept coming round to them, pouring the wine.
-113 |  479.600 | In                 |              0 | In came the lordly suitors, and they took their seats / in order on the benches and the high-backed chairs.
-114 |  485.960 | poured             |              1 | Heralds poured water over their hands, / slave-women heaped bread in baskets at their sides,
-115 |  490.880 | and                |              0 | and young men crowned the mixing-bowls with drink,
-116 |  493.560 | and                |              0 | and their hands went out to the / good things spread before them.
-117 |  496.960 | But                |              0 | But when they had put away desire for food and drink, / the suitors — other things now filled their hearts:
-118 |  502.500 | song               |              0 | song and dance, for these are the ornaments of a feast.
-119 |  506.000 | A                  |              0 | A herald put the beautiful lyre into the hands of / Phemius, who sang for the suitors under compulsion,
-120 |  511.480 | and                |              0 | and he swept the strings and struck up his lovely singing.
-121 |  515.060 | But                |              0 | But Telemachus spoke to gray-eyed Athena, leaning / his head close, so that the others might not hear:
-122 |  521.100 | Dear               |              0 | "Dear stranger, will you take offense at what I say?
-123 |  524.340 | These              |              0 | These men care only for such things — the lyre and song —
-124 |  528.080 | and                |              0 | and easily, since unpunished / they devour another man's living:
-125 |  531.520 | A                  |              0 | a man whose white bones rot somewhere in the rain, / lying on a mainland shore, or the salt wave rolls them.
-126 |  537.860 | But                |              0 | But if they saw him once come home to Ithaca, / every man of them would pray to be quicker on his feet
-127 |  543.400 | rather             |              0 | rather than richer in gold and fine clothes.
-128 |  545.980 | But                |              0 | But no — he has perished by an / evil doom, and for us there is
-129 |  549.420 | no                 |              0 | no comfort left, not though some man upon the earth
-130 |  552.160 | should             |              0 | should say he is coming still: / his day of homecoming is lost.
-131 |  556.420 | But                |              0 | But come, tell me this, and tell it to me truly:
-132 |  559.400 | What               |              0 | What man are you, and from where? / Where are your city and your parents?
-133 |  563.380 | On                 |              0 | On what kind of ship did you come? And how did / sailors bring you to Ithaca? Who did they claim to be?
-134 |  569.260 | For                |              0 | For I hardly think you came here on foot.
-135 |  571.720 | And                |              0 | And tell me this too, honestly, so that I may know it:
-136 |  574.740 | Is                 |              0 | is this your first coming here, or are you from of old
-137 |  577.080 | my                 |              0 | my father's guest-friend? For many were the men who came
-138 |  579.980 | to                 |              0 | to our house — since he, too, went much among mankind."
-139 |  583.460 | Then               |              0 | Then the goddess spoke to him again, gray-eyed Athena:
-140 |  588.220 | Then               |              0 | "Then I will tell you all of it, and truly.
-141 |  591.220 | I                  |              0 | I declare myself Mentes, son of wise Anchialus, / and I am lord of the oar-loving Taphians.
-142 |  598.420 | Now                |              0 | Now I have put in here with my ship and my companions, / sailing the wine-dark sea toward men of alien speech,
-143 |  605.020 | to                 |              0 | to Temese, after copper; / the cargo I carry is gleaming iron.
-144 |  609.620 | My                 |              0 | My ship stands off in the fields, away from the city, / in the harbor of Rheithron, under wooded Neion.
-145 |  616.180 | Guest              |              0 | Guest-friends of each other's houses we declare ourselves / from the beginning — only go and ask the old man,
-146 |  622.300 | the                |              0 | the hero Laertes, who they say comes no more to the city, / but far out in the fields endures his sorrows
-147 |  628.140 | with               |              0 | with one old serving-woman, who sets his food and drink
-148 |  631.120 | before             |              0 | before him whenever weariness takes hold of his limbs / as he creeps along the rise of his terraced vineyard.
-149 |  637.080 | And                |              0 | And now I have come. They said / he was here among his people —
-150 |  640.960 | your               |              0 | your father. But no: the gods are thwarting his road.
-151 |  644.920 | For                |              0 | For noble Odysseus has not yet died anywhere on earth; / he lives still, held back somewhere on the wide sea,
-152 |  651.540 | on                 |              0 | on a sea-ringed island, and hard men have him, / savages, who hold him there, I think, against his will.
-153 |  657.500 | And                |              0 | And now I will prophesy to you, as the immortals / cast it into my heart, and as I believe it will be —
-154 |  663.160 | though             |              0 | though I am no prophet, no sure reader of birds.
-155 |  665.980 | He                 |              0 | He will not now be long away from his own dear / country, no, not if iron chains should hold him:
-156 |  671.640 | He                 |              0 | he will find a way to come home, / for he is a man of many devices.
-157 |  675.600 | But                |              0 | But come, tell me this, and tell it to me truly:
-158 |  678.860 | whether            |              0 | whether you, grown so tall, / are the son of Odysseus himself.
-159 |  682.740 | The                |              0 | The likeness is uncanny — the head, the fine eyes.
-160 |  685.960 | We                 |              0 | We were often in each other's company, he and I, / before he went up into Troy, where the others also,
-161 |  691.000 | the                |              0 | the best of the Argives, went in the hollow ships.
-162 |  694.060 | Since              |              0 | Since that day I have not seen Odysseus, nor he me."
-163 |  697.780 | Then               |              0 | Then clear-headed Telemachus answered her:
-164 |  700.080 | then               |              0 | "Then I will tell you, stranger, all of it, and truly.
-165 |  703.600 | My                 |              0 | My mother says I am his. For myself, I cannot know:
-166 |  706.740 | no                 |              0 | no man yet has been witness to his own begetting.
-167 |  709.400 | Would              |              0 | Would that I had been the son of some blessed man / whom old age overtook among his own possessions!
-168 |  714.260 | instead            |              0 | Instead, the man born unluckiest of mortal men — / his son, they say, I am. Since you ask me this."
-169 |  720.400 | Then               |              0 | Then the goddess spoke to him again, gray-eyed Athena:
-170 |  723.640 | The                |              0 | "The gods have not appointed your line to be nameless / in time to come: Penelope has borne too fine a son.
-171 |  729.560 | but                |              0 | But come, tell me this, and tell it to me truly:
-172 |  733.100 | What               |              0 | What feast is this, what gathering? / What is your part in it?
-173 |  736.260 | A                  |              0 | A banquet? A wedding? For plainly / no man here brought his own share:
-174 |  740.220 | so                 |              0 | so overweening, so past all bounds they seem to me, / feasting through the house. A man would burn with anger,
-175 |  745.840 | seeing             |              0 | seeing shame upon shame — any man of sense who entered."
-176 |  748.780 | then               |              0 | Then clear-headed Telemachus answered her:
-177 |  751.620 | stranger,          |              0 | "Stranger — since you ask me this and press the question —
-178 |  754.800 | There              |              0 | there was a time this house promised to be rich and honored, / while that man was still here among his people.
-179 |  760.880 | Now                |              0 | Now the gods have willed otherwise, plotting evil:
-180 |  764.760 | They               |              0 | they have made him vanish as no other man has vanished,
-181 |  768.060 | no                 |              0 | no man on earth. For I would / not grieve so even for his death
-182 |  771.900 | had                |              0 | had he gone down among his / companions in the Trojans' country,
-183 |  775.460 | or                 |              0 | or in the arms of his friends, / once he had wound the war to its end.
-184 |  779.160 | then               |              0 | Then the whole Achaean people would have built him a tomb,
-185 |  782.400 | and                |              0 | and he would have won great fame in / time to come for his son as well.
-186 |  787.140 | Instead            |              0 | Instead the whirlwinds have / snatched him away without glory;
-187 |  790.280 | he                 |              0 | he is gone — unseen, unheard-of — and to me he has / left anguish and lament. Nor is he all I have to mourn
-188 |  796.940 | and                |              0 | and groan for: the gods have made me other bitter cares.
-189 |  800.620 | All                |              0 | All the great men who hold power among the islands — / Dulichium and Same and wooded Zacynthus —
-190 |  805.920 | and                |              0 | and all who lord it through rocky Ithaca:
-191 |  808.700 | so                 |              0 | so many woo my mother, and wear this house away.
-192 |  811.960 | And                |              0 | And she neither refuses the marriage she loathes, / nor can she bring it to an end. And they eat on, wasting
-193 |  817.840 | my                 |              0 | my house. Soon they will tear me to pieces too."
-194 |  819.480 | Then,              |              0 | Then, stung to anger, Pallas Athena spoke to him:
-195 |  822.900 | shame              |              0 | "Shame on it! Great indeed is your / need of the vanished Odysseus,
-196 |  826.900 | to                 |              0 | to lay his two hands on these shameless suitors.
-197 |  829.840 | If                 |              0 | If only he came now and stood at the outer doors of / the house, with helmet and shield and a pair of spears,
-198 |  836.160 | the                |              0 | the man he was the first time I set eyes on him / in our own house, drinking and glad at heart,
-199 |  841.460 | up                 |              0 | up from Ephyra, from Ilus son of Mermerus — / for Odysseus went there too, in his fast ship,
-200 |  847.440 | in                 |              0 | in search of a man-killing poison, so he might have / it to smear on his bronze-shod arrows. Ilus would not
-201 |  853.140 | give               |              0 | give it, for he feared the undying gods' displeasure; / but my father gave it him, for he loved him terribly —
-202 |  859.600 | the                |              0 | the man he was then! Let that / Odysseus close with the suitors:
-203 |  863.920 | quick              |              0 | quick would their fates be then, / and bitter their weddings.
-204 |  867.020 | but                |              0 | But surely these things lie on the knees of the gods:
-205 |  869.740 | whether            |              0 | whether he comes home and takes repayment, or does not,
-206 |  872.580 | here               |              0 | here in his own halls. As for you, I charge you: / consider how you will thrust the suitors from the hall.
-207 |  878.820 | Come               |              0 | Come then, mark me now, and take my words to heart.
-208 |  882.580 | Tomorrow           |              0 | Tomorrow call the Achaean heroes into assembly and / speak your word to all, and let the gods stand witness.
-209 |  889.200 | the                |              1 | Command the suitors to scatter, each to his own, / and your mother — if her heart is stirred toward marriage,
-210 |  894.340 | let                |              0 | let her go back to the hall of / her father, that powerful man:
-211 |  897.840 | There              |              0 | there they will make the marriage / and set out the bride-gifts,
-212 |  900.840 | very               |              0 | very many, all that should follow a beloved child.
-213 |  903.800 | To                 |              0 | To you yourself my advice is close / and shrewd, if you will hear it.
-214 |  907.800 | Man                |              0 | Man a ship with twenty oars, the best there is, / and go out asking after your long-gone father.
-215 |  913.460 | Some               |              0 | Some mortal man may tell you — or you may hear the Rumor
-216 |  916.120 | that               |              0 | that comes from Zeus, which most / of all carries word among men.
-217 |  919.760 | Go                 |              0 | Go first to Pylos, and question noble Nestor; / from there to Sparta, to fair-haired Menelaus,
-218 |  925.540 | for                |              0 | for of the bronze-shirted Achaeans he came home last.
-219 |  928.380 | If                 |              0 | If you hear your father is alive and homeward bound, / then, ground down as you are, hold out one more year.
-220 |  934.340 | But                |              0 | But if you hear that he is dead, that he is no more, / then come back to your own dear fatherland
-221 |  939.060 | and                |              0 | and heap his burial mound, / and over it pay the death-rites,
-222 |  942.040 | very               |              0 | very many, as is fitting, / and give your mother to a husband.
-223 |  945.280 | Then,              |              0 | Then, when you have made an end of all this and done it, / take counsel in your mind and in your heart
-224 |  950.920 | how                |              0 | how in your halls you are to kill the suitors, / whether by guile or in the open. It is no longer for you
-225 |  956.160 | to                 |              0 | to hold to childish things: you are past that age.
-226 |  959.340 | or                 |              0 | Or have you not heard what fame noble Orestes took / among all mankind, when he killed his father's killer,
-227 |  965.640 | of                 |              1 | Aegisthus of the crooked counsels, / who cut down his famous father?
-228 |  969.160 | you                |              0 | You too, my friend — and I see how tall and fine you are —
-229 |  972.200 | Be                 |              0 | be brave, so that men not yet born will speak well of you.
-230 |  975.900 | But                |              0 | But now I will go down to my fast ship and my companions, / who I think grow restless with waiting.
-231 |  980.780 | let                |              0 | Let this be your own care. Take my words to heart."
-232 |  982.340 | Then,              |              0 | Then clear-headed Telemachus answered her:
-233 |  985.380 | Stranger,          |              0 | "Stranger, you say these things out of a kind heart, / as a father to his son, and I will never forget them.
-234 |  991.380 | But                |              0 | But come now, stay a while, / though you are eager for the road,
-235 |  994.900 | so                 |              0 | so that bathed first, your own heart gladdened, / you may go to your ship with a gift, rejoicing in spirit —
-236 | 1000.980 | a                  |              0 | a costly thing, and beautiful, to be your treasure
-237 | 1003.800 | me,                |              1 | from me: such things as dear / guest-friends give their guests."
-238 | 1007.520 | Then               |              0 | Then the goddess answered him, gray-eyed Athena:
-239 | 1010.380 | hold               |              0 | "Hold me back no longer; I long for the road.
-240 | 1013.380 | the                |              0 | The gift — whatever your own heart bids you give me — / give it when I come again, for carrying home,
-241 | 1018.780 | and                |              0 | and choose one truly beautiful. / It will bring you its match in return."
-242 | 1020.880 | So                 |              0 | So gray-eyed Athena spoke, and she was gone, / flown up and away like a bird. And in his heart
-243 | 1028.440 | she                |              0 | she had set strength and courage, / and brought his father to his mind
-244 | 1032.700 | more               |              0 | more even than before. And when he sensed it in his mind,
-245 | 1036.720 | he                 |              0 | he was awed at heart, for he guessed she was a god.
-246 | 1040.280 | and                |              0 | And at once he went back among the / suitors, a man like a god himself.
-247 | 1044.640 | for                |              0 | For them the famous singer was / singing, and they in silence
-248 | 1047.860 | sat                |              0 | sat and listened. He sang the Achaeans' homecoming,
-249 | 1051.500 | the                |              0 | the bitter one, that Pallas / Athena laid on them out of Troy.
-250 | 1055.400 | From               |              0 | From her upper room she took into / her heart the god-filled song:
-251 | 1059.860 | daughter,          |              1 | Icarius' daughter, watchful-minded Penelope.
-252 | 1062.560 | She                |              0 | She came down the steep stairway of her house, / not alone: two handmaids came attending her.
-253 | 1068.620 | And                |              0 | And when she reached the suitors, shining among women, / she stood beside the pillar of the close-built roof,
-254 | 1075.020 | holding            |              0 | holding her glistening veil before her cheeks, / a trusted handmaid standing on either side,
-255 | 1080.500 | and                |              0 | and in tears she spoke to the godlike singer:
-256 | 1084.740 | you                |              1 | "Phemius, you know many other spells for mortal ears, / deeds of men and gods, that singers make renowned.
-257 | 1091.060 | sit                |              0 | Sit and sing them one of those, and let them drink / their wine in silence. But break off this song,
-258 | 1096.820 | this               |              0 | this bitter song that forever wears away the heart
-259 | 1099.220 | my                 |              1 | in my breast — for on me above all / has fallen grief past forgetting.
-260 | 1103.980 | So                 |              0 | So dear a face I long for, remembering always,
-261 | 1107.320 | the                |              0 | the man whose fame goes wide through / Hellas and the heart of Argos."
-262 | 1111.740 | Then               |              0 | Then clear-headed Telemachus answered her:
-263 | 1114.300 | Mother,            |              0 | "Mother, why grudge the trusted singer his right to / please us however his mind is moved? Singers are not
-264 | 1119.820 | to                 |              0 | to blame: Zeus, surely, is to blame, who gives to men / who eat bread whatever he wills, to each man singly.
-265 | 1127.440 | There              |              0 | There is no fault in him for / singing the Danaans' hard doom:
-266 | 1130.760 | men                |              0 | men will always give their louder praise to the / song that comes to its hearers newest on the air.
-267 | 1136.220 | Let                |              0 | Let your heart and spirit steel themselves to hear it.
-268 | 1139.560 | Odysseus           |              0 | Odysseus was not the only one to lose his day of / homecoming at Troy: many other men were lost as well.
-269 | 1145.520 | Go                 |              0 | Go into the house and see to your own work, / the loom and the distaff, and command your handmaids
-270 | 1150.700 | to                 |              0 | to go about their work. The word belongs to men —
-271 | 1153.780 | to                 |              0 | to all men, and to me above all: / mine is the power in this house."
-272 | 1158.120 | In                 |              0 | In wonder, she went back into the house, / for she laid her son's clear-headed word to heart.
-273 | 1163.580 | Climbing           |              0 | Climbing to her upper room with her serving-women, / she wept there for Odysseus, her dear husband, until
-274 | 1169.680 | -eyed              |              1 | gray-eyed Athena cast sweet sleep upon her eyelids.
-275 | 1173.280 | But                |              0 | But the suitors broke into / uproar through the shadowy halls,
-276 | 1176.500 | and                |              0 | and every man of them prayed to lie beside her in bed.
-277 | 1179.700 | and                |              0 | And clear-headed Telemachus began to speak among them:
-278 | 1183.160 | of                 |              1 | "Suitors of my mother, insolent past all bearing,
-279 | 1186.320 | for                |              0 | for now let us feast and take / our pleasure — but with no more
-280 | 1189.500 | shouting,          |              0 | shouting, since it is a fine thing to listen to a / singer such as this man is, with a voice like the gods'.
-281 | 1195.820 | but                |              0 | But at dawn let us go and take our seats in assembly, / all of us, so I may declare my word to you outright:
-282 | 1203.880 | Get                |              0 | get out of my halls. Go busy yourselves with other feasts,
-283 | 1207.920 | eating             |              0 | eating your own goods, moving from house to house.
-284 | 1211.060 | But                |              0 | But if this seems to you the / better thing, the more profitable,
-285 | 1213.980 | that               |              0 | that one man's living be destroyed and nothing paid,
-286 | 1217.440 | then               |              0 | then carve away. And I will cry / to the gods who live forever,
-287 | 1221.520 | in                 |              0 | in hope that Zeus may grant / deeds of requital come to pass:
-288 | 1224.980 | then               |              0 | then you would die inside this house, / and nothing paid for you."
-289 | 1229.200 | So                 |              0 | So he spoke, and all of them bit hard into their lips, / marveling at Telemachus, that he spoke so boldly.
-290 | 1236.220 | Then               |              0 | Then Antinous spoke to him, Eupeithes' son:
-291 | 1239.720 | telemachus,        |              0 | "Telemachus, surely the gods themselves are teaching / you to talk so high and speak with so much daring.
-292 | 1246.020 | May                |              0 | May the son of Cronos never make you king in sea-circled / Ithaca — though by blood it is your inheritance."
-293 | 1252.760 | Then               |              0 | Then clear-headed Telemachus answered him:
-294 | 1255.840 | will               |              1 | "Antinous, will you take offense at what I say?
-295 | 1258.180 | even               |              0 | Even that I would be willing to take, / if Zeus should give it.
-296 | 1261.520 | Do                 |              0 | Do you say kingship is the worst / thing that can befall a man?
-297 | 1264.680 | It                 |              0 | It is no bad thing to be king: at once a man's / house grows rich, and the man himself more honored.
-298 | 1271.100 | But                |              0 | But there are other kings enough among the / Achaeans in sea-circled Ithaca, young men and old:
-299 | 1276.340 | let                |              0 | let one of them have it, since noble Odysseus is dead.
-300 | 1279.780 | but                |              0 | But I will be lord of our own house and of / the slaves that noble Odysseus won for me."
-301 | 1285.620 | Then               |              0 | Then Eurymachus, Polybus' son, answered him:
-302 | 1289.280 | Telemachus         |              0 | "Telemachus, truly these things / lie on the knees of the gods:
-303 | 1292.760 | which              |              0 | which of the Achaeans will be king in sea-circled Ithaca.
-304 | 1295.940 | Your               |              0 | Your goods you may keep, and be lord in your own house;
-305 | 1299.340 | may                |              0 | may the man never come who would strip your goods from you
-306 | 1301.680 | by                 |              0 | by force, against your will, while Ithaca is yet lived in.
-307 | 1305.620 | but                |              0 | But I would ask you, best of men, about the stranger:
-308 | 1308.640 | Where              |              0 | where does that man come from? What country does he claim
-309 | 1311.340 | for                |              0 | for his own? Where are his kin, / the plowlands of his fathers?
-310 | 1315.020 | Does               |              0 | Does he bring some message of your father's coming, / or did he arrive here pressing a need of his own?
-311 | 1319.920 | How                |              0 | How he leapt up and vanished in a moment! He did not wait
-312 | 1322.920 | to                 |              0 | to be known — and yet his face was in no way base."
-313 | 1326.240 | Then               |              0 | Then clear-headed Telemachus answered him:
-314 | 1329.680 | my                 |              1 | "Eurymachus, my father's homecoming is lost.
-315 | 1332.060 | I                  |              0 | I put no more trust in messages, wherever they / come from, nor give heed to any prophecy my mother
-316 | 1337.460 | may                |              0 | may seek, calling some diviner into the hall.
-317 | 1340.540 | As                 |              0 | As for the stranger — a guest-friend / of my father's house, from Taphos;
-318 | 1345.180 | he                 |              0 | he declares himself Mentes, son of wise Anchialus, / and he is lord of the oar-loving Taphians."
-319 | 1351.320 | So                 |              0 | So spoke Telemachus. But in his / heart he knew the deathless goddess.
-320 | 1355.480 | and                |              0 | And they turned to dancing and the loveliness of song
-321 | 1358.280 | and                |              0 | and took their pleasure, / and waited for evening to come on;
-322 | 1361.840 | and                |              0 | and while they took their pleasure the black evening came.
-323 | 1364.740 | Then               |              0 | Then they went home to bed, each man to his own house.
-324 | 1368.220 | but                |              0 | But Telemachus — where his bedroom was built high
-325 | 1370.720 | off                |              0 | off the beautiful courtyard, / in a place with a clear view all around —
-326 | 1374.460 | went               |              0 | went up to bed, turning many things over in his mind.
-327 | 1377.900 | Beside             |              0 | Beside him, bearing blazing torches, / walked one whose thoughts were loyal:
-328 | 1382.600 | daughter           |              1 | Eurycleia, daughter of Ops, Peisenor's son.
-329 | 1385.580 | had                |              1 | Laertes had bought her long ago with his own goods,
-330 | 1388.080 | when               |              0 | when she was still in her first youth, / at the price of twenty oxen,
-331 | 1391.900 | and                |              0 | and honored her in his halls as / he honored his faithful wife —
-332 | 1394.980 | but                |              0 | but never took her to his bed: / he shunned his wife's anger.
-333 | 1398.620 | She                |              0 | She it was who carried the blazing / torches beside him, and of all
-334 | 1402.000 | the                |              0 | the house-slaves she loved him most: / she had nursed him when he was small.
-335 | 1406.060 | He                 |              0 | He opened the doors of the close-built room, / sat down on the bed, and pulled his soft tunic off,
-336 | 1411.550 | -old               |              6 | and dropped it into the shrewd old woman's hands.
-337 | 1414.380 | She                |              0 | She folded the tunic and smoothed it out, / hung it on a peg beside the corded bedstead,
-338 | 1418.720 | and                |              0 | and went out of the room, drawing the door shut by its / silver handle, and slid the bolt home with its strap.
-339 | 1424.920 | all                |              1 | There all night long, wrapped in / the choice fleece of the sheep,
-340 | 1428.220 | he                 |              0 | he pondered in his heart the road Athena had shown him.
+  1 |    6.780 | Tell               |              0 | Tell me the man, Muse — the man / of many turnings, who was driven
+  2 |   10.720 | wandering          |              0 | wandering far, once he had sacked Troy's holy citadel:
+  3 |   14.760 | Many               |              0 | many were the cities of men he saw, / and he learned their minds,
+  4 |   18.600 | Many               |              0 | many the griefs he suffered at heart on the open sea,
+  5 |   21.720 | striving           |              0 | striving to win his own life / and his companions' homecoming.
+  6 |   25.560 | Even               |              0 | Even so he could not save them, hard though he strove:
+  7 |   29.180 | they               |              0 | they perished by their own recklessness, / fools, who ate the cattle of Helios Hyperion,
+  8 |   34.660 | and                |              0 | and the god took from them their day of homecoming.
+  9 |   37.740 | Begin              |              0 | Begin where you will, goddess, / daughter of Zeus — tell us, too, the tale.
+ 10 |   42.280 | By                 |              0 | By then all the others, all who had escaped sheer ruin, / were home, safely past the war and past the sea.
+ 11 |   49.280 | Him                |              0 | Him alone — aching for homecoming and his wife —
+ 12 |   52.460 | the                |              0 | the queenly nymph Calypso, / shining among goddesses, held back
+ 13 |   56.420 | in                 |              0 | in her hollow caves, hungry to make him her husband.
+ 14 |   59.780 | But                |              0 | But when the year came, in the wheeling round of seasons,
+ 15 |   63.200 | in                 |              0 | in which the gods had spun the thread of his return / home to Ithaca — not even there was he free of trials,
+ 16 |   68.880 | even               |              0 | even among his own. And the gods pitied him, / all but Poseidon: he raged without rest
+ 17 |   74.600 | against            |              0 | against godlike Odysseus, / until the day he reached his own land.
+ 18 |   78.380 | But                |              0 | But now Poseidon was gone among the far-off Ethiopians —
+ 19 |   82.420 | The                |              0 | the Ethiopians, sundered in two, remotest of mankind, / half where Hyperion sets and half where he rises —
+ 20 |   89.320 | to                 |              0 | to receive a hecatomb of bulls and rams, and there / he sat at the feast, delighting. But the other gods
+ 21 |   95.300 | were               |              0 | were gathered together in the halls of Olympian Zeus,
+ 22 |   98.260 | and                |              0 | and among them the father of men and gods began to speak, / for his heart was remembering blameless Aegisthus,
+ 23 |  104.760 | whom               |              0 | whom Agamemnon's son, far-famed Orestes, killed.
+ 24 |  108.540 | Remembering        |              0 | Remembering him, he spoke among the immortals:
+ 25 |  111.460 | shameful,          |              0 | "Shameful! — how mortals lay their blame upon the gods.
+ 26 |  114.760 | From               |              0 | From us, they say, all evils come — while they themselves,
+ 27 |  118.020 | by                 |              0 | by their own recklessness, / earn griefs beyond their portion:
+ 28 |  121.680 | As                 |              0 | as Aegisthus now, beyond his portion, took to wife
+ 29 |  125.140 | the                |              0 | the wedded bride of Atreus' son, / and killed the man at his homecoming,
+ 30 |  129.240 | knowing            |              0 | knowing it meant sheer ruin — for we told him beforehand,
+ 31 |  132.760 | sending            |              0 | sending Hermes down, the sharp-eyed slayer of Argus, / not to kill the man and not to court his wife:
+ 32 |  138.300 | For                |              0 | for vengeance for the son of / Atreus would come from Orestes
+ 33 |  141.360 | the                |              0 | the day he came of age and longed for his own land.
+ 34 |  144.680 | So                 |              0 | So Hermes spoke, meaning him well — / but the mind of Aegisthus
+ 35 |  148.360 | could              |              1 | he could not turn. Now he has / paid for everything at once."
+ 36 |  152.220 | Then               |              0 | Then the goddess answered him, gray-eyed Athena:
+ 37 |  155.580 | father             |              0 | "Father of us all, son of Cronos, highest of the mighty, / that man, yes, lies in a ruin he richly earned —
+ 38 |  162.740 | So                 |              0 | so may any other perish who does such things.
+ 39 |  165.600 | But                |              0 | But my heart is on fire for battle-wise Odysseus, / ill-starred man, who far from his own people suffers long
+ 40 |  171.900 | on                 |              0 | on a sea-ringed island, at the navel of the sea.
+ 41 |  175.020 | A                  |              0 | A wooded island; a goddess has her dwelling there, / the daughter of Atlas the deadly-minded, he who knows
+ 42 |  180.900 | the                |              0 | the depths of every sea, and himself grips the pillars, / the tall ones, that hold earth and heaven apart.
+ 43 |  187.740 | It                 |              0 | It is his daughter who keeps that broken, grieving man,
+ 44 |  190.780 | and                |              0 | and always with soft words, with winding, coaxing words, / she charms him to forget Ithaca. But Odysseus,
+ 45 |  197.640 | who                |              0 | who would be glad to see even the smoke go leaping / up from his own country, aches to die. And your heart
+ 46 |  203.400 | does               |              0 | does not turn for it, Olympian. Did Odysseus never / please you, offering sacrifice beside the Argive ships
+ 47 |  209.400 | in                 |              0 | in wide Troy? Why so at odds with Odysseus, Zeus?"
+ 48 |  213.940 | Then               |              0 | Then Zeus who gathers the clouds answered her:
+ 49 |  217.640 | My                 |              0 | "My child, what a word has / slipped the fence of your teeth!
+ 50 |  220.920 | How                |              0 | How could I ever forget godlike Odysseus, / who is beyond all mortals in mind, and beyond all others gave
+ 51 |  227.160 | offerings          |              0 | offerings to the deathless gods who hold wide heaven?
+ 52 |  230.520 | No,                |              0 | No: it is Poseidon who holds the earth, in anger
+ 53 |  234.340 | always,            |              1 | unbending, always, for the Cyclops, / whose one eye Odysseus blinded —
+ 54 |  239.740 | power              |              3 | godlike Polyphemus, whose power is greatest among / all the Cyclopes. The nymph Thoösa bore him,
+ 55 |  245.080 | daughter           |              0 | daughter of Phorcys, a lord of the barren salt sea, / when in her hollow caves she lay with Poseidon.
+ 56 |  251.200 | Ever               |              0 | Ever since, Poseidon the shaker of earth does not kill
+ 57 |  254.340 | Odysseus,          |              0 | Odysseus, but drives him wandering from his father's land.
+ 58 |  258.340 | But                |              0 | But come, let all of us here take careful thought together
+ 59 |  261.020 | for                |              0 | for his homecoming — how he shall come. Poseidon / will let go his anger. He cannot, against us all,
+ 60 |  267.800 | wrangle            |              0 | wrangle alone in the teeth of the deathless gods."
+ 61 |  271.040 | Then               |              0 | Then the goddess answered him, gray-eyed Athena:
+ 62 |  273.840 | father             |              0 | "Father of us all, son of Cronos, highest of the mighty, / if this now truly pleases the blessed gods,
+ 63 |  279.700 | that               |              0 | that Odysseus of the many designs / come home to his own house,
+ 64 |  283.180 | then               |              0 | then let us dispatch Hermes, the guide, the slayer of / Argus, to the island Ogygia, so that with all speed
+ 65 |  289.280 | he                 |              0 | he may tell the nymph of the / lovely braids our fixed decree:
+ 66 |  292.860 | The                |              0 | the homecoming of enduring-hearted / Odysseus — that he shall return.
+ 67 |  297.000 | and                |              0 | And I will go to Ithaca, to stir his son the more, / and set strength of purpose in his heart
+ 68 |  301.820 | to                 |              0 | to call the long-haired Achaeans into assembly / and speak out to all the suitors, who day upon day
+ 69 |  307.620 | slaughter          |              0 | slaughter his thronging flocks and / his shambling crook-horned cattle.
+ 70 |  311.660 | And                |              0 | And I will send him to Sparta and to sandy Pylos
+ 71 |  314.500 | to                 |              0 | to ask after his dear father's / homecoming, if he may hear of it —
+ 72 |  318.360 | and                |              0 | and so that good report among men may be his."
+ 73 |  321.100 | so                 |              0 | So she spoke, and bound beneath / her feet the beautiful sandals,
+ 74 |  326.080 | golden,            |              1 | ambrosial, golden, that carry her over the water and / over the boundless earth with the breath of the wind;
+ 75 |  331.220 | and                |              0 | and she took up her strong spear, edged with sharp bronze,
+ 76 |  335.020 | heavy,             |              0 | heavy, huge, and solid, / with which she breaks the ranks of men,
+ 77 |  338.780 | of                 |              0 | of heroes, when the daughter of / the mighty Father is angered.
+ 78 |  342.440 | Down               |              0 | Down she went, darting from the peaks of Olympus, / and stood in the land of Ithaca at Odysseus' doorway,
+ 79 |  348.620 | on                 |              0 | on the courtyard's threshold, / the bronze spear in her palm,
+ 80 |  352.220 | in                 |              0 | in the likeness of a stranger: / Mentes, leader of the Taphians.
+ 81 |  356.220 | there              |              0 | There she found the lordly suitors. They were pleasing
+ 82 |  358.800 | their              |              0 | their hearts with counters, out in front of the doors,
+ 83 |  361.400 | sitting            |              0 | sitting on hides of oxen they themselves had slaughtered, / with heralds and quick serving-men among them:
+ 84 |  366.740 | mixing             |              2 | some were mixing wine and water in the great bowls, / and some were wiping the tables down with porous sponges
+ 85 |  372.120 | and                |              0 | and setting them out, and some carved meat in plenty.
+ 86 |  375.860 | Telemachus         |              1 | Godlike Telemachus saw her far the first, / for he sat among the suitors, sore at heart,
+ 87 |  381.280 | seeing             |              0 | seeing his noble father in his / mind's eye: if only he would come
+ 88 |  384.660 | from               |              0 | from somewhere, and make a scattering / of the suitors through the house,
+ 89 |  388.820 | and                |              0 | and take back his honor, / and be lord of his own possessions.
+ 90 |  392.500 | So                 |              0 | So he brooded, sitting among / the suitors — and he saw Athena.
+ 91 |  396.440 | went               |              1 | He went straight for the porch, indignant at heart
+ 92 |  399.000 | that               |              0 | that a stranger be left standing / at the door; and standing near her
+ 93 |  402.380 | he                 |              0 | he took her right hand, / and relieved her of the bronze spear,
+ 94 |  405.320 | and                |              0 | and lifting his voice he spoke winged words to her:
+ 95 |  409.040 | welcome            |              0 | "Welcome, stranger. Here you will / find kindness — and afterward,
+ 96 |  412.580 | when               |              0 | when you have tasted supper, / you shall tell us what you need."
+ 97 |  415.980 | so                 |              0 | So saying he led the way, and Pallas Athena followed.
+ 98 |  419.740 | And                |              0 | And when they were inside the high-roofed house, / he carried the spear to the tall pillar and set it upright
+ 99 |  426.000 | inside             |              0 | inside the polished spear-rack, where already other / spears stood in numbers, enduring-hearted Odysseus' own;
+100 |  432.460 | and                |              0 | and he led her to a high seat, / spreading linen beneath her,
+101 |  436.540 | a                  |              0 | a beautiful seat, cunningly worked, / with a footstool for her feet.
+102 |  440.880 | For                |              0 | For himself he set a painted bench / beside her, apart from the others,
+103 |  444.760 | the                |              0 | the suitors, for fear the stranger, sickened by the din,
+104 |  448.180 | might              |              0 | might lose all taste for supper, fallen among bullies —
+105 |  451.580 | and                |              0 | and so that he might ask him about his absent father.
+106 |  455.280 | A                  |              0 | A handmaid brought water for their hands in a pitcher,
+107 |  458.180 | a                  |              0 | a beautiful golden one, and poured it over a silver basin
+108 |  461.280 | for                |              0 | for them to wash, and drew up / a polished table beside them.
+109 |  465.060 | The                |              0 | The grave housekeeper brought / bread and set it before them,
+110 |  468.680 | laying             |              0 | laying out delicacies in plenty, giving gladly of her / store; a carver lifted platters of meat of every kind
+111 |  475.340 | and                |              0 | and set them down, and placed gold cups beside them,
+112 |  478.980 | and                |              0 | and a herald kept coming round to them, pouring the wine.
+113 |  482.580 | In                 |              0 | In came the lordly suitors, and they took their seats / in order on the benches and the high-backed chairs.
+114 |  488.940 | poured             |              1 | Heralds poured water over their hands, / slave-women heaped bread in baskets at their sides,
+115 |  493.940 | and                |              0 | and young men crowned the mixing-bowls with drink,
+116 |  496.600 | and                |              0 | and their hands went out to the / good things spread before them.
+117 |  499.960 | But                |              0 | But when they had put away desire for food and drink, / the suitors — other things now filled their hearts:
+118 |  505.500 | song               |              0 | song and dance, for these are the ornaments of a feast.
+119 |  508.980 | A                  |              0 | A herald put the beautiful lyre into the hands of / Phemius, who sang for the suitors under compulsion,
+120 |  514.360 | and                |              0 | and he swept the strings and struck up his lovely singing.
+121 |  518.100 | But                |              0 | But Telemachus spoke to gray-eyed Athena, leaning / his head close, so that the others might not hear:
+122 |  524.100 | Dear               |              0 | "Dear stranger, will you take offense at what I say?
+123 |  527.340 | These              |              0 | These men care only for such things — the lyre and song —
+124 |  531.040 | and                |              0 | and easily, since unpunished / they devour another man's living:
+125 |  534.520 | A                  |              0 | a man whose white bones rot somewhere in the rain, / lying on a mainland shore, or the salt wave rolls them.
+126 |  540.840 | But                |              0 | But if they saw him once come home to Ithaca, / every man of them would pray to be quicker on his feet
+127 |  546.540 | rather             |              0 | rather than richer in gold and fine clothes.
+128 |  549.060 | But                |              0 | But no — he has perished by an / evil doom, and for us there is
+129 |  552.420 | no                 |              0 | no comfort left, not though some man upon the earth
+130 |  555.160 | should             |              0 | should say he is coming still: / his day of homecoming is lost.
+131 |  559.440 | But                |              0 | But come, tell me this, and tell it to me truly:
+132 |  562.680 | What               |              0 | What man are you, and from where? / Where are your city and your parents?
+133 |  566.360 | On                 |              0 | On what kind of ship did you come? And how did / sailors bring you to Ithaca? Who did they claim to be?
+134 |  572.300 | For                |              0 | For I hardly think you came here on foot.
+135 |  574.760 | And                |              0 | And tell me this too, honestly, so that I may know it:
+136 |  577.760 | Is                 |              0 | is this your first coming here, or are you from of old
+137 |  580.000 | my                 |              0 | my father's guest-friend? For many were the men who came
+138 |  582.980 | to                 |              0 | to our house — since he, too, went much among mankind."
+139 |  586.480 | Then               |              0 | Then the goddess spoke to him again, gray-eyed Athena:
+140 |  591.460 | Then               |              0 | "Then I will tell you all of it, and truly.
+141 |  594.220 | I                  |              0 | I declare myself Mentes, son of wise Anchialus, / and I am lord of the oar-loving Taphians.
+142 |  601.440 | Now                |              0 | Now I have put in here with my ship and my companions, / sailing the wine-dark sea toward men of alien speech,
+143 |  608.000 | to                 |              0 | to Temese, after copper; / the cargo I carry is gleaming iron.
+144 |  612.660 | My                 |              0 | My ship stands off in the fields, away from the city, / in the harbor of Rheithron, under wooded Neion.
+145 |  619.400 | Guest              |              0 | Guest-friends of each other's houses we declare ourselves / from the beginning — only go and ask the old man,
+146 |  625.260 | the                |              0 | the hero Laertes, who they say comes no more to the city, / but far out in the fields endures his sorrows
+147 |  631.140 | with               |              0 | with one old serving-woman, who sets his food and drink
+148 |  634.120 | before             |              0 | before him whenever weariness takes hold of his limbs / as he creeps along the rise of his terraced vineyard.
+149 |  640.100 | And                |              0 | And now I have come. They said / he was here among his people —
+150 |  643.940 | your               |              0 | your father. But no: the gods are thwarting his road.
+151 |  647.840 | For                |              0 | For noble Odysseus has not yet died anywhere on earth; / he lives still, held back somewhere on the wide sea,
+152 |  654.340 | a                  |              1 | on a sea-ringed island, and hard men have him, / savages, who hold him there, I think, against his will.
+153 |  660.600 | And                |              0 | And now I will prophesy to you, as the immortals / cast it into my heart, and as I believe it will be —
+154 |  666.160 | though             |              0 | though I am no prophet, no sure reader of birds.
+155 |  669.160 | He                 |              0 | He will not now be long away from his own dear / country, no, not if iron chains should hold him:
+156 |  674.520 | He                 |              0 | he will find a way to come home, / for he is a man of many devices.
+157 |  678.460 | But                |              0 | But come, tell me this, and tell it to me truly:
+158 |  681.820 | whether            |              0 | whether you, grown so tall, / are the son of Odysseus himself.
+159 |  685.680 | the                |              0 | The likeness is uncanny — the head, the fine eyes.
+160 |  688.980 | We                 |              0 | We were often in each other's company, he and I, / before he went up into Troy, where the others also,
+161 |  694.000 | the                |              0 | the best of the Argives, went in the hollow ships.
+162 |  697.100 | Since              |              0 | Since that day I have not seen Odysseus, nor he me."
+163 |  700.760 | Then               |              0 | Then clear-headed Telemachus answered her:
+164 |  703.060 | then               |              0 | "Then I will tell you, stranger, all of it, and truly.
+165 |  706.540 | My                 |              0 | My mother says I am his. For myself, I cannot know:
+166 |  709.740 | no                 |              0 | no man yet has been witness to his own begetting.
+167 |  712.400 | Would              |              0 | Would that I had been the son of some blessed man / whom old age overtook among his own possessions!
+168 |  717.360 | instead            |              0 | Instead, the man born unluckiest of mortal men — / his son, they say, I am. Since you ask me this."
+169 |  723.440 | Then               |              0 | Then the goddess spoke to him again, gray-eyed Athena:
+170 |  726.820 | The                |              0 | "The gods have not appointed your line to be nameless / in time to come: Penelope has borne too fine a son.
+171 |  732.620 | but                |              0 | But come, tell me this, and tell it to me truly:
+172 |  735.920 | What               |              0 | What feast is this, what gathering? / What is your part in it?
+173 |  739.260 | A                  |              0 | A banquet? A wedding? For plainly / no man here brought his own share:
+174 |  742.500 | so                 |              0 | so overweening, so past all bounds they seem to me, / feasting through the house. A man would burn with anger,
+175 |  748.860 | seeing             |              0 | seeing shame upon shame — any man of sense who entered."
+176 |  751.780 | Then               |              0 | Then clear-headed Telemachus answered her:
+177 |  754.620 | stranger,          |              0 | "Stranger — since you ask me this and press the question —
+178 |  757.760 | There              |              0 | there was a time this house promised to be rich and honored, / while that man was still here among his people.
+179 |  763.880 | Now                |              0 | Now the gods have willed otherwise, plotting evil:
+180 |  767.720 | They               |              0 | they have made him vanish as no other man has vanished,
+181 |  770.620 | no                 |              0 | no man on earth. For I would / not grieve so even for his death
+182 |  774.900 | had                |              0 | had he gone down among his / companions in the Trojans' country,
+183 |  778.460 | or                 |              0 | or in the arms of his friends, / once he had wound the war to its end.
+184 |  782.420 | then               |              0 | Then the whole Achaean people would have built him a tomb,
+185 |  785.500 | and                |              0 | and he would have won great fame in / time to come for his son as well.
+186 |  790.060 | Instead            |              0 | Instead the whirlwinds have / snatched him away without glory;
+187 |  793.280 | he                 |              0 | he is gone — unseen, unheard-of — and to me he has / left anguish and lament. Nor is he all I have to mourn
+188 |  799.940 | and                |              0 | and groan for: the gods have made me other bitter cares.
+189 |  803.660 | All                |              0 | All the great men who hold power among the islands — / Dulichium and Same and wooded Zacynthus —
+190 |  809.240 | and                |              0 | and all who lord it through rocky Ithaca:
+191 |  811.680 | So                 |              0 | so many woo my mother, and wear this house away.
+192 |  814.980 | And                |              0 | And she neither refuses the marriage she loathes, / nor can she bring it to an end. And they eat on, wasting
+193 |  820.820 | my                 |              0 | my house. Soon they will tear me to pieces too."
+194 |  821.740 | Then,              |              0 | Then, stung to anger, Pallas Athena spoke to him:
+195 |  825.500 | Shame              |              0 | "Shame on it! Great indeed is your / need of the vanished Odysseus,
+196 |  829.900 | to                 |              0 | to lay his two hands on these shameless suitors.
+197 |  832.880 | If                 |              0 | If only he came now and stood at the outer doors of / the house, with helmet and shield and a pair of spears,
+198 |  839.100 | the                |              0 | the man he was the first time I set eyes on him / in our own house, drinking and glad at heart,
+199 |  844.440 | up                 |              0 | up from Ephyra, from Ilus son of Mermerus — / for Odysseus went there too, in his fast ship,
+200 |  850.440 | in                 |              0 | in search of a man-killing poison, so he might have / it to smear on his bronze-shod arrows. Ilus would not
+201 |  856.140 | give               |              0 | give it, for he feared the undying gods' displeasure; / but my father gave it him, for he loved him terribly —
+202 |  862.600 | the                |              0 | the man he was then! Let that / Odysseus close with the suitors:
+203 |  866.900 | Quick              |              0 | quick would their fates be then, / and bitter their weddings.
+204 |  869.940 | but                |              0 | But surely these things lie on the knees of the gods:
+205 |  872.740 | whether            |              0 | whether he comes home and takes repayment, or does not,
+206 |  875.580 | here               |              0 | here in his own halls. As for you, I charge you: / consider how you will thrust the suitors from the hall.
+207 |  881.180 | Come               |              0 | Come then, mark me now, and take my words to heart.
+208 |  885.640 | Tomorrow,          |              0 | Tomorrow call the Achaean heroes into assembly and / speak your word to all, and let the gods stand witness.
+209 |  891.940 | Command            |              0 | Command the suitors to scatter, each to his own, / and your mother — if her heart is stirred toward marriage,
+210 |  897.360 | let                |              0 | let her go back to the hall of / her father, that powerful man:
+211 |  900.860 | There              |              0 | there they will make the marriage / and set out the bride-gifts,
+212 |  903.840 | very               |              0 | very many, all that should follow a beloved child.
+213 |  906.740 | to                 |              0 | To you yourself my advice is close / and shrewd, if you will hear it.
+214 |  910.940 | Man                |              0 | Man a ship with twenty oars, the best there is, / and go out asking after your long-gone father.
+215 |  916.500 | Some               |              0 | Some mortal man may tell you — or you may hear the Rumor
+216 |  919.140 | that               |              0 | that comes from Zeus, which most / of all carries word among men.
+217 |  922.760 | Go                 |              0 | Go first to Pylos, and question noble Nestor; / from there to Sparta, to fair-haired Menelaus,
+218 |  928.540 | for                |              0 | for of the bronze-shirted Achaeans he came home last.
+219 |  931.380 | If                 |              0 | If you hear your father is alive and homeward bound, / then, ground down as you are, hold out one more year.
+220 |  937.380 | But                |              0 | But if you hear that he is dead, that he is no more, / then come back to your own dear fatherland
+221 |  942.120 | and                |              0 | and heap his burial mound, / and over it pay the death-rites,
+222 |  945.040 | very               |              0 | very many, as is fitting, / and give your mother to a husband.
+223 |  948.860 | Then               |              0 | Then, when you have made an end of all this and done it, / take counsel in your mind and in your heart
+224 |  953.880 | how                |              0 | how in your halls you are to kill the suitors, / whether by guile or in the open. It is no longer for you
+225 |  959.160 | to                 |              0 | to hold to childish things: you are past that age.
+226 |  962.400 | or                 |              0 | Or have you not heard what fame noble Orestes took / among all mankind, when he killed his father's killer,
+227 |  968.640 | of                 |              1 | Aegisthus of the crooked counsels, / who cut down his famous father?
+228 |  972.180 | you                |              0 | You too, my friend — and I see how tall and fine you are —
+229 |  975.500 | be                 |              0 | be brave, so that men not yet born will speak well of you.
+230 |  978.900 | But                |              0 | But now I will go down to my fast ship and my companions, / who I think grow restless with waiting.
+231 |  983.820 | let                |              0 | Let this be your own care. Take my words to heart."
+232 |  985.340 | Then,              |              0 | Then clear-headed Telemachus answered her:
+233 |  988.340 | stranger,          |              0 | "Stranger, you say these things out of a kind heart, / as a father to his son, and I will never forget them.
+234 |  994.380 | but                |              0 | But come now, stay a while, / though you are eager for the road,
+235 |  997.920 | so                 |              0 | so that bathed first, your own heart gladdened, / you may go to your ship with a gift, rejoicing in spirit —
+236 | 1004.000 | a                  |              0 | a costly thing, and beautiful, to be your treasure
+237 | 1006.800 | me,                |              1 | from me: such things as dear / guest-friends give their guests."
+238 | 1010.520 | Then               |              0 | Then the goddess answered him, gray-eyed Athena:
+239 | 1013.440 | hold               |              0 | "Hold me back no longer; I long for the road.
+240 | 1016.420 | the                |              0 | The gift — whatever your own heart bids you give me — / give it when I come again, for carrying home,
+241 | 1021.780 | and                |              0 | and choose one truly beautiful. / It will bring you its match in return."
+242 | 1023.920 | So                 |              0 | So gray-eyed Athena spoke, and she was gone, / flown up and away like a bird. And in his heart
+243 | 1031.460 | she                |              0 | she had set strength and courage, / and brought his father to his mind
+244 | 1035.460 | more               |              0 | more even than before. And when he sensed it in his mind,
+245 | 1039.780 | he                 |              0 | he was awed at heart, for he guessed she was a god.
+246 | 1043.320 | and                |              0 | And at once he went back among the / suitors, a man like a god himself.
+247 | 1047.640 | for                |              0 | For them the famous singer was / singing, and they in silence
+248 | 1050.860 | sat                |              0 | sat and listened. He sang the Achaeans' homecoming,
+249 | 1054.520 | the                |              0 | the bitter one, that Pallas / Athena laid on them out of Troy.
+250 | 1058.520 | From               |              0 | From her upper room she took into / her heart the god-filled song:
+251 | 1062.860 | daughter,          |              1 | Icarius' daughter, watchful-minded Penelope.
+252 | 1065.540 | She                |              0 | She came down the steep stairway of her house, / not alone: two handmaids came attending her.
+253 | 1071.600 | And                |              0 | And when she reached the suitors, shining among women, / she stood beside the pillar of the close-built roof,
+254 | 1078.020 | holding            |              0 | holding her glistening veil before her cheeks, / a trusted handmaid standing on either side,
+255 | 1083.500 | and                |              0 | and in tears she spoke to the godlike singer:
+256 | 1088.700 | of                 |             10 | "Phemius, you know many other spells for mortal ears, / deeds of men and gods, that singers make renowned.
+257 | 1094.040 | sit                |              0 | Sit and sing them one of those, and let them drink / their wine in silence. But break off this song,
+258 | 1099.820 | this               |              0 | this bitter song that forever wears away the heart
+259 | 1102.220 | my                 |              1 | in my breast — for on me above all / has fallen grief past forgetting.
+260 | 1106.940 | So                 |              0 | So dear a face I long for, remembering always,
+261 | 1110.320 | the                |              0 | the man whose fame goes wide through / Hellas and the heart of Argos."
+262 | 1114.700 | Then               |              0 | Then clear-headed Telemachus answered her:
+263 | 1117.300 | Mother,            |              0 | "Mother, why grudge the trusted singer his right to / please us however his mind is moved? Singers are not
+264 | 1122.820 | to                 |              0 | to blame: Zeus, surely, is to blame, who gives to men / who eat bread whatever he wills, to each man singly.
+265 | 1130.440 | There              |              0 | There is no fault in him for / singing the Danaans' hard doom:
+266 | 1133.960 | Men                |              0 | men will always give their louder praise to the / song that comes to its hearers newest on the air.
+267 | 1139.260 | Let                |              0 | Let your heart and spirit steel themselves to hear it.
+268 | 1142.540 | Odysseus           |              0 | Odysseus was not the only one to lose his day of / homecoming at Troy: many other men were lost as well.
+269 | 1148.560 | Go                 |              0 | Go into the house and see to your own work, / the loom and the distaff, and command your handmaids
+270 | 1153.640 | to                 |              0 | to go about their work. The word belongs to men —
+271 | 1156.740 | to                 |              0 | to all men, and to me above all: / mine is the power in this house."
+272 | 1161.120 | In                 |              0 | In wonder, she went back into the house, / for she laid her son's clear-headed word to heart.
+273 | 1166.720 | Climbing           |              0 | Climbing to her upper room with her serving-women, / she wept there for Odysseus, her dear husband, until
+274 | 1172.680 | -eyed              |              1 | gray-eyed Athena cast sweet sleep upon her eyelids.
+275 | 1176.260 | But                |              0 | But the suitors broke into / uproar through the shadowy halls,
+276 | 1179.500 | and                |              0 | and every man of them prayed to lie beside her in bed.
+277 | 1182.680 | and                |              0 | And clear-headed Telemachus began to speak among them:
+278 | 1186.060 | of                 |              1 | "Suitors of my mother, insolent past all bearing,
+279 | 1189.320 | for                |              0 | for now let us feast and take / our pleasure — but with no more
+280 | 1192.500 | shouting,          |              0 | shouting, since it is a fine thing to listen to a / singer such as this man is, with a voice like the gods'.
+281 | 1198.860 | But                |              0 | But at dawn let us go and take our seats in assembly, / all of us, so I may declare my word to you outright:
+282 | 1206.900 | Get                |              0 | get out of my halls. Go busy yourselves with other feasts,
+283 | 1210.900 | eating             |              0 | eating your own goods, moving from house to house.
+284 | 1214.080 | But                |              0 | But if this seems to you the / better thing, the more profitable,
+285 | 1216.980 | that               |              0 | that one man's living be destroyed and nothing paid,
+286 | 1220.440 | then               |              0 | then carve away. And I will cry / to the gods who live forever,
+287 | 1224.540 | in                 |              0 | in hope that Zeus may grant / deeds of requital come to pass:
+288 | 1227.980 | then               |              0 | then you would die inside this house, / and nothing paid for you."
+289 | 1232.200 | So                 |              0 | So he spoke, and all of them bit hard into their lips, / marveling at Telemachus, that he spoke so boldly.
+290 | 1239.200 | Then               |              0 | Then Antinous spoke to him, Eupeithes' son:
+291 | 1242.660 | Telemachus,        |              0 | "Telemachus, surely the gods themselves are teaching / you to talk so high and speak with so much daring.
+292 | 1248.300 | May                |              0 | May the son of Cronos never make you king in sea-circled / Ithaca — though by blood it is your inheritance."
+293 | 1255.760 | Then,              |              0 | Then clear-headed Telemachus answered him:
+294 | 1258.900 | will               |              1 | "Antinous, will you take offense at what I say?
+295 | 1261.180 | even               |              0 | Even that I would be willing to take, / if Zeus should give it.
+296 | 1264.540 | Do                 |              0 | Do you say kingship is the worst / thing that can befall a man?
+297 | 1267.660 | It                 |              0 | It is no bad thing to be king: at once a man's / house grows rich, and the man himself more honored.
+298 | 1274.160 | But                |              0 | But there are other kings enough among the / Achaeans in sea-circled Ithaca, young men and old:
+299 | 1279.340 | let                |              0 | let one of them have it, since noble Odysseus is dead.
+300 | 1282.860 | But                |              0 | But I will be lord of our own house and of / the slaves that noble Odysseus won for me."
+301 | 1288.620 | Then               |              0 | Then Eurymachus, Polybus' son, answered him:
+302 | 1292.280 | Telemachus,        |              0 | "Telemachus, truly these things / lie on the knees of the gods:
+303 | 1295.740 | which              |              0 | which of the Achaeans will be king in sea-circled Ithaca.
+304 | 1298.920 | Your               |              0 | Your goods you may keep, and be lord in your own house;
+305 | 1302.300 | may                |              0 | may the man never come who would strip your goods from you
+306 | 1304.680 | by                 |              0 | by force, against your will, while Ithaca is yet lived in.
+307 | 1308.680 | But                |              0 | But I would ask you, best of men, about the stranger:
+308 | 1311.660 | Where              |              0 | where does that man come from? What country does he claim
+309 | 1314.340 | for                |              0 | for his own? Where are his kin, / the plowlands of his fathers?
+310 | 1318.020 | Does               |              0 | Does he bring some message of your father's coming, / or did he arrive here pressing a need of his own?
+311 | 1322.920 | How                |              0 | How he leapt up and vanished in a moment! He did not wait
+312 | 1325.920 | to                 |              0 | to be known — and yet his face was in no way base."
+313 | 1329.260 | Then               |              0 | Then clear-headed Telemachus answered him:
+314 | 1332.680 | my                 |              1 | "Eurymachus, my father's homecoming is lost.
+315 | 1335.060 | I                  |              0 | I put no more trust in messages, wherever they / come from, nor give heed to any prophecy my mother
+316 | 1340.460 | may                |              0 | may seek, calling some diviner into the hall.
+317 | 1343.540 | As                 |              0 | As for the stranger — a guest-friend / of my father's house, from Taphos;
+318 | 1348.200 | he                 |              0 | he declares himself Mentes, son of wise Anchialus, / and he is lord of the oar-loving Taphians."
+319 | 1354.320 | So                 |              0 | So spoke Telemachus. But in his / heart he knew the deathless goddess.
+320 | 1358.480 | and                |              0 | And they turned to dancing and the loveliness of song
+321 | 1361.060 | pleasure,          |              3 | and took their pleasure, / and waited for evening to come on;
+322 | 1364.840 | and                |              0 | and while they took their pleasure the black evening came.
+323 | 1367.740 | then               |              0 | Then they went home to bed, each man to his own house.
+324 | 1371.220 | but                |              0 | But Telemachus — where his bedroom was built high
+325 | 1373.720 | off                |              0 | off the beautiful courtyard, / in a place with a clear view all around —
+326 | 1377.480 | went               |              0 | went up to bed, turning many things over in his mind.
+327 | 1380.900 | Beside             |              0 | Beside him, bearing blazing torches, / walked one whose thoughts were loyal:
+328 | 1385.780 | daughter           |              1 | Eurycleia, daughter of Ops, Peisenor's son.
+329 | 1388.340 | Laertes            |              0 | Laertes had bought her long ago with his own goods,
+330 | 1391.120 | when               |              0 | when she was still in her first youth, / at the price of twenty oxen,
+331 | 1394.900 | and                |              0 | and honored her in his halls as / he honored his faithful wife —
+332 | 1398.020 | but                |              0 | but never took her to his bed: / he shunned his wife's anger.
+333 | 1401.620 | She                |              0 | She it was who carried the blazing / torches beside him, and of all
+334 | 1404.980 | the                |              0 | the house-slaves she loved him most: / she had nursed him when he was small.
+335 | 1409.080 | He                 |              0 | He opened the doors of the close-built room, / sat down on the bed, and pulled his soft tunic off,
+336 | 1414.550 | and                |              0 | and dropped it into the shrewd old woman's hands.
+337 | 1417.180 | She                |              0 | She folded the tunic and smoothed it out, / hung it on a peg beside the corded bedstead,
+338 | 1421.780 | and                |              0 | and went out of the room, drawing the door shut by its / silver handle, and slid the bolt home with its strap.
+339 | 1427.900 | There              |              0 | There all night long, wrapped in / the choice fleece of the sheep,
+340 | 1431.160 | He                 |              0 | he pondered in his heart the road Athena had shown him.

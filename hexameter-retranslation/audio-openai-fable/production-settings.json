@@ -8,6 +8,6 @@
   "source_characters": 29692,
   "chunk_count": 10,
   "max_chunk_characters": 3800,
-  "instructions": "Read as a measured, dignified, single-narrator epic performance in contemporary English. Give each verse line a perceptible six-beat hexameter pulse, using natural stresses and a light line-final cadence without chanting or pausing mechanically at every line. Let enjambed syntax carry across line breaks. Keep dialogue distinct but do not use separate character voices. Pronounce Greek names carefully.",
+  "instructions": "Read as a measured, dignified, single-narrator epic performance in contemporary English. Give each verse line a perceptible six-beat hexameter pulse, using natural stresses and a light line-final cadence without chanting or pausing mechanically at every line. Let enjambed syntax carry across line breaks. Keep dialogue distinct but do not use separate character voices. Pronounce Greek names carefully. Pronounce Telemachus naturally at normal speaking speed as tuh LEM uh kus: four flowing syllables, never spelled out or separated.",
   "pronunciation_fixes": "pronunciation-fixes.tsv"
 }

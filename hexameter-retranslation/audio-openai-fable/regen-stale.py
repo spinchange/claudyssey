@@ -52,13 +52,19 @@ def main() -> None:
     stale = json.loads((BUILD / "stale-chunks.json").read_text(encoding="utf-8"))["stale"]
     affected = sorted(stale)
 
-    # 1. Delete exactly the stale chunk mp3s (synthesize skips existing files).
+    # 1. Move exactly the stale chunk mp3s aside (synthesize skips existing
+    # files).  Google Drive-mounted workspaces may deny unlinking existing
+    # files while allowing rename, so retain recoverable backups.
     for book_id, indexes in sorted(stale.items()):
         for i in indexes:
             mp3 = BUILD / "audio-chunks" / book_id / f"chunk-{i:03d}.mp3"
-            print(f"delete {mp3.relative_to(BUILD)}" + ("" if mp3.exists() else "  (already absent)"))
+            backup = mp3.with_suffix(mp3.suffix + ".stale")
+            print(f"move {mp3.relative_to(BUILD)} -> {backup.name}" +
+                  ("" if mp3.exists() else "  (already absent)"))
             if not dry and mp3.exists():
-                mp3.unlink()
+                if backup.exists():
+                    raise SystemExit(f"stale backup already exists: {backup}")
+                mp3.rename(backup)
 
     # 2. Re-synthesize only those chunks, per book, with its recorded settings.
     for book_id, indexes in sorted(stale.items()):

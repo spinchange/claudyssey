@@ -1,9 +1,9 @@
 # The Odyssey in English hexameter
 
 This folder is an experiment in translating Homer into an English analogue of
-dactylic hexameter. [Books 1–12](#contents) are complete: Books 1–4 form the
-Telemachy, Books 5–8 form the Homecoming of Odysseus, and Books 9–12 form the
-Great Wanderings. The original
+dactylic hexameter. [All 24 books](#contents) are complete: Books 1–4 form the
+Telemachy, Books 5–8 form the Homecoming of Odysseus, Books 9–12 form the
+Great Wanderings, and Books 13–24 bring Odysseus home to Ithaca. The original
 [proem test](book-01-proem.md), lines 1–10, is retained with its translation
 notes.
 
@@ -86,6 +86,56 @@ remains available in every voice.
   each of the 453 Greek verses, completing the Great Wanderings.
 - `book-12-performance.md` — the same 453 verses with six governing stresses,
   foot divisions, a vowel guide, and a pronunciation key for names.
+- `book-13.md` — the clean reading text of Book 13, one English hexameter for
+  each of the 440 Greek verses.
+- `book-13-performance.md` — the same 440 verses with six governing stresses,
+  foot divisions, a vowel guide, and a pronunciation key for names.
+- `book-14.md` — the clean reading text of Book 14, one English hexameter for
+  each of the 533 Greek verses.
+- `book-14-performance.md` — the same 533 verses with six governing stresses,
+  foot divisions, a vowel guide, and a pronunciation key for names.
+- `book-15.md` — the clean reading text of Book 15, one English hexameter for
+  each of the 557 Greek verses.
+- `book-15-performance.md` — the same 557 verses with six governing stresses,
+  foot divisions, a vowel guide, and a pronunciation key for names.
+- `book-16.md` — the clean reading text of Book 16, with 480 retained verses
+  numbered 1–100 and 102–481. Verse 101 is absent from the project’s critical
+  Greek base text and is not supplied or silently renumbered here.
+- `book-16-performance.md` — the same 480 retained verses with six governing
+  stresses, foot divisions, a vowel guide, and a pronunciation key for names.
+- `book-17.md` — the clean reading text of Book 17, one English hexameter for
+  each of the 606 Greek verses.
+- `book-17-performance.md` — the same 606 verses with six governing stresses,
+  foot divisions, a vowel guide, and a pronunciation key for names.
+- `book-18.md` — the clean reading text of Book 18, one English hexameter for
+  each of the 428 Greek verses.
+- `book-18-performance.md` — the same 428 verses with six governing stresses,
+  foot divisions, a vowel guide, and a pronunciation key for names.
+- `book-19.md` — the clean reading text of Book 19, one English hexameter for
+  each of the 604 Greek verses.
+- `book-19-performance.md` — the same 604 verses with six governing stresses,
+  foot divisions, a vowel guide, and a pronunciation key for names.
+- `book-20.md` — the clean reading text of Book 20, one English hexameter for
+  each of the 394 Greek verses.
+- `book-20-performance.md` — the same 394 verses with six governing stresses,
+  foot divisions, a vowel guide, and a pronunciation key for names.
+- `book-21.md` — the clean reading text of Book 21, one English hexameter for
+  each of the 434 Greek verses.
+- `book-21-performance.md` — the same 434 verses with six governing stresses,
+  foot divisions, a vowel guide, and a pronunciation key for names.
+- `book-22.md` — the clean reading text of Book 22, one English hexameter for
+  each of the 501 Greek verses.
+- `book-22-performance.md` — the same 501 verses with six governing stresses,
+  foot divisions, a vowel guide, and a pronunciation key for names.
+- `book-23.md` — the clean reading text of Book 23, with 371 retained verses
+  numbered 1–48 and 50–372. Verse 49 is absent from the project’s critical
+  Greek base text and is not supplied or silently renumbered here.
+- `book-23-performance.md` — the same 371 retained verses with six governing
+  stresses, foot divisions, a vowel guide, and a pronunciation key for names.
+- `book-24.md` — the clean reading text of Book 24, one English hexameter for
+  each of the 548 Greek verses, completing the Odyssey.
+- `book-24-performance.md` — the same 548 verses with six governing stresses,
+  foot divisions, a vowel guide, and a pronunciation key for names.
 
 ## Fable audio
 
@@ -93,5 +143,6 @@ The `audio-openai-fable` directory contains the OpenAI Fable narration at
 0.96 speed, using a single measured epic voice and the project pronunciation
 map. Individual files are under `books/`; the continuous listening volumes are
 `telemachy-books-01-04.mp3`, `homecoming-books-05-08.mp3`, and
-`great-wanderings-books-09-12.mp3`. The Great Wanderings volume is also kept
-under `books/` beside its four component files.
+`great-wanderings-books-09-12.mp3`, and
+`odysseus-on-ithaca-books-13-24.mp3`. The latter two volumes are also kept
+under `books/` beside their component files.

@@ -80,6 +80,35 @@ To test one book first:
 python tools\build_audiobook.py synthesize --books book-01
 ```
 
+### ElevenLabs named-voice workflow
+
+A short, source-grounded stress test for the saved **Demodocus** voice lives at
+`audiobook-elevenlabs/demodocus-audition.txt`. It exercises epic narration,
+dialogue, menace, and the house pronunciations without spending a whole book's
+credits. Because a narrowly scoped API key may not have `voices_read`, copy the
+voice ID from the ElevenLabs voice page and set it explicitly:
+
+```powershell
+$env:ELEVENLABS_VOICE_ID = "your_voice_id"
+.\tools\audition_demodocus.ps1 -VoiceName "Demodocus"
+```
+
+The display label can instead be `"Declan Sage"`; the immutable voice ID is
+what selects the voice. The runner sends the original spellings by default and
+writes the result to `audiobook-elevenlabs/auditions/`. Use
+`-ApplyPronunciations` only to diagnose a specific difficult name: globally
+respelling every name can make the performance sound over-enunciated. Record
+mispronunciations from the natural read and correct only those before production.
+
+After approving the audition, prepare and synthesize Book 1 before committing
+credits to all 24 books:
+
+```powershell
+python tools\build_audiobook.py prepare --build-dir audiobook-elevenlabs --join-lines --max-chars 3000
+python tools\build_audiobook.py synthesize --provider elevenlabs --build-dir audiobook-elevenlabs --voice "id:$env:ELEVENLABS_VOICE_ID" --model eleven_multilingual_v2 --books book-01 --stability 0.42 --similarity-boost 0.80 --style 0.18 --speed 0.96
+python tools\build_audiobook.py concat --build-dir audiobook-elevenlabs --books book-01
+```
+
 If `ffmpeg` is installed, join chunks into per-book audio files:
 
 ```powershell

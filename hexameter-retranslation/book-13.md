@@ -2,9 +2,9 @@
 
 *The sending home; the ship turned to stone; Athena and Odysseus on Ithaca.*
 
-1 So he had spoken, and all of them then fell hushed into silence,
+1 So he spoke, and all of them then fell hushed into silence,
 2 held by the spell through the halls in the depth of the shadowy megaron.
-3 Then in his turn Alcinous answered him back and addressed him:
+3 Answering him in his turn, Alcinous spoke out and addressed him:
 4 “Lord Odysseus, since you have come to my bronze-floored dwelling,
 5 high-roofed hall, I do not think that after your roaming
 6 you will be driven away from your homecoming, though you have suffered.
@@ -17,24 +17,24 @@
 13 Come then, let us also give him a great tripod and cauldron,
 14 man by man; and afterward we, by collecting among the people,
 15 shall make repayment; for hard it is for one man to give freely.”
-16 So Alcinous spoke, and his saying gave pleasure to all of them.
-17 Then they went away to sleep, each one to his own house.
+16 So he spoke, Alcinous, and his word was pleasing to all of them.
+17 They for their part went off to their rest, each one to his own house.
 18 But when Dawn early-born appeared with her rose-red fingers,
 19 they hurried down to the ship, bearing the bronze that brings honor.
 20 And the holy strength of Alcinous stowed it all rightly,
 21 himself going through the ship under the thwarts, lest any object
 22 hinder the crewmen at rowing whenever they strained at the oar-blades.
-23 Then they went to Alcinous' house and made ready the banquet.
-24 For them the holy strength of Alcinous slaughtered an ox there
+23 Off to Alcinous' house they went and made ready the banquet.
+24 For them an ox was slaughtered by the holy strength of Alcinous,
 25 for Zeus son of Cronos, the dark-cloud lord who rules all.
-26 Then after burning the thigh-pieces, they feasted on splendid abundance,
+26 After the thigh-pieces burned, they feasted on splendid abundance,
 27 taking delight; and among them the godlike singer was chanting,
 28 Demodocus, held in honor among the people. But then Odysseus
 29 often turned his head toward the sun in its blaze and brilliance,
 30 eager that it might set; for indeed he was yearning for homeward.
 31 As when a man longs greatly for supper, one whose yoked oxen
 32 all through the day have dragged the jointed plow through the fallow,
-33 welcome indeed to him is the light of the sun when it sets there,
+33 welcome indeed to him is the light of the sun in its sinking,
 34 so he may go to his supper, though his knees grow weak in the going:
 35 so to Odysseus welcome the light of the sun sank beneath him.
 36 Straightway he spoke among the Phaeacians who love the oar-stroke,
@@ -43,42 +43,42 @@
 39 pour the libation and send me away unharmed; and farewell, all.
 40 For now all things have been brought to pass that my dear heart desired:
 41 convoy and loving gifts; may the gods of the sky in their favor
-42 make them bring blessing; and may I find my blameless wife in my home there,
+42 make them bring blessing; and may I find at home my blameless consort,
 43 come back again, with my dear ones safe and unharmed beside me.
-44 And may you, staying here, give joy to your wedded wives there
+44 And may you, staying here, give joy to the wives you have wedded
 45 and to your children; and may the gods grant every excellence,
 46 every good thing, and let no public evil come on your people.”
-47 So he had spoken, and all gave assent and urged one another
+47 So he spoke, and all of them gave assent and urged one another
 48 to send the stranger away, since indeed he had spoken with justice.
 49 Then to the herald the strength of Alcinous spoke and commanded:
-50 “Pontonous, mix in the bowl and serve out the wine through the hall now
+50 “Pontonous, mix in the bowl, and serve out the wine through the palace
 51 to all, so after prayer to father Zeus we may send off
 52 this guest to the land of his fathers, his own native country.”
 53 So he spoke, and Pontonous mixed the honey-sweet wine in the krater,
 54 and served it to all in due order; and they to the blessed gods
 55 poured out libations, the gods who possess the wide heaven,
-56 there from their seats. But lordly Odysseus arose then,
+56 there from their seats. And upward rose lordly Odysseus,
 57 and into Arete's hand he placed the double-handled goblet,
 58 and speaking aloud he addressed her with winged words and saluted:
 59 “Farewell, my queen, continually, until old age comes upon you
 60 and death, the things that stand over all mortal human creatures.
 61 But I am going home; may you take delight in this household,
-62 in your children and people, and in Alcinous the king there.”
-63 Having spoken thus, noble Odysseus stepped over the threshold.
+62 in your children and people, and in Alcinous the ruler.”
+63 So having spoken, noble Odysseus stepped over the threshold.
 64 And with him the strength of Alcinous sent forth the herald
-65 to guide him on to the swift ship and down to the shore of the sea there.
+65 to guide him along to the swift ship and down to the seashore.
 66 And then Arete sent attendant women to go there beside him:
 67 one of them bearing a mantle well washed and a tunic,
 68 and another she told to convey the close-fitted coffer with them;
-69 and the third one carried provisions, both bread and ruddy wine there.
+69 and the third one carried provisions, both bread and wine that was ruddy.
 70 But when they had come to the ship and the water of ocean,
 71 then the proud escorts quickly received all these things in the vessel,
-72 and set them away in the hollow ship, all the food and the drink there.
-73 Then for Odysseus they spread out a cloak and a linen cover
+72 and set them away in the hold, the food and the drink altogether.
+73 Down for Odysseus they spread out a cloak and a linen cover
 74 on the deck-planks of the hollow ship, so that there he might slumber,
 75 still without waking, at stern; and he too climbed aboard and lay down
 76 silently, while they sat at the thole-pins each in his order,
-77 and loosed the cable away from the pierced anchoring stone there.
+77 and away from the pierced anchoring stone they loosed the cable.
 78 And when they had leaned back, they kept threshing the sea with the oar-blades,
 79 and over his eyelids sweet sleep descended and settled,
 80 unbroken, sweetest of all, and nearest in likeness to death.
@@ -87,9 +87,9 @@
 83 lifting themselves up high, and swiftly accomplish the roadway,
 84 so then her stern kept lifting, while after her surged a great wave,
 85 dark-purple, huge, of the loud-resounding and many-voiced seaway.
-86 Yet she ran very steadily, firm and secure; not even a hawk there,
+86 Yet she ran very steadily, firm and secure; not even a harrier,
 87 no, not a falcon, would keep pace with her, lightest of flyers.
-88 So she, running swiftly, kept cleaving the swells of the sea there,
+88 So she, running swiftly, kept cleaving the swells of the seaway,
 89 bearing a man whose counsels were like to the counsels of immortals,
 90 who before had suffered indeed very many griefs in his spirit,
 91 testing the wars of men and the grievous and wearisome billows,
@@ -100,7 +100,7 @@
 96 There is a harbor of Phorcys, the old man, the ancient of ocean,
 97 in the land of Ithaca; and in it two jutting headlands
 98 stand there sheer, breaking away, and bend toward the mouth of the harbor;
-99 these keep outside the great wave down, which the stormy winds raise there,
+99 these keep off the great wave that the ill-blowing winds are raising,
 100 while within well-benched ships remain without any mooring,
 101 once they have reached the measure and bounds of the anchoring station.
 102 Now at the head of the harbor there stands a long-leafed olive,
@@ -117,16 +117,16 @@
 113 There then they brought her inside, for they knew the place from olden time; and
 114 she ran onto shore as far as the half of her whole length,
 115 hurrying strongly; for such was the drive from the hands of the rowers.
-116 Then from the well-benched ship they stepped out onto the mainland,
+116 Stepping out of the well-benched ship, they came to the mainland,
 117 and first from the hollow ship they lifted Odysseus,
 118 with the linen sheet itself and the shining and bright coverlet on him,
 119 and they set him down on the sand, overpowered still by slumber.
-120 Then they lifted the goods that the splendid Phaeacian people
+120 Out they lifted the goods that the splendid Phaeacian people
 121 gave him to bear on his journey home, through great-hearted Athena.
 122 These they then set all heaped by the base and trunk of the olive,
 123 out of the road, lest one of the wayfaring race of men passing
 124 should, before Odysseus awakened, come up and despoil them.
-125 Then they themselves again started back for home. Yet the Earth-Shaker
+125 They themselves in their turn started back for home. Yet the Earth-Shaker
 126 had not forgotten the threats that he uttered against godlike Odysseus
 127 in the beginning, but asked what the purpose of Zeus might be.
 128 “Father Zeus, no longer shall I be honored among the immortals,
@@ -134,13 +134,13 @@
 130 these Phaeacians, who after all are sprung from my own generation.
 131 For indeed I had thought that Odysseus, after much suffering,
 132 would come home; yet I never wholly denied him his homecoming,
-133 since you first had promised and nodded your head in assent there.
+133 since you first had promised and nodded your head in assenting.
 134 But now while he slept in the swift ship, bearing him over the waters,
 135 they laid him down in Ithaca, and they gave him uncounted gifts too,
-136 bronze and gold in abundance, and woven garments as well there,
+136 bronze and gold in abundance, and garments finely woven,
 137 many, so many as never from Troy would Odysseus have taken,
 138 even if safe he had come with his due allotted share of the plunder.”
-139 Then Zeus the gatherer of clouds in answer addressed him:
+139 Zeus the gatherer of clouds in answer addressed him and spoke out:
 140 “Oh my, Earth-Shaker, wide-ruling lord, what a word you have spoken.
 141 The gods are not dishonoring you; and it would be a hard matter
 142 to cast dishonor upon the eldest and best among all gods.
@@ -148,13 +148,13 @@
 144 does not honor you at all, why, vengeance is always before you.
 145 Do as you please, whatever indeed is dear to your own spirit.”
 146 Then Poseidon the Earth-Shaker answered him, saying:
-147 “I would act on it straightway, dark-cloud lord, exactly as you say there;
+147 “I would act on it straightway, dark-cloud lord, just as you have spoken;
 148 yet I am always mindful of your own spirit and shrink from it.
 149 Now then, I desire to smash that beautiful ship of the Phaeacians,
 150 as she returns from her escort across the mist-covered seaway,
 151 so that now at last they may stop and desist from convoying mortals;
 152 and around their city I mean to cast a great mountain about them.”
-153 Then Zeus the gatherer of clouds in answer addressed him:
+153 And in answer to him the cloud-gathering Zeus made his saying:
 154 “Dear one, this is the way that it seems to my own mind the best course:
 155 when all the people are looking on from the city and watching
 156 as she drives in, then make her a stone very near to the mainland,
@@ -166,13 +166,13 @@
 162 swiftly impelled; and the Earth-Shaker came up close beside her,
 163 who made her a stone and rooted her fast in the seabed
 164 driving her down with the flat of his hand; then he departed.
-165 Then to each other they spoke out their winged words in wonder,
+165 One to another they spoke and uttered their winged words in wonder,
 166 the Phaeacians, long-oared men renowned for the fame of their shipping.
 167 Thus would a man speak out as he looked at the man close beside him:
 168 “Oh, who has shackled our swift ship here on the open water,
 169 driving for home? And plainly before us her whole hull was showing.”
 170 So would one speak; but they did not know how this thing had happened.
-171 Then Alcinous spoke in assembly and answered among them:
+171 To them Alcinous spoke in assembly and answered among them:
 172 “Ah me, now truly the ancient prediction has reached and fulfilled me,
 173 told by my father, who said that Poseidon would bear us resentment
 174 because we convoy all men and send them unharmed on their journeys.
@@ -198,7 +198,7 @@
 194 Therefore to him as their lord all things appeared in strange fashion:
 195 the long-stretching paths and the havens that welcome all shipping,
 196 and the sheer-rising rocks and the flourishing trees heavy-leafing.
-197 Then he sprang to his feet and stood and beheld his fatherland,
+197 Up he sprang to his feet and stood and beheld his fatherland,
 198 and after that groaned aloud and smote on the thighs with his two hands,
 199 striking them flatwise, and uttered a word of lament in his sorrow:
 200 “Oh, to what mortals’ land have I come now once more in my roaming?
@@ -206,7 +206,7 @@
 202 or are they friendly to strangers, with minds that revere the gods’ order?
 203 Where shall I carry this wealth? And where shall I wander in person?
 204 Would that I had remained there beside the Phaeacians themselves.
-205 Then I might have approached some other exceedingly mighty
+205 I for my part might have gone to some other exceedingly mighty
 206 king, who would welcome me kindly and send me away to my homeland.
 207 Now I do not know where to set these things down, nor indeed shall
 208 I leave them here, lest somehow they become spoil for others.
@@ -215,10 +215,10 @@
 211 who conveyed me away to another land, though they told me
 212 they would bring me to bright-seen Ithaca, yet did not perform it.
 213 May Zeus of suppliants repay them, who watches all mortals
-214 and exacts retribution from any man whenever he sins there.
+214 and exacts retribution from any man who is sinning.
 215 But come, let me count out these goods and look over them carefully,
 216 lest as they went in the hollow ship they have taken some portion.”
-217 So he spoke, and he counted the splendid tripods before him,
+217 So having spoken, he counted the splendid tripods before him,
 218 and the cauldrons, and gold, and the finely woven fair garments.
 219 Of them nothing was lacking; yet still he lamented his homeland,
 220 crawling along by the shore of the loud-resounding sea water,
@@ -237,7 +237,7 @@
 233 what land is this, what people, and what men are native within it?
 234 Is it some island clear in the sky, or else is it headland
 235 sloping down to the sea from the rich-soiled face of the mainland?”
-236 Then in return the gray-eyed goddess Athena addressed him:
+236 And the gray-eyed goddess Athena in turn made answer to him:
 237 “You are a simple man, O stranger, or else have come from far off,
 238 if indeed you inquire about this land. It is not at all so
 239 nameless as that; indeed there are very many who know it,
@@ -251,15 +251,15 @@
 247 of every kind is there, and springs that run through all seasons.
 248 Therefore, stranger, the name of Ithaca reaches even to Troyland,
 249 though they say it lies very far from the land of Achaea.”
-250 So she spoke, and the much-enduring brilliant Odysseus rejoiced then,
+250 So she spoke, and rejoiced much-enduring, brilliant Odysseus,
 251 glad in the land of his fathers, as Pallas Athena had told him,
 252 daughter of Zeus who bears the aegis, the mighty protector.
-253 Then he addressed her and spoke out winged words in answer;
+253 Speaking aloud, he addressed her with winged words in answer;
 254 yet he did not speak what was true, but held back the story,
 255 ever revolving within his breast his profit-devising intelligence:
 256 “I had heard of Ithaca even in spacious Crete-land,
 257 far over the sea; and now I myself have come to it,
-258 bringing these treasures with me, and I left as many behind there
+258 bringing these treasures with me, and leaving as many behind me
 259 for my children, and now I flee, since I killed the beloved son of
 260 Idomeneus, Orsilochus swift of foot, who in spacious
 261 Crete used to surpass all livelihood-winning men by his swiftness,
@@ -280,20 +280,20 @@
 276 But the force of the wind drove them away from that course after leaving,
 277 greatly against their will, for they did not desire to deceive me.
 278 Driven from there in our wandering, we came to this place in the nighttime.
-279 Eagerly into the harbor we rowed, and none among us then
+279 Eagerly into the harbor we rowed, and none among us
 280 had any thought of supper, although we were longing to take it,
-281 but simply disembarked from the ship and all of us lay there.
+281 but just as we were, we stepped from the ship, and all of us settled.
 282 There upon me sweet sleep came over me, weary and spent with my labors,
 283 while they took all my goods from the well-fashioned hollow ship’s hold
 284 and laid them down where I myself on the sand had been sleeping.
-285 Then they embarked and departed for Sidon, well-peopled and thriving,
+285 They embarked and departed for Sidon, well-peopled and thriving,
 286 while I was left behind there in sorrow, my heart full of anguish.”
 287 So he spoke, and the goddess gray-eyed Athena smiled on him,
 288 and she caressed him with her hand; and she seemed like a woman,
 289 beautiful, tall, and skilled in the making of splendid hand-labors.
-290 Then she addressed him and spoke out winged words in answer:
+290 Calling aloud, she addressed him with winged words in answer:
 291 “He would be crafty indeed, and a thief beyond others, whoever
-292 passed you in all your deceits, even if some god met you face to face there.
+292 passed you in all of your deceits, even should a god come to meet you.
 293 Reckless one, shifty-minded, insatiable schemer in falsehood,
 294 not even here, in your own native land, were you likely to cease from
 295 cheating tales and deceitful words, which are dear to you from the ground up.
@@ -312,7 +312,7 @@
 308 Tell no one of them, neither man nor woman, the story
 309 that you have come here after wandering, but rather in silence
 310 suffer your many pains, submitting yourself to the violence of men.”
-311 Then resourceful Odysseus addressed her and answered her, saying:
+311 Answering her, resourceful Odysseus spoke and addressed her:
 312 “Difficult it is, goddess, for a mortal who meets you before him
 313 to discern you, even though he is very knowing, for you take all likenesses.
 314 Yet this I know full well, that in former times you were gentle
@@ -351,29 +351,29 @@
 347 and close beside it a lovely cave wrapped over in dimness,
 348 sacred to nymphs, the ones that are called by men the Naiads.
 349 This is the arching cavern where many and many a great gift
-350 you used to perform for the nymphs, full-finished hecatombs there;
+350 you used to perform for the Naiads, hecatombs full-finished;
 351 and this is Neriton mountain, clothed all over with forest.”
-352 So the goddess spoke, and scattered the mist, and the country appeared clear.
+352 So having spoken, the goddess scattered the mist, and the land lay open.
 353 Then did the great-enduring noble Odysseus feel gladness,
-354 rejoicing in his own land, and he kissed the grain-giving earth there.
+354 rejoicing in his own land, and he kissed the grain-giving cropland.
 355 Straightway he prayed to the nymphs, lifting his hands up before them:
 356 “Naiad nymphs, daughters of Zeus, I had never expected
 357 ever to see you again; but now with gentle entreaties
 358 hail, and we will give gifts, as we did in the time that is bygone,
 359 if the daughter of Zeus, who drives the spoil, in her kindness will grant me
 360 life for myself, and bring my beloved son on into manhood.”
-361 Then to him once more spoke the goddess gray-eyed Athena:
+361 Once again the gray-eyed goddess Athena addressed him:
 362 “Take heart; do not let these matters trouble your mind any longer.
 363 Rather, let us at once in the inmost part of the wondrous
-364 cave put away these possessions, so all may remain safe for you there;
+364 cave put away these possessions, so they all remain safe for you;
 365 then let us both take counsel how everything best may be managed.”
-366 So the goddess spoke, and entered the cave wrapped over in dimness,
+366 So having spoken, the goddess entered the cave wrapped in dimness,
 367 seeking the hiding-places throughout the cavern; and then Odysseus
-368 carried all inward close by, the gold and the tireless bronze there,
+368 carried all close within, the gold and the bronze unwearying,
 369 and the well-fashioned garments the Phaeacians had given him.
 370 All these he carefully stored, and over the doorway a great stone
 371 Pallas Athena set fast, the daughter of aegis-bearing Zeus.
-372 Then the two of them sat by the foot of the sacred olive tree there
+372 The two of them, seated beside the foot of the sacred olive,
 373 and were devising destruction for all the arrogant suitors.
 374 First among them in speech began the goddess gray-eyed Athena:
 375 “Son of Laertes, seed of Zeus, Odysseus of many devices,
@@ -381,9 +381,9 @@
 377 who now for three full years have been lording it over your household,
 378 courting your godlike wife and presenting the gifts of their wooing.
 379 Yet she, with longing always in heart for your homeward returning,
-380 gives hope to every man and promises each one in turn there,
+380 gives hope to every man, and to each one keeps making promises,
 381 sending messages forth, while the mind in her longs for another.”
-382 Then in answer to her spoke Odysseus of many devices:
+382 In answer to her spoke Odysseus of many devices:
 383 “Ah me, then surely I too like Agamemnon son of Atreus
 384 should have met a disastrous doom in the midst of my halls and my household,
 385 if you, goddess, had not recounted each thing in its due order.
@@ -404,8 +404,8 @@
 400 such that a man would abhor to behold it upon any wearer.
 401 I will dim too your eyes that before were exceedingly lovely,
 402 so that to all of the suitors you seem a thing of dishonor,
-403 and to your wife and the son whom you left behind in your hall there.
-404 You yourself first of all must go to the keeper of swine there,
+403 and to your wife and the son whom you left in your halls behind you.
+404 You yourself first of all must make your way to the swineherd,
 405 he who attends on your pigs, yet in heart he is kindly toward you,
 406 and he loves your son and prudent Penelope dearly.
 407 You will find him seated beside the swine; and they pasture
@@ -417,7 +417,7 @@
 413 there to summon Telemachus, your own dear son, Odysseus,
 414 who to wide-spaced Lacedaemon went, to the side of Menelaus,
 415 seeking report of your fame, whether anywhere you still lived.”
-416 Then resourceful Odysseus answered and spoke in return to her:
+416 Odysseus the resourceful answered and spoke in return to her:
 417 “Why then did you not tell him, you who know all in your spirit?
 418 Was it so he as well might wander and suffer afflictions
 419 over the fruitless sea, while others devour his substance?”
@@ -430,15 +430,15 @@
 426 eager to kill him before he reaches the land of his fathers.
 427 Yet I do not think this will be; before that, the earth will enfold some
 428 suitor men, more than one, who are eating away your substance.”
-429 So then having spoken, Athena touched him there with her wand.
+429 So having spoken to him, Athena touched him with her wand.
 430 She shriveled the beautiful skin on the limbs of his supple body,
 431 from his head she destroyed the fair hair, and around him a hide she
 432 set on every limb like the skin of a worn and elderly old man.
 433 She dimmed too the eyes that before had been exceedingly lovely,
 434 and around him she cast another vile rag and a tunic,
 435 tattered and foul with grime, all befouled by evil black smoke-stain.
-436 Over him too she put the great hide of a swift-running deer there,
+436 Over him too she put the great hide of a deer that was swift-running,
 437 rubbed bare; and she gave him a staff and a pitiful beggar’s pouch too,
 438 full of many rents, and the strap on it twisted with cordage.
 439 So when the two had laid their design, they parted from each other;
-440 then she went to glorious Lacedaemon after his son there.
+440 then she went to glorious Lacedaemon after the son of Odysseus.

@@ -18,32 +18,32 @@ quantity to English vowels.
   6  BLÁCK-COLORED  | BÚLLS, to the  | DÁRK-HAIRED  | SHÁKER and  | LÓRD of the  | ÉARTHWAYS.
   7  NÍNE were the  | CÓMPANIES  | SÉATED, five  | HÚNDRED men in  | ÉVERY  | CÓMPANY;
   8  NÍNE were the  | BÚLLS that were  | STÁNDING in  | FRÓNT of each  | GÁTHERED  | DIVÍSION.
-  9  JÚST they had  | TÁSTED the  | INNÁRDS and  | BÚRNED up the  | THÍGHBONES for  | GÓDHEAD,
+  9  JÚST as they  | TÁSTED the  | INNÁRDS and  | BÚRNED the  | THÍGHBONES for  | GÓDHEAD,
  10  when they CÁME  | STRÁIGHT into the  | HÁRBOR; they  | BRÁILED the  | SÝMMETRICAL  | VÉSSEL'S
- 11  SÁILS and  | FÚRLED them above,  | MÓORED the  | SHÍP, and  | THEMSÉLVES  | DISÉMBARKED there.
+ 11  SÁILS and  | FÚRLED them above;  | ÁND they  | MÓORED her,  | THEMSÉLVES  | DISEMBÁRKING.
  12  YÓUNG  | TELÉMACHUS  | LÉFT the  | SHÍP, with  | ATHÉNA  | PRÓCEEDING before him.
  13  FÍRST the gray-eyed  | GÓDDESS  | ATHÉNA  | ADDRÉSSED him and  | GÁVE him  | INSTRÚCTION:
  14  “YÓUNG  | TELÉMACHUS,  | NÓW you have  | NÓ further  | NÉED to be  | BÁSHFUL,
- 15  NÓT in the  | LÉAST; for  | PRECÍSELY  | BECÁUSE of this  | PÚRPOSE you  | SÁILED here,
+ 15  NÓT in the  | LÉAST; for  | PRECÍSELY  | BECÁUSE of this  | PÚRPOSE you  | VÓYAGED,
  16  SÉEKING your  | FÁTHER, to  | LÉARN where the  | ÉARTH has  | CONCÉALED him and what  | DÓOM
  17  MÉT him.  | GÓ  | STRÁIGHT to the  | HÓRSE-BREAKING  | NÉSTOR and  | STÁND there before him.
  18  LÉT us  | DISCÓVER the  | CÓUNSEL  | CONCÉALED in the  | DÉPTHS of his  | BÓSOM.
  19  ÁSK him  | YÓURSELF, so that he may  | REVÉAL the  | INFÁLLIBLE  | TRÚE  | WÓRD.
  20  NÓ lie shall  | CÓME from his  | MÓUTH, for his  | MÍND is  | EXCÉEDINGLY  | PRÚDENT.”
- 21  Then in REPLÝ  | SPÓKE the  | THÓUGHTFUL and  | STÉADFAST  | YÓUNG  | TELÉMACHUS:
+ 21  In TÚRN  | REPLÍED the  | THÓUGHTFUL and  | STÉADFAST  | YÓUNG  | TELÉMACHUS:
  22  “MÉNTOR,  | HÓW shall I  | GÓ to the  | MÁN, and with what  | WÓRDS shall I  | GRÉET him?
  23  STÍLL I am  | LÍTTLE  | EXPÉRIENCED in the  | ÉLABORATE  | ÁRT of  | DISCÚSSION,
  24  and a YÓUNG  | MÁN is  | ÉMBARRASSED to  | QUÉSTION a  | MÁN who is  | ÓLDER.”
- 25  Then the GRÁY-EYED  | GÓDDESS  | ATHÉNA  | ADDRÉSSED him a  | SÉCOND  | TÍME, saying:
+ 25  Once MÓRE the  | GRÁY-EYED  | GÓDDESS  | ATHÉNA  | ADDRÉSSED him,  | SÁYING:
  26  “YÓUNG  | TELÉMACHUS,  | SÓME words your  | ÓWN  | UNDERSTÁNDING shall  | SHÓW you,
  27  ÓTHERS a  | GÓD shall  | SÚGGEST; for  | Í do not  | IMÁGINE you  | ÉNTERED
  28  LÍFE or were  | NÚRTURED  | APÁRT from the  | GÓDS’  | EVERLÁSTING  | AFFÉCTION.”
- 29  THÚS having  | SPÓKEN,  | ATHÉNA  | PROCÉEDED  | ÁHEAD of him  | SWÍFTLY;
+ 29  SÓ having  | SPÓKEN,  | ATHÉNA  | PROCÉEDED  | ÁHEAD of him  | SWÍFTLY;
  30  CLÓSE in the  | STÉPS of the  | GÓDDESS he  | FÓLLOWED her  | ÓNWARD and  | SWÍFTLY.
  31  ÍNTO the  | PLÁCE of  | ASSÉMBLY they  | CÁME, to the  | RÓWS of the  | PÝLIANS.
  32  NÉSTOR was  | SÉATED  | THÉRE with his  | SÓNS, and  | ARÓUND them  | COMPÁNIONS
  33  REÁDIED the  | FÉAST, some  | RÓASTING the  | MÉAT, while the  | ÓTHERS were  | SKÉWERING.
- 34  THÉN, when the  | GÁTHERING  | NÓTICED the  | STRÁNGERS, they  | CÁME in a  | BÓDY,
+ 34  SÓON as the  | GÁTHERING  | NÓTICED the  | STRÁNGERS, they  | CÁME in a  | BÓDY,
  35  CLÁSPING their  | HÁNDS in a  | WÉLCOME and  | ASKÍNG the  | TWÓ to be  | SÉATED.
  36  FÍRST  | PEISÍSTRATUS,  | NÉSTOR'S  | SÓN, as he  | CÁME  | ÚP before them,
  37  TÓOK them  | BÓTH by the  | HÁND and  | INVÍTED  | THÉM into the  | BÁNQUET,
@@ -54,13 +54,13 @@ quantity to English vowels.
  42  THÉRE to  | ATHÉNA, the  | DÁUGHTER of  | ZÉUS who  | PÓSSESSES the  | ÁEGIS:
  43  “STRÁNGER,  | BÉGIN now by  | PRÁYING to  | LÓRDLY  | POSEÍDON the  | SÉA-GOD,
  44  SÍNCE his  | ÍS the  | BÁNQUET  | UPÓN which you  | CÁME when you  | ÉNTERED.
- 45  THÉN, when you  | PÓUR him  | LIBÁTION and  | PRÁY in the  | CÚSTOMARY  | MÁNNER,
+ 45  But WHÉN you  | PÓUR him  | LIBÁTION and  | PRÁY in the  | CÚSTOMARY  | MÁNNER,
  46  GÍVE to this  | ÓTHER man  | ÁLSO the  | CÚP of the  | HÓNEY-SWEET  | VÍNTAGE,
  47  so he may PÓUR, for I  | THÍNK he  | TÓO  | MÁKES  | PRÁYER to  | IMMÓRTALS.
  48  ÁLL human  | BEÍNGS have  | NÉED of the  | GÓDS who are  | LÍVING  | FORÉVER.
  49  YÉT he is  | YÓUNGER, the  | SÁME  | ÁGE as I in the  | ÓRDER of  | SÉASONS;
- 50  THÉREFORE to you do I  | FÍRST  | GÍVE the  | BÉAUTIFUL  | CÚP  | MÁDE of gold here.”
- 51  THÚS he  | SPÓKE and set in her  | HÁND the  | CÚP of the  | HÓNEY-SWEET  | VÍNTAGE.
+ 50  THÉREFORE to you do I  | FÍRST  | GÍVE the  | BÉAUTIFUL  | GÓBLET of  | GÓLD.”
+ 51  SÓ having  | SPÓKEN, he  | SÉT the  | CÚP of sweet  | WÍNE in her  | FÍNGERS.
  52  JÓY filled  | ATHÉNA  | BECÁUSE of the  | THÓUGHTFUL and  | ÉQUITABLE  | YÓUNG man,
  53  SÍNCE in her  | HÁND before  | ANÝONE  | ÉLSE'S he  | PLÁCED the  | GÓLD vessel.
  54  STRÁIGHTWAY she  | PRÁYED at  | CONSÍDERABLE  | LÉNGTH to the  | LÓRDLY  | POSEÍDON:
@@ -71,12 +71,12 @@ quantity to English vowels.
  59  PÁYING them  | ÁLL in  | RETÚRN for this  | GLÓRIOUS  | HÚNDREDFOLD  | ÓFFERING.
  60  GRÁNT that  | Í and  | TELÉMACHUS  | SÁIL to our  | HÓME with the  | PÚRPOSE
  61  FÚLLY  | ACCÓMPLISHED for which in our  | SWÍFT  | BLÁCK  | SHÍP we have  | CÓME here.”
- 62  THÚS did she  | PRÁY, and  | HERSÉLF was  | FÚLFILLING the  | PRÁYER she had  | ÓFFERED.
- 63  Then in the HÁNDS of  | TELÉMACHUS  | PLÁCED she the  | BÉAUTIFUL  | WÍNE  | CÚP;
- 64  JÚST as the  | GÓDDESS had  | PRÁYED, the  | DÉAR son of  | ODÝSSEUS  | PRÁYED then.
+ 62  SÓ then she  | PRÁYED, and was  | HERSÉLF  | FÚLFILLING the  | WHÓLE of the  | PRÁYER.
+ 63  ÍNTO the  | HÁNDS of  | TELÉMACHUS  | PLÁCED she the  | BÉAUTIFUL  | WÍNE cup;
+ 64  JÚST as the  | GÓDDESS had  | PRÁYED, so  | TÓO prayed the  | DÉAR son of  | ODÝSSEUS.
  65  ÁFTER the  | ÓUTERMOST  | MÉAT had been  | RÓASTED and  | TÁKEN from  | FÍRELIGHT,
  66  they SHÁRED  | PÓRTIONS and  | FÉASTED  | TOGÉTHER upon the  | MAGNÍFICENT  | BÁNQUET.
- 67  THÉN, when  | DESÍRE for  | FÓOD and for  | DRÍNKING was  | PÚT from their  | BÓDIES,
+ 67  But WHÉN  | DESÍRE for  | FÓOD and for  | DRÍNKING was  | PÚT from their  | BÓDIES,
  68  GÉRENIAN  | NÉSTOR the  | HÓRSEMAN  | BEGÁN to  | ADDRÉSS the  | ASSÉMBLY:
  69  “NÓW is a  | BÉTTER  | OCCÁSION to  | QUÉSTION and  | ÁSK of the  | STRÁNGERS
  70  WHÓ they may be,  | SÍNCE  | ALRÉADY the  | FÉAST has  | DELÍGHTED their  | SPÍRITS.
@@ -84,10 +84,10 @@ quantity to English vowels.
  72  CÓME you for  | BÚSINESS, or  | WÁNDER  | WITHÓUT an  | APPÓINTED  | DIRÉCTION,
  73  ÉVEN as  | PÍRATES who  | RÓVE on the  | FÁCE of the  | WÁTERS and  | HÁZARD
  74  ÁLL their own  | LÍVES while  | BRÍNGING  | AFFLÍCTION to  | PÉOPLE of  | STRÁNGE lands?”
- 75  Then in REPLÝ  | SPÓKE the  | THÓUGHTFUL and  | STÉADFAST  | YÓUNG  | TELÉMACHUS,
+ 75  In TÚRN  | REPLÍED the  | THÓUGHTFUL and  | STÉADFAST  | YÓUNG  | TELÉMACHUS,
  76  NÓW full of  | CÓURAGE;  | ATHÉNA  | HERSÉLF put the  | STRÉNGTH in his  | SPÍRIT,
  77  SÓ he could  | ÁSK for a  | WÓRD of his  | FÁTHER, so  | LÓNG in his  | ABSÉNCE,
- 78  ÁLSO that  | NÓBLE  | RENÓWN among  | MÓRTALS might  | CÓME to  | HIMSÉLF there:
+ 78  ÁLSO that  | NÓBLE  | RENÓWN might be  | HÍS to  | HÓLD among  | MÓRTALS:
  79  “NÉSTOR, the  | SÓN of  | GRÉAT Neleus,  | GLÓRY  | RENÓWNED of  | ACHÁEANS,
  80  you ÁSK from  | WHÉRE we have  | CÓME, and I  | FRÉELY shall  | GÍVE you the  | ÁNSWER.
  81  WÉ are from  | ÍTHACA  | ÚNDER the  | TRÉE-COVERED  | MÓUNTAIN of  | NÉION;
@@ -111,7 +111,7 @@ quantity to English vowels.
  99  PRÓMISED a  | WÓRD or an  | ÁCTION  | TÓ you and  | FÚLFILLED what he  | PRÓMISED
 100  THÉRE in the  | CÓUNTRY of  | TRÓY, where  | ACHÁEANS  | ENDÚRED their  | AFFLÍCTIONS,
 101  CÁLL it to  | MÍND for me  | NÓW, and  | REVÉAL the  | INFÁLLIBLE  | TRÚE word.”
-102  Then GÉRENIAN  | NÉSTOR the  | HÓRSEMAN  | REPLÍED  | TÓ him,  | SÁYING:
+102  ÁNSWERING  | HÍM spoke  | GÉRENIAN  | NÉSTOR the  | HÓRSEMAN,  | SÁYING:
 103  “DÉAR child,  | SÍNCE you  | REMÍND me of  | GRÍEF and the  | HÁRDSHIPS we  | SÚFFERED
 104  THÉRE  | ÍN that  | CÓUNTRY, we  | ÚNGOVERNABLE  | SÓNS of  | ACHÁEANS—
 105  ÁLL we  | ENDÚRED as we  | RÓVED in the  | SHÍPS on the  | MÍST-COVERED  | SÉA-WAY,
@@ -128,9 +128,9 @@ quantity to English vowels.
 116  ASKÍNG me  | ÁLL of the  | ÉVILS the  | ÉXCELLENT  | ÁRGIVES  | ENCÓUNTERED;
 117  SÓONER,  | EXHÁUSTED,  | YÓU then would  | RETÚRN to the  | LÁND of your  | FÁTHERS.
 118  NÍNE years  | LÓNG we were  | STÍTCHING  | DESTRÚCTION  | ARÓUND them and  | PLÓTTING
-119  ÉVERY  | CONCÉIVABLE  | CÚNNING, and  | CRÓNOS' son  | SCÁRCELY  | ÉNDED it.
-120  NÓ man there would  | ÓPENLY  | SÉT his  | INTÉLLIGENCE  | AGÁINST that  | MÁN'S counsel,
-121  NÓ man who  | WÍSHED to  | SÚCCEED, for  | GRÉATLY  | SÚRPASSED them  | ODÝSSEUS
+119  ÉVERY  | CONCÉIVABLE  | TRÍCKERY, and  | CRÓNOS' son  | SCÁRCELY  | ÉNDED it.
+120  NÓBODY  | THÉRE was  | ÉVER  | WÍLLING to  | MÁTCH him in  | CÚNNING
+121  FÁCE to  | FÁCE, since by  | FÁR the  | GRÉATEST was  | GÓDLIKE  | ODÝSSEUS
 122  in ÉVERY  | FÓRM of  | DECÉPTION—your  | FÁTHER,  | ÍF you are  | TRÚLY
 123  BÓRN from his  | BLÓOD. I am  | SÉIZED with  | ASTÓNISHMENT,  | LÓOKING upon  | YÓU.
 124  CÉRTAINLY  | ÁLL of your  | SPÉECHES  | RESÉMBLE the  | SPÉECHES he  | ÓFFERED;
@@ -139,7 +139,7 @@ quantity to English vowels.
 127  NÉVER be  | FÓUND in  | ASSÉMBLY or  | CÓUNCIL  | ÓPPOSING  | ÉACH other.
 128  ÓNE heart  | BETWÉEN us, with  | WÍSDOM of  | MÍND and  | CONSÍDERATE  | JÚDGMENT,
 129  GÚIDED the  | ÁRGIVES in  | CÓUNSEL,  | DEVÍSING the  | BÉST  | WÁY before them.
-130  THÉN, when at  | LÁST we had  | RÁVAGED the  | STÉEP-WALLED  | CÍTY of  | PRÍAM,
+130  YÉT when at  | LÁST we had  | RÁVAGED the  | STÉEP-WALLED  | CÍTY of  | PRÍAM,
 131  ÉNTERED the  | SHÍPS, and a  | GÓD had  | DISPÉRSED the  | ACHÁEANS  | ASÚNDER,
 132  ZÉUS in the  | DÉPTH of his  | HÉART  | DESÍGNED a  | CALÁMITOUS  | HÓMEWARD
 133  RÓAD for the  | ÁRGIVES, for not  | ÉVERY  | MÁN had  | INTÉLLIGENCE in  | HÍM,
@@ -158,11 +158,11 @@ quantity to English vowels.
 146  FÓOL that he  | WÁS, for he  | KNÉW not the  | GÓDDESS  | WÓULD not be  | PÉRSUADED.
 147  MÍNDS of the  | GÓDS  | EVERLÁSTING are not  | TÚRNED  | ARÓUND in a  | MÓMENT.
 148  So the TWÓ  | STÓOD and  | EXCHÁNGED  | BÍTTER words with  | ÉACH  | ÓTHER before us;
-149  then the ACHÁEANS in  | STRÓNG-PLATED  | GRÉAVES  | RÓSE  | ÚP in a  | CLÁMOR,
+149  and the ACHÁEANS in  | STRÓNG-PLATED  | GRÉAVES  | RÓSE  | ÚP in a  | CLÁMOR,
 150  MÁKING a  | TÉRRIBLE  | DÍN, while  | TWÓ separate  | CÓUNSELS  | DIVÍDED.
 151  ÁLL through the  | NÍGHT we  | REPÓSED on our  | ÁNGER and  | BRÓODED on  | HÁRSHNESS
 152  ÁIMED at  | ÉACH other, while  | ZÉUS was  | PREPÁRING a  | STRÓKE of  | DESTRÚCTION.
-153  Then with the DÁWNING,  | ÓNE  | HÁLF of us  | HÁULED  | DÓWN the ships to the  | BRÍGHT sea,
+153  CÓME the  | DÁWNING, one  | HÁLF of us  | HÁULED down the ships to the  | BRÍGHT  | SÉA,
 154  LÓADING  | POSSÉSSIONS  | ABÓARD and the  | WÓMEN in  | LÓW-GIRDED  | GÁRMENTS.
 155  HÁLF of the  | ÁRMY  | REMÁINED and was  | HÉLD from the  | JÓURNEY,  | CONTÍNUING
 156  there with the SÓN  | BÓRN of  | ATRÉUS,  | AGAMÉMNON,  | SHÉPHERD of  | PÉOPLES.
@@ -182,7 +182,7 @@ quantity to English vowels.
 170  WHÉTHER to  | SÁIL on the  | SÉAWARD  | SÍDE of  | PRECÍPITOUS  | CHÍOS,
 171  PÁSSING the  | ÍSLAND of  | PSÝRIA,  | KÉEPING  | CHÍOS  | LÉFTWARD,
 172  or on the LÁNDWARD  | SÍDE of  | CHÍOS,  | PÁST  | WÍND-SHAKEN  | MÍMAS.
-173  THÉN we  | PÉTITIONED the  | GÓD for a  | SÍGN, and a  | SÍGN he  | PROVÍDED,
+173  ÁND we  | ENTRÉATED the  | GÓD for a  | SÍGN, and a  | SÍGN he  | PROVÍDED,
 174  BÍDDING us  | CÚT through the  | MÍDST of the  | SÉA to the  | ÍSLAND  | EUBOÉA,
 175  THÚS to  | ÉSCAPE from the  | TÉRRIBLE  | ÉVIL with  | GRÉATEST  | RAPÍDITY.
 176  WHÍSTLING  | BEHÍND us, a  | FÁVORING  | WÍND rose  | ÚP, and the  | VÉSSELS
@@ -210,7 +210,7 @@ quantity to English vowels.
 198  CRÓOKED in  | CÓUNSEL  | AEGÍSTHUS, who  | SLÁUGHTERED his  | GLÓRIOUS  | FÁTHER.
 199  You TÓO,  | FRÍEND—for I  | SÉE you are  | HÁNDSOME and  | TÁLL in your  | STÁTURE—
 200  KÉEP yourself  | BRÁVE, so that  | PÉOPLE  | ÚNBORN may  | CÓMMEND you  | HÉREAFTER.”
-201  Then in REPLÝ  | SPÓKE the  | THÓUGHTFUL and  | STÉADFAST  | YÓUNG  | TELÉMACHUS:
+201  In TÚRN  | REPLÍED the  | THÓUGHTFUL and  | STÉADFAST  | YÓUNG  | TELÉMACHUS:
 202  “NÉSTOR, the  | SÓN of  | GRÉAT Neleus,  | GLÓRY  | RENÓWNED of  | ACHÁEANS,
 203  SÚRELY that  | SÓN  | BRÓUGHT terrible  | VÉNGEANCE, and  | ÁLL the  | ACHÁEANS
 204  WÍDELY shall  | CÁRRY his  | FÁME for the  | KNÓWLEDGE of  | PÉOPLE  | HÉREAFTER.
@@ -219,7 +219,7 @@ quantity to English vowels.
 207  ÍNSOLENT  | MÉN who  | AGÁINST me  | DEVÍSE every  | RECKLÉSS  | AGGRÉSSION!
 208  Yet NÓ  | SÚCH  | HÁPPINESS has been  | SPÚN by the  | GÓDS for our  | HÓUSEHOLD,
 209  NÉITHER for  | MÉ nor my  | FÁTHER; and  | NÓW I must  | BÉAR it  | REGÁRDLESS.”
-210  Then GÉRENIAN  | NÉSTOR the  | HÓRSEMAN  | REPLÍED  | TÓ him,  | SÁYING:
+210  ÁNSWERING  | HÍM spoke  | GÉRENIAN  | NÉSTOR the  | HÓRSEMAN,  | SÁYING:
 211  “DÉAR child,  | SÍNCE you  | YÓURSELF have  | RECÁLLED this  | AFFÁIR in your  | SPÉAKING,
 212  WÓRD  | CÓMES to me that  | NÚMEROUS  | MÉN who are  | CÓURTING your  | MÓTHER
 213  FÍLL  | ÚP the  | HÁLLS in  | DESPÍTE of your will and are  | PLÓTTING their  | ÉVIL.
@@ -234,21 +234,21 @@ quantity to English vowels.
 222  JÚST as  | ATHÉNA the  | GÓDDESS  | STÓOD plainly  | BESÍDE that  | ODÝSSEUS.
 223  ÍF she should  | CHÓOSE to  | ÁDORE you  | LÍKE that and  | ATTÉND you in  | SPÍRIT,
 224  MÓRE than one  | MÁN would  | ENTÍRELY  | LÓSE every  | THÓUGHT of the  | MÁRRIAGE.”
-225  Then in REPLÝ  | SPÓKE the  | THÓUGHTFUL and  | STÉADFAST  | YÓUNG  | TELÉMACHUS:
+225  In TÚRN  | REPLÍED the  | THÓUGHTFUL and  | STÉADFAST  | YÓUNG  | TELÉMACHUS:
 226  “ÉLDER, I  | THÍNK no  | FULFÍLLMENT shall  | ÉVER be  | MÁDE of that  | LÁNGUAGE.
 227  FÁR too  | GRÉAT is the  | THÍNG that you  | SÁY, and  | AMÁZEMENT has  | SÉIZED me.
 228  NÉVER could I  | HÓPE it  | HÁPPENS, not  | ÉVEN if  | GÓDS should  | DESÍRE it.”
-229  Then the GRÁY-EYED  | GÓDDESS  | ATHÉNA  | ADDRÉSSED him a  | SÉCOND  | TÍME, saying:
+229  Once MÓRE the  | GRÁY-EYED  | GÓDDESS  | ATHÉNA  | ADDRÉSSED him,  | SÁYING:
 230  “YÓUNG  | TELÉMACHUS, what  | KÍND of  | WÓRD has  | ÉSCAPED from your  | TÓOTH-FENCE?
 231  ÉASILY  | GÓDHEAD, if  | WÍLLING, can  | BRÍNG a man  | SÁFELY from  | FÁR lands.
 232  Í would  | PREFÉR to  | ENDÚRE an  | ABÚNDANCE of  | TRÓUBLES  | BEFÓREHAND,
-233  THÉN to  | RETÚRN to my  | HÓME and  | BEHÓLD my  | APPÓINTED  | HÓMECOMING,
+233  ÁND to  | RETÚRN to my  | HÓME and  | BEHÓLD my  | APPÓINTED  | HÓMECOMING,
 234  RÁTHER than  | CÓME to my  | HÉARTH and be  | KÍLLED, as the  | KÍNG  | AGAMÉMNON
 235  DÍED through the  | TRÉACHEROUS  | SCHÉMES of  | AEGÍSTHUS and  | ÉVEN his  | ÓWN wife.
 236  YÉT from the  | DÉATH that is  | CÓMMON to  | ÁLL, not  | ÉVEN  | IMMÓRTALS
 237  can SHÍELD a  | MÁN they  | LÓVE when the  | DÉSTINED  | OCCÁSION  | ARRÍVES and
 238  RÚINOUS  | DÉATH, laying  | MÓRTALS  | LÓW,  | ÓVERTAKES him and  | HÓLDS him.”
-239  Then in REPLÝ  | SPÓKE the  | THÓUGHTFUL and  | STÉADFAST  | YÓUNG  | TELÉMACHUS:
+239  In TÚRN  | REPLÍED the  | THÓUGHTFUL and  | STÉADFAST  | YÓUNG  | TELÉMACHUS:
 240  “MÉNTOR, no  | LÓNGER  | LÉT us  | SPÉAK of him,  | NÓTWITHSTANDING our  | SÓRROW.
 241  NÓ true  | RETÚRN any  | LÓNGER  | REMÁINS for my  | FÁTHER; the  | DEÁTHLESS
 242  GÓDS long  | AGÓ have  | DEVÍSED his  | DESTRÚCTION and  | BLÁCK-COLORED  | DEÁTH-DOOM.
@@ -262,12 +262,12 @@ quantity to English vowels.
 250  CRÓOKED in  | CÓUNSEL  | AEGÍSTHUS,  | DEVÍSE for a  | MÁN who was  | BÉTTER?
 251  WÁS  | MENELÁUS  | NÓT there in  | ACHÁEAN  | ÁRGOS, but  | RÓVING
 252  SÓMEWHERE among  | ÓTHER  | MÓRTALS, that this  | MÁN took  | HÉART and then  | KÍLLED him?”
-253  Then GÉRENIAN  | NÉSTOR the  | HÓRSEMAN  | REPLÍED  | TÓ him,  | SÁYING:
+253  ÁNSWERING  | HÍM spoke  | GÉRENIAN  | NÉSTOR the  | HÓRSEMAN,  | SÁYING:
 254  “I shall REVÉAL to you,  | CHÍLD,  | ÉVERY  | PÁRT of the  | TRÚTH  | WITHÓUT error.
 255  You have ALRÉADY  | IMÁGINED  | YÓURSELF  | HÓW the  | STÓRY would  | HÁPPEN,
 256  if MENELÁUS, the  | FÁIR-HAIRED  | SÓN  | BÓRN of  | ATRÉUS,  | CÓMING
 257  HÓME out of  | TRÓYLAND, had  | FÓUND that  | AEGÍSTHUS  | ALÍVE in the  | PÁLACE.
-258  NÓ man would  | HÉAP up a  | MÓUND of the  | ÉARTH on the  | DÉAD man's  | REMÁINS then;
+258  So NÓT even a  | MÓUND of  | ÉARTH would they  | HÁVE  | PÓURED for the  | FÁLLEN;
 259  CÁRRION  | BÍRDS and the  | DÓGS would have  | TÓRN and  | DEVÓURED him  | TOGÉTHER,
 260  LÝING  | ÓUT there on the  | PLÁIN, far  | AWÁY from the  | STRÉETS of the  | CÍTY.
 261  Not ÓNE  | ACHÁEAN  | WÓMAN would  | MÓURN him; his  | DÉED was a  | HÓRROR.
@@ -295,7 +295,7 @@ quantity to English vowels.
 283  STÉERING a  | SHÍP when the  | VÍOLENT  | STÓRM  | WÍNDS  | DESCÉNDED upon it.
 284  THÚS  | MENELÁUS was  | HÉLD in that  | PLÁCE, though he  | HÁSTENED his  | JÓURNEY,
 285  BÚRYING  | THÉRE his  | CÓMPANION and  | GÍVING the  | RÍTES that were  | PRÓPER.
-286  THÉN, when he  | TÓO  | WÉNT on over  | WÍNE-COLORED  | SÉAS in the  | HÓLLOW
+286  But WHÉN he  | TÓO  | WÉNT on over  | WÍNE-COLORED  | SÉAS in the  | HÓLLOW
 287  SHÍPS and in  | RAPÍDITY  | CÁME to  | PRECÍPITOUS  | MÁLEA'S  | SÚMMIT,
 288  ZÉUS of the  | WÍDE voice  | PLÁNNED for him there an  | ABHÓRRENT  | RÓAD  | HÓMEWARD,
 289  PÓURING the  | BRÉATH of the  | SCRÉAMING and  | TÚRBULENT  | WÍNDS on his  | VÉSSELS,
@@ -315,12 +315,12 @@ quantity to English vowels.
 303  MÉANWHILE  | AEGÍSTHUS  | DEVÍSED those  | ABÓMINABLE  | DÉEDS in the  | HÓMELAND.
 305  SÉVEN  | WHÓLE years he  | REÍGNED over  | MÝCENAE  | ABÚNDANT in  | GÓLD-WORK,
 304  HÁVING  | KÍLLED Atreus'  | SÓN, while the  | PÉOPLE  | SÚBMITTED  | BENÉATH him.
-306  Then in the ÉIGHTH  | YÉAR  | NÓBLE  | ORÉSTES  | RETÚRNED as his  | ÉVIL,
+306  But in the ÉIGHTH  | YÉAR  | NÓBLE  | ORÉSTES  | RETÚRNED as his  | ÉVIL,
 307  HÓME out of  | ATHÉNS, and  | KÍLLED the  | ASSÁSSIN who  | SLÁUGHTERED his  | FÁTHER,
 308  CRÓOKED in  | CÓUNSEL  | AEGÍSTHUS, who  | MÚRDERED his  | GLÓRIOUS  | FÁTHER.
 309  ÁFTER the  | KÍLLING,  | ORÉSTES  | PROVÍDED the  | ÁRGIVES a  | GRÁVE-FEAST,
 310  ÓNE for his  | HÁTEFUL  | MÓTHER and  | ÓNE for the  | CÓWARD  | AEGÍSTHUS.
-311  That VÉRY  | DÁY Menelaus,  | RENÓWNED for the  | WÁR  | CRÝ,  | ARRÍVED there,
+311  That same DÁY there  | CÁME to him  | MENELÁUS,  | RENÓWNED for the  | WÁR  | CRÝ,
 312  BRÍNGING  | POSSÉSSIONS, as  | MÁNY as  | ÁLL of his  | VÉSSELS could  | CÁRRY.
 313  Do not, my FRÍEND, be a  | LÓNG  | TÍME  | WÁNDERING  | FÁR from your  | HÓUSEHOLD,
 314  LÉAVING  | POSSÉSSIONS  | BEHÍND and  | ABÁNDONING  | MÉN in your  | PÁLACE
@@ -338,20 +338,20 @@ quantity to English vowels.
 326  ÍNTO the  | SHÍNING  | LACEDAÉMON,  | HÓME of the  | FÁIR-HAIRED  | MENELÁUS.
 327  ÁSK him  | YÓURSELF, so that he may  | REVÉAL the  | INFÁLLIBLE  | TRÚE  | WÓRD.
 328  NÓ lie shall  | CÓME from his  | MÓUTH, for his  | MÍND is  | EXCÉEDINGLY  | PRÚDENT.”
-329  THÚS he  | SPÓKE, while the  | SÚN sank  | DÓWN and the  | TWÍLIGHT  | DESCÉNDED.
-330  Then the GRÁY-EYED  | GÓDDESS  | ATHÉNA  | ADDRÉSSED the  | ASSÉMBLY among  | THÉM:
+329  SÓ he  | SPÓKE, while the  | SÚN sank  | DÓWN and the  | TWÍLIGHT  | DESCÉNDED.
+330  GRÁY-EYED  | ATHÉNA the  | GÓDDESS  | ADDRÉSSED the  | ASSÉMBLY among  | THÉM:
 331  “ÉLDER, in  | ÁLL you have  | SÁID you have  | SPÓKEN with  | FÍTTING  | PROPÓRTION.
 332  CÓME now, cut  | ÓUT the  | TÓNGUES and  | PREPÁRE the  | WÍNE in the  | MÍXING bowls,
 333  SÓ we may  | PÓUR to  | POSEÍDON and  | ÁLL of the  | ÓTHER  | IMMÓRTALS,
-334  then TÚRN our  | THÓUGHT to our  | SLÉEP, for the  | HÓUR  | APPÓINTED is on  | ÚS.
+334  and TÚRN our  | THÓUGHT to our  | SLÉEP, for the  | HÓUR  | APPÓINTED is on  | ÚS.
 335  LÍGHT has  | ALRÉADY  | DESCÉNDED  | BENÉATH the  | GLÓOM of the  | WÉSTWARD;
 336  SÍTTING too  | LÓNG at a  | FÉAST of the  | GÓDS is not  | FÍTTING.  | LÉT us go.”
-337  THÚS spoke the  | DÁUGHTER of  | ZÉUS, and the  | PÉOPLE  | ATTÉNDED her  | SÚMMONS.
+337  SHÉ had  | SPÓKEN, the  | DÁUGHTER of  | ZÉUS, and the  | PÉOPLE gave  | HÉED to her.
 338  HÉRALDS  | PÓURED water to  | CLÉANSE  | ÁLL the hands of the  | PÉOPLE  | ASSÉMBLED;
 339  YÓUNG men  | FÍLLED up the  | WÍNE bowls,  | CRÓWNING the  | MÍXTURE with  | DRÍNKING,
 340  SÉRVING to  | ÁLL, first  | PÓURING a  | PÓRTION in  | ÉACH cup for  | GÓDHEAD.
 341  Into the FÍRE they  | CÁST  | ÁLL the  | TÓNGUES; then they  | STÓOD and made  | ÓFFERING.
-342  Then, when they PÓURED and had  | DRÚNK what the  | HÉART of  | ÉACH  | PÉRSON  | DESÍRED,
+342  And WHÉN they  | PÓURED and had  | DRÚNK what the  | HÉART of each  | PÉRSON  | DESÍRED,
 343  YÓUNG  | TELÉMACHUS  | RÓSE with the  | GRÁY-EYED  | GÓDDESS  | ATHÉNA,
 344  BÓTH then  | INTÉNDING to  | GÓ to the  | HÓLLOW-BUILT  | SHÍP for the  | NÍGHTTIME.
 345  NÉSTOR  | RESTRÁINED them,  | HOWÉVER, and  | CÁUGHT them with  | WÓRDS of  | INSÍSTENCE:
@@ -360,12 +360,12 @@ quantity to English vowels.
 348  LÉAVING as  | THÓUGH from a man  | ALTÓGETHER  | WITHÓUT  | CLÓAK and  | IMPÓVERISHED,
 349  ÓNE who  | PÓSSESSES no  | CLÓAKS or  | ABÚNDANCE of  | BLÁNKETS  | WITHÍN his
 350  HÓUSE, nor has  | SÓFT  | BEDDÍNG for  | ÉITHER  | HIMSÉLF or the  | GÚEST-FRIEND!
-351  Í have an  | ÁMPLE  | ABÚNDANCE of  | BÉAUTIFUL  | BLÁNKETS and  | CLÓAKS here.
+351  Í have an  | ÁMPLE  | ABÚNDANCE of  | BÉAUTIFUL  | CLÓAKS and of  | BLÁNKETS.
 352  NÉVER while I am  | ALÍVE shall the  | DÉAR  | SÓN of this  | MÁN  | ODÝSSEUS
 353  LÍE for the  | NÍGHT on the  | DÉCK of a  | SHÍP; and not  | ÁFTERWARD  | ÉITHER,
 354  while ÁNY  | SÓNS I have  | FÁTHERED  | REMÁIN in the  | HÁLLS of my  | HÓUSEHOLD,
 355  ÁBLE to  | WÉLCOME  | WHÁTEVER  | GÚEST-FRIEND may  | CÓME to my  | DÓORWAY.”
-356  Then the GRÁY-EYED  | GÓDDESS  | ATHÉNA  | ADDRÉSSED him a  | SÉCOND  | TÍME, saying:
+356  Once MÓRE the  | GRÁY-EYED  | GÓDDESS  | ATHÉNA  | ADDRÉSSED him,  | SÁYING:
 357  “WÉLL have you  | SPÓKEN,  | BELÓVED  | ÓLD friend, and it  | NÓW is  | APPRÓPRIATE
 358  YÓUNG  | TELÉMACHUS  | FÓLLOWS your  | WÓRD, for that  | CÓURSE is  | FÁR better.
 359  LÉT him  | ACCÓMPANY  | YÓU and then  | SLÉEP in the  | HÁLLS of your  | HÓUSEHOLD.
@@ -375,36 +375,36 @@ quantity to English vowels.
 363  ÁLL of the  | ÓTHERS are  | YÓUNGER  | COMPÁNIONS who  | FÓLLOW from  | FRÍENDSHIP,
 364  ÉACH of them  | ÉQUAL in  | ÁGE to the  | GRÉAT-HEARTED  | YÓUNG  | TELÉMACHUS.
 365  There LÉT me  | LÍE for the  | NÍGHT by the  | HÓLLOW and  | BLÁCK-COLORED  | VÉSSEL.
-366  THÉN in the  | MÓRNING I  | GÓ to the  | GRÉAT-HEARTED  | CÁUCONIAN  | PÉOPLE,
+366  YÉT in the  | MÓRNING I  | GÓ to the  | GRÉAT-HEARTED  | CÁUCONIAN  | PÉOPLE,
 367  where an ÓLD  | DÉBT is  | STÍLL  | ÓWED to me,  | NÉITHER small nor  | RECÉNT.
 368  SÍNCE this young  | MÁN has now  | CÓME to your  | HÓUSE, you must  | SÉND him  | HÉREAFTER,
 369  RÍDING a  | CHÁRIOT,  | JÓINED by a  | SÓN of your  | ÓWN; and  | PROVÍDE him
 370  HÓRSES that  | RÚN with the  | LÍGHTEST of  | FÉET and are  | STRÓNGEST in  | LÁBOR.”
-371  THÚS having  | SPÓKEN, the  | GRÁY-EYED  | GÓDDESS  | ATHÉNA  | DEPÁRTED,
+371  SÓ having  | SPÓKEN, the  | GRÁY-EYED  | GÓDDESS  | ATHÉNA  | DEPÁRTED,
 372  TÁKING the  | FÓRM of a  | SÉA eagle;  | ÁLL who  | BEHÉLD it were  | STÁRTLED.
 373  NÉSTOR the  | ÓLD man  | MÁRVELED at what his  | ÓWN  | ÉYES had  | DISCÓVERED.
-374  TÁKING  | TELÉMACHUS'  | HÁND, he  | ADDRÉSSED him  | ALÓUD by his  | NÁME there:
+374  TÁKING  | TELÉMACHUS'  | HÁND, he  | SPÓKE, and by  | NÁME he  | ADDRÉSSED him:
 375  “DÉAR friend, no  | FÉAR is in me you shall  | ÉVER  | PRÓVE  | CÓWARD or  | WÓRTHLESS,
 376  if as a MÁN  | STÍLL so  | YÓUNG you have  | GÓDS to  | ATTÉND and  | ÉSCORT you.
 377  This was NÓ  | ÓTHER of  | ÁLL the  | IMMÓRTALS who  | DWÉLL on  | OLÝMPUS,
 378  NÓ, but the  | DÁUGHTER of  | ZÉUS,  | MÓST  | GLÓRIOUS  | TRITOGENEÍA,
 379  she who among ÁLL the  | ÁRGIVES  | GÁVE  | HÓNOR to  | NÓBLE  | ODÝSSEUS.
-380  QÚEEN, be  | PRÓPITIOUS, and  | GRÁNT  | ÉXCELLENT  | GLÓRY and  | FÁME now,
+380  QÚEEN, be  | PRÓPITIOUS, and  | GRÁNT  | ÉXCELLENT  | FÁME and  | GLÓRY,
 381  BÓTH upon  | MÉ and my  | CHÍLDREN and  | ÁLSO my  | REVÉRENT  | BEDMÁTE.
 382  Í in  | RETÚRN shall  | PROVÍDE you a  | BRÓAD-BROWED  | HÉIFER, a  | ÝEARLING,
 383  NÉVER  | SÚBDUED, one  | NÓ man has  | LÉD  | UNDERNÉATH the  | CONSTRÁINING
 384  ÝOKE; I shall  | ÓFFER her,  | PÓURING the  | GÓLD all  | ARÓUND on her  | HÓRN-TIPS.”
-385  THÚS did he  | PRÁY, and the  | GÓDDESS  | ATHÉNA  | ATTÉNDED his  | PRÁYER.
-386  THÉN  | GÉRENIAN  | NÉSTOR the  | HÓRSEMAN  | CONDÚCTED the  | PÉOPLE,
+385  SÓ he  | SPÓKE,  | PRÁYING, and  | PÁLLAS  | ATHÉNA gave  | ÉAR to his prayer.
+386  LÉADING the  | WÁY for them  | ÁLL went  | GÉRENIAN  | NÉSTOR the  | HÓRSEMAN,
 387  SÓNS and the  | HÚSBANDS of  | DÁUGHTERS,  | AWÁY to his  | BÉAUTIFUL  | HÓUSEHOLD.
-388  THÉN, when they  | CÁME to the  | FÁMOUS and  | BÉAUTIFUL  | HÓUSE of the  | RÚLER,
+388  But WHÉN they  | CÁME to the  | FÁMOUS and  | BÉAUTIFUL  | HÓUSE of the  | RÚLER,
 389  DÓWN in their  | ÓRDER they  | SÁT on the  | CHÁIRS and the  | BÉNCHES  | SÚRROUNDING.
-390  THÉN for their  | CÓMING the  | ÉLDER  | PREPÁRED in a  | BÓWL an  | ABÚNDANCE
+390  FÓR their  | CÓMING the  | ÉLDER  | PREPÁRED in a  | BÓWL an  | ABÚNDANCE
 391  of WÍNE  | SWÉET to be drunk,  | ÉLEVEN  | ÝEARS  | ÁGED in the  | STÓREROOM,
 392  ÓPENED  | FÓR them by the  | STÉWARDESS,  | LÓOSENING  | SÉALS on the  | VÉSSEL.
 393  SÓME of this  | WÍNE in the  | BÓWL the old  | MÁN  | MÍXED and then to  | ATHÉNA
 394  PRÁYED for a  | LÓNG time,  | PÓURING to  | ZÉUS'  | AÉGIS-BEARING  | DÁUGHTER.
-395  Then, when they PÓURED and had  | DRÚNK what the  | HÉART of  | ÉACH  | PÉRSON  | DESÍRED,
+395  And WHÉN they  | PÓURED and had  | DRÚNK what the  | HÉART of each  | PÉRSON  | DESÍRED,
 396  ÁLL of the  | ÓTHERS went  | HÓMEWARD to  | SLÉEP,  | ÉACH man to his  | ÓWN house.
 397  THÉRE  | GÉRENIAN  | NÉSTOR the  | HÓRSEMAN  | PROVÍDED a  | BÉDSTEAD
 398  for TELÉMACHUS,  | CHÉRISHED  | SÓN of the  | GÓDLIKE  | HÉRO  | ODÝSSEUS,
@@ -417,7 +417,7 @@ quantity to English vowels.
 405  then from his BÉD  | RÓSE  | ÚP  | GÉRENIAN  | NÉSTOR the  | HÓRSEMAN.
 406  ÓUT of the  | HÓUSE he  | PROCÉEDED and  | SÁT on the  | SMÓOTH-POLISHED  | STÓNE seats
 407  STÁNDING in  | FRÓNT of the  | LÓFTY and  | STRÓNGLY  | CONSTRÚCTED  | HÓUSE door,
-408  WHÍTE-COLORED  | STÓNES,  | ÁLL shining as  | THÓUGH they were  | PÓLISHED with  | ÓIL there.
+408  WHÍTE-COLORED  | STÓNES, as  | THÓUGH they were  | PÓLISHED with  | ÓIL, all  | SHÍNING.
 409  There in the DÁYS  | LÓNG  | AGÓ Neleus  | SÁT, as a  | CÓUNSELOR  | GÓDLIKE;
 410  NÓW he was  | GÓNE to the  | HÓUSE of  | GRÉAT Hades,  | SÚBDUED by his  | DEÁTH-DOOM.
 411  There in his TÚRN  | SÁT  | GÉRENIAN  | NÉSTOR, the  | GÚARD of  | ACHÁEANS,
@@ -426,7 +426,7 @@ quantity to English vowels.
 414  PÉRSEUS,  | ARÉTUS,  | ÁND  | GÓDLIKE  | THRASYMÉDES the  | SPÉARMAN;
 415  SÍXTH of them  | CÁME  | PEISÍSTRATUS,  | HÉRO, and  | JÓINED the  | ASSÉMBLY.
 416  BRÍNGING the  | GÓDLIKE  | YÓUNG  | TELÉMACHUS, they  | SÉATED him with  | THÉM.
-417  Then GÉRENIAN  | NÉSTOR the  | HÓRSEMAN  | BEGÁN to  | ADDRÉSS the  | ASSÉMBLY:
+417  GÉRENIAN  | NÉSTOR the  | HÓRSEMAN  | BEGÁN to  | ADDRÉSS the  | ASSÉMBLY:
 418  “QÚICKLY,  | BELÓVED  | SÓNS, you must  | NÓW bring my  | WÍSH to  | FULFÍLLMENT,
 419  SÓ I may  | RENDÉR  | ATHÉNA  | PRÓPITIOUS before  | ÁLL  | IMMÓRTALS,
 420  she who APPÉARED to me  | ÓPENLY  | THÉRE at the  | GÓD’S  | SPLÉNDID  | BÁNQUET.
@@ -439,10 +439,10 @@ quantity to English vowels.
 427  ÁLL of the  | ÓTHERS  | REMÁIN here  | TOGÉTHER, and  | TÉLL the  | SLÁVE women
 428  THÉRE in the  | HÓUSE to  | PREPÁRE through the  | GLÓRIOUS  | HÁLLS for the  | BÁNQUET,
 429  BRÍNGING us  | SÉATS and the  | FÍREWOOD  | ARÓUND them and  | RÁDIANT  | WÁTER.”
-430  THÚS he  | SPÓKE, and at once  | ÉVERY  | PÉRSON was  | BÚSILY  | WÓRKING.
+430  SÓ he  | SPÓKE, and at once  | ÉVERY  | PÉRSON was  | BÚSILY  | WÓRKING.
 431  ÚP from the  | PLÁIN came the  | HÉIFER; and  | ÓUT of the  | SWÍFT-RUNNING  | VÉSSEL
 432  CÁME the  | COMPÁNIONS who  | FÓLLOWED the  | GRÉAT-HEARTED  | YÓUNG  | TELÉMACHUS.
-433  Then CÁME the  | SMÍTH with the  | BRÁZEN  | ÚTENSILS, the  | MÉANS of his  | CRÁFTWORK,
+433  In CÁME the  | SMÍTH with the  | BRÁZEN  | ÚTENSILS, the  | MÉANS of his  | CRÁFTWORK,
 434  ÁNVIL and  | HÁMMER and  | WÉLL-FASHIONED  | TÓNGS that he  | ÚSED in the  | FÍRELIGHT,
 435  ÁLL of the  | TÓOLS that he  | WÓRKED with the  | GÓLD; and  | ATHÉNA  | APPRÓACHED them,
 436  there to RECÉIVE her  | DÚE  | ÓFFERING.  | NÉSTOR, the  | ÓLD man and  | HÓRSEMAN,
@@ -456,7 +456,7 @@ quantity to English vowels.
 444  PÉRSEUS held  | ÚP the blood  | BÓWL. Then  | NÉSTOR, the  | ÓLD man and  | HÓRSEMAN,
 445  STÁRTED with  | WÁTER for  | HÁNDS and the  | BÁRLEY, and  | PRÁYED to  | ATHÉNA
 446  LÓNG, making  | FÍRST  | DEDICÁTION and  | CÁSTING  | HÉAD-HAIRS in the  | FÍRELIGHT.
-447  Then, when their PRÁYERS had been  | MÁDE and the  | SCÁTTERING  | BÁRLEY was  | THRÓWN  | DÓWN,
+447  ÁFTER the  | PRÁYERS had been  | MÁDE and the  | SCÁTTERING  | BÁRLEY was  | THRÓWN down,
 448  STRÁIGHTWAY the  | SÓN born of  | NÉSTOR, the  | HÍGH-HEARTED  | LÓRD  | THRASYMÉDES,
 449  STÓOD by the  | HÉIFER and  | STRÚCK; and the  | AX-BLÁDE  | SÉVERED the  | SÍNEWS
 450  there in the NÉCK and  | RELÁXED  | ÁLL her  | STRÉNGTH. Then the  | WÓMEN  | CRÍED loudly—
@@ -464,29 +464,29 @@ quantity to English vowels.
 452  WÍFE  | EURÝDICE, the  | ÉLDEST-BORN  | DÁUGHTER of  | NÓBLE  | CLÝMENUS.
 453  Then from the ÉARTH with its  | WÍDE  | RÓADS  | LÍFTING the  | HÉIFER, they  | HÉLD her;
 454  and PEISÍSTRATUS,  | LÉADER of  | MÉN,  | CÚT the  | THRÓAT of the  | HÉIFER.
-455  Then, when the BLÁCK  | BLÓOD  | RÁN and the  | LÍFE left  | ÁLL of the  | BÓNES there,
+455  When from her BÓDY the  | BLÁCK  | BLÓOD  | RÁN, and the  | BÓNES lost their  | SPÍRIT,
 456  RÁPIDLY  | BRÉAKING the  | BÓDY  | APÁRT, they  | CÚT out the  | THÍGHBONES,
 457  ÁLL in the  | CÚSTOMARY  | WÁY, and they  | WRÁPPED them  | ABÚNDANTLY in  | FÁT,
 458  DÓUBLING  | LÁYERS and  | LÁYING the  | RÁW  | MÉAT upon them in  | PÍECES.
-459  NÉSTOR  | BÚRNED these on split  | PÍECES of  | WÓOD, pouring  | FÍRE-COLORED  | WÍNE there;
+459  NÉSTOR  | BÚRNED these on  | SPLÍT wood, the  | FÍRE-COLORED  | WÍNE on them  | PÓURING;
 460  YÓUNG men  | BESÍDE him were  | HÓLDING the  | FÓRKS that were  | FÍVE-POINTED  | ÚPWARD.
-461  THÉN, when the  | THÍGHS had been  | THÓROUGHLY  | BÚRNED and the  | INNÁRDS were  | TÁSTED,
+461  ÁFTER the  | THÍGHS had been  | THÓROUGHLY  | BÚRNED and the  | INNÁRDS were  | TÁSTED,
 462  SLÍCING the  | RÉST into  | PÍECES, they  | FÁSTENED the  | PÍECES on  | SKÉWERS,
 463  RÓASTED it  | ÁLL while they  | HÉLD the  | SHÁRP-POINTED  | SPÍTS in their  | ÓWN hands.
 464  MÉANWHILE the  | BÉAUTIFUL  | POLYCÁSTE had  | BÁTHED  | YÓUNG  | TELÉMACHUS—
 465  SHÉ was the  | ÝOUNGEST-BORN  | DÁUGHTER of  | NÉSTOR, the  | ÓFFSPRING of  | NÉLEUS.
-466  Then, when she BÁTHED him and  | RÍCHLY  | ANÓINTED his  | BÓDY with  | ÓLIVE  | ÓIL,
+466  When she had BÁTHED him and  | RÍCHLY  | ANÓINTED his  | BÓDY with  | ÓLIVE  | ÓIL,
 467  she PÚT a  | BÉAUTIFUL  | MÁNTLE  | ARÓUND him  | TOGÉTHER with  | TÚNIC.
 468  ÓUT of the  | BÁTH he  | ÉMERGED in his  | BÓDY  | RESÉMBLING  | IMMÓRTALS,
 469  WÉNT and sat  | DÓWN by  | NÉSTOR, the  | SHÉPHERD and  | RÚLER of  | PÉOPLES.
 470  ÁFTER the  | ÓUTERMOST  | MÉAT had been  | RÓASTED and  | TÁKEN from  | FÍRELIGHT,
 471  DÓWN they sat and  | PÁRTOOK of the  | FÉAST, while  | ÉXCELLENT  | MÉN  | CÁME to serve them,
 472  PÓURING the  | WÍNE for their  | DRÍNKING in  | BÉAUTIFUL  | VÉSSELS of  | GÓLD-WORK.
-473  THÉN, when  | DESÍRE for  | FÓOD and for  | DRÍNKING was  | PÚT from their  | BÓDIES,
+473  But WHÉN  | DESÍRE for  | FÓOD and for  | DRÍNKING was  | PÚT from their  | BÓDIES,
 474  GÉRENIAN  | NÉSTOR the  | HÓRSEMAN  | BEGÁN to  | ADDRÉSS the  | ASSÉMBLY:
 475  “CÓME, my  | SÓNS, and the  | BEÁUTIFUL-MANED  | HÓRSES  | ÝOKE for  | TELÉMACHUS,
 476  LÉADING them  | ÚNDER the  | CHÁRIOT,  | SÓ he may  | MÁKE his  | DEPÁRTURE.”
-477  THÚS he  | SPÓKE, and the  | SÓNS gave  | ÉAR and at  | ÓNCE they  | ÓBEYED him.
+477  SÓ he  | SPÓKE, and the  | SÓNS gave  | ÉAR and at  | ÓNCE they  | ÓBEYED him.
 478  RÁPIDLY  | THÉN they  | ÝOKED the  | SWÍFT-FOOTED  | HÓRSES under the  | WÁGON.
 479  BRÉAD and wine were  | PLÁCED in the  | CÁR by the  | WÓMAN who  | MÁNAGED the  | HÓUSEHOLD,
 480  ÁLSO the  | CÓOKED meats  | ÉATEN by  | KÍNGS who are  | CHÉRISHED by  | GRÉAT Zeus.
@@ -497,7 +497,7 @@ quantity to English vowels.
 485  into the PLÁIN,  | LÉAVING  | PÝLOS'  | PRECÍPITOUS  | CÍTY  | BEHÍND them.
 486  ÁLL through the  | DÁY they  | SHÓOK the  | ÝOKE that was  | FÍTTED  | BETWÉEN them.
 487  DÓWN went the  | SÚN at the  | LÁST, and the  | RÓADWAYS were  | SHÁDOWED in  | DÁRKNESS.
-488  THÉN they  | ARRÍVED at  | PHÉRAE and the  | HÓUSE of the  | LÓRD  | DÍOCLES,
+488  ÍNTO  | PHÉRAE they  | CÁME, to the  | HÓUSE of the  | LÓRD  | DÍOCLES,
 489  SÓN of  | ORTÍLOCHUS,  | HÉ whom the  | STRÉAM-GOD  | ALPHÉUS  | FÁTHERED.
 490  There they REMÁINED for the  | NÍGHT, and the  | LÓRD  | GÁVE them  | GÍFTS of the  | GÚEST-LAW.
 491  WHÉN  | DÁWN in her  | ÉARLINESS  | RÓSE with her  | RÓSE-COLORED  | FÍNGERS,
@@ -538,6 +538,7 @@ and *uh* the unstressed vowel of *about*.
 | Euboea | yoo-BEE-uh | /juːˈbiːə/ |
 | Eurydice | yoo-RID-ih-see | /jʊəˈrɪdɪsi/ |
 | Geraestus | juh-REE-stuhs | /dʒəˈriːstəs/ |
+| Gerenian | juh-REE-nee-uhn | /dʒəˈriːniən/ |
 | Gortyn | GOR-tin | /ˈɡɔːrtɪn/ |
 | Helios | HEE-lee-ohs | /ˈhiːliˌoʊs/ |
 | Iardanus | ee-AR-duh-nuhs | /iːˈɑːrdənəs/ |
@@ -565,6 +566,7 @@ and *uh* the unstressed vowel of *about*.
 | Poias | POH-yuhs | /ˈpoʊjəs/ |
 | Polycaste | pol-ih-KAS-tee | /ˌpɒlɪˈkæsti/ |
 | Poseidon | puh-SYE-dun | /pəˈsaɪdən/ |
+| Priam | PRY-uhm | /ˈpraɪəm/ |
 | Psyria | SYE-ree-uh | /ˈsaɪriə/ |
 | Pylos | PIE-loss | /ˈpaɪlɒs/ |
 | Stratius | STRAT-ee-uhs | /ˈstrætiəs/ |

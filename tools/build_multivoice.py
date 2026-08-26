@@ -29,7 +29,14 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from build_audiobook import clean_markdown, speech_request, split_long_text  # noqa: E402
+from build_audiobook import (  # noqa: E402
+    clean_markdown,
+    speech_request,
+    split_long_text,
+    load_pronunciations,
+    build_replacement_regex,
+    replace_names
+)
 
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_SOURCE_DIR = ROOT / "audiobook-source"
@@ -38,6 +45,9 @@ DEFAULT_BUILD_DIR = ROOT / "audiobook-multivoice"
 DEFAULT_MODEL = "gpt-4o-mini-tts"
 DEFAULT_FORMAT = "mp3"
 DEFAULT_MAX_CHARS = 3800
+
+DEFAULT_PRON_PATH = ROOT / "index" / "pronunciations.tsv"
+DEFAULT_PRONUNCIATIONS_FILE = str(DEFAULT_PRON_PATH) if DEFAULT_PRON_PATH.exists() else None
 LOOKBACK_LINES = 4
 
 # Speaker roster: canonical name -> alias patterns matched in narration
@@ -313,12 +323,20 @@ def cmd_prepare(args: argparse.Namespace) -> None:
         # Merge adjacent segments sharing a voice, then size-split.
         merged: list[dict] = []
         for seg in segments:
+            text = seg["text"]
+            if getattr(args, "join_lines", False):
+                paragraphs = [p.strip() for p in re.split(r"\n\s*\n", text) if p.strip()]
+                joined_paragraphs = []
+                for p in paragraphs:
+                    lines = [l.strip() for l in p.splitlines() if l.strip()]
+                    joined_paragraphs.append(" ".join(lines))
+                text = "\n\n".join(joined_paragraphs)
             voice = voice_for(seg["speaker"], casting)
             speaker = seg["speaker"]
             if merged and merged[-1]["voice"] == voice and merged[-1]["speaker"] == speaker:
-                merged[-1]["text"] += "\n\n" + seg["text"]
+                merged[-1]["text"] += "\n\n" + text
             else:
-                merged.append({"speaker": speaker, "voice": voice, "text": seg["text"]})
+                merged.append({"speaker": speaker, "voice": voice, "text": text})
 
         this_chunk_dir = chunk_dir / book_id
         if this_chunk_dir.exists():
@@ -363,6 +381,11 @@ def cmd_synthesize(args: argparse.Namespace) -> None:
     manifest = json.loads((build_dir / "manifest.json").read_text(encoding="utf-8"))
     audio_dir = build_dir / "audio-chunks"
 
+    pronunciations = load_pronunciations(args.pronunciations_file)
+    replacement_pattern = None
+    if getattr(args, "phonetic_replace", False) and pronunciations:
+        replacement_pattern = build_replacement_regex(list(pronunciations.keys()))
+
     selected = set(args.books or [])
     done = skipped = failed = 0
     for book in manifest["books"]:
@@ -383,6 +406,8 @@ def cmd_synthesize(args: argparse.Namespace) -> None:
             instructions = (NARRATOR_INSTRUCTIONS if speaker == "narrator"
                             else character_instructions(speaker))
             text = Path(chunk["path"]).read_text(encoding="utf-8")
+            if replacement_pattern:
+                text = replace_names(text, pronunciations, replacement_pattern)
             print(f"Synthesizing {book_id} chunk {chunk['index']:03d} "
                   f"({speaker} / {chunk['voice']})...")
 
@@ -468,6 +493,7 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     prep_parser = sub.add_parser("prepare", help="cast voices and chunk")
     common(prep_parser)
     prep_parser.add_argument("--max-chars", type=int, default=DEFAULT_MAX_CHARS)
+    prep_parser.add_argument("--join-lines", action="store_true", help="Join lines within paragraphs for natural flow")
 
     synth_parser = sub.add_parser("synthesize", help="generate TTS chunks")
     common(synth_parser)
@@ -475,6 +501,8 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     synth_parser.add_argument("--model", default=DEFAULT_MODEL)
     synth_parser.add_argument("--format", default=DEFAULT_FORMAT)
     synth_parser.add_argument("--speed", type=float, default=1.0)
+    synth_parser.add_argument("--pronunciations-file", default=DEFAULT_PRONUNCIATIONS_FILE, help="TSV file with headword and pronunciation columns")
+    synth_parser.add_argument("--phonetic-replace", action="store_true", help="Replace names in text with phonetic spellings on-the-fly")
     synth_parser.add_argument("--timeout", type=int, default=120)
     synth_parser.add_argument("--retries", type=int, default=3)
     synth_parser.add_argument("--force", action="store_true")

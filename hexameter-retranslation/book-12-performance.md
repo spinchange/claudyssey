@@ -11,8 +11,8 @@ quantity to English vowels.
 
 ```text
   1  WHÉN our  | SHÍP had  | DEPÁRTED at  | LÁST from the  | STRÉAM of the  | ÓCEAN,
-  2  ENTÉRING  | ÓUT on the  | SWÉLL of the  | BRÓAD-ROADED  | FÁCE of the  | SÉA there,
-  3  THÉN we  | ARRÍVED at  | ÁEAEA, the  | ÍSLAND where  | ÉARLY-BORN  | DÁWN has
+  2  ÓUT on the  | SWÉLL of the  | BRÓAD-ROADED  | FÁCE of the  | SÉA we were  | ÉNTERING,
+  3  ÓN to  | ÁEAEA we  | CÁME, to the  | ÍSLAND where  | ÉARLY-BORN  | DÁWN has
   4  BÓTH her  | PÁLACE and  | DÁNCING  | GRÓUNDS and the  | SÚN has his  | RÍSING.
   5  THÉRE on the  | SÁND we  | BEÁCHED our  | VÉSSEL and  | RÁN her  | ASHÓREWARD;
   6  we OÚRSELVES  | DISÉMBARKED on the  | LÍNE where the  | SÉA  | WÁSHED the  | SHÍNGLE.
@@ -23,8 +23,8 @@ quantity to English vowels.
  11  SWÍFTLY we  | CÚT  | WÓODEN  | BÍLLETS, and  | THÉRE at the  | FÁRTHEST-PROJECTING
  12  PÓINT of the  | HÉADLAND we  | BÚRIED him,  | SHÉDDING our  | GRÉAT tears in  | MÓURNING.
  13  When we had BÚRNED the  | DÉAD  | MÁN and  | ÁLL of the  | ÁRMOR  | BELÓNGING to him,
- 14  we BÚILT the  | MÓUND and  | DRÁGGED onto it a  | GRÉAT  | PÍLLAR of  | STÓNE there;
- 15  then on the VÉRY  | TÓP of the  | MÓUND we  | IMPLÁNTED his  | WÉLL-FASHIONED  | ÓAR-BLADE.
+ 14  we BÚILT up the  | MÓUND, and  | DRÁGGED  | ÓNTO it a  | STÓNE  | PÍLLAR;
+ 15  FÍRMLY we  | PLÁNTED his  | WÉLL-FASHIONED  | ÓAR on the  | TÓP of the  | GRÁVE-MOUND.
  16  ÉVERYTHING  | THÚS we  | ATTÉNDED. Our  | CÓMING from  | HÁDES did not  | PÁSS
  17  CÍRCE’S  | NÓTICE; at  | ÓNCE she  | PREPÁRED herself,  | QÚICKLY  | APPRÓACHING,
  18  BRÍNGING  | ALÓNG her  | MÁIDS, who  | CÁRRIED an  | ÁMPLE  | PROVÍSION
@@ -37,7 +37,7 @@ quantity to English vowels.
  25  then you shall SÁIL, and I shall  | PÓINT  | ÓUT your  | RÓAD and  | EXPLÁIN  | ÉACH
  26  THÍNG, so no  | RÚINOUS  | SCHÉME may  | DESTRÓY you and  | MÁKE you  | ENCÓUNTER
  27  TÉRRIBLE  | GRÍEF in the  | SÉA or upon the  | DRÝ  | LÁND in your  | JÓURNEY.”
- 28  THÚS did she  | SPÉAK, and our  | PRÓUD hearts  | CONSÉNTED and  | ÝIELDED  | WITHÍN us.
+ 28  SÓ she  | SPÓKE, and our  | PRÓUD hearts  | CONSÉNTED and  | ÝIELDED  | WITHÍN us.
  29  So through the WHÓLE of the  | DÁY  | TÍLL the  | LÍGHT of the  | SÚN had  | DESCÉNDED,
  30  FÉASTING we  | SÁT upon  | MÉAT beyond  | CÓUNTING and  | SWÉET wine  | BESÍDE it.
  31  But when the SÚN  | WÉNT  | DÓWN and the  | SÁCRED  | DÁRKNESS had  | GÁTHERED,
@@ -61,22 +61,22 @@ quantity to English vowels.
  49  YÉT you  | YÓURSELF may  | LÍSTEN, if  | THÁT is the  | THÍNG you  | DESÍRE:
  50  LÉT them bind  | BÓTH your  | HÁNDS and your  | FÉET in the  | SWÍFT-MOVING  | VÉSSEL,
  51  ÚPRIGHT  | AGÁINST the  | MÁST-STEP, with  | ÉNDS of the  | RÓPE round the  | MÁST-TREE,
- 52  so you may HÉAR the  | VÓICES of  | BÓTH  | SÍRENS and  | TÁKE your  | DELÍGHT there.
+ 52  so that YÓU may  | HÉAR the  | VÓICES of  | BÓTH of the  | SÍRENS,  | DELÍGHTING.
  53  ÍF you  | ENTRÉAT your  | COMPÁNIONS and  | ÓRDER the  | MÉN to  | RELÉASE you,
- 54  then LÉT the  | MÉN bind you  | DÓWN with a  | GRÉATER  | NÚMBER of  | BÓNDS there.
+ 54  then LÉT the  | MÉN bind you  | DÓWN in a  | GRÉATER  | NÚMBER of  | FÉTTERS.
  55  ÁFTER your  | CÓMRADES have  | DRÍVEN the  | VÉSSEL  | BEÝOND them, I shall  | NÓT
  56  TÉLL you  | CÓMPLETELY from there which  | RÓAD you must  | CHÓOSE of the  | TWÓ  | WÁYS.
  57  You must WÉIGH  | ÉVERY  | CHÓICE in the  | HÉART that is  | BEÁTING  | WITHÍN you;
  58  YÉT I will  | GÍVE an  | ACCÓUNT of  | BÓTH, so  | THÁT you can  | CONSÍDER.
  59  ÓN the  | ÓNE  | SÍDE are the  | ÓVERHANGING  | RÓCKS, and  | AGÁINST them
  60  RÓARS the  | TRÉMENDOUS  | SWÉLL of  | AMPHITRÍTE, the  | DÁRK-EYED  | SÉA-QUEEN;
- 61  ÁLL of the  | BLÉSSED  | IMMÓRTALS  | CÁLL these the  | WÁNDERING  | RÓCKS there.
+ 61  THÉSE are the  | RÓCKS the  | BLÉSSED  | IMMÓRTAL  | GÓDS call the  | WÁNDERERS.
  62  That WÁY  | ÉVEN the  | WÍNGED things  | CÁNNOT  | PÁSS through, nor the  | TÍMID
  63  DÓVES that  | BRÍNG  | AMBRÓSIA  | ÚPWARD to  | FÁTHER  | ZÉUS’S dwelling;
  64  ÁLWAYS the  | VÉRTICAL  | RÓCK takes  | ÓNE from the  | LÍNE as they  | PÁSS it,
- 65  then the GRÉAT  | FÁTHER  | SÉNDS one more  | BÍRD, so their  | NÚMBER  | REMÁINS full.
+ 65  but the GRÉAT  | FÁTHER  | SÉNDS one more  | BÍRD, so their  | NÚMBER  | REMÁINS full.
  66  That WÁY  | NÉVER has  | ÁNY  | MÁN’S ship  | SÚCCEEDED in  | PÁSSING;
- 67  PÍECES of  | SHÍPS and the  | BÓDIES of  | MÉN are  | TOGÉTHER  | CONVÉYED there,
+ 67  PÍECES of  | SHÍPS and the  | BÓDIES of  | MÉN are  | CONVÉYED all  | TOGÉTHER,
  68  CÁRRIED  | AWÁY by the  | SÁLT-WATER  | WÁVES and the  | STÓRMS of  | DESTRÚCTIVE fire.
  69  ÓNLY one  | SÉA-RUNNING  | VÉSSEL has  | ÉVER gone  | SÁFELY  | BETWÉEN them,
  70  ÁRGO,  | RENÓWNED in the  | MÍNDS of  | ÁLL men,  | CÓMING home from  | AÉETES;
@@ -100,7 +100,7 @@ quantity to English vowels.
  88  ÉVER with  | JÓY, not  | ÉVEN a  | GÓD should an  | IMMÓRTAL  | MÉET her.
  89  TWÉLVE are the  | FÉET that she has, and  | ÉACH  | ÓNE  | DÁNGLES  | BENÉATH her;
  90  SÍX are the  | NÉCKS she  | PÓSSESSES,  | IMMÉNSELY  | LÓNG, and on  | ÉACH neck
- 91  SÍTS one  | HÍDEOUS  | HÉAD, and the  | TÉETH stand in  | THRÉE crowded  | RÓWS there,
+ 91  SÍTS one  | HÍDEOUS  | HÉAD, and the  | TÉETH in  | THRÉE crowded  | RÓWS are standing,
  92  CRÓWDED and  | THÍCK, and  | CONTÁINING the  | BLÁCKEST  | DESTRÚCTION  | WITHÍN them.
  93  ÚP to her  | MÍDDLE she  | STÁNDS in the  | HÓLLOW  | CÁVE that  | ENCLÓSES
  94  HÉR, but the  | HÉADS are  | EXTÉNDED  | ÓUTSIDE of the  | TÉRRIBLE  | CHÁSM;
@@ -120,23 +120,23 @@ quantity to English vowels.
 108  NÓ,  | DRÁW as  | CLÓSE as you can to the  | CRÁG where  | SCÝLLA is  | LÍVING,
 109  QÚICKLY  | DRÍVE  | PÁST in your  | VÉSSEL; for it is  | EXCÉEDINGLY  | BÉTTER
 110  SÍX of the  | MÉN in your  | VÉSSEL should  | DÍE than your  | WHÓLE band  | TOGÉTHER.”
-111  THÚS did she  | SPÉAK, and I  | ÁNSWERED the  | GÓDDESS and  | SÁID in  | RESPÓNSE then:
+111  SÓ she  | SPÓKE, and in  | WÓRDS of  | RESPÓNSE I  | ÁNSWERED the  | GÓDDESS:
 112  “GÓDDESS, come  | TÉLL me this  | ÓTHER, and  | SPÉAK with the  | TRÚTH as I  | ÁSK you:
 113  might I in ÁNY  | WÁY  | SLÍP from  | BELÓW  | DEÁTH-DEALING  | CHÁRYBDIS,
-114  then STÁND off  | SCÝLLA and  | FÍGHT when she  | CÓMES for my  | FÁITHFUL  | COMPÁNIONS?”
-115  THÚS did I  | SPÉAK, and at  | ÓNCE the  | RÁDIANT  | GÓDDESS  | RESPÓNDED:
+114  STÁND off  | SCÝLLA and  | FÍGHT her when  | SHÉ  | ASSÁILS my  | COMPÁNIONS?”
+115  SÓ I  | SPÓKE, and at  | ÓNCE the  | RÁDIANT  | GÓDDESS  | RESPÓNDED:
 116  “HÁRDY man, your  | HÉART even  | NÓW is  | CONCÉRNED with the  | WÓRKS of the  | WÁR-GOD,
 117  ÁLSO with  | STRÚGGLE.  | WÍLL you not  | ÝIELD to the  | DEÁTHLESS  | IMMÓRTALS?
 118  SCÝLLA is  | NÓ  | MÓRTAL  | CRÉATURE, but  | ÉVIL  | IMMÓRTAL,
 119  TÉRRIBLE,  | GRÍM and  | SÁVAGE, a  | THÍNG that can  | NÉVER be  | BÁTTLED.
 120  There is NÓ  | DEFÉNSE; in  | FLÉEING from her  | LÍES the  | GRÉATEST of  | CÓURAGE.
 121  ÍF by the  | CRÁG you  | REMÁIN for a  | MÓMENT to  | PÚT on your  | ÁRMOR,
-122  then, as I FÉAR, she may  | DÁRT  | ÓNCE  | AGÁIN from the  | CÁVE and  | ATTÁCK you,
-123  SÉIZE with  | ÁLL six  | HÉADS and  | CÁRRY six  | MÓRE of your  | MÉN there.
+122  FÉARFUL I am she may  | DÁRT  | ÓNCE  | AGÁIN from the  | CÁVE and  | ATTÁCK you,
+123  SÉIZE with  | ÁLL six of her  | HÉADS, and  | CÁRRY off  | SÍX more of your  | CÓMRADES.
 124  RÓW with  | ÁLL strength you  | POSSÉSS, and  | INVÓKE the  | DIVÍNE  | CRÁTAEIS,
 125  MÓTHER of  | SCÝLLA, who  | BÓRE her to  | SÉRVE as a  | PLÁGUE upon  | MÓRTALS;
 126  SHÉ will  | RESTRÁIN her from  | DÁRTING a  | SÉCOND  | TÍME to  | ATTÁCK you.
-127  THÉN you will  | RÉACH  | THRÍNACIA’S  | ÍSLAND,  | ÁND there in  | ABÚNDANCE
+127  ÚNTO  | THRÍNACIA’S  | ÍSLAND you  | CÓME, and  | THÉRE in  | ABÚNDANCE
 128  GRÁZE  | HÉLIOS’  | CÁTTLE with  | ÁLL of his  | STRÓNG-FLEECED  | SHÉEP-FLOCKS,
 129  SÉVEN  | HÉRDS of the  | CÁTTLE and  | ÁLSO as  | MÁNY beautiful  | SHÉEP-FLOCKS,
 130  FÍFTY in  | ÉACH; they  | PRÓDUCE no  | YÓUNG and are  | NÉVER  | DIMÍNISHED.
@@ -150,8 +150,8 @@ quantity to English vowels.
 138  JÓURNEY, you  | STÍLL may  | ARRÍVE upon  | ÍTHACA,  | SÚFFERING  | GRÉATLY.
 139  BÚT if you  | HÁRM them,  | Í  | PRÓPHESY  | ÚTTER  | DESTRÚCTION
 140  BÓTH for your  | SHÍP and  | COMPÁNIONS; and  | ÉVEN  | ÍF you should  | ÉSCAPE it,
-141  LÁTE will you  | CÓME and in  | ÉVIL  | CONDÍTION, with  | ÁLL comrades  | LÓST there.”
-142  THÚS did she  | SPÉAK; and at  | ÓNCE came  | DÁWN on her  | GÓLD-GLIMMERING  | THRÓNE-SEAT.
+141  LÁTE will you  | CÓME and in  | ÉVIL  | CONDÍTION,  | HÁVING lost  | ÁLL companions.”
+142  SÓ she  | SPÓKE; and at  | ÓNCE came  | DÁWN on her  | GÓLD-GLIMMERING  | THRÓNE-SEAT.
 143  Then she PROCÉEDED  | AWÁY  | ÚP the  | ÍSLAND, the  | RÁDIANT  | GÓDDESS;
 144  I MÁDE my  | WÁY to the  | SHÍP and  | ARÓUSED my  | COMPÁNIONS from  | SLÚMBER,
 145  BÍDDING them  | BÓARD in their  | TÚRN and release  | ÉVERY  | STÉRN-FASTENED  | CÁBLE.
@@ -160,33 +160,33 @@ quantity to English vowels.
 148  CÍRCE  | BEHÍND our  | VÉSSEL, the  | DÁRK-BLUE-PROWED  | SHÍP of the  | SÉAWAY,
 149  SÉNT us a  | FÓLLOWING  | WÍND that  | FÍLLED out the  | SÁIL, a  | CÓMPANION
 150  ÉXCELLENT,  | CÍRCE of  | BÉAUTIFUL  | HÁIR, dread goddess,  | HÚMANLY  | SPÉAKING.
-151  Then, when we CÁREFULLY  | TÉNDED the  | TÁCKLE  | THROUGHÓUT the  | BLÁCK  | VÉSSEL,
+151  STRÁIGHTWAY,  | TÉNDING the  | TÁCKLE in  | ÓRDER  | THROUGHÓUT the  | BLÁCK vessel,
 152  TÁKING our  | SÉATS, we were  | BÓRNE on our  | WÁY by the  | WÍND and the  | STÉERSMAN.
 153  GRÍEVING at  | HÉART, I  | ADDRÉSSED the  | COMPÁNIONS who  | SÁT in the  | VÉSSEL:
 154  “FRÍENDS, it is not  | FÍTTING that  | ÓNLY  | ÓNE  | MÁN or  | TWÓ men
 155  KNÓW of the  | FÁTES that the  | RÁDIANT  | GÓDDESS  | CÍRCE  | REVÉALED me;
 156  THÉREFORE I  | SPÉAK, so that  | KNÓWING them  | ÁLL we may  | ÉITHER be  | DÝING,
-157  or TÚRN  | ÁSIDE from the  | DÉATH and  | DESTRÚCTION and  | MÁKE our  | ÉSCAPE there.
+157  or MÁKE our  | ESCÁPE,  | TÚRNING  | ASÍDE from the  | DÉATH and  | DESTRÚCTION.
 158  FÍRST she  | CÓMMANDED  | AVÓIDANCE of  | MÁRVELOUS  | SÍRENS, the  | BÉAUTIFUL
 159  VÓICES they have and the  | FLÓWERING  | MÉADOW where  | BÓTH  | SÍT  | TOGÉTHER.
 160  Me she ALÓNE  | GÁVE  | LÉAVE to be  | HÉARING their  | SÓNG, but you  | ÓTHERS
 161  BÍND me in  | PÁINFUL  | BÓNDS, so I  | STÁY  | ÚNMOVING before  | YÓU,
 162  ÚPRIGHT  | AGÁINST the  | MÁST-STEP, with  | ÉNDS of the  | RÓPE round the  | MÁST-TREE.
 163  ÍF I  | ENTRÉAT you and  | ÓRDER the  | MÉN to  | RELÉASE me from  | BÓNDAGE,
-164  THÉN you must  | BÍND me  | DÓWN with a  | GRÉATER  | NÚMBER of  | BÓNDS there.”
+164  THÉN you must  | BÍND me  | DÓWN in a  | GRÉATER  | NÚMBER of  | FÉTTERS.”
 165  ÉVERYTHING  | THÚS I  | EXPLÁINED as I  | SPÓKE to the  | FÁITHFUL  | COMPÁNIONS,
 166  while the WÉLL-CONSTRUCTED  | SHÍP  | KÉPT  | RÚNNING with  | SPÉED on the  | WÁTER,
 167  NÉARING the  | ÍSLAND of  | BÓTH  | SÍRENS,  | CÓMPELLED by the  | FÁIR wind.
 168  SÚDDENLY there the  | WÍND  | CÁME to  | RÉST, and a  | BRÉATHLESS and  | PÉRFECT
 169  CÁLMNESS  | ARÓSE, for a  | GÓD lulled  | ÁLL of the  | WÁVES into  | SLÚMBER.
-170  Then the COMPÁNIONS  | ARÓSE and  | FÚRLED  | ÚP the  | SÁILS of the  | VÉSSEL,
+170  My COMPÁNIONS  | ARÓSE and they  | FÚRLED  | ÚP the  | SÁILS of the  | VÉSSEL,
 171  STÓWED them  | AWÁY in the  | HÓLLOW  | SHÍP, and sat  | DÓWN by the  | ÓAR-BLADES,
 172  WHÍTENING  | WÁTER  | ARÓUND them with  | PÓLISHED  | FÍR oars in their  | RÓWING.
 173  I with the ÉDGE of the  | BRÓNZE  | CÚT  | PÍECES from  | ÓNE rounded  | WÁX cake,
 174  SMÁLL in their  | SÍZE, and I  | KNÉADED them  | ÁLL in my  | PÓWERFUL  | FÍNGERS;
 175  QÚICKLY the  | WÁX grew  | WÁRM,  | CÓMPELLED by the  | STRÉNGTH I  | EXÉRTED,
 176  ÁLSO the  | BÉAM of the  | LÓRD  | HÝPERION’S  | HÉLIOS,  | SÚN-GOD.
-177  Then, GÓING  | MÁN after  | MÁN, I  | STÓPPED both  | ÉARS of my  | CÓMRADES.
+177  GÓING from  | MÁN to  | MÁN, I  | STÓPPED up the  | ÉARS of my  | CÓMRADES.
 178  They in the VÉSSEL  | BÓUND  | BÓTH my  | HÁNDS and my  | FÉET there  | TOGÉTHER,
 179  ÚPRIGHT  | AGÁINST the  | MÁST-STEP, with  | ÉNDS of the  | RÓPE round the  | MÁST-TREE;
 180  SÍTTING in  | ÓRDER, they  | STRÚCK with the  | PÓLISHED  | ÓARS on the  | GRÁY brine.
@@ -201,8 +201,8 @@ quantity to English vowels.
 189  WÉLL do we  | KNÓW  | ÉVERY  | DÉED that throughout  | WÍDE Troy the  | ACHÁEANS
 190  and ÁLL the  | TRÓJANS  | ENDÚRED and  | ACCÓMPLISHED  | BÝ will of  | IMMÓRTALS;
 191  WÉLL do we  | KNÓW every  | THÍNG that  | ÓCCURS on the  | NÓURISHING  | ÉARTH-LAND.”
-192  THÚS did they  | SÍNG as they  | SÉNT from the  | MÉADOW their  | BÉAUTIFUL  | VÓICES;
-193  then my HÉART  | LÓNGED  | TÉRRIBLY to  | HÉAR, and I  | ÓRDERED the  | CÓMRADES
+192  SÓ they  | SPÓKE, as they  | SÉNT from the  | MÉADOW their  | BÉAUTIFUL  | VÓICES;
+193  but my ÓWN heart  | LÓNGED  | TÉRRIBLY to  | HÉAR, and I  | ÓRDERED the  | CÓMRADES
 194  THÉRE to  | RELÉASE me,  | SÍGNALING  | THÉM with my  | ÉYEBROWS; but  | FÓRWARD
 195  they BÉNT and  | RÓWED, and  | PÉRIMEDES  | ARÓSE with  | ÉURYLOCHUS  | QÚICKLY,
 196  BÍNDING me  | DÓWN with a  | GRÉATER  | NÚMBER of  | BÓNDS and  | CONSTRÍCTING.
@@ -219,7 +219,7 @@ quantity to English vowels.
 207  STÁNDING  | BESÍDE every  | MÁN and  | EXHÓRTING him  | GÉNTLY in  | ÓRDER:
 208  “FRÍENDS,  | WÉ are  | CÉRTAINLY not  | ÚNACQUAINTED with  | ÉVILS and  | HÁRDSHIPS.
 209  This is NÓ  | GRÉATER an  | ÉVIL than  | WHÉN in his  | PÓWERFUL  | CÁVERN
-210  CÝCLOPS  | CONFÍNED  | ÚS by  | TÉRRIBLE  | FÓRCE, and yet from the  | CÁVE there,
+210  CÝCLOPS  | CONFÍNED us by  | TÉRRIBLE  | FÓRCE, and  | YÉT from its  | HÓLLOW,
 211  ÁIDED by my  | GRÉAT  | PRÓWESS and  | CÓUNSEL and  | THÓUGHTFUL  | PERCÉPTION,
 212  ÁLL we  | ÉSCAPED. Some  | DÁY, I  | IMÁGINE, we shall  | REMÉMBER this  | ÁLSO.
 213  CÓME now,  | ÉVERY  | ÓNE of you do  | PRECÍSELY the  | THÍNG I  | CÓMMAND you.
@@ -231,7 +231,7 @@ quantity to English vowels.
 219  SHÍP: keep the  | VÉSSEL  | ÓUTSIDE of that  | SMÓKE and the  | SÚRF of the  | WÁTER;
 220  HÓLD to the  | CRÁG,  | LÉST before you  | PERCÉIVE it she  | SÚDDENLY  | RÁCES
 221  ÓFF to the  | ÓPPOSITE  | SÍDE and you  | THRÓW  | ÁLL of us in the  | ÉVIL.”
-222  THÚS did I  | SPÉAK, and the  | MÉN gave  | HÉED to the  | WÓRD I had  | SPÓKEN.
+222  SÓ I  | SPÓKE, and the  | MÉN gave  | HÉED to the  | WÓRD I had  | SPÓKEN.
 223  YÉT of  | SCÝLLA  | Í did not  | TÉLL, of that  | INÉSCAPABLE  | HÓRROR,
 224  FÉARING that  | ÁLL my  | COMPÁNIONS,  | BECÓMING  | TÉRRIFIED, might  | ABÁNDON
 225  ÓARS and go  | PÁCKING  | THEMSÉLVES in the  | HÓLD of the  | VÉSSEL  | TOGÉTHER.
@@ -246,7 +246,7 @@ quantity to English vowels.
 234  SÓ  | THRÓUGH the  | STRÁITS we  | PROCÉEDED in  | GRÍEF and  | LAMENTÁTION,
 235  SCÝLLA upon the  | ÓNE  | SÍDE, and  | SHÍNING  | CHÁRYBDIS upon  | THÉ
 236  ÓTHER, in  | TÉRRIBLE  | SWÁLLOWS  | GÚLPING the  | SÁLT of the  | SÉA down.
-237  When she VÓMITED  | ÚPWARD,  | RESÉMBLING  | ÓVER a  | PÓWERFUL  | FÍRE there
+237  When she VÓMITED  | ÚP,  | ÓVER a  | PÓWERFUL  | FÍRE  | RESÉMBLING
 238  SÓME great  | CÁULDRON, she  | BÓILED and  | SÉETHED in her  | WHÓLE  | DÉPTH with churning;
 239  HÍGH flew the  | FÓAM till it  | FÉLL on the  | SÚMMITS of  | BÓTH mighty  | CRÁG-TOPS.
 240  Yet when she SWÁLLOWED  | AGÁIN the  | SÁLT  | SÉA’S  | TÚRBULENT  | WÁTER,
@@ -275,7 +275,7 @@ quantity to English vowels.
 263  CÁTTLE and  | NÚMEROUS  | PÓWERFUL  | SHÉEP of the  | LÓRD  | HÝPERION.
 264  While on the ÓPEN  | SÉA and  | ABÓARD the  | BLÁCK  | VÉSSEL, I  | HÉARD the
 265  LÓWING of  | CÁTTLE  | RETÚRNING to  | FÓLDS and the  | BLÉATING of  | SHÉEP-FLOCKS.
-266  THÉN in my  | HÉART I  | REMÉMBERED the  | WÓRDS of the  | PRÓPHET and  | SÉER-MAN,
+266  ÁND in my  | HÉART I  | REMÉMBERED the  | WÓRDS of the  | PRÓPHET and  | SÉER-MAN,
 267  BLÍND  | TÍRESIAS,  | THÉBAN by  | BÍRTH, and the  | GÓDDESS of  | ÁEAEA,
 268  CÍRCE, who  | ÓVER  | ÁND over  | CÓMMANDED  | AVÓIDANCE of  | HÉLIOS’
 269  ÍSLAND, the  | LÁND of the  | SÚN-GOD who  | BRÍNGS such  | DELÍGHT to the  | MÓRTALS.
@@ -286,8 +286,8 @@ quantity to English vowels.
 274  SHÚNNING the  | ÍSLAND of  | HÉLIOS,  | BRÍNGER of  | JÓY to the  | MÓRTALS;
 275  there she DECLÁRED the  | MÓST  | TÉRRIBLE  | ÉVIL is  | WÁITING to  | TÁKE us.
 276  DRÍVE the  | BLÁCK vessel  | FÁR from the  | ÍSLE, and  | CONTÍNUE  | BEÝOND it.”
-277  THÚS did I  | SPÉAK, and their  | ÓWN hearts  | BRÓKE in their  | BÓDIES  | CÓMPLETELY.
-278  THÉN did  | ÉURYLOCHUS  | ÁNSWER me  | STRÁIGHTAWAY  | WÍTH his  | HÁTEFUL
+277  SÓ I  | SPÓKE, and their  | ÓWN hearts  | BRÓKE in their  | BÓDIES  | CÓMPLETELY.
+278  QÚICKLY  | ÉURYLOCHUS  | ÁNSWERED me,  | ÚTTERING  | BÁCK his  | HÁTEFUL
 279  LÁNGUAGE: “ | HÁRD is your  | HÉART,  | ODÝSSEUS; your  | STRÉNGTH is  | EXCÉSSIVE;
 280  NÓNE of your  | LÍMBS ever  | TÍRES. You  | SÚRELY are  | FÁSHIONED of  | ÍRON,
 281  SÍNCE you  | REFÚSE to  | ALLÓW your  | COMPÁNIONS,  | EXHÁUSTED from  | LÁBOR
@@ -303,18 +303,18 @@ quantity to English vowels.
 291  NÓ; for the  | PRÉSENT we  | ÁLL should  | ÝIELD to the  | BLÁCKNESS of  | NÍGHTFALL,
 292  MÁKING our  | SÚPPER  | PREPÁRED and  | REMÁINING  | BESÍDE the  | SWÍFT vessel;
 293  when DÁWN  | APPÉARS, we shall  | BÓARD her  | AGÁIN and  | SÁIL onto  | WÍDE sea.”
-294  THÚS  | SPÓKE  | ÉURYLOCHUS, and the  | ÓTHER  | COMPÁNIONS  | APPRÓVED him.
+294  SÓ  | SPÓKE  | ÉURYLOCHUS, and the  | ÓTHER  | COMPÁNIONS  | APPRÓVED him.
 295  Then I KNÉW  | WÉLL an  | IMMÓRTAL was  | PLÓTTING an  | ÉVIL  | AGÁINST us;
 296  RÁISING my  | VÓICE, I  | ADDRÉSSED him, and these  | WÓRDS took  | WÍNG as I  | ÚTTERED:
 297  “LÓRD  | ÉURYLOCHUS, I am  | ÓNLY  | ÓNE  | MÁN, and you  | FÓRCE me.
-298  CÓME then,  | ÉVERY  | ÓNE of you  | SWÉAR me a  | PÓWERFUL  | ÓATH here:
+298  CÓME then,  | ÁLL of you  | SWÉAR me a  | PÓWERFUL  | ÓATH I may  | TRÚST in:
 299  if we ENCÓUNTER a  | HÉRD of the  | CÁTTLE or  | BÉAUTIFUL  | GRÉAT  | FLÓCK
 300  there of the SHÉEP,  | LÉT  | NÓ one in  | TÉRRIBLE  | BLÍND-MINDED  | FÓLLY
 301  SLÁUGHTER a  | SHÉEP or a  | CÓW, but  | REMÁIN there  | QÚIET and  | FÉED on
 302  ÁLL of the  | FÓOD that  | IMMÓRTAL  | CÍRCE  | SÚPPLIED for our  | JÓURNEY.”
-303  THÚS did I  | SPÉAK, and at  | ÓNCE they  | SWÓRE the strong  | ÓATH as I  | ÓRDERED.
+303  SÓ I  | SPÓKE, and at  | ÓNCE they  | SWÓRE the strong  | ÓATH as I  | ÓRDERED.
 304  WHÉN they had  | SWÓRN, and they  | BRÓUGHT their  | ÓATH to a  | PRÓPER  | COMPLÉTION,
-305  THÉN we  | PROCÉEDED to  | MÓOR the  | WÉLL-CONSTRUCTED  | SHÍP in a  | HÓLLOW
+305  we OÚRSELVES  | BRÓUGHT to  | MÓORINGS the  | WÉLL-CONSTRUCTED  | SHÍP in a  | HÓLLOW
 306  HÁRBOR,  | BESÍDE a  | SPRÍNG from which  | SWÉET-FLOWING  | WÁTER was  | RÍSING.
 307  ÁLL the  | COMPÁNIONS went  | ÓUT on the  | SHÓRE and skillfully  | FÁSHIONED  | SÚPPER.
 308  After we PÚT  | AWÁY  | ÁLL  | DESÍRE for  | ÉATING and  | DRÍNKING,
@@ -333,8 +333,8 @@ quantity to English vowels.
 321  THÉREFORE  | KÉEP hands from the  | CÁTTLE,  | LÉST terrible  | HÁRM  | CÓME upon us.
 322  THÉSE are the  | CÁTTLE and  | PÓWERFUL  | SHÉEP of a  | TÉRRIBLE  | GÓDHEAD,
 323  HÉLIOS,  | LÓRD who sees  | ÁLL things and  | HÉARS  | ÉVERY  | ÚTTERANCE.”
-324  THÚS did I  | SPÉAK, and their  | PRÓUD hearts  | CONSÉNTED and  | ÝIELDED  | WITHÍN them.
-325  Then for an ENTÍRE  | MÓNTH the  | SÓUTH  | WÍND  | BLÉW without  | CÉASING;
+324  SÓ I  | SPÓKE, and their  | PRÓUD hearts  | CONSÉNTED and  | ÝIELDED  | WITHÍN them.
+325  ÁLL through a  | MÓNTH  | ENTÍRE the  | SÓUTH Wind  | BLÉW without  | CÉASING;
 326  NÉVER  | ANÓTHER wind  | RÓSE but the  | ÉAST Wind and  | PÓWERFUL  | SÓUTH Wind.
 327  While there REMÁINED  | ÁNY  | BRÉAD in the  | SHÍP or the  | FÍRE-COLORED  | RÉD wine,
 328  ÁLL kept their  | HÁNDS from the  | CÁTTLE  | BECÁUSE of  | DESÍRE for their  | LÍFEBREATH.
@@ -345,10 +345,10 @@ quantity to English vowels.
 333  Then I PROCÉEDED  | AWÁY  | ÚP the  | ÍSLAND,  | DESÍRING to  | ÓFFER
 334  PRÁYERS to the  | GÓDS, in the  | HÓPE one might  | SHÓW me a  | PÁTH to my  | HÓMELAND.
 335  When, GÓING over the  | ÍSLAND, I  | LÉFT my  | COMPÁNIONS  | BEHÍND  | MÉ,
-336  then I WÁSHED  | BÓTH my  | HÁNDS in a  | SHÉLTER  | SÉCURE from the  | WÍNDSTORM;
+336  HÁVING  | WÁSHED both my  | HÁNDS in a  | SHÉLTER  | SECÚRE from the  | WÍNDSTORM;
 337  there I PRÁYED to  | ÁLL of the  | GÓDS who  | POSSÉSS  | GRÉAT  | OLÝMPUS,
-338  but they PÓURED  | DÓWN a  | SWÉETNESS of  | SLÉEP on the  | LÍDS of my  | ÉYES there.
-339  THÉN did  | ÉURYLOCHUS  | GÍVE his  | COMPÁNIONS a  | RÚINOUS  | CÓUNSEL:
+338  but DÓWN on the  | LÍDS of my  | ÉYES they  | PÓURED a  | SWÉETNESS of  | SLÚMBER.
+339  ÉURYLOCHUS  | LÉD for his  | CÓMRADES the  | WÁY to a  | RÚINOUS  | CÓUNSEL:
 340  “HÉAR these  | WÓRDS, my  | CÓMRADES,  | ALTHÓUGH you are  | SÚFFERING  | HÁRDSHIP.
 341  ÉVERY  | MÁNNER of  | DÉATH is  | HÁTEFUL to  | MÍSERABLE  | MÓRTALS,
 342  but to DÍE from  | HÚNGER and  | MÉET with  | ÓNE’S  | DÓOM is most  | PÍTIFUL.
@@ -361,21 +361,21 @@ quantity to English vowels.
 349  SHÁTTER our  | SHÍP, and the  | ÓTHER  | IMMÓRTALS  | CONSÉNT to his  | PÚRPOSE,
 350  I would PREFÉR with  | ÓNE  | GÚLP of the  | WÁVE to  | SÚRRENDER my  | LÍFEBREATH,
 351  RÁTHER than  | SLÓWLY to  | STÁRVE on an  | ÍSLAND  | ABÁNDONED and  | ÉMPTY.”
-352  THÚS  | SPÓKE  | ÉURYLOCHUS, and the  | ÓTHER  | COMPÁNIONS  | APPRÓVED him.
+352  SÓ  | SPÓKE  | ÉURYLOCHUS, and the  | ÓTHER  | COMPÁNIONS  | APPRÓVED him.
 353  SWÍFTLY they  | DRÓVE the  | BÉST of the  | CÁTTLE of  | HÉLIOS  | TÓWARD them,
 354  GRÁZING  | NÉARBY,  | SÍNCE not  | ÁT a  | DISTÁNCE from our  | DÁRK-BLUE-PROWED
 355  VÉSSEL the  | BÉAUTIFUL  | BRÓAD-BROWED  | CÁTTLE with  | CÚRVED  | HÓRNS were grazing.
-356  STÁNDING  | ARÓUND the  | VÍCTIMS, they  | PRÁYED to the  | GÓDS, and they  | PLÚCKED there
+356  STÁNDING  | ARÓUND the  | VÍCTIMS, they  | PRÁYED to the  | GÓDS, and were  | PLÚCKING
 357  TÉNDER young  | LÉAVES from the  | CRÓWN of an  | ÓAK tree that  | TÓWERED  | ABÓVE them,
 358  SÍNCE no white  | BÁRLEY  | REMÁINED in the  | WÉLL-BENCHED  | VÉSSEL for  | WÓRSHIP.
 359  After they PRÁYED and had  | CÚT  | ÁLL the  | THRÓATS and had  | SKÍNNED the  | DÉAD victims,
-360  then they CÚT  | ÓUT the thigh  | BÓNES and  | WRÁPPED them with  | FÁT in  | ABÚNDANCE,
+360  CÚTTING the  | THÍGH bones  | ÓUT, they  | WRÁPPED them in  | FÁT in  | ABÚNDANCE,
 361  FÓLDING it  | DÓUBLE, and over the  | FÁT  | PLÁCED  | PÍECES of  | RÁW meat.
 362  SÍNCE they had  | NÓ wine to  | PÓUR in  | LIBÁTION on  | BLÁZING  | ÓBLATIONS,
 363  WÁTER they  | PÓURED, and they  | RÓASTED the  | INWÁRD  | PÁRTS over the  | FÍRE.
 364  After the THÍGH  | BÓNES  | BÚRNED and they  | TÁSTED the  | ENTRÁILS  | TOGÉTHER,
-365  then they CÚT  | ÁLL that  | REMÁINED into  | PÍECES and  | THRÉADED the  | SPÍT-RODS.
-366  Then did the SLÉEP of  | GRÉAT  | DÉPTH fly  | ÓFF from the  | LÍDS of my  | ÉYES there;
+365  ÁLL that  | REMÁINED they  | CÚT into  | PÍECES and  | THRÉADED the  | SPÍT-RODS.
+366  THÉN from the  | LÍDS of my  | ÉYES did the  | SLÉEP of great  | DÉPTH go  | FLÝING;
 367  DÓWN to the  | SWÍFT-RUNNING  | SHÍP and the  | SHÓRE of the  | SÉA I  | PROCÉEDED.
 368  BÚT as I  | CÁME in my  | WÁLKING to where the  | CÚRVED  | VÉSSEL was  | WÁITING,
 369  RÓUND me the  | SWÉET-SMELLING  | CLÓUD of the  | FÁT’S smoke  | SÚDDENLY  | DRÍFTED.
@@ -385,7 +385,7 @@ quantity to English vowels.
 373  WHÍLE my  | COMPÁNIONS  | REMÁINED and  | DEVÍSED this  | MÓNSTROUS  | TRANSGRÉSSION.”
 374  SWÍFTLY the  | MÉSSAGE was  | CÁRRIED to  | LÓRD  | HÝPERION’S  | HÉLIOS;
 375  LÓNG-ROBED  | LÁMPETIE  | BRÓUGHT him the  | NÉWS we had  | SLÁUGHTERED his  | CÁTTLE.
-376  THÉN with his  | ÁNGER  | ARÓUSED he  | ADDRÉSSED the  | ASSÉMBLED  | IMMÓRTALS:
+376  At ÓNCE, with his  | ÁNGER  | ARÓUSED, he  | ADDRÉSSED the  | ASSÉMBLED  | IMMÓRTALS:
 377  “FÁTHER  | ZÉUS, and you  | ÓTHER  | BLÉSSED  | GÓDS who live  | FORÉVER,
 378  PÚNISH the  | FÁITHFUL  | COMPÁNIONS of  | LÓRD  | ODÝSSEUS,  | LAÉRTES’
 379  SÓN, for they  | WÍCKEDLY  | SLÁUGHTERED my  | CÁTTLE, the  | CRÉATURES I  | ÁLWAYS
@@ -393,33 +393,33 @@ quantity to English vowels.
 381  ÁLSO  | WHÉNEVER I  | TÚRNED from the  | HÉAVENS toward  | ÉARTH and its  | CRÉATURES.
 382  ÍF they  | DÓ not  | PÁY me an  | ÉQUITABLE  | PRÍCE for my  | CÁTTLE,
 383  Í shall  | DESCÉND into  | HÁDES and  | SHÍNE for the  | PÉOPLE  | DEPÁRTED.”
-384  THÉN  | CLÓUD-ASSEMBLING  | ZÉUS the  | ALMÍGHTY  | RESPÓNDED in  | ÁNSWER:
+384  ÁNSWERING him  | SPÓKE  | ZÉUS the  | ALMÍGHTY,  | ASSÉMBLER of  | STÓRM-CLOUDS:
 385  “HÉLIOS,  | SHÍNE as  | BEFÓRE for the  | DEÁTHLESS  | IMMÓRTALS  | ABÓVE us,
 386  ÁLSO for  | MÓRTALS who  | LÍVE on the  | GRÁIN-GIVING  | FÍELDS of the  | ÉARTH-LAND.
 387  As for the MÉN you  | ACCÚSE, I shall  | SÓON  | STRÍKE their  | SWÍFT-MOVING  | VÉSSEL,
 388  ÚSING my  | GLÍTTERING  | THÚNDERBOLT,  | BRÉAKING it  | MÍDMOST on wine-dark  | SÉA-BRINE.”
 389  THÍS in the  | TÍME  | ÁFTERWARD I  | HÉARD from  | CALÝPSO, the  | FÁIR-HAIRED;
 390  she SÁID she  | HÉARD the  | STÓRY  | HERSÉLF from the  | GÚIDE-GOD  | HÉRMES.
-391  When I had CÓME  | ÓNCE  | AGÁIN to the  | SHÍP and the  | SHÓRE of the  | SÉA there,
+391  When I had CÓME  | ÓNCE  | AGÁIN  | DÓWN to the  | SHÍP and the  | SÉA-BRINE,
 392  GÓING to  | ÉVERY  | MÁN, I  | REBÚKED them, but there was  | NÓ  | REMÉDY
 393  ANÝWHERE  | WÉ could  | DISCÓVER; the  | CÁTTLE  | ALRÉADY were  | LÍFELESS.
-394  SÓON the  | IMMÓRTALS  | BEGÁN to  | DISPLÁY strange  | SÍGNS for the  | MÉN there:
+394  SÓON  | THEREÁFTER the  | IMMÓRTALS  | REVÉALED to the  | MÉN strange  | PÓRTENTS:
 395  HÍDES of the  | CÁTTLE  | CRÁWLED, and the  | MÉAT on the  | SPÍTS  | GÁVE a lowing,
 396  BÓTH what was  | RÓASTED and  | RÁW, and the  | VÓICE came  | FÓRTH like the  | CÁTTLE’S.
 397  SÍX days  | ÁFTERWARD  | ÁLL my  | FÁITHFUL  | COMPÁNIONS  | CONTÍNUED
-398  FÉASTING on  | HÉLIOS’  | CÁTTLE they  | STÓLE, the  | BÉST in the  | HÉRD there.
+398  FÉASTING, since they had  | DRÍVEN  | AWÁY the  | BÉST of  | HÉLIOS’  | CÁTTLE.
 399  But when ZÉUS,  | SÓN of  | CRÓNUS, at  | LÁST brought the  | SÉVENTH  | DÁY to us,
 400  ÓNLY then did the  | WÍND  | DESÍST from the  | RÁGING  | STRÉNGTH of the  | SQÚALL-STORM.
 401  SWÍFTLY we  | BÓARDED the  | VÉSSEL and  | SÁILED on the  | BRÓAD  | FÁCE of sea-brine,
 402  SÉTTING the  | MÁST  | ÚPRIGHT and  | EXTÉNDING the  | GLÍSTENING  | WHÍTE sails.
-403  After we LÉFT the  | ÍSLAND  | BEHÍND, and  | NÓ  | ÓTHER  | LÁND there
+403  After we LÉFT the  | ÍSLAND  | BEHÍND us, and  | NÓ  | LÁND  | ÓTHER
 404  ANÝWHERE  | SHÓWED, but the  | SÉA and the  | HÉAVENS  | EXTÉNDED before  | ÚS,
 405  then did the SÓN  | BÓRN of  | CRÓNUS  | ÉSTABLISH a  | DÁRK-COLORED  | CLÓUD bank
 406  over the HÓLLOW  | VÉSSEL; the  | SÉA  | TÚRNED  | BLÁCK  | UNDERNÉATH it.
 407  She did not RÚN  | MÚCH  | LÓNGER; at  | ÓNCE came the  | SHRÍEKING and  | STÓRMING
 408  WÉST Wind,  | FÍERCELY  | ASSÁULTING the  | SHÍP with a  | GRÉAT howling  | SQÚALL-STORM.
 409  BÓTH of the  | FÓRESTAYS  | SNÁPPED from the  | PÓWERFUL  | BLÁST of the  | TÉMPEST;
-410  BÁCKWARD the  | MÁST fell,  | CÁSTING its  | TÁCKLE  | ÁLL into the  | BÍLGE there.
+410  BÁCKWARD the  | MÁST  | FÉLL, and into the  | BÍLGE went  | ÁLL of its  | TÁCKLE.
 411  There in the STÉRN of the  | SHÍP did the  | MÁST  | STRÍKE  | DÓWNWARD and  | CRÚSH the
 412  HÉAD of the  | STÉERSMAN,  | BRÉAKING the  | BÓNES of the  | SKÚLL all  | TOGÉTHER;
 413  JÚST like a  | DÍVER he  | DRÓPPED from the  | DÉCK of the  | VÉSSEL to  | WÁTER,
@@ -428,7 +428,7 @@ quantity to English vowels.
 416  ÁLL of the  | SHÍP reeled  | RÓUND when  | STRÚCK by the  | BÓLT of the  | THÚNDER-GOD,
 417  FÍLLED with the  | SÚLFUR’S  | STÉNCH, and the  | MÉN fell  | ÓUT of the  | VÉSSEL.
 418  LÍKE the  | SÉA-CROWS they were  | CÁRRIED  | ARÓUND the  | BLÁCK hull in the  | WÁTER,
-419  BÓRNE on the  | WÁVES, and the  | GÓD  | DENÍED their  | HÓMEWARD  | RETÚRN there.
+419  BÓRNE on the  | WÁVES, and the  | GÓD  | DENÍED them their  | HÓMEWARD  | RETÚRNING.
 420  Yet I KÉPT  | MÓVING  | THROUGHÓUT the  | SHÍP,  | TÍLL the  | STÓRM-SURGE
 421  RÍPPED  | BÓTH of her  | SÍDES from the  | KÉEL and a wave  | CÁRRIED off the  | BÁRE bottom,
 422  SNÁPPING the  | MÁST from the  | KÉEL; but  | RÓUND that  | MÁST had been  | TÁNGLED
@@ -461,7 +461,7 @@ quantity to English vowels.
 449  LÍVES, the  | DRÉAD goddess,  | HÚMANLY  | SPÉAKING, with  | BÉAUTIFUL  | TRÉSSES;
 450  she GÁVE me  | LÓVE and  | ATTÉNDED me.  | WHÝ should I  | TÉLL you the  | TÁLE twice?
 451  ÓNLY  | ÝESTERDAY  | HÉRE in this  | HÓUSE I  | RECÓUNTED the  | STÓRY,
-452  BÓTH to  | YÓURSELF and your  | PÓWERFUL  | WÍFE; and it is  | HÁTEFUL to me  | NÓW,
+452  BÓTH to  | YOURSÉLF and your  | PÓWERFUL  | WÍFE; and to  | MÉ it is  | HÁTEFUL,
 453  TÉLLING a  | STÓRY  | AGÁIN that was  | FÚLLY and  | PLÁINLY  | RECÓUNTED.”
 ```
 

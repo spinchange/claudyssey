@@ -1,381 +1,381 @@
 ODYSSEY — BOOK III full-book caption alignment
-Duration: 1597.250s
+Duration: 1607.856s
 Narration cues: 372
 Source words: 5001
-Directly matched source words: 4707 (94.1%)
-Recognized words: 5057
+Directly matched source words: 4651 (93.0%)
+Recognized words: 4996
 Visual lead: 0.16s
 
 Cue | Start | Anchor | Missing prefix | Caption
-  1 |    7.680 | and                |              0 | And the sun leapt up, leaving the beautiful water, / into the bronze-bright heaven, to shine for the immortals
-  2 |   14.700 | and                |              0 | and for mortal men across the grain-giving plowland;
-  3 |   18.100 | and                |              0 | and they came in to Pylos, / the strong-built city of Neleus.
-  4 |   21.900 | there              |              0 | There on the beach of the sea / the people were offering victims,
-  5 |   24.980 | bulls              |              0 | bulls all black, to the earth-shaker / with the blue-black hair.
-  6 |   28.840 | nine               |              0 | Nine tiers of seats there were, / five hundred sitting in each,
-  7 |   32.280 | and                |              0 | and before each company nine bulls were held ready.
-  8 |   35.440 | They               |              0 | They had just tasted the innards, / and were burning thigh-cuts for the god,
-  9 |   39.420 | when               |              0 | when the ship came straight in: / they brailed the sails of the trim vessel,
- 10 |   43.640 | them               |              1 | furled them aloft, moored her, / and stepped ashore themselves;
- 11 |   47.700 | and                |              0 | and Telemachus stepped from the ship, / Athena going before him.
- 12 |   51.440 | The                |              0 | The goddess spoke to him first, gray-eyed Athena:
- 13 |   55.060 | Telemachus,        |              0 | "Telemachus, no more need of / shyness now, not a scrap of it:
- 14 |   58.960 | This               |              0 | this is why you have sailed the sea — to learn news
- 15 |   61.440 | of                 |              0 | of your father: where the earth / hides him, what doom he met.
- 16 |   65.260 | Come               |              0 | Come then, go straight to Nestor, breaker of horses:
- 17 |   68.500 | let                |              0 | let us see what counsel he keeps hidden in his breast.
- 18 |   71.520 | him                |              1 | Beg him yourself, so that he speaks unerring truth.
- 19 |   74.780 | He                 |              0 | He will tell you no lie: / he is clear-headed beyond most men."
- 20 |   78.620 | Then               |              0 | Then clear-headed Telemachus answered her:
- 21 |   81.240 | mentor,            |              0 | "Mentor, how am I to go up? How greet him?
- 22 |   84.020 | I                  |              0 | I have no practice yet in close-woven speech — / and a young man is shy of questioning his elder."
- 23 |   89.300 | Then               |              0 | Then the goddess spoke to him again, gray-eyed Athena:
- 24 |   92.500 | Telemachus,        |              0 | "Telemachus, some of it your own heart will see, / and some a god will prompt. For I do not think
- 25 |   98.320 | you                |              0 | you were born and raised without the gods' good will."
- 26 |  101.120 | So                 |              0 | So speaking, Pallas Athena led the way swiftly, / and he followed in the footsteps of the god.
- 27 |  106.460 | They               |              0 | They came to the gathering-place of / the men of Pylos, the rows of seats,
- 28 |  110.560 | where              |              0 | where Nestor sat with his sons, and around them companions
- 29 |  113.660 | were               |              0 | were readying the feast, / roasting meats and skewering others.
- 30 |  117.320 | But                |              0 | But when they saw the strangers they came all in a crowd,
- 31 |  120.220 | clasped            |              0 | clasped their hands in welcome, and bade them be seated.
- 32 |  123.360 | First,             |              0 | First Peisistratus, Nestor's son, coming near, / took the hands of both, and settled them at the feast
- 33 |  129.280 | on                 |              0 | on soft fleeces over the sand of the sea, / beside his brother Thrasymedes and his father;
- 34 |  134.760 | and                |              0 | and he gave them portions of the innards, and poured / wine into a golden cup, and pledging her he addressed
- 35 |  139.920 | Pallas             |              0 | Pallas Athena, daughter of aegis-bearing Zeus:
- 36 |  143.040 | Pray               |              0 | "Pray now, stranger, to the lord Poseidon, / for his is the feast you have found in coming here.
- 37 |  148.120 | and                |              0 | And when you have poured and prayed, as is right and / custom, give this man too the cup of honey-sweet wine
- 38 |  153.500 | to                 |              0 | to pour, since he also, I think, / prays to the deathless ones:
- 39 |  157.000 | all                |              0 | all men have need of the gods.
- 40 |  158.600 | but                |              0 | But he is the younger, my own age to the year, / and so to you first I give the golden cup."
- 41 |  163.680 | with               |              0 | With that he set in her hand the cup of sweet wine; / and Athena rejoiced in the man — clear-headed, just —
- 42 |  169.900 | because,           |              0 | because to her first he gave the golden cup; / and at once she prayed at length to the lord Poseidon:
- 43 |  176.860 | hear               |              0 | "Hear me, Poseidon who hold the earth, and do not / grudge us who pray the accomplishment of these works.
- 44 |  182.180 | to                 |              0 | To Nestor first of all, and to his sons, grant glory, / and then to all the rest give gracious recompense,
- 45 |  188.780 | to                 |              0 | to all the Pylians, for this splendid hecatomb.
- 46 |  191.740 | and                |              0 | And grant besides that Telemachus and / I sail home with the thing accomplished
- 47 |  195.640 | we                 |              0 | we came here for, in our fast black ship."
- 48 |  198.800 | so                 |              0 | So she prayed — and she herself was accomplishing it all.
- 49 |  202.320 | Then               |              0 | Then she gave Telemachus the beautiful two-handled cup, / and the dear son of Odysseus prayed the same.
- 50 |  208.120 | and                |              0 | And when they had roasted the / outer meats and drawn them off,
- 51 |  212.620 | they               |              0 | they divided the portions and feasted the glorious feast.
- 52 |  216.680 | But                |              0 | But when they had put away desire for food and drink,
- 53 |  219.980 | Gerenian           |              0 | Gerenian Nestor the horseman began to speak among them:
- 54 |  223.260 | now                |              0 | "Now is the fairer time to inquire and ask our guests / who they are, now they have had their joy of food.
- 55 |  229.840 | strangers,         |              0 | Strangers, who are you? / From where do you sail the watery ways?
- 56 |  234.080 | Is                 |              0 | Is it on some business — or do you rove at / random, the way sea-raiders do, who wander
- 57 |  239.420 | their              |              1 | staking their own lives, bearing evil to strangers?"
- 58 |  243.280 | Then               |              0 | Then clear-headed Telemachus answered him, emboldened: / Athena herself had set courage in his heart,
- 59 |  249.280 | so                 |              0 | so that he might ask about his absent father / and so that good report among men might be his:
- 60 |  254.900 | Nestor,            |              0 | "Nestor, son of Neleus, great glory of the Achaeans, / you ask from where we are, and I will tell you.
- 61 |  261.180 | we                 |              0 | We have come from Ithaca, under Mount Neion; / and the business I speak of is private, not the people's.
- 62 |  267.120 | I                  |              0 | I follow the wide fame of my father, / in hope I may hear of him:
- 63 |  271.240 | noble,             |              0 | noble, enduring-hearted Odysseus, who once, they say, / fought at your side when you sacked the Trojans' city.
- 64 |  277.680 | All                |              0 | All the others, all who warred against the Trojans,
- 65 |  280.800 | we                 |              0 | we have had word of — / where each man died his bitter death;
- 66 |  284.320 | but                |              0 | but his death the son of Cronos has left past finding:
- 67 |  288.140 | no                 |              0 | no one can say for certain where he perished, / whether he went down on the mainland at enemy hands
- 68 |  292.960 | or                 |              0 | or on the deep, under the waves of Amphitrite.
- 69 |  295.980 | That               |              0 | That is why I come now to your knees: in hope you will / consent to tell his bitter death — whether you saw it
- 70 |  301.580 | with               |              0 | with your own eyes, or heard the tale of him from another
- 71 |  305.120 | beyond             |              1 | wanderer. Beyond all men his mother bore him for sorrow.
- 72 |  308.140 | Do                 |              0 | Do not soften anything from courtesy or pity:
- 73 |  311.080 | tell               |              0 | tell me fully whatever sight you came upon.
- 74 |  313.880 | I                  |              0 | I beg you — if ever my father, good Odysseus, / promised you word or work and made it good
- 75 |  319.400 | in                 |              0 | in the Trojans' country, / where you Achaeans suffered your pains,
- 76 |  323.100 | remember           |              0 | remember it for me now: tell me the unerring truth."
- 77 |  326.620 | Then               |              0 | Then Gerenian Nestor the horseman answered him:
- 78 |  329.140 | Dear               |              0 | "Dear boy — since you bring back the misery we endured / in that country, we headstrong sons of the Achaeans,
- 79 |  335.280 | all                |              0 | all our roving in ships across the misted / sea chasing plunder wherever Achilles led,
- 80 |  340.480 | and                |              0 | and all our fighting around the great city of lord Priam — / there, in those years, our best were killed.
- 81 |  345.700 | lies               |              1 | There lies Ajax, dear to the war-god; there Achilles; / there Patroclus, a counselor the equal of the gods;
- 82 |  352.080 | my                 |              1 | there my own dear son, strong and without fault, / Antilochus — surpassing swift of foot, and a fighter.
- 83 |  359.000 | And                |              0 | And many other evils we suffered besides: / who among mortal men could tell them all?
- 84 |  363.740 | Not                |              0 | Not if you stayed five years — six years — / asking all the evils the noble Achaeans suffered there:
- 85 |  369.180 | you                |              0 | you would go home to your own country worn out first.
- 86 |  372.300 | Nine               |              0 | Nine years we stitched evils around them, plotting
- 87 |  374.860 | with               |              0 | with every kind of cunning — and the son / of Cronos barely brought it to an end.
- 88 |  379.240 | and                |              0 | And there no man would set his wits against him openly — / willing, that is — for noble Odysseus won by far,
- 89 |  385.380 | in                 |              0 | in every kind of cunning: your father — if truly / you are his blood. Awe takes me, looking at you.
- 90 |  391.600 | your               |              0 | Your speech, at least, is his: you would not / think a younger man could speak so like him.
- 91 |  396.380 | In                 |              0 | In all that time, I and noble Odysseus never / spoke on opposite sides in assembly or in council:
- 92 |  401.860 | one                |              0 | one heart between us — with sense and considered counsel
- 93 |  404.700 | we                 |              0 | we planned for the Argives how the best might come about.
- 94 |  408.040 | But                |              0 | But when we had sacked Priam's steep city, / and gone to our ships, and a god scattered the Achaeans,
- 95 |  413.240 | then               |              0 | then, then Zeus devised in his heart a bitter homecoming
- 96 |  415.580 | for                |              0 | for the Argives — since not all of us were men of sense / or of justice. So many of them came to an evil end
- 97 |  421.720 | through            |              0 | through the ruinous wrath of the / gray-eyed daughter of the mighty Father —
- 98 |  425.060 | who                |              0 | who set strife between the two sons of Atreus.
- 99 |  427.680 | The                |              0 | The two of them called the Achaeans all to assembly — / rashly, in no due order, at the setting of the sun,
-100 |  433.240 | and                |              0 | and the sons of the Achaeans came heavy with wine —
-101 |  435.780 | and                |              0 | and they spoke out the reason they had gathered the army.
-102 |  438.600 | urged              |              2 | There Menelaus urged all the Achaeans to remember / homecoming across the broad back of the sea;
-103 |  443.620 | and                |              0 | and it did not please Agamemnon, not at all: / he wanted to hold the army back, and offer holy hecatombs
-104 |  449.720 | to                 |              0 | to heal the terrible anger of Athena — the fool. / He did not know she was not to be persuaded:
-105 |  455.200 | The                |              0 | the mind of the gods who are / forever does not turn so fast.
-106 |  459.200 | So                 |              0 | So the two of them stood trading hard words; / and the strong-greaved Achaeans sprang up
-107 |  463.520 | with               |              0 | with a huge din, and the counsel split them two ways.
-108 |  466.940 | That               |              0 | That night we lay on our anger, brooding hard thoughts
-109 |  469.260 | against            |              0 | against each other — for Zeus / was readying the stroke of evil —
-110 |  472.720 | and                |              0 | and at dawn half of us hauled our / ships to the bright salt water
-111 |  476.520 | and                |              0 | and loaded our goods aboard, and the deep-girdled women.
-112 |  479.800 | Half               |              0 | Half the army held back, staying there with / Atreus' son Agamemnon, shepherd of the people;
-113 |  484.680 | and                |              0 | and half of us embarked and rowed. And the ships ran fast,
-114 |  487.900 | for                |              0 | for a god smoothed the sea over its monstrous deeps.
-115 |  491.240 | Coming             |              0 | Coming to Tenedos, we offered victims to the gods,
-116 |  494.300 | aching             |              0 | aching for home. But Zeus had / no thought yet of homecoming —
-117 |  497.920 | iron               |              0 | iron-hearted, he stirred up evil strife a second time.
-118 |  501.440 | Some               |              0 | Some turned their curved ships around and went back —
-119 |  504.140 | Those              |              0 | those with Odysseus, the battle-wise lord, / the man of shifting counsels —
-120 |  508.340 | carrying           |              0 | carrying favor once again to Atreus' son Agamemnon.
-121 |  510.940 | But                |              0 | But I, with the ships that followed me gathered close, / fled on, for I knew the god was devising evils.
-122 |  517.840 | and                |              0 | And the warlike son of Tydeus fled, / and roused his companions.
-123 |  521.980 | Late               |              0 | Late upon our track came fair-haired Menelaus, / and caught us at Lesbos debating the long crossing:
-124 |  527.580 | whether            |              0 | whether to sail above rugged Chios, / by the isle of Psyria, keeping Chios on our left,
-125 |  532.780 | or                 |              0 | or under Chios, past windy Mimas.
-126 |  535.620 | We                 |              0 | We asked the god to show a sign, and he showed one, / and bade us cut across the middle sea to Euboea,
-127 |  541.480 | to                 |              0 | to run out from under the evil quickest.
-128 |  544.340 | A                  |              0 | A whistling wind sprang up astern, and the ships / ran fast down the fish-filled ways, and to Geraestus
-129 |  549.900 | they               |              0 | they came in by night. And to Poseidon we laid many
-130 |  553.100 | thighs             |              1 | bulls' thighs on the fire, having measured the great gulf.
-131 |  556.560 | It                 |              0 | It was the fourth day when in Argos the companions of / Diomedes, breaker of horses, moored their trim ships;
-132 |  563.020 | but                |              0 | but I held on for Pylos, and the wind never / failed from the day the god first sent it blowing.
-133 |  568.330 | So                 |              0 | So I came home, dear child, / knowing nothing — I cannot tell you
-134 |  572.120 | who                |              0 | who of the Achaeans were saved and who were lost.
-135 |  574.700 | But                |              0 | But all I hear, sitting here in our halls, / you shall learn, as is right; I will hide nothing.
-136 |  580.580 | The                |              0 | The Myrmidons, they say, / those furious spearmen, came home safe,
-137 |  584.740 | led                |              0 | led by the shining son of great-hearted Achilles; / safe too Philoctetes, Poias' splendid son;
-138 |  590.620 | and                |              0 | and Idomeneus brought all his companions to Crete, / all who escaped the war: the sea took none from him.
-139 |  596.440 | son                |              2 | And Atreus' son — you have heard / yourselves, far off as you live,
-140 |  600.400 | how                |              0 | how he came home, and how / Aegisthus plotted his bitter death.
-141 |  603.960 | But                |              0 | But that man paid for it — grimly, in full.
-142 |  606.780 | how                |              0 | How good a thing it is, / that a son of the dead man be left!
-143 |  610.520 | For                |              0 | For that son took vengeance on the killer of his father,
-144 |  613.600 | of                 |              1 | Aegisthus of the crooked counsels, / who cut down his famous father.
-145 |  617.360 | You                |              0 | You too, my friend — and I see how tall and fine you are —
-146 |  620.520 | be                 |              0 | be brave, so that men not yet / born will speak well of you."
-147 |  624.540 | Then               |              0 | Then clear-headed Telemachus answered him:
-148 |  627.280 | son                |              1 | "Nestor, son of Neleus, great glory of the Achaeans,
-149 |  630.660 | yes,               |              0 | yes — that man took his vengeance / in full, and the Achaeans
-150 |  633.320 | will               |              0 | will carry his fame wide, / a thing for men to come to hear of.
-151 |  637.560 | If                 |              0 | If only the gods would clothe me in strength like that, / to pay the suitors back for their galling trespass —
-152 |  642.620 | the                |              0 | the insolent men who scheme their / reckless outrage against me!
-153 |  645.920 | But                |              0 | But the gods have spun no such happiness for me —
-154 |  648.500 | not                |              0 | not for my father, not for me. / Now, come what may, I must endure."
-155 |  653.000 | Then               |              0 | Then Gerenian Nestor the horseman answered him:
-156 |  655.720 | dear               |              0 | "Dear boy — since you say it / yourself and bring it to my mind —
-157 |  658.960 | they               |              0 | they tell me many suitors for your mother's sake / fill your halls against your will, devising evils.
-158 |  664.240 | tell               |              0 | Tell me: do you bow to it willingly, or do the people
-159 |  667.180 | through            |              0 | through the land hate you, following the voice of a god?
-160 |  670.380 | Who                |              0 | Who knows whether one day he will / come and repay their violence —
-161 |  673.380 | alone              |              0 | alone, it may be, or all the Achaeans with him?
-162 |  676.360 | If                 |              0 | If only gray-eyed Athena chose to love you the / way she cared in those days for glorious Odysseus
-163 |  681.100 | the                |              1 | in the Trojans' country, / where we Achaeans suffered our pains —
-164 |  685.060 | Never              |              0 | never have I seen the gods love a man so openly / as Pallas Athena stood by him, in the open —
-165 |  690.220 | if                 |              0 | if she chose to love you like that, / and care for you in her heart,
-166 |  693.580 | then               |              0 | then more than one of those men would / forget about marriage for good."
-167 |  696.860 | Then               |              0 | Then clear-headed Telemachus answered him:
-168 |  699.220 | old                |              0 | "Old sir, I do not think that / word will ever be accomplished.
-169 |  703.220 | What               |              0 | What you say is too great. Awe holds me. I could not
-170 |  706.640 | hope               |              0 | hope for it to happen — / not if the gods themselves willed it."
-171 |  709.660 | Then               |              0 | Then the goddess spoke to him again, gray-eyed Athena:
-172 |  713.640 | what               |              1 | "Telemachus, what a word has / slipped the fence of your teeth!
-173 |  716.400 | Easily             |              0 | Easily, if he wills it, a god brings / a man safe home — even from far away.
-174 |  721.260 | And                |              0 | And I would rather suffer pains in plenty first and / then come home, and look on my day of homecoming,
-175 |  726.720 | come               |              1 | than come and die at my own hearth, as Agamemnon died, / by the treachery of Aegisthus and of his own wife.
-176 |  733.220 | But                |              0 | But death — the death common to all — not even the gods
-177 |  736.420 | can                |              0 | can beat away from a man they love, once the day comes
-178 |  739.720 | when               |              0 | when the ruinous doom of death / that lays men low takes hold."
-179 |  743.040 | then,              |              0 | Then clear-headed Telemachus answered her:
-180 |  746.380 | mentor,            |              0 | "Mentor, let us speak of it no / longer, grieved though we are.
-181 |  750.500 | for                |              0 | For him no homecoming is real any more: long since the / deathless ones have plotted his death and black doom.
-182 |  757.580 | Now                |              0 | Now there is another word I want to ask, of Nestor — / since beyond other men he knows judgments and wisdom;
-183 |  763.640 | three              |              0 | three generations of men, they say, he has ruled as king,
-184 |  766.880 | and                |              0 | and to my eyes he seems like one of the deathless ones.
-185 |  770.100 | Nestor             |              0 | Nestor, son of Neleus: tell me the truth of it — / how did Atreus' son die, wide-ruling Agamemnon?
-186 |  777.200 | Where              |              0 | Where was Menelaus? What death / did the schemer plot for him,
-187 |  781.220 | of                 |              1 | Aegisthus of the crooked counsels — / since the man he killed was far the better?
-188 |  785.400 | Was                |              0 | Was Menelaus not in Achaean Argos — was he wandering
-189 |  788.400 | somewhere          |              0 | somewhere among men, that the / other took heart and killed?"
-190 |  791.220 | Then,              |              0 | Then Gerenian Nestor the horseman answered him:
-191 |  795.340 | Then               |              0 | "Then I will tell you, child, the whole truth of it.
-192 |  798.740 | You                |              0 | You have guessed yourself how it would have gone, / if Atreus' son, fair-haired Menelaus, coming from Troy,
-193 |  805.500 | had                |              0 | had found Aegisthus alive in the halls:
-194 |  808.660 | No                 |              0 | no man would have heaped the mounded earth over / his dead body — dogs and birds would have torn him
-195 |  814.000 | as                 |              0 | as he lay on the plain far from the city, and not one
-196 |  817.360 | of                 |              0 | of the Achaean women would have wept him: / too monstrous the thing he schemed.
-197 |  822.040 | For                |              0 | For we were over there, winning our many contests — / and he, at his ease in a fold of horse-grazing Argos,
-198 |  828.920 | worked             |              0 | worked all the while at Agamemnon's / wife with charming words.
-199 |  833.460 | At                 |              0 | At first she pushed the shameful thing away — / shining Clytemnestra — for her mind was still sound;
-200 |  840.000 | And                |              0 | and beside her, too, there was a singer, whom Atreus' son
-201 |  842.980 | strictly           |              0 | strictly charged, when he left / for Troy, to guard his wife.
-202 |  846.220 | But                |              0 | But when the doom of the gods bound her to her undoing, / then Aegisthus led that singer to a desert island
-203 |  852.820 | and                |              0 | and left him there, spoil and carrion for the birds,
-204 |  856.240 | and                |              0 | and led her — he willing, / she willing — home to his own house.
-205 |  860.480 | Many               |              0 | Many thigh-cuts he burned on the gods' holy altars, / many offerings he hung up, woven things and gold,
-206 |  867.000 | having             |              0 | having accomplished the enormity / his heart had never hoped for.
-207 |  870.760 | Now                |              0 | Now we had sailed together on the way from Troy, / Atreus' son and I, in all friendship;
-208 |  876.320 | But                |              0 | but when we reached holy Sunium, the headland of Athens, / there Phoebus Apollo came with his gentle arrows
-209 |  882.800 | and                |              0 | and killed the helmsman of Menelaus, / the steering-oar of the running ship still in his hands:
-210 |  888.300 | who                |              3 | Phrontis, Onetor's son, who outdid all the tribes of / men at steering a ship when the storm-winds drive.
-211 |  894.560 | So                 |              0 | So Menelaus was held there, / pressed though he was for the road,
-212 |  898.260 | to                 |              0 | to bury his companion and pay the death-rites over him.
-213 |  901.700 | But                |              0 | But when he too, going on over the wine-dark sea in / the hollow ships, came at a run to the steep height
-214 |  906.680 | of                 |              0 | of Malea, then wide-voiced Zeus devised for him a / hateful road: he poured on the breath of screaming winds
-215 |  913.280 | and                |              0 | and monstrous waves, swollen huge as mountains.
-216 |  917.140 | There              |              0 | There he split the fleet, and part he drove on Crete,
-217 |  920.540 | where              |              0 | where the Cydonians lived around the streams of Iardanus.
-218 |  923.720 | There              |              0 | There is a bare cliff, sheer to the salt water, / at the edge of Gortyn on the misted sea,
-219 |  929.300 | Where              |              0 | where the South Wind shoves the / great swell on the left headland,
-220 |  932.760 | toward             |              0 | toward Phaestus, and a little / stone holds back the great sea.
-221 |  937.260 | part               |              1 | There part of them came in, / and the men escaped destruction
-222 |  940.280 | barely,            |              0 | barely, but the waves smashed the ships on the reefs; / and the other five ships with their dark-blue prows
-223 |  946.500 | the                |              0 | the wind and the water carried and beached on Egypt.
-224 |  949.860 | So                 |              0 | So Menelaus, gathering much substance and gold, / roved with his ships among men of alien speech —
-225 |  955.340 | and                |              0 | and in that very time Aegisthus / schemed those horrors at home.
-226 |  959.440 | Seven              |              0 | Seven years he reigned over Mycenae rich in gold,
-227 |  962.340 | having             |              0 | having killed Atreus' son, / and the people were broken under him;
-228 |  966.020 | But                |              0 | but in the eighth his evil came on him: noble Orestes, / back from Athens, cut down his father's killer —
-229 |  971.900 | of                 |              1 | Aegisthus of the crooked counsels, / who cut down his famous father.
-230 |  975.840 | The                |              0 | The killing done, he gave the Argives a funeral feast / for his hateful mother and for spineless Aegisthus;
-231 |  981.680 | same               |              3 | and on that same day Menelaus of / the great war-cry reached him,
-232 |  985.460 | bringing           |              0 | bringing home treasure, / all the freight his ships could bear.
-233 |  989.220 | You                |              0 | You too, my friend: do not wander long and far from home, / leaving your goods behind and men in your house
-234 |  995.460 | of                 |              0 | of such overbearing insolence — / or they will devour it all,
-235 |  999.580 | dividing           |              0 | dividing your goods among them, / and your journey come to nothing.
-236 | 1003.600 | But                |              0 | But to Menelaus I bid you go — I urge it:
-237 | 1006.760 | he                 |              0 | he is newly home from foreign parts, / from among peoples no man would hope in his heart
-238 | 1011.220 | to                 |              0 | to return from, once the storm-winds had driven him / astray into a sea so vast that not even the birds
-239 | 1017.200 | can                |              0 | can cross it in a year — so vast it is, and terrible.
-240 | 1025.780 | Go                 |              0 | Go now, with your own ship and your companions;
-241 | 1029.480 | Or                 |              0 | or if you would rather go by land, / chariot and horses are here,
-242 | 1033.760 | And                |              0 | and here are my sons, who will be your escorts to / shining Lacedaemon, where fair-haired Menelaus is.
-243 | 1041.180 | him                |              1 | Beg him yourself, so that he speaks unerring truth.
-244 | 1044.820 | He                 |              0 | He will tell you no lie: / he is clear-headed beyond most men."
-245 | 1049.580 | So                 |              0 | So he spoke; and the sun went down, and the dusk came on.
-246 | 1053.160 | and                |              0 | And among them spoke the goddess, gray-eyed Athena:
-247 | 1056.540 | Old                |              0 | "Old sir, all this you have told rightly, in due measure.
-248 | 1060.880 | But                |              0 | But come — cut up the tongues now, and mix the wine, / so that we may pour to Poseidon and the other immortals
-249 | 1067.120 | and                |              0 | and then think of sleep. It is the hour for it:
-250 | 1070.400 | The                |              0 | the light is gone already under the / western gloom, and it is not fitting
-251 | 1073.980 | to                 |              0 | to sit long at the feast of the gods, but to go home."
-252 | 1078.100 | So                 |              0 | So spoke the daughter of Zeus, and they heard her voice.
-253 | 1081.840 | poured             |              1 | Heralds poured water over their hands, / and young men crowned the mixing-bowls with drink
-254 | 1085.880 | and                |              0 | and served all, pouring first / drops in each cup for the gods;
-255 | 1089.840 | and                |              0 | and they threw the tongues in the fire, / and stood, and poured above them.
-256 | 1093.900 | But                |              0 | But when they had poured, and drunk what their / hearts would have, then Athena and godlike Telemachus
-257 | 1099.560 | both               |              0 | both made to go back to the hollow ship.
-258 | 1102.120 | But                |              0 | But Nestor held them back, / catching at them with his words:
-259 | 1105.500 | Zeus               |              0 | "Zeus forbid it — and the other deathless gods — / that you should go from my house to your fast ship
-260 | 1110.220 | as                 |              0 | as if from some man utterly cloakless and poor, / who has no cloaks, no plenty of blankets in his house,
-261 | 1116.600 | no                 |              0 | no soft sleeping for himself or for his guests!
-262 | 1119.920 | I                  |              0 | I have cloaks and beautiful blankets in plenty.
-263 | 1122.640 | Never              |              0 | Never, while I live, shall the dear son of this man / Odysseus lie down on a ship's deck-planks — nor after,
-264 | 1128.660 | while              |              0 | while sons of mine are left in the halls to / host whatever guest arrives at my doors."
-265 | 1133.520 | Then               |              0 | Then the goddess spoke to him again, gray-eyed Athena:
-266 | 1137.080 | Well               |              0 | "Well said, dear old friend — and it is fitting / that Telemachus obey you: far better so.
-267 | 1142.200 | let                |              0 | Let him go with you now, then, and sleep in / your halls. But I will go to the black ship
-268 | 1146.780 | to                 |              0 | to hearten the companions and give them all their orders.
-269 | 1149.720 | For                |              0 | For I may claim to be the only elder among them:
-270 | 1152.300 | the                |              0 | the rest are younger men who follow out of friendship, / all of an age with great-hearted Telemachus.
-271 | 1157.680 | There              |              0 | There let me lie down tonight, by the black hollow ship;
-272 | 1160.720 | and                |              0 | and in the morning I go on to the great-hearted / Cauconians, where a debt is owed me — no new thing
-273 | 1166.220 | and                |              0 | and no small one. But this man, / since he has come to your house,
-274 | 1170.360 | send               |              0 | send on with a chariot and a son of yours; and give / him horses, your lightest runners, your strongest."
-275 | 1176.540 | So                 |              0 | So speaking, gray-eyed Athena went away in the likeness / of a sea-eagle; and amazement took all who saw,
-276 | 1182.880 | and                |              0 | and the old man marveled, when his eyes had seen it.
-277 | 1185.900 | He                 |              0 | He took Telemachus' hand, and spoke a word, and named him:
-278 | 1189.740 | dear               |              0 | "Dear friend, I have no fear you / will prove base or spineless,
-279 | 1193.740 | if                 |              0 | if the gods walk with you so, escorts, and you so young!
-280 | 1198.300 | For                |              0 | For this was none other of those who hold Olympus / than the daughter of Zeus, most glorious Tritogeneia,
-281 | 1204.420 | she                |              0 | she who honored your noble father too among the Argives.
-282 | 1207.660 | Queen,             |              0 | Queen, be gracious! Grant me good fame — / to me, to my children, to my honored wife —
-283 | 1213.080 | and                |              0 | and I in turn will offer you a / yearling heifer, broad of brow,
-284 | 1216.880 | unbroken,          |              0 | unbroken, that no man has ever led under the yoke:
-285 | 1219.880 | Her                |              0 | her I will offer to you, / with gold poured round her horns."
-286 | 1223.760 | So                 |              0 | So he spoke in prayer, and Pallas Athena heard him.
-287 | 1227.020 | then,              |              0 | Then Gerenian Nestor the horseman led them — his sons / and his daughters' husbands — to his beautiful house.
-288 | 1234.440 | and                |              0 | And when they reached the lord's famous house, / they sat in order on the benches and the high-backed chairs,
-289 | 1240.440 | and                |              0 | and for their coming the old man mixed a bowl / of sweet-drinking wine, eleven years old,
-290 | 1245.900 | which              |              0 | which the woman-steward opened, loosening the sealing cap.
-291 | 1249.960 | Of                 |              0 | Of this the old man mixed a bowl, and to Athena
-292 | 1252.820 | he                 |              0 | he prayed long, pouring, / to the daughter of aegis-bearing Zeus.
-293 | 1257.600 | but                |              0 | But when they had poured, / and drunk what their hearts would have,
-294 | 1260.700 | the                |              0 | the others went home to sleep, each man to his own house,
-295 | 1264.320 | but                |              0 | but Gerenian Nestor the horseman laid him down there — / Telemachus, dear son of godlike Odysseus —
-296 | 1270.780 | on                 |              0 | on a corded bedstead under the echoing porch,
-297 | 1273.840 | and                |              0 | and beside him Peisistratus of the good ash spear, / leader of men, the one son in his halls still unwed;
-298 | 1280.740 | and                |              0 | and he himself slept in the inner room of the high house,
-299 | 1283.600 | where              |              0 | where the lady his wife made ready his bed and his rest.
-300 | 1287.880 | When               |              0 | When Dawn appeared, the early-born, with fingers of rose, / Gerenian Nestor the horseman rose up from his bed,
-301 | 1294.660 | and                |              0 | and came out, and took his seat on the polished / stones that stood before his high doors,
-302 | 1299.940 | white              |              0 | white, gleaming as if with oil. On these, in the old days,
-303 | 1303.920 | used               |              1 | Neleus used to sit, a counselor the equal of the gods;
-304 | 1307.020 | but                |              0 | but he long since had gone down to Hades, broken by fate,
-305 | 1310.800 | and                |              0 | and now Gerenian Nestor sat there / in his turn, warder of the Achaeans,
-306 | 1315.280 | holding            |              0 | holding the scepter. Around him / his sons gathered in a body,
-307 | 1319.040 | coming             |              0 | coming from their rooms: Echephron and Stratius, / Perseus and Aretus and godlike Thrasymedes;
-308 | 1325.320 | and                |              0 | and sixth came the hero Peisistratus to join them,
-309 | 1328.320 | and                |              0 | and they led godlike Telemachus / and seated him beside them.
-310 | 1331.920 | and                |              0 | And Gerenian Nestor the horseman / began to speak among them:
-311 | 1335.060 | quickly,           |              0 | "Quickly, dear children, work my wish for me, / so that first of all the gods I may propitiate Athena,
-312 | 1341.060 | who                |              0 | who came to me in visible / presence at the god's rich feast.
-313 | 1344.260 | Come               |              0 | Come then: one of you to the plain for a heifer, / fast as may be, and let the cowherd drive her in;
-314 | 1350.220 | One                |              0 | one go down to great-hearted Telemachus' black ship / and bring up all his companions — leave two men only;
-315 | 1356.200 | One                |              0 | one bid the goldsmith Laerces come here / to pour gold round the heifer's horns.
-316 | 1361.140 | The                |              0 | The rest of you stay here together; / and tell the slave-women
-317 | 1364.220 | inside             |              0 | inside to make ready a feast through the famous house — / seats, and firewood round about, and shining water."
-318 | 1371.180 | So                 |              0 | So he spoke, and they all fell to bustling. The heifer / came up from the plain; from the fast trim ship came
-319 | 1378.380 | great              |              0 | great-hearted Telemachus' companions; the smith came
-320 | 1381.980 | with               |              0 | with his bronze tools in his hands, / the instruments of his art,
-321 | 1386.040 | Anvil              |              0 | anvil and hammer and the well-made fire-tongs / he worked the gold with; and Athena came
-322 | 1391.220 | to                 |              0 | to receive her offering. And the old horseman Nestor / gave gold, and the smith worked it and poured it round
-323 | 1397.460 | the                |              0 | the heifer's horns, so the goddess / might see the glory and be glad.
-324 | 1402.600 | and                |              1 | Stratius and noble Echephron led her by the horns; / Aretus came from the storeroom carrying lustral water
-325 | 1408.520 | in                 |              0 | in a flowered basin, and in his / other hand the barley-grains
-326 | 1411.840 | in                 |              0 | in a basket; and Thrasymedes, / steadfast in battle, stood by
-327 | 1415.960 | with               |              0 | with a sharp axe in his hand, to strike the heifer down;
-328 | 1419.540 | Perseus            |              0 | Perseus held the blood-bowl. And the old horseman Nestor
-329 | 1422.880 | began              |              0 | began with the hand-water and the / barley-grains, and long to Athena
-330 | 1426.560 | he                 |              0 | he prayed, making first offering, / casting hairs from the head into the fire.
-331 | 1431.940 | And                |              0 | And when they had prayed and thrown the scattering barley,
-332 | 1435.020 | Nestor's           |              1 | straightway Nestor's son, high-spirited Thrasymedes, / stood close and struck: the axe cut through the tendons
-333 | 1440.780 | of                 |              0 | of the neck, and undid the heifer's / strength. And the women cried aloud —
-334 | 1445.520 | the                |              0 | the daughters and the sons' wives and the honored wife
-335 | 1447.940 | of                 |              0 | of Nestor, Eurydice, eldest of the daughters of Clymenus.
-336 | 1452.510 | Then               |              0 | Then the men lifted her up from the wide-wayed earth
-337 | 1454.790 | and                |              0 | and held her, and Peisistratus, / leader of men, cut the throat.
-338 | 1459.030 | And                |              0 | And when the black blood had run out, / and the life had left the bones,
-339 | 1462.830 | quickly            |              0 | quickly they broke her apart, / and at once cut out the thigh-pieces
-340 | 1466.170 | all                |              0 | all in due order, and wrapped them deep in fat, / folding it double, and laid raw flesh upon them.
-341 | 1472.710 | The                |              0 | The old man burned them on the split wood, / and poured the fire-bright wine
-342 | 1476.410 | over,              |              0 | over; and the young men beside / him held the five-tined forks.
-343 | 1480.190 | And                |              0 | And when the thighs were burned through, / and they had tasted the innards,
-344 | 1483.550 | they               |              0 | they carved up the rest and threaded it on spits and / roasted it, holding the sharp spits in their hands.
-345 | 1489.210 | Meanwhile,         |              0 | Meanwhile beautiful Polycaste had bathed Telemachus — / the youngest daughter of Nestor, Neleus' son.
-346 | 1494.850 | and                |              0 | And when she had bathed him / and rubbed him richly with oil,
-347 | 1497.610 | she                |              0 | she threw a beautiful mantle around him, and a tunic,
-348 | 1500.710 | and                |              0 | and he stepped from the bath with the body of an immortal,
-349 | 1503.390 | and                |              0 | and went and sat down beside Nestor, / shepherd of the people.
-350 | 1506.650 | And                |              0 | And when they had roasted the / outer meats and drawn them off,
-351 | 1509.530 | they               |              0 | they sat and feasted; and good men waited / on them, pouring wine into cups of gold.
-352 | 1514.950 | But                |              0 | But when they had put away desire for food and drink,
-353 | 1518.130 | Nestor             |              1 | Gerenian Nestor the horseman began to speak among them:
-354 | 1520.930 | My                 |              0 | "My sons, come — yoke the / fine-maned horses for Telemachus,
-355 | 1524.770 | lead               |              0 | lead them under the chariot, so he may be making his way."
-356 | 1528.030 | So                 |              0 | So he spoke, and they listened well and obeyed:
-357 | 1530.950 | Quickly            |              0 | quickly they yoked the swift horses under the chariot, / and the woman-steward put in bread and wine
-358 | 1536.330 | and                |              0 | and cooked meats, such things as Zeus-nurtured kings eat.
-359 | 1540.270 | Then               |              0 | Then Telemachus mounted the beautiful chariot, / and beside him Peisistratus, Nestor's son, leader of men,
-360 | 1547.010 | mounted            |              0 | mounted the chariot and took the reins in his hands,
-361 | 1549.310 | and                |              0 | and whipped them to a run; / and the pair flew on, nothing loath,
-362 | 1553.130 | into               |              0 | into the plain, and left the steep city of Pylos behind.
-363 | 1557.030 | All                |              0 | All day long they shook the yoke they bore between them.
-364 | 1559.850 | The                |              0 | The sun went down, and all the ways grew dark, / and they came to Pherae, to the house of Diocles,
-365 | 1566.270 | son                |              0 | son of Ortilochus, whom Alpheus fathered.
-366 | 1569.570 | There              |              0 | There they slept the night, / and he set guest-gifts before them.
-367 | 1572.910 | when               |              0 | When Dawn appeared, the early-born, with fingers of rose,
-368 | 1576.710 | They               |              0 | they yoked the horses and mounted the inlaid chariot / and drove out of the gateway and the echoing porch;
-369 | 1582.850 | and                |              0 | and he whipped them to a run, / and the pair flew on, nothing loath.
-370 | 1586.950 | They               |              0 | They came to the wheat-bearing / plain, and there they pressed
-371 | 1590.210 | to                 |              0 | to the journey's end: so well / the swift horses carried them.
-372 | 1594.530 | the                |              0 | The sun went down, and all the ways grew dark.
+  1 |    7.780 | and                |              0 | And the sun leapt up, leaving the beautiful water, / into the bronze-bright heaven, to shine for the immortals
+  2 |   13.900 | and                |              0 | and for mortal men across the grain-giving plowland;
+  3 |   17.580 | and                |              0 | and they came in to Pylos, / the strong-built city of Neleus.
+  4 |   21.660 | There              |              0 | There on the beach of the sea / the people were offering victims,
+  5 |   25.140 | all                |              1 | bulls all black, to the earth-shaker / with the blue-black hair.
+  6 |   28.440 | Nine               |              0 | Nine tiers of seats there were, / five hundred sitting in each,
+  7 |   32.760 | and                |              0 | and before each company nine bulls were held ready.
+  8 |   35.840 | They               |              0 | They had just tasted the innards, / and were burning thigh-cuts for the god,
+  9 |   40.020 | when               |              0 | when the ship came straight in: / they brailed the sails of the trim vessel,
+ 10 |   43.860 | them               |              1 | furled them aloft, moored her, / and stepped ashore themselves;
+ 11 |   48.180 | and                |              0 | and Telemachus stepped from the ship, / Athena going before him.
+ 12 |   51.920 | the                |              0 | The goddess spoke to him first, gray-eyed Athena:
+ 13 |   55.180 | Telemachus         |              0 | "Telemachus, no more need of / shyness now, not a scrap of it:
+ 14 |   59.100 | This               |              0 | this is why you have sailed the sea — to learn news
+ 15 |   61.480 | of                 |              0 | of your father: where the earth / hides him, what doom he met.
+ 16 |   64.680 | come               |              0 | Come then, go straight to Nestor, breaker of horses:
+ 17 |   68.140 | Let                |              0 | let us see what counsel he keeps hidden in his breast.
+ 18 |   71.100 | beg                |              0 | Beg him yourself, so that he speaks unerring truth.
+ 19 |   74.340 | He                 |              0 | He will tell you no lie: / he is clear-headed beyond most men."
+ 20 |   78.180 | then               |              0 | Then clear-headed Telemachus answered her:
+ 21 |   80.400 | mentor,            |              0 | "Mentor, how am I to go up? How greet him?
+ 22 |   83.280 | I                  |              0 | I have no practice yet in close-woven speech — / and a young man is shy of questioning his elder."
+ 23 |   88.760 | Then               |              0 | Then the goddess spoke to him again, gray-eyed Athena:
+ 24 |   92.060 | Telemachus         |              0 | "Telemachus, some of it your own heart will see, / and some a god will prompt. For I do not think
+ 25 |   96.780 | you                |              0 | you were born and raised without the gods' good will."
+ 26 |   99.500 | So                 |              0 | So speaking, Pallas Athena led the way swiftly, / and he followed in the footsteps of the god.
+ 27 |  104.860 | they               |              0 | They came to the gathering-place of / the men of Pylos, the rows of seats,
+ 28 |  108.820 | sat                |              2 | where Nestor sat with his sons, and around them companions
+ 29 |  111.600 | were               |              0 | were readying the feast, / roasting meats and skewering others.
+ 30 |  115.400 | But                |              0 | But when they saw the strangers they came all in a crowd,
+ 31 |  118.740 | clasped            |              0 | clasped their hands in welcome, and bade them be seated.
+ 32 |  121.800 | First,             |              0 | First Peisistratus, Nestor's son, coming near, / took the hands of both, and settled them at the feast
+ 33 |  127.760 | on                 |              0 | on soft fleeces over the sand of the sea, / beside his brother Thrasymedes and his father;
+ 34 |  132.960 | and                |              0 | and he gave them portions of the innards, and poured / wine into a golden cup, and pledging her he addressed
+ 35 |  139.040 | Athena,            |              1 | Pallas Athena, daughter of aegis-bearing Zeus:
+ 36 |  142.360 | Pray               |              0 | "Pray now, stranger, to the lord Poseidon, / for his is the feast you have found in coming here.
+ 37 |  147.560 | and                |              0 | And when you have poured and prayed, as is right and / custom, give this man too the cup of honey-sweet wine
+ 38 |  152.840 | to                 |              0 | to pour, since he also, I think, / prays to the deathless ones:
+ 39 |  156.860 | all                |              0 | all men have need of the gods.
+ 40 |  158.360 | but                |              0 | But he is the younger, my own age to the year, / and so to you first I give the golden cup."
+ 41 |  164.220 | with               |              0 | With that he set in her hand the cup of sweet wine; / and Athena rejoiced in the man — clear-headed, just —
+ 42 |  170.580 | because            |              0 | because to her first he gave the golden cup; / and at once she prayed at length to the lord Poseidon:
+ 43 |  176.660 | hear               |              0 | "Hear me, Poseidon who hold the earth, and do not / grudge us who pray the accomplishment of these works.
+ 44 |  183.120 | to                 |              0 | To Nestor first of all, and to his sons, grant glory, / and then to all the rest give gracious recompense,
+ 45 |  189.440 | to                 |              0 | to all the Pylians, for this splendid hecatomb.
+ 46 |  192.180 | and                |              0 | And grant besides that Telemachus and / I sail home with the thing accomplished
+ 47 |  195.680 | we                 |              0 | we came here for, in our fast black ship."
+ 48 |  198.660 | so                 |              0 | So she prayed — and she herself was accomplishing it all.
+ 49 |  201.520 | then               |              0 | Then she gave Telemachus the beautiful two-handled cup, / and the dear son of Odysseus prayed the same.
+ 50 |  206.980 | and                |              0 | And when they had roasted the / outer meats and drawn them off,
+ 51 |  211.540 | they               |              0 | they divided the portions and feasted the glorious feast.
+ 52 |  215.440 | but                |              0 | But when they had put away desire for food and drink,
+ 53 |  218.760 | Gerenian           |              0 | Gerenian Nestor the horseman began to speak among them:
+ 54 |  222.060 | now                |              0 | "Now is the fairer time to inquire and ask our guests / who they are, now they have had their joy of food.
+ 55 |  228.640 | strangers,         |              0 | Strangers, who are you? / From where do you sail the watery ways?
+ 56 |  232.880 | Is                 |              0 | Is it on some business — or do you rove at / random, the way sea-raiders do, who wander
+ 57 |  238.080 | staking            |              0 | staking their own lives, bearing evil to strangers?"
+ 58 |  242.100 | Then               |              0 | Then clear-headed Telemachus answered him, emboldened: / Athena herself had set courage in his heart,
+ 59 |  248.060 | so                 |              0 | so that he might ask about his absent father / and so that good report among men might be his:
+ 60 |  253.780 | son                |              1 | "Nestor, son of Neleus, great glory of the Achaeans, / you ask from where we are, and I will tell you.
+ 61 |  259.940 | we                 |              0 | We have come from Ithaca, under Mount Neion; / and the business I speak of is private, not the people's.
+ 62 |  266.140 | I                  |              0 | I follow the wide fame of my father, / in hope I may hear of him:
+ 63 |  270.380 | noble              |              0 | noble, enduring-hearted Odysseus, who once, they say, / fought at your side when you sacked the Trojans' city.
+ 64 |  276.500 | All                |              0 | All the others, all who warred against the Trojans,
+ 65 |  279.600 | we                 |              0 | we have had word of — / where each man died his bitter death;
+ 66 |  283.140 | but                |              0 | but his death the son of Cronos has left past finding:
+ 67 |  287.000 | No                 |              0 | no one can say for certain where he perished, / whether he went down on the mainland at enemy hands
+ 68 |  291.440 | under              |              4 | or on the deep, under the waves of Amphitrite.
+ 69 |  294.940 | That               |              0 | That is why I come now to your knees: in hope you will / consent to tell his bitter death — whether you saw it
+ 70 |  300.380 | with               |              0 | with your own eyes, or heard the tale of him from another
+ 71 |  303.900 | beyond             |              1 | wanderer. Beyond all men his mother bore him for sorrow.
+ 72 |  306.960 | Do                 |              0 | Do not soften anything from courtesy or pity:
+ 73 |  309.900 | tell               |              0 | tell me fully whatever sight you came upon.
+ 74 |  312.680 | I                  |              0 | I beg you — if ever my father, good Odysseus, / promised you word or work and made it good
+ 75 |  318.180 | in                 |              0 | in the Trojans' country, / where you Achaeans suffered your pains,
+ 76 |  321.980 | remember           |              0 | remember it for me now: tell me the unerring truth."
+ 77 |  325.120 | Then,              |              0 | Then Gerenian Nestor the horseman answered him:
+ 78 |  327.940 | Dear               |              0 | "Dear boy — since you bring back the misery we endured / in that country, we headstrong sons of the Achaeans,
+ 79 |  334.100 | all                |              0 | all our roving in ships across the misted / sea chasing plunder wherever Achilles led,
+ 80 |  339.240 | and                |              0 | and all our fighting around the great city of lord Priam — / there, in those years, our best were killed.
+ 81 |  344.540 | lies               |              1 | There lies Ajax, dear to the war-god; there Achilles; / there Patroclus, a counselor the equal of the gods;
+ 82 |  350.880 | my                 |              1 | there my own dear son, strong and without fault, / Antilochus — surpassing swift of foot, and a fighter.
+ 83 |  357.800 | And                |              0 | And many other evils we suffered besides: / who among mortal men could tell them all?
+ 84 |  362.560 | Not                |              0 | Not if you stayed five years — six years — / asking all the evils the noble Achaeans suffered there:
+ 85 |  367.980 | you                |              0 | you would go home to your own country worn out first.
+ 86 |  371.100 | Nine               |              0 | Nine years we stitched evils around them, plotting
+ 87 |  373.640 | with               |              0 | with every kind of cunning — and the son / of Cronos barely brought it to an end.
+ 88 |  378.200 | And                |              0 | And there no man would set his wits against him openly — / willing, that is — for noble Odysseus won by far,
+ 89 |  384.180 | in                 |              0 | in every kind of cunning: your father — if truly / you are his blood. Awe takes me, looking at you.
+ 90 |  390.360 | Your               |              0 | Your speech, at least, is his: you would not / think a younger man could speak so like him.
+ 91 |  395.180 | In                 |              0 | In all that time, I and noble Odysseus never / spoke on opposite sides in assembly or in council:
+ 92 |  400.660 | one                |              0 | one heart between us — with sense and considered counsel
+ 93 |  403.500 | we                 |              0 | we planned for the Argives how the best might come about.
+ 94 |  406.840 | But                |              0 | But when we had sacked Priam's steep city, / and gone to our ships, and a god scattered the Achaeans,
+ 95 |  411.980 | then               |              0 | then, then Zeus devised in his heart a bitter homecoming
+ 96 |  414.380 | for                |              0 | for the Argives — since not all of us were men of sense / or of justice. So many of them came to an evil end
+ 97 |  420.520 | through            |              0 | through the ruinous wrath of the / gray-eyed daughter of the mighty Father —
+ 98 |  423.860 | who                |              0 | who set strife between the two sons of Atreus.
+ 99 |  426.520 | The                |              0 | The two of them called the Achaeans all to assembly — / rashly, in no due order, at the setting of the sun,
+100 |  432.020 | and                |              0 | and the sons of the Achaeans came heavy with wine —
+101 |  434.620 | and                |              0 | and they spoke out the reason they had gathered the army.
+102 |  437.400 | urged              |              2 | There Menelaus urged all the Achaeans to remember / homecoming across the broad back of the sea;
+103 |  442.460 | and                |              0 | and it did not please Agamemnon, not at all: / he wanted to hold the army back, and offer holy hecatombs
+104 |  448.540 | to                 |              0 | to heal the terrible anger of Athena — the fool. / He did not know she was not to be persuaded:
+105 |  454.240 | The                |              0 | the mind of the gods who are / forever does not turn so fast.
+106 |  458.020 | So                 |              0 | So the two of them stood trading hard words; / and the strong-greaved Achaeans sprang up
+107 |  462.320 | with               |              0 | with a huge din, and the counsel split them two ways.
+108 |  465.740 | That               |              0 | That night we lay on our anger, brooding hard thoughts
+109 |  468.060 | against            |              0 | against each other — for Zeus / was readying the stroke of evil —
+110 |  471.540 | and                |              0 | and at dawn half of us hauled our / ships to the bright salt water
+111 |  475.340 | and                |              0 | and loaded our goods aboard, and the deep-girdled women.
+112 |  478.760 | Half               |              0 | Half the army held back, staying there with / Atreus' son Agamemnon, shepherd of the people;
+113 |  483.560 | and                |              0 | and half of us embarked and rowed. And the ships ran fast,
+114 |  486.680 | for                |              0 | for a god smoothed the sea over its monstrous deeps.
+115 |  490.040 | Coming             |              0 | Coming to Tenedos, we offered victims to the gods,
+116 |  493.120 | aching             |              0 | aching for home. But Zeus had / no thought yet of homecoming —
+117 |  496.720 | iron               |              0 | iron-hearted, he stirred up evil strife a second time.
+118 |  500.240 | Some               |              0 | Some turned their curved ships around and went back —
+119 |  502.940 | Those              |              0 | those with Odysseus, the battle-wise lord, / the man of shifting counsels —
+120 |  507.140 | carrying           |              0 | carrying favor once again to Atreus' son Agamemnon.
+121 |  510.260 | But                |              0 | But I, with the ships that followed me gathered close, / fled on, for I knew the god was devising evils.
+122 |  516.640 | and                |              0 | And the warlike son of Tydeus fled, / and roused his companions.
+123 |  520.760 | Late               |              0 | Late upon our track came fair-haired Menelaus, / and caught us at Lesbos debating the long crossing:
+124 |  526.360 | whether            |              0 | whether to sail above rugged Chios, / by the isle of Psyria, keeping Chios on our left,
+125 |  531.540 | or                 |              0 | or under Chios, past windy Mimas.
+126 |  534.820 | We                 |              0 | We asked the god to show a sign, and he showed one, / and bade us cut across the middle sea to Euboea,
+127 |  541.740 | to                 |              0 | to run out from under the evil quickest.
+128 |  544.800 | A                  |              0 | A whistling wind sprang up astern, and the ships / ran fast down the fish-filled ways, and to Geraestus
+129 |  550.660 | they               |              0 | they came in by night. And to Poseidon we laid many
+130 |  554.600 | thighs             |              1 | bulls' thighs on the fire, having measured the great gulf.
+131 |  557.500 | It                 |              0 | It was the fourth day when in Argos the companions of / Diomedes, breaker of horses, moored their trim ships;
+132 |  565.500 | but                |              0 | but I held on for Pylos, and the wind never / failed from the day the god first sent it blowing.
+133 |  571.240 | So                 |              0 | So I came home, dear child, / knowing nothing — I cannot tell you
+134 |  575.800 | who                |              0 | who of the Achaeans were saved and who were lost.
+135 |  578.460 | But                |              0 | But all I hear, sitting here in our halls, / you shall learn, as is right; I will hide nothing.
+136 |  584.740 | The                |              0 | The Myrmidons, they say, / those furious spearmen, came home safe,
+137 |  588.800 | led                |              0 | led by the shining son of great-hearted Achilles; / safe too Philoctetes, Poias' splendid son;
+138 |  595.660 | And                |              0 | and Idomeneus brought all his companions to Crete, / all who escaped the war: the sea took none from him.
+139 |  602.540 | And                |              0 | And Atreus' son — you have heard / yourselves, far off as you live,
+140 |  605.880 | how                |              0 | how he came home, and how / Aegisthus plotted his bitter death.
+141 |  610.140 | But                |              0 | But that man paid for it — grimly, in full.
+142 |  613.540 | how                |              0 | How good a thing it is, / that a son of the dead man be left!
+143 |  616.780 | For                |              0 | For that son took vengeance on the killer of his father,
+144 |  620.140 | of                 |              1 | Aegisthus of the crooked counsels, / who cut down his famous father.
+145 |  623.840 | You                |              0 | You too, my friend — and I see how tall and fine you are —
+146 |  627.320 | be                 |              0 | be brave, so that men not yet / born will speak well of you."
+147 |  631.500 | Then               |              0 | Then clear-headed Telemachus answered him:
+148 |  633.940 | son                |              1 | "Nestor, son of Neleus, great glory of the Achaeans,
+149 |  636.940 | Yes,               |              0 | yes — that man took his vengeance / in full, and the Achaeans
+150 |  640.260 | will               |              0 | will carry his fame wide, / a thing for men to come to hear of.
+151 |  644.600 | If                 |              0 | If only the gods would clothe me in strength like that, / to pay the suitors back for their galling trespass —
+152 |  650.260 | the                |              0 | the insolent men who scheme their / reckless outrage against me!
+153 |  653.560 | But                |              0 | But the gods have spun no such happiness for me —
+154 |  656.500 | Not                |              0 | not for my father, not for me. / Now, come what may, I must endure."
+155 |  661.280 | Then,              |              0 | Then Gerenian Nestor the horseman answered him:
+156 |  663.920 | Dear               |              0 | "Dear boy — since you say it / yourself and bring it to my mind —
+157 |  667.220 | they               |              0 | they tell me many suitors for your mother's sake / fill your halls against your will, devising evils.
+158 |  672.920 | Tell               |              0 | Tell me: do you bow to it willingly, or do the people
+159 |  675.420 | through            |              0 | through the land hate you, following the voice of a god?
+160 |  678.680 | Who                |              0 | Who knows whether one day he will / come and repay their violence —
+161 |  682.280 | alone              |              0 | alone, it may be, or all the Achaeans with him?
+162 |  685.220 | If                 |              0 | If only gray-eyed Athena chose to love you the / way she cared in those days for glorious Odysseus
+163 |  690.100 | the                |              1 | in the Trojans' country, / where we Achaeans suffered our pains —
+164 |  693.560 | Never              |              0 | never have I seen the gods love a man so openly / as Pallas Athena stood by him, in the open —
+165 |  699.040 | if                 |              0 | if she chose to love you like that, / and care for you in her heart,
+166 |  702.400 | then               |              0 | then more than one of those men would / forget about marriage for good."
+167 |  705.940 | Then               |              0 | Then clear-headed Telemachus answered him:
+168 |  708.720 | Old                |              0 | "Old sir, I do not think that / word will ever be accomplished.
+169 |  712.780 | What               |              0 | What you say is too great. Awe holds me. I could not
+170 |  716.360 | hope               |              0 | hope for it to happen — / not if the gods themselves willed it."
+171 |  720.120 | Then               |              0 | Then the goddess spoke to him again, gray-eyed Athena:
+172 |  723.860 | Telemachus,        |              0 | "Telemachus, what a word has / slipped the fence of your teeth!
+173 |  726.900 | Easily             |              0 | Easily, if he wills it, a god brings / a man safe home — even from far away.
+174 |  731.720 | And                |              0 | And I would rather suffer pains in plenty first and / then come home, and look on my day of homecoming,
+175 |  737.300 | come               |              1 | than come and die at my own hearth, as Agamemnon died, / by the treachery of Aegisthus and of his own wife.
+176 |  743.820 | But                |              0 | But death — the death common to all — not even the gods
+177 |  747.160 | can                |              0 | can beat away from a man they love, once the day comes
+178 |  749.960 | when               |              0 | when the ruinous doom of death / that lays men low takes hold."
+179 |  753.440 | Then               |              0 | Then clear-headed Telemachus answered her:
+180 |  756.860 | mentor,            |              0 | "Mentor, let us speak of it no / longer, grieved though we are.
+181 |  761.120 | for                |              0 | For him no homecoming is real any more: long since the / deathless ones have plotted his death and black doom.
+182 |  768.180 | Now                |              0 | Now there is another word I want to ask, of Nestor — / since beyond other men he knows judgments and wisdom;
+183 |  774.240 | three              |              0 | three generations of men, they say, he has ruled as king,
+184 |  777.040 | and                |              0 | and to my eyes he seems like one of the deathless ones.
+185 |  780.820 | Nestor             |              0 | Nestor, son of Neleus: tell me the truth of it — / how did Atreus' son die, wide-ruling Agamemnon?
+186 |  787.780 | Where              |              0 | Where was Menelaus? What death / did the schemer plot for him,
+187 |  791.800 | of                 |              1 | Aegisthus of the crooked counsels — / since the man he killed was far the better?
+188 |  795.980 | Was                |              0 | Was Menelaus not in Achaean Argos — was he wandering
+189 |  799.020 | somewhere          |              0 | somewhere among men, that the / other took heart and killed?"
+190 |  802.080 | Then,              |              0 | Then Gerenian Nestor the horseman answered him:
+191 |  805.920 | Then               |              0 | "Then I will tell you, child, the whole truth of it.
+192 |  809.320 | You                |              0 | You have guessed yourself how it would have gone, / if Atreus' son, fair-haired Menelaus, coming from Troy,
+193 |  816.100 | had                |              0 | had found Aegisthus alive in the halls:
+194 |  819.240 | No                 |              0 | no man would have heaped the mounded earth over / his dead body — dogs and birds would have torn him
+195 |  824.580 | as                 |              0 | as he lay on the plain far from the city, and not one
+196 |  827.940 | of                 |              0 | of the Achaean women would have wept him: / too monstrous the thing he schemed.
+197 |  832.600 | For                |              0 | For we were over there, winning our many contests — / and he, at his ease in a fold of horse-grazing Argos,
+198 |  839.500 | worked             |              0 | worked all the while at Agamemnon's / wife with charming words.
+199 |  844.020 | At                 |              0 | At first she pushed the shameful thing away — / shining Clytemnestra — for her mind was still sound;
+200 |  850.580 | And                |              0 | and beside her, too, there was a singer, whom Atreus' son
+201 |  853.580 | strictly           |              0 | strictly charged, when he left / for Troy, to guard his wife.
+202 |  856.060 | but                |              0 | But when the doom of the gods bound her to her undoing, / then Aegisthus led that singer to a desert island
+203 |  863.060 | and                |              0 | and left him there, spoil and carrion for the birds,
+204 |  866.840 | and                |              0 | and led her — he willing, / she willing — home to his own house.
+205 |  871.120 | Many               |              0 | Many thigh-cuts he burned on the gods' holy altars, / many offerings he hung up, woven things and gold,
+206 |  877.580 | having             |              0 | having accomplished the enormity / his heart had never hoped for.
+207 |  880.680 | Now                |              0 | Now we had sailed together on the way from Troy, / Atreus' son and I, in all friendship;
+208 |  886.900 | but                |              0 | but when we reached holy Sunium, the headland of Athens, / there Phoebus Apollo came with his gentle arrows
+209 |  892.900 | and                |              0 | and killed the helmsman of Menelaus, / the steering-oar of the running ship still in his hands:
+210 |  898.880 | son,               |              2 | Phrontis, Onetor's son, who outdid all the tribes of / men at steering a ship when the storm-winds drive.
+211 |  905.160 | So                 |              0 | So Menelaus was held there, / pressed though he was for the road,
+212 |  908.840 | to                 |              0 | to bury his companion and pay the death-rites over him.
+213 |  912.280 | But                |              0 | But when he too, going on over the wine-dark sea in / the hollow ships, came at a run to the steep height
+214 |  917.260 | of                 |              0 | of Malea, then wide-voiced Zeus devised for him a / hateful road: he poured on the breath of screaming winds
+215 |  923.860 | and                |              0 | and monstrous waves, swollen huge as mountains.
+216 |  927.740 | There              |              0 | There he split the fleet, and part he drove on Crete,
+217 |  931.120 | where              |              0 | where the Cydonians lived around the streams of Iardanus.
+218 |  934.300 | There              |              0 | There is a bare cliff, sheer to the salt water, / at the edge of Gortyn on the misted sea,
+219 |  939.900 | where              |              0 | where the South Wind shoves the / great swell on the left headland,
+220 |  943.360 | toward             |              0 | toward Phaestus, and a little / stone holds back the great sea.
+221 |  947.840 | part               |              1 | There part of them came in, / and the men escaped destruction
+222 |  950.880 | barely,            |              0 | barely, but the waves smashed the ships on the reefs; / and the other five ships with their dark-blue prows
+223 |  957.180 | the                |              0 | the wind and the water carried and beached on Egypt.
+224 |  960.440 | So                 |              0 | So Menelaus, gathering much substance and gold, / roved with his ships among men of alien speech —
+225 |  965.940 | and                |              0 | and in that very time Aegisthus / schemed those horrors at home.
+226 |  970.020 | Seven              |              0 | Seven years he reigned over Mycenae rich in gold,
+227 |  972.880 | having             |              0 | having killed Atreus' son, / and the people were broken under him;
+228 |  976.600 | But                |              0 | but in the eighth his evil came on him: noble Orestes, / back from Athens, cut down his father's killer —
+229 |  982.500 | of                 |              1 | Aegisthus of the crooked counsels, / who cut down his famous father.
+230 |  986.420 | The                |              0 | The killing done, he gave the Argives a funeral feast / for his hateful mother and for spineless Aegisthus;
+231 |  992.260 | and                |              0 | and on that same day Menelaus of / the great war-cry reached him,
+232 |  995.880 | bringing           |              0 | bringing home treasure, / all the freight his ships could bear.
+233 |  999.860 | You                |              0 | You too, my friend: do not wander long and far from home, / leaving your goods behind and men in your house
+234 | 1006.060 | of                 |              0 | of such overbearing insolence — / or they will devour it all,
+235 | 1010.180 | dividing           |              0 | dividing your goods among them, / and your journey come to nothing.
+236 | 1014.180 | But                |              0 | But to Menelaus I bid you go — I urge it:
+237 | 1017.340 | he                 |              0 | he is newly home from foreign parts, / from among peoples no man would hope in his heart
+238 | 1021.800 | to                 |              0 | to return from, once the storm-winds had driven him / astray into a sea so vast that not even the birds
+239 | 1027.780 | can                |              0 | can cross it in a year — so vast it is, and terrible.
+240 | 1036.380 | Go                 |              0 | Go now, with your own ship and your companions;
+241 | 1040.040 | or                 |              0 | or if you would rather go by land, / chariot and horses are here,
+242 | 1044.400 | And                |              0 | and here are my sons, who will be your escorts to / shining Lacedaemon, where fair-haired Menelaus is.
+243 | 1051.760 | him                |              1 | Beg him yourself, so that he speaks unerring truth.
+244 | 1055.460 | He                 |              0 | He will tell you no lie: / he is clear-headed beyond most men."
+245 | 1060.180 | So                 |              0 | So he spoke; and the sun went down, and the dusk came on.
+246 | 1063.740 | and                |              0 | And among them spoke the goddess, gray-eyed Athena:
+247 | 1067.120 | old                |              0 | "Old sir, all this you have told rightly, in due measure.
+248 | 1071.460 | But                |              0 | But come — cut up the tongues now, and mix the wine, / so that we may pour to Poseidon and the other immortals
+249 | 1077.700 | [manual timestamp] |             11 | and then think of sleep. It is the hour for it:
+250 | 1080.680 | light              |              1 | the light is gone already under the / western gloom, and it is not fitting
+251 | 1084.600 | to                 |              0 | to sit long at the feast of the gods, but to go home."
+252 | 1088.680 | So                 |              0 | So spoke the daughter of Zeus, and they heard her voice.
+253 | 1092.420 | poured             |              1 | Heralds poured water over their hands, / and young men crowned the mixing-bowls with drink
+254 | 1096.480 | and                |              0 | and served all, pouring first / drops in each cup for the gods;
+255 | 1100.420 | and                |              0 | and they threw the tongues in the fire, / and stood, and poured above them.
+256 | 1104.840 | But                |              0 | But when they had poured, and drunk what their / hearts would have, then Athena and godlike Telemachus
+257 | 1110.140 | both               |              0 | both made to go back to the hollow ship.
+258 | 1112.700 | But                |              0 | But Nestor held them back, / catching at them with his words:
+259 | 1116.080 | Zeus               |              0 | "Zeus forbid it — and the other deathless gods — / that you should go from my house to your fast ship
+260 | 1120.800 | as                 |              0 | as if from some man utterly cloakless and poor, / who has no cloaks, no plenty of blankets in his house,
+261 | 1127.220 | no                 |              0 | no soft sleeping for himself or for his guests!
+262 | 1130.520 | I                  |              0 | I have cloaks and beautiful blankets in plenty.
+263 | 1133.480 | Never              |              0 | Never, while I live, shall the dear son of this man / Odysseus lie down on a ship's deck-planks — nor after,
+264 | 1139.260 | while              |              0 | while sons of mine are left in the halls to / host whatever guest arrives at my doors."
+265 | 1144.100 | Then               |              0 | Then the goddess spoke to him again, gray-eyed Athena:
+266 | 1147.660 | Well               |              0 | "Well said, dear old friend — and it is fitting / that Telemachus obey you: far better so.
+267 | 1152.780 | let                |              0 | Let him go with you now, then, and sleep in / your halls. But I will go to the black ship
+268 | 1157.360 | to                 |              0 | to hearten the companions and give them all their orders.
+269 | 1160.380 | For                |              0 | For I may claim to be the only elder among them:
+270 | 1162.900 | the                |              0 | the rest are younger men who follow out of friendship, / all of an age with great-hearted Telemachus.
+271 | 1168.240 | There              |              0 | There let me lie down tonight, by the black hollow ship;
+272 | 1171.300 | and                |              0 | and in the morning I go on to the great-hearted / Cauconians, where a debt is owed me — no new thing
+273 | 1176.820 | and                |              0 | and no small one. But this man, / since he has come to your house,
+274 | 1180.940 | send               |              0 | send on with a chariot and a son of yours; and give / him horses, your lightest runners, your strongest."
+275 | 1187.220 | So                 |              0 | So speaking, gray-eyed Athena went away in the likeness / of a sea-eagle; and amazement took all who saw,
+276 | 1193.460 | and                |              0 | and the old man marveled, when his eyes had seen it.
+277 | 1196.480 | He                 |              0 | He took Telemachus' hand, and spoke a word, and named him:
+278 | 1200.320 | dear               |              0 | "Dear friend, I have no fear you / will prove base or spineless,
+279 | 1204.320 | if                 |              0 | if the gods walk with you so, escorts, and you so young!
+280 | 1208.880 | For                |              0 | For this was none other of those who hold Olympus / than the daughter of Zeus, most glorious Tritogeneia,
+281 | 1215.020 | she                |              0 | she who honored your noble father too among the Argives.
+282 | 1218.040 | Queen,             |              0 | Queen, be gracious! Grant me good fame — / to me, to my children, to my honored wife —
+283 | 1223.660 | and                |              0 | and I in turn will offer you a / yearling heifer, broad of brow,
+284 | 1227.460 | unbroken,          |              0 | unbroken, that no man has ever led under the yoke:
+285 | 1230.520 | Her                |              0 | her I will offer to you, / with gold poured round her horns."
+286 | 1234.360 | So                 |              0 | So he spoke in prayer, and Pallas Athena heard him.
+287 | 1237.600 | then,              |              0 | Then Gerenian Nestor the horseman led them — his sons / and his daughters' husbands — to his beautiful house.
+288 | 1245.060 | And                |              0 | And when they reached the lord's famous house, / they sat in order on the benches and the high-backed chairs,
+289 | 1251.000 | and                |              0 | and for their coming the old man mixed a bowl / of sweet-drinking wine, eleven years old,
+290 | 1256.480 | which              |              0 | which the woman-steward opened, loosening the sealing cap.
+291 | 1260.540 | Of                 |              0 | Of this the old man mixed a bowl, and to Athena
+292 | 1263.420 | he                 |              0 | he prayed long, pouring, / to the daughter of aegis-bearing Zeus.
+293 | 1268.180 | But                |              0 | But when they had poured, / and drunk what their hearts would have,
+294 | 1271.300 | the                |              0 | the others went home to sleep, each man to his own house,
+295 | 1274.900 | but                |              0 | but Gerenian Nestor the horseman laid him down there — / Telemachus, dear son of godlike Odysseus —
+296 | 1281.400 | on                 |              0 | on a corded bedstead under the echoing porch,
+297 | 1284.420 | and                |              0 | and beside him Peisistratus of the good ash spear, / leader of men, the one son in his halls still unwed;
+298 | 1291.520 | and                |              0 | and he himself slept in the inner room of the high house,
+299 | 1294.620 | where              |              0 | where the lady his wife made ready his bed and his rest.
+300 | 1298.420 | When               |              0 | When Dawn appeared, the early-born, with fingers of rose, / Gerenian Nestor the horseman rose up from his bed,
+301 | 1305.200 | and                |              0 | and came out, and took his seat on the polished / stones that stood before his high doors,
+302 | 1310.620 | white              |              0 | white, gleaming as if with oil. On these, in the old days,
+303 | 1314.500 | used               |              1 | Neleus used to sit, a counselor the equal of the gods;
+304 | 1317.580 | but                |              0 | but he long since had gone down to Hades, broken by fate,
+305 | 1321.500 | and                |              0 | and now Gerenian Nestor sat there / in his turn, warder of the Achaeans,
+306 | 1325.880 | holding            |              0 | holding the scepter. Around him / his sons gathered in a body,
+307 | 1329.620 | coming             |              0 | coming from their rooms: Echephron and Stratius, / Perseus and Aretus and godlike Thrasymedes;
+308 | 1335.920 | and                |              0 | and sixth came the hero Peisistratus to join them,
+309 | 1338.920 | and                |              0 | and they led godlike Telemachus / and seated him beside them.
+310 | 1342.460 | and                |              0 | And Gerenian Nestor the horseman / began to speak among them:
+311 | 1345.640 | quickly,           |              0 | "Quickly, dear children, work my wish for me, / so that first of all the gods I may propitiate Athena,
+312 | 1351.660 | who                |              0 | who came to me in visible / presence at the god's rich feast.
+313 | 1354.840 | Come               |              0 | Come then: one of you to the plain for a heifer, / fast as may be, and let the cowherd drive her in;
+314 | 1360.800 | One                |              0 | one go down to great-hearted Telemachus' black ship / and bring up all his companions — leave two men only;
+315 | 1366.780 | One                |              0 | one bid the goldsmith Laerces come here / to pour gold round the heifer's horns.
+316 | 1371.680 | The                |              0 | The rest of you stay here together; / and tell the slave-women
+317 | 1374.800 | inside             |              0 | inside to make ready a feast through the famous house — / seats, and firewood round about, and shining water."
+318 | 1381.760 | So                 |              0 | So he spoke, and they all fell to bustling. The heifer / came up from the plain; from the fast trim ship came
+319 | 1388.960 | great              |              0 | great-hearted Telemachus' companions; the smith came
+320 | 1392.560 | with               |              0 | with his bronze tools in his hands, / the instruments of his art,
+321 | 1396.640 | Anvil              |              0 | anvil and hammer and the well-made fire-tongs / he worked the gold with; and Athena came
+322 | 1401.800 | to                 |              0 | to receive her offering. And the old horseman Nestor / gave gold, and the smith worked it and poured it round
+323 | 1408.040 | the                |              0 | the heifer's horns, so the goddess / might see the glory and be glad.
+324 | 1413.200 | and                |              1 | Stratius and noble Echephron led her by the horns; / Aretus came from the storeroom carrying lustral water
+325 | 1419.100 | a                  |              1 | in a flowered basin, and in his / other hand the barley-grains
+326 | 1422.420 | in                 |              0 | in a basket; and Thrasymedes, / steadfast in battle, stood by
+327 | 1426.560 | with               |              0 | with a sharp axe in his hand, to strike the heifer down;
+328 | 1429.620 | Perseus            |              0 | Perseus held the blood-bowl. And the old horseman Nestor
+329 | 1433.460 | began              |              0 | began with the hand-water and the / barley-grains, and long to Athena
+330 | 1437.140 | he                 |              0 | he prayed, making first offering, / casting hairs from the head into the fire.
+331 | 1442.520 | And                |              0 | And when they had prayed and thrown the scattering barley,
+332 | 1445.520 | Nestor's           |              1 | straightway Nestor's son, high-spirited Thrasymedes, / stood close and struck: the axe cut through the tendons
+333 | 1451.360 | of                 |              0 | of the neck, and undid the heifer's / strength. And the women cried aloud —
+334 | 1456.100 | the                |              0 | the daughters and the sons' wives and the honored wife
+335 | 1458.520 | of                 |              0 | of Nestor, Eurydice, eldest of the daughters of Clymenus.
+336 | 1463.080 | Then               |              0 | Then the men lifted her up from the wide-wayed earth
+337 | 1465.340 | held               |              1 | and held her, and Peisistratus, / leader of men, cut the throat.
+338 | 1469.640 | And                |              0 | And when the black blood had run out, / and the life had left the bones,
+339 | 1473.460 | quickly            |              0 | quickly they broke her apart, / and at once cut out the thigh-pieces
+340 | 1476.760 | all                |              0 | all in due order, and wrapped them deep in fat, / folding it double, and laid raw flesh upon them.
+341 | 1482.800 | The                |              0 | The old man burned them on the split wood, / and poured the fire-bright wine
+342 | 1487.000 | over,              |              0 | over; and the young men beside / him held the five-tined forks.
+343 | 1490.720 | And                |              0 | And when the thighs were burned through, / and they had tasted the innards,
+344 | 1494.140 | they               |              0 | they carved up the rest and threaded it on spits and / roasted it, holding the sharp spits in their hands.
+345 | 1499.800 | Meanwhile,         |              0 | Meanwhile beautiful Polycaste had bathed Telemachus — / the youngest daughter of Nestor, Neleus' son.
+346 | 1505.320 | and                |              0 | And when she had bathed him / and rubbed him richly with oil,
+347 | 1508.060 | she                |              0 | she threw a beautiful mantle around him, and a tunic,
+348 | 1511.280 | and                |              0 | and he stepped from the bath with the body of an immortal,
+349 | 1514.020 | and                |              0 | and went and sat down beside Nestor, / shepherd of the people.
+350 | 1517.320 | And                |              0 | And when they had roasted the / outer meats and drawn them off,
+351 | 1520.100 | they               |              0 | they sat and feasted; and good men waited / on them, pouring wine into cups of gold.
+352 | 1525.500 | But                |              0 | But when they had put away desire for food and drink,
+353 | 1528.720 | Nestor             |              1 | Gerenian Nestor the horseman began to speak among them:
+354 | 1531.500 | My                 |              0 | "My sons, come — yoke the / fine-maned horses for Telemachus,
+355 | 1535.340 | lead               |              0 | lead them under the chariot, so he may be making his way."
+356 | 1538.180 | so                 |              0 | So he spoke, and they listened well and obeyed:
+357 | 1541.560 | Quickly            |              0 | quickly they yoked the swift horses under the chariot, / and the woman-steward put in bread and wine
+358 | 1546.600 | and                |              0 | and cooked meats, such things as Zeus-nurtured kings eat.
+359 | 1550.840 | Then               |              0 | Then Telemachus mounted the beautiful chariot, / and beside him Peisistratus, Nestor's son, leader of men,
+360 | 1557.580 | mounted            |              0 | mounted the chariot and took the reins in his hands,
+361 | 1559.900 | and                |              0 | and whipped them to a run; / and the pair flew on, nothing loath,
+362 | 1563.720 | into               |              0 | into the plain, and left the steep city of Pylos behind.
+363 | 1567.640 | All                |              0 | All day long they shook the yoke they bore between them.
+364 | 1570.840 | The                |              0 | The sun went down, and all the ways grew dark, / and they came to Pherae, to the house of Diocles,
+365 | 1576.840 | son                |              0 | son of Ortilochus, whom Alpheus fathered.
+366 | 1580.140 | There              |              0 | There they slept the night, / and he set guest-gifts before them.
+367 | 1583.520 | when               |              0 | When Dawn appeared, the early-born, with fingers of rose,
+368 | 1587.280 | They               |              0 | they yoked the horses and mounted the inlaid chariot / and drove out of the gateway and the echoing porch;
+369 | 1593.560 | and                |              0 | and he whipped them to a run, / and the pair flew on, nothing loath.
+370 | 1597.840 | They               |              0 | They came to the wheat-bearing / plain, and there they pressed
+371 | 1600.800 | to                 |              0 | to the journey's end: so well / the swift horses carried them.
+372 | 1605.060 | The                |              0 | The sun went down, and all the ways grew dark.
