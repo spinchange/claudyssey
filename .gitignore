@@ -36,3 +36,7 @@ hexameter-retranslation/audio-openai-fable/audio-chunks/
 hexameter-retranslation/audio-openai-fable/books/
 hexameter-retranslation/audio-openai-fable/backups/
 hexameter-retranslation/audio-openai-fable/*.mp3
+
+# hexameter-retranslation revision logs are tracked; the pre-pass snapshot
+# copies of the book texts are not (git history now holds every version)
+hexameter-retranslation/revision/backup-*/
