@@ -1,4 +1,4 @@
-# The Odyssey — Book XIII
+# The Odyssey — Book 13
 
 *The sending home; the ship turned to stone; Athena and Odysseus on Ithaca.*
 

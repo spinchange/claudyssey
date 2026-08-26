@@ -16,7 +16,6 @@
 12 Over his person Athena diffused an ineffable splendor.
 13 All of the people regarded his coming with eyes full of wonder;
 14 down in his father's seat he sat, and the elders made way there.
-
 15 First of them all to address the assembly was Aegyptius, hero,
 16 bent under age, and in knowledge of numberless matters abundant.
 17 One of his well-loved sons had departed with godlike Odysseus,
@@ -27,7 +26,6 @@
 22 named Eurynomus, while two always worked on the lands of their father.
 23 Still he could never forget that lost son, but lamented and mourned him.
 24 Weeping for him, he arose and addressed the assembled Achaeans:
-
 25 “Hear me, you men who inhabit our Ithaca, hear what I tell you.
 26 Never has one of our councils convened, nor assembly been seated,
 27 since in the hollow ships our noble Odysseus departed.
@@ -38,13 +36,11 @@
 32 Or does he bring some other affair of the people for counsel?
 33 Surely he seems a good man and a blessed one. May Zeus accomplish
 34 good for the man, whatsoever desire in his heart he is seeking.”
-
 35 Thus he spoke; and in that word's omen Odysseus' son was rejoicing.
 36 No longer seated, he rose, for desire now impelled him to speak there.
 37 Into the midst he advanced, and a scepter was placed in his right hand
 38 there by Peisenor the herald, a man of considerate judgment.
 39 First to the elder he turned, and he spoke to him openly, saying:
-
 40 “Elder, the man is not distant; your own eyes shall presently know him.
 41 I have assembled the people, for sorrow has fallen upon me.
 42 No word has come to my ears that the army is homeward returning,
@@ -85,13 +81,11 @@
 77 we would pursue you with words through every street of the city,
 78 claiming our property back until everything taken was rendered.
 79 Now you are laying incurable griefs in the depths of my spirit.”
-
 80 Angrily speaking, he dashed down the scepter and burst into weeping.
 81 Pity took hold of the people and spread through the whole of assembly.
 82 All of the others were silent; and none had the courage to answer
 83 young Telemachus then with an arrogant word of aggression.
 84 Only Antinous answered him there and addressed him directly:
-
 85 “High-spoken young Telemachus, ungoverned in anger, what language!
 86 Shaming us here, you would gladly attach every fault to the suitors.
 87 None of the suitors, the sons of Achaeans, has caused your affliction;
@@ -103,7 +97,6 @@
 93 This is another deception her heart has contrived and accomplished:
 94 setting a mighty loom in the hall, she began there to weave it,
 95 delicate, wide beyond measure, and straightway addressed us as follows:
-
 96 ‘Young men who court me, because great Odysseus now has been taken,
 97 wait, though you urge on the marriage, until I have finished this weaving;
 98 let not the threads I have spun be abandoned and scattered for nothing.
@@ -111,7 +104,6 @@
 100 when the destructive allotment of death, laying mortals low, takes him.
 101 Then no Achaean woman around us can censure or shame me
 102 if such a man who amassed great wealth should be laid without grave-cloth.’
-
 103 Thus she addressed us, and easily won our imperious spirits.
 104 Then in the daytime she wove at the loom and accomplished her great web;
 105 then in the nighttime, under the torches, again she unraveled.
@@ -138,9 +130,7 @@
 126 yet for your house she creates only grief for abundant resources.
 127 We shall not go to our lands, nor depart for another location,
 128 till she selects an Achaean at last and accomplishes marriage.”
-
 129 Then in reply spoke the thoughtful and steadfast young Telemachus:
-
 130 “How, Antinous, could I expel her unwillingly homeward,
 131 she who has borne me and raised me, while somewhere my father is living,
 132 whether alive or now dead? Heavy payment would fall upon me then,
@@ -157,7 +147,6 @@
 143 ravage it all. I shall call on the gods who are living forever,
 144 praying that Zeus may at last bring deeds of requital upon you;
 145 then you shall die in the halls with no blood-price paid in requital.”
-
 146 Thus spoke Telemachus. Zeus of the thunderous voice sent two eagles,
 147 down from a towering mountain's summit releasing their flight-path.
 148 First, for a while, they flew with the gusting and turbulent wind-stream,
@@ -173,7 +162,6 @@
 158 Mastor's son, who surpassed all the men of his own generation,
 159 reading the flight of the birds and explaining the purposes fated.
 160 Wishing them well, he arose and addressed the assembled Achaeans:
-
 161 “Hear me, you men who inhabit our Ithaca, hear what I tell you—
 162 most of all to the suitors I speak and declare what is coming.
 163 Over their heads an enormous destruction is rolling. Odysseus
@@ -190,9 +178,7 @@
 174 I said, after sufferings many, with all his companions destroyed there,
 175 known to no man, in the twentieth year he would come to his homeland.
 176 All I foretold him before is now reaching its destined fulfillment.”
-
 177 Then in reply spoke Eurymachus, excellent son born of Polybus:
-
 178 “Old man, go home and announce your prophecies there to your children,
 179 lest an affliction befall them at some time in days that are coming.
 180 I am a prophet far better than you on the matter before us.
@@ -223,9 +209,7 @@
 205 We shall continue to wait, in contentious pursuit of the woman,
 206 rivals because of her excellence, never pursuing the others,
 207 women whom any of us might appropriately take into marriage.”
-
 208 Then in reply spoke the thoughtful and steadfast young Telemachus:
-
 209 “You, Eurymachus, all of you other imperious suitors,
 210 I shall no longer entreat you or talk of the matter before you.
 211 Now the immortals are perfectly aware, and all the Achaeans.
@@ -241,13 +225,11 @@
 221 then I shall come once again to the land of my fathers that loves me,
 222 heap up a tomb for my father and furnish the rites that are proper,
 223 many and splendid, and afterward give my mother in marriage.”
-
 224 Thus he spoke and sat down; then Mentor arose in the council,
 225 Mentor who long had been comrade and friend to the blameless Odysseus.
 226 Sailing away in the ships, Odysseus left him the household,
 227 bidding them all obey the old man, who should safeguard possessions.
 228 Wishing them well, he arose and addressed the assembled Achaeans:
-
 229 “Hear me, you men who inhabit our Ithaca, hear what I tell you.
 230 Never again let a king with a scepter be gentle and gracious,
 231 kind in his heart, or consider the right and appropriate measure;
@@ -261,9 +243,7 @@
 239 No, I am angry at all of the rest of the people—at all you,
 240 sitting in silence and never attacking the suitors with language,
 241 never restraining the few, though the people are many in number.”
-
 242 Then Leocritus, Evenor's son, in reply spoke against him:
-
 243 “Mentor, destructive and crazed in your wits, what a word you have spoken,
 244 urging the people to stop us! A struggle is hard to accomplish,
 245 fighting with men over feasting, especially men who outnumber.
@@ -278,23 +258,19 @@
 254 since from the first they were both the companions and friends of his father.
 255 Yet he will sit for a long time here, I imagine, collecting
 256 news upon Ithaca; never will he bring this journey to action.”
-
 257 Thus he spoke and at once brought the people's assembly to ending.
 258 Each man scattered away and returned to the house where he lived then;
 259 all of the suitors went into the house of the godlike Odysseus.
 260 But by himself to the sands of the seashore went Telemachus,
 261 washing his hands in the gray-colored sea, and he prayed to Athena:
-
 262 “Hear me, divinity, you who came yesterday into our household,
 263 bidding me sail in a ship on the face of the mist-covered sea-way,
 264 seeking a word of the homeward return of my long-absent father.
 265 All my designs the Achaeans obstruct and delay from fulfillment,
 266 most of them all these suitors, abusive and swollen with outrage.”
-
 267 Thus he prayed, and Athena approached and was standing beside him,
 268 having assumed Mentor's body, resembling also his speech-voice.
 269 Raising her voice she addressed him at once with these words that had feathers:
-
 270 “Young Telemachus, never again shall you prove weak or witless,
 271 if in your spirit is planted the excellent strength of your father—
 272 such was the man in accomplishing action and spoken intention.
@@ -321,7 +297,6 @@
 293 newly constructed and old, are possessed by the island's inhabitants.
 294 I shall inspect them for you and select from among them the finest;
 295 swiftly we then shall equip her and launch on the width of the sea-way.”
-
 296 Thus spoke Athena, the daughter of Zeus, and no longer did he then,
 297 young Telemachus, linger after the goddess's voice came upon him.
 298 Homeward he went on his way, while his heart in his breast was afflicted.
@@ -329,16 +304,13 @@
 300 singeing the hogs in the courtyard and stripping the hides from the goat-flesh.
 301 Straight at Telemachus came Antinous, smiling with laughter,
 302 took the young man by the hand and addressed him aloud by his name there:
-
 303 “High-spoken young Telemachus, ungoverned in anger, no longer
 304 trouble your spirit with evil designs or with angry expressions.
 305 Come now, eat and drink at my side in the way you did formerly.
 306 All of these needs the Achaeans shall gladly supply and accomplish,
 307 giving a ship and selected companions, that sooner you come to
 308 sacred Pylos and gather a word of your excellent father.”
-
 309 Then in reply spoke the thoughtful and steadfast young Telemachus:
-
 310 “How, Antinous, could I among you insolent suitors
 311 eat at my ease and in silence enjoy the repose of a banquet?
 312 Was it not plenty that all this while, you suitors, were cutting
@@ -350,27 +322,22 @@
 318 Go I shall, and the journey I speak of shall not be an empty
 319 errand—a passenger, since I possess neither ship nor companions,
 320 just as your lordships no doubt have decided was more to your profit.”
-
 321 Thus he spoke and easily wrenched his hand from Antinous' clutches.
 322 Through the house, all of the suitors attended the work of the banquet,
 323 mocking the young man and throwing abusive expressions upon him.
 324 Thus would one arrogant youth make a speech to the rest of his fellows:
-
 325 “Clearly young Telemachus plans the destruction and death of us all now!
 326 Either from sandy Pylos he shall bring back men to avenge him,
 327 or out of Sparta, because of the terrible zeal that impels him.
 328 Maybe he means to go into the rich-soiled country of Ephyra,
 329 bringing back poisons that waste human life, to be cast in the wine bowl,
 330 killing us all when the wine has been mixed and distributed to us.”
-
 331 Thus would another arrogant youth make a speech to his fellows:
-
 332 “Who can be certain? Perhaps, having boarded the hollow-built vessel,
 333 far from his people he too shall be lost in his wandering, like Odysseus.
 334 Then our labor and trouble would surely be doubled among us:
 335 all his possessions would have to be shared and divided among us;
 336 then we should give his mother the house, and the man who shall wed her.”
-
 337 Thus they spoke, but he entered the lofty room of his father,
 338 spacious and high in the roof, where bronze lay heaped up with treasure,
 339 gold and clothing in chests, and abundance of fragrant olive oil.
@@ -383,7 +350,6 @@
 346 guarded it all with the deep understanding contained in her spirit,
 347 old Eurycleia, the daughter of Ops, who was born from Peisenor.
 348 Calling her into the storeroom, young Telemachus then said:
-
 349 “Nurse, come now, and draw some wine for me into the two-handled vessels,
 350 sweet and the finest in flavor, excepting the portion reserved there,
 351 held while you think of that ill-fated man, if Odysseus somehow,
@@ -396,10 +362,8 @@
 358 Mother has gone to her upper apartment, preparing for slumber.
 359 I shall be traveling first to the sands of Pylos, then Sparta,
 360 seeking a word of my dear father's homecoming, if I can hear one.”
-
 361 Thus he spoke, and Eurycleia, his nurse from his infancy, wailed then,
 362 grieving aloud and addressing him straightway with words that had feathers:
-
 363 “Why has this thought, dear child, arisen inside of your spirit?
 364 Where can you travel across the immeasurable breadth of the earth now,
 365 only and well-beloved son? Far from home he has perished,
@@ -408,15 +372,12 @@
 368 killing you under deception and sharing your property with them.
 369 Stay with possessions that here are your own and remain in your household.
 370 No need is laid upon you to be hurt on the barren sea, wandering.”
-
 371 Then in reply spoke the thoughtful and steadfast young Telemachus:
-
 372 “Courage, my nurse; for the purpose is made in alliance with godhead.
 373 Swear to me now that you shall not tell my dear mother about it,
 374 not till the eleventh day has arrived, or the twelfth in its order,
 375 or till she misses me first and discovers herself my departure,
 376 lest she should damage her beautiful skin with lamenting and weeping.”
-
 377 Thus he spoke; and the old woman swore the great oath of immortals.
 378 Then, when the oath had been sworn and its words brought at last to completion,
 379 straightway she drew off the wine for his journey in two-handled vessels,
@@ -442,21 +403,17 @@
 399 Then to Telemachus spoke the gray-eyed goddess Athena,
 400 calling him out to the front of the well-built halls of his household,
 401 having assumed Mentor's body, resembling also his speech-voice:
-
 402 “Young Telemachus, already your strong-greaved comrades are seated,
 403 holding the oars in their hands and awaiting your word of departure.
 404 Come, let us go, and no longer delay the beginning of travel.”
-
 405 Thus having spoken, Athena, the goddess, proceeded before him,
 406 rapidly, while Telemachus followed the steps of the goddess.
 407 Then, when the two had come down to the ship and the shore of the sea-way,
 408 there they discovered the long-haired companions upon the sand-beach,
 409 and the sacred strength of Telemachus spoke and addressed them:
-
 410 “Come now, companions, and let us bring down our provisions; already
 411 all are collected together inside of the hall. Of our purpose
 412 Mother knows nothing, nor any of our women, excepting one only.”
-
 413 Thus having spoken, he led them away, and the others attended.
 414 Carrying everything down, they stored it inside the well-benched vessel,
 415 just as the well-loved son of Odysseus firmly commanded.

@@ -1,4 +1,4 @@
-# The Odyssey — Book XXI
+# The Odyssey — Book 21
 
 *The bow: pedigree, contest, recruitment, and the stringing.*
 

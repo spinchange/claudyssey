@@ -1,4 +1,4 @@
-# The Odyssey — Book XI
+# The Odyssey — Book 11
 
 *The dead: Tiresias’s prophecy, Anticleia, the heroines, Agamemnon, Achilles, and Ajax.*
 
@@ -14,7 +14,6 @@
 10 taking our seats, we were borne on our way by the wind and the steersman.
 11 All of the day was the sail spread wide as she crossed through the sea-depths;
 12 then went the sun from the sky, and the roads of the world became darkened.
-
 13 So she arrived at the limits of Ocean, deep in his current.
 14 There is the land and the city inhabited by Cimmerian people,
 15 always enveloped in mist and in cloud; for the sun in his brightness
@@ -25,7 +24,6 @@
 20 Coming ashore, we beached the vessel and unloaded the sheep there;
 21 then by the stream of Ocean we made our way on our journey,
 22 till we arrived at the place that the goddess Circe appointed.
-
 23 There Perimedes and faithful Eurylochus held the victims.
 24 Drawing the sharp-edged sword that hung from beside my strong thigh there,
 25 I dug a trench that extended a cubit in each of its measures;
@@ -54,7 +52,6 @@
 48 Drawing for myself the sharp-edged sword from beside my strong thigh there,
 49 I sat and did not allow the strengthless heads of the dead men
 50 near to the blood until I had questioned Tiresias fully.
-
 51 First came the spirit of my companion Elpenor to meet me,
 52 since he had not been buried beneath wide earth in a grave mound.
 53 There in the palace of Circe we left his body behind us,
@@ -88,14 +85,12 @@
 81 So we sat there, one answering one with sorrowful language,
 82 I on this side of the trench while holding my sword by the blood-pool,
 83 while on the other the phantom of my dead comrade continued.
-
 84 Then came the spirit of my mother, already departed,
 85 lord Autolycus’ daughter Anticleia, born to the great-heart,
 86 whom I had left still living when going to sacred Ilium.
 87 Seeing her there, I wept, and my heart took pity upon her;
 88 yet, though mourning her bitterly, I did not allow her to come there
 89 near to the blood until I had questioned Tiresias fully.
-
 90 Then came the spirit of Theban Tiresias, prophet and seer-man,
 91 holding a golden scepter; he knew who I was and addressed me:
 92 “Zeus-born son of Laertes, Odysseus endlessly resourceful,
@@ -241,7 +236,6 @@
 232 I did not suffer them all at one time to drink the black life-blood.
 233 One after one they approached in a file, and each woman recounted
 234 all of her birth and her lineage; I questioned every one of them.
-
 235 There as the first among women I saw highborn lady Tyro,
 236 saying that she was the child of the blameless ruler Salmoneus,
 237 also the wife of Cretheus, the son of the lordly Aeolus.
@@ -278,7 +272,6 @@
 268 born when she rested in love in the mighty embraces of great Zeus;
 269 also Megara, high-spirited Creon’s beautiful daughter,
 270 wife of Amphitryon’s son, whose strength was eternally tireless.
-
 271 Then I beheld Epicaste, the beautiful mother of Oedipus,
 272 she who accomplished a terrible deed in her mind’s unawareness,
 273 wedding her son, after he had taken the life of his father;
@@ -289,7 +282,6 @@
 278 fastening high on the roof beam a noose that would hang her in midair,
 279 seized by her sorrow, and leaving her son those torments unnumbered,
 280 all that the Furies belonging to mothers are bringing to fullness.
-
 281 Then I saw Chloris, a woman of beauty beyond every telling,
 282 whom lord Neleus married for beauty with gifts beyond counting,
 283 youngest of daughters descended from Iasus’ son lord Amphion,
@@ -307,7 +299,6 @@
 295 after the year turned round and the seasons again had returned there,
 296 mighty Iphicles finally freed him from bonds in the prison,
 297 after he told every fate; and Zeus’s will was accomplished.
-
 298 Then I beheld queen Leda, the wife of the lord Tyndareus,
 299 she who bore two sons to Tyndareus, powerful-hearted:
 300 horse-breaking Castor, and Polydeuces, excellent boxer.
@@ -315,7 +306,6 @@
 302 even beneath the earth they have honor from Zeus the almighty,
 303 living in turn every other day and then dying in turn there,
 304 each on his separate day; they possess equal honor with godhood.
-
 305 Next I beheld Iphimedeia, the wife of lord Aloeus,
 306 she who declared she had lain in the arms of the god Poseidon.
 307 Two sons she bore—but their days in the world of the living were brief ones—
@@ -332,7 +322,6 @@
 318 but the great son of Zeus whom Leto of beautiful hair bore
 319 slew them both, before on the sides of their heads the first down bloomed,
 320 growing to thicken their chins with the flourishing beard of the young man.
-
 321 Phaedra I saw and Procris, and beautiful princess Ariadne,
 322 daughter of deadly-minded king Minos, whom Theseus carried
 323 once from the island of Crete, making sail for the sacred Athenian
@@ -397,7 +386,6 @@
 382 all of the sorrows of friends who died at a later time there,
 383 men who escaped from the groan and the war cry of Trojan battalions,
 384 only to die on the homeward way through the will of an evil woman.
-
 385 When Persephone, holy and queenly, had driven the spirits
 386 this way and that of the women who died and had gone to the death-world,
 387 there came the soul of the lord Agamemnon, the son born of Atreus,
@@ -480,7 +468,6 @@
 464 whether he lives or has died; empty words are an evil to utter.”
 465 So the two of us stood exchanging our sorrowful language,
 466 grieving deeply in heart and letting the great tears fall from us.
-
 467 Then came the spirit of lord Achilles, the son born of Peleus,
 468 also Patroclus’ spirit, and blameless Antilochus with him,
 469 Ajax as well, who exceeded in beauty and bodily stature
@@ -555,7 +542,6 @@
 538 Thus did I speak; and the spirit of swift-footed Aeacus’ grandson
 539 strode with long steps away through the fields of the pale asphodel plants,
 540 joyful because I had said that his son had excelled among heroes.
-
 541 All of the rest of the souls of the people who died and departed
 542 stood there in sorrow, and each one asked of the things it held dearest.
 543 Only the spirit of Telamon’s son, lord Ajax, remained far
@@ -583,7 +569,6 @@
 565 There, although in his anger, he still might have spoken toward me,
 566 or I to him; but the heart in the breast that was in me desired
 567 there to behold the spirits of others among the departed.
-
 568 There I beheld Minos, the splendid son born of great Zeus,
 569 holding his scepter of gold and dispensing the laws to the dead men,
 570 seated, while round him the dead were appealing their cases before him,
@@ -592,14 +577,12 @@
 573 herding together the beasts on the field of the pale asphodel plants,
 574 creatures that he had killed on the lonely mountains in old days;
 575 holding a club made entirely of bronze, forever unbroken.
-
 576 Tityus also I saw, the child of the glorious Earth-goddess,
 577 lying extended along the ground over nine roods in measure;
 578 vultures, two of them, perched on the sides of his body and tore at
 579 both sides of his liver, their beaks in the caul, while he could not repel them.
 580 This was because he assaulted Zeus’s honored consort, the goddess
 581 Leto, when she went through lovely-dancing Panopeus toward Pytho.
-
 582 Tantalus also I saw, enduring a terrible torment,
 583 standing in water, the pool lapping up to the point of his chin there;
 584 suffering thirst, he could not take up even one drop for drinking.
@@ -611,7 +594,6 @@
 590 figs in their sweetness and olives that flourished in fullest profusion.
 591 Every time that the old man stretched out his hands to take hold of
 592 these, a wind would toss them away toward the dark-shadowed cloud banks.
-
 593 Sisyphus also I saw, enduring a terrible torment,
 594 grappling a monstrous stone in his arms and attempting to raise it;
 595 bracing his body and straining with powerful hands and with both feet,
@@ -620,7 +602,6 @@
 598 rolling the shameless boulder again to the plain at the hill-foot.
 599 Then he would struggle again and would push, while sweat from his members
 600 streamed, and the dust from the labor arose from his head in a cloud there.
-
 601 Then after him I distinguished the powerful Heracles—only
 602 phantom of him, for the man with the deathless immortals is feasting,
 603 filled with delight, and possesses as wife fair-ankled Hebe,

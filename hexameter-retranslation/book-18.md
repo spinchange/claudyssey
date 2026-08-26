@@ -1,4 +1,4 @@
-# The Odyssey — Book XVIII
+# The Odyssey — Book 18
 
 *The fight with Irus; the warning to Amphinomus; Penelope shines before the suitors.*
 

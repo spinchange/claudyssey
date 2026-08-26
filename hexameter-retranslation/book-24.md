@@ -1,4 +1,4 @@
-# The Odyssey — Book XXIV
+# The Odyssey — Book 24
 
 *The second Nekyia; Laertes and the trees; the peace of Ithaca.*
 

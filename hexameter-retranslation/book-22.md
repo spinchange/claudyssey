@@ -1,4 +1,4 @@
-# The Odyssey — Book XXII
+# The Odyssey — Book 22
 
 *The slaughter in the hall.*
 

@@ -1,4 +1,4 @@
-# The Odyssey — Book VIII
+# The Odyssey — Book 8
 
 *The games; the song of Ares and Aphrodite; the wooden horse, and the weeping guest.*
 

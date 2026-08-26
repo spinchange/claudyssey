@@ -1,4 +1,4 @@
-# The Odyssey — Book XV
+# The Odyssey — Book 15
 
 *Telemachus called home; Theoclymenus; the life of Eumaeus.*
 

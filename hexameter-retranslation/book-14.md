@@ -1,4 +1,4 @@
-# The Odyssey — Book XIV
+# The Odyssey — Book 14
 
 *The hut of Eumaeus: the slave's welcome, the second Cretan tale, the cloak story.*
 

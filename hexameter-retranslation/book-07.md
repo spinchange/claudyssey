@@ -1,4 +1,4 @@
-# The Odyssey — Book VII
+# The Odyssey — Book 7
 
 *The palace and gardens of Alcinous; Arete’s question.*
 

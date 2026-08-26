@@ -1,4 +1,4 @@
-# The Odyssey — Book IX
+# The Odyssey — Book 9
 
 *“I am Odysseus”: the Cicones, the Lotus-eaters, and the Cyclops.*
 

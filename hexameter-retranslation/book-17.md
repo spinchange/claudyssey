@@ -1,4 +1,4 @@
-# The Odyssey — Book XVII
+# The Odyssey — Book 17
 
 *The beggar comes to his own house; Argus; Antinous' footstool.*
 

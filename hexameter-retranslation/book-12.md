@@ -1,4 +1,4 @@
-# The Odyssey — Book XII
+# The Odyssey — Book 12
 
 *The Sirens; Scylla and Charybdis; the cattle of the Sun.*
 
@@ -17,7 +17,6 @@
 13 When we had burned the dead man and all of the armor belonging to him,
 14 we built the mound and dragged onto it a great pillar of stone there;
 15 then on the very top of the mound we implanted his well-fashioned oar-blade.
-
 16 Everything thus we attended. Our coming from Hades did not pass
 17 Circe’s notice; at once she prepared herself, quickly approaching,
 18 bringing along her maids, who carried an ample provision
@@ -203,7 +202,6 @@
 198 voices of both Sirens or sound of the beautiful singing,
 199 swiftly my faithful companions removed every piece of the beeswax
 200 I had used in stopping their ears, and released me from bondage.
-
 201 But when the island was left out of sight, then immediately smoke I
 202 saw, with a mighty wave, and a booming arose in the distance.
 203 Terror possessed all the men; from their hands the oars went flying,
@@ -237,7 +235,6 @@
 231 rock-dwelling Scylla, who brought the destruction upon my companions.
 232 Nowhere could I perceive her, although both eyes became weary,
 233 scanning each handbreadth of rock that was covered in dark-colored vapor.
-
 234 So through the straits we proceeded in grief and lamentation,
 235 Scylla upon the one side, and shining Charybdis upon the
 236 other, in terrible swallows gulping the salt of the sea down.
@@ -264,7 +261,6 @@
 257 stretching their hands out toward me throughout the terrible struggle.
 258 That was the most to be pitied sight my eyes ever witnessed,
 259 all I encountered in searching the many roads of the sea-depths.
-
 260 After escaping the rocks and the terrible maw of Charybdis,
 261 Scylla as well, we came straightaway to the blameless and sacred
 262 island of Helios’ godhood, and there were the beautiful broad-browed
@@ -396,7 +392,6 @@
 388 using my glittering thunderbolt, breaking it midmost on wine-dark sea-brine.”
 389 This in the time afterward I heard from Calypso, the fair-haired;
 390 she said she heard the story herself from the guide-god Hermes.
-
 391 When I had come once again to the ship and the shore of the sea there,
 392 going to every man, I rebuked them, but there was no remedy
 393 anywhere we could discover; the cattle already were lifeless.
@@ -432,7 +427,6 @@
 423 still the backstay, a rope that was strongly fashioned of oxhide.
 424 Using the rope, I lashed the two firmly together, mast and the keel-beam;
 425 seated upon them, I drifted along with the terrible windstorms.
-
 426 Then at last did the West Wind cease from its raging strength in the squall-storm;
 427 quickly the South took its place, bringing pain to the heart that was in me,
 428 since I would travel the same road back to death-dealing Charybdis.

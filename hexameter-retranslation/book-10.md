@@ -1,4 +1,4 @@
-# The Odyssey — Book X
+# The Odyssey — Book 10
 
 *Aeolus and the bag of winds; the Laestrygonians; a year with Circe.*
 
@@ -450,7 +450,6 @@
 446 Thus they spoke, and they climbed from the side of the ship and the seashore;
 447 nor did Eurylochus stay by the hollow vessel behind them:
 448 after us came he as well, for he feared my terrible censure.
-
 449 Meanwhile Circe had bathed all the other companions within her
 450 palace with tender attention, and rubbed them richly with olive
 451 oil, and dressed them in fleecy cloaks and in tunics beneath them.
@@ -570,7 +569,6 @@
 566 Thus did I speak, and their own hearts broke in their bodies completely.
 567 Right where they stood, they sat on the earth, pulled hair from their temples,
 568 weeping; but nothing of profit was born of their lamentation.
-
 569 While we were going our way to the swift black ship and the seashore,
 570 grieving deeply in heart and letting the great tears fall from us,
 571 Circe meanwhile had gone in advance and beside the black vessel

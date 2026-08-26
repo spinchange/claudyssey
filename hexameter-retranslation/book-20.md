@@ -1,4 +1,4 @@
-# The Odyssey — Book XX
+# The Odyssey — Book 20
 
 *The night before; the omens of the last day; the ox-hoof; Theoclymenus sees the dark.*
 

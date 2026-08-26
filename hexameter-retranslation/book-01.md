@@ -12,7 +12,6 @@
 8  fools, who had eaten the cattle of Helios, high-going Sun-god.
 9  Helios robbed them of homecoming's day—the return to their homeland.
 10 Choose where to start it, O goddess, O daughter of Zeus, and now tell us.
-
 11 Then all the others, as many as fled from precipitous ruin,
 12 rested at home, having fled from the war and the waste of the sea-way.
 13 Only the one man, hungry for home and the sight of his own wife,
@@ -24,7 +23,6 @@
 19 even among his own people. The gods were all moved to pity,
 20 all but Poseidon: implacable rage in him burned without ceasing,
 21 anger at godlike Odysseus, barring his road to his country.
-
 22 Meanwhile Poseidon had gone far away to the distant Ethiopians,
 23 the Ethiopians, parted in two, most distant of mortals,
 24 some at the setting of high-going Helios, some at his rising.
@@ -35,7 +33,6 @@
 29 for in his mind he remembered Aegisthus, the man without blemish,
 30 whom Agamemnon's illustrious son, young Orestes, had slaughtered.
 31 Thinking of him, Zeus spoke these words to the deathless immortals:
-
 32 “How astonishing, mortals are always accusing the gods now!
 33 Out of the gods, they declare, come evils; and yet they themselves, too,
 34 reckless beyond what is fated, are makers of all of their sorrows.
@@ -48,9 +45,7 @@
 41 once he had come into manhood and yearned for the land of his fathers.
 42 Hermes advised him, intending his good; but he never persuaded
 43 Aegisthus' heart. He has paid the whole debt in a single hard moment.”
-
 44 Then in reply spoke the gray-eyed goddess Athena directly:
-
 45 “Father of all, son of Cronos, supreme among those who have power,
 46 truly that man has been laid in the ruin that he had deserved there.
 47 Thus may another be ruined, whoever accomplishes such things.
@@ -69,9 +64,7 @@
 60 god of Olympus! Did not this Odysseus win your approval,
 61 making you offerings there by the ships of the Argives at Troyland?
 62 Why are you holding such wrath against great Odysseus, Zeus-father?”
-
 63 Zeus who assembles the cloud banks answered Athena's complaint then:
-
 64 “Child of my being, what word has escaped from the fence of your teeth now?
 65 How could I ever forget the resourceful, godlike Odysseus,
 66 first among mortals in counsel and first in the gifts that he offers
@@ -88,9 +81,7 @@
 77 journey and how he may come. Then Poseidon will put down his anger;
 78 never alone can he strive and contend with the will of us all here,
 79 one against every immortal god, in despite of our purpose.”
-
 80 Then in reply spoke the gray-eyed goddess Athena directly:
-
 81 “Father of all, son of Cronos, supreme among those who have power,
 82 if this is truly the pleasure at last of the blessed immortals,
 83 homeward to send the resourceful Odysseus into his household,
@@ -106,7 +97,6 @@
 93 Then I shall send him to Sparta and onward to sand-covered Pylos,
 94 seeking report of his dear father's homecoming, if he may hear it,
 95 so that an excellent fame among mortals may rise and possess him.”
-
 96 Speaking, she fastened beneath her the beautiful sandals immortal,
 97 golden, ambrosial sandals that bore her across the sea-water
 98 also across the unbounded earth on the breath of the windstorm.
@@ -117,7 +107,6 @@
 103 came to the land of Ithaca, stood at Odysseus' forecourt,
 104 just on the outermost threshold, the bronze-pointed spear in her right hand,
 105 seeming a stranger, the lord of the Taphians, Mentes the sea-king.
-
 106 There she discovered the arrogant suitors, who then were amusing
 107 each his own heart with the counters in front of the doors of the palace,
 108 seated on hides of the oxen that they with their own hands had slaughtered.
@@ -125,7 +114,6 @@
 110 some men were mixing the wine and the water together in wine bowls,
 111 others with sponges of many holes washed off the tables and polished
 112 each, setting all of them forth, while the carvers apportioned the meat cuts.
-
 113 Godlike Telemachus noticed her first, long before any other,
 114 there with the suitors he sat, but his dear heart sorrowed within him,
 115 minding his excellent father and seeing him inwardly: would he
@@ -136,10 +124,8 @@
 120 seeing the stranger stand long at the gates; he approached and stood near her,
 121 taking her right hand in welcome, received the great bronze-pointed war-spear,
 122 then he addressed her aloud, and his words had the swiftness of wingbeats:
-
 123 “Welcome, my stranger; among us as friend you shall first be received here;
 124 after you savor your supper, declare what occasion has brought you.”
-
 125 Speaking, he led her within, and Pallas Athena came with him.
 126 After the two of them entered the high-roofed hall of the palace,
 127 carrying onward the spear, he set it beside a tall pillar,
@@ -151,7 +137,6 @@
 133 far from the suitors, for fear that the stranger, oppressed by their uproar,
 134 might take no pleasure in supper among those overbearing people;
 135 also that he might inquire for his father, so long now departed.
-
 136 Water for washing a servant brought in a beautiful golden
 137 pitcher and poured it above a basin of silver beneath it,
 138 so they could wash, then drew a polished table beside them.
@@ -160,7 +145,6 @@
 141 lifting the platters, a carver provided them meat of all kinds and
 142 set them beside them, and also placed golden cups there before them.
 143 Often the herald approached them and poured them the wine as they wanted.
-
 144 Into the hall came the arrogant suitors and each in his order
 145 seated himself on the benches and high-backed chairs at the tables.
 146 Heralds poured water for handwashing over the hands of the suitors,
@@ -173,10 +157,8 @@
 153 One herald carried the beautiful lyre to the hands of Phemius,
 154 forced into singing before the assembled suitors, unwilling.
 155 Touching the lyre strings, he lifted his voice and began the fine singing.
-
 156 Meanwhile Telemachus spoke to the gray-eyed goddess Athena,
 157 leaning his head very close, so the other men could not perceive it:
-
 158 “Dear guest, will you take offense at the word I am going to tell you?
 159 These men take pleasure in nothing but music and song and enjoyment,
 160 easily eating another man's livelihood, free of repayment—
@@ -197,9 +179,7 @@
 175 is this the first time you visit, or were you my father's old guest-friend?
 176 Many indeed were the other men who came into our household,
 177 since he himself went visiting widely among human peoples.”
-
 178 Answering him once again was the gray-eyed goddess Athena:
-
 179 “Therefore, all of these things I shall tell you exactly and truly.
 180 Mentes I boast I am, son of Anchialus, skilled in battle,
 181 lord over Taphians also, a nation delighting in oar-work.
@@ -234,9 +214,7 @@
 210 before he departed for Troy, when the rest of the Argive commanders,
 211 all of the best of the Argives, embarked in the hollow-built vessels.
 212 Never from then have I looked on Odysseus, nor has he seen me.”
-
 213 Then in reply clear-minded Telemachus spoke and addressed her:
-
 214 “Therefore, stranger, I now shall tell you exactly and truly.
 215 Mother declares I am his; for myself I have no way of knowing:
 216 never has any man known for himself who engendered his body.
@@ -244,9 +222,7 @@
 218 one whom his old age found in the midst of possessions and riches.
 219 Now from the most ill-fated of mortal men, so they tell me,
 220 I have been sprung, since about him you ask me and press for an answer.”
-
 221 Answering him once again was the gray-eyed goddess Athena:
-
 222 “Never shall gods make your lineage nameless in days of the future,
 223 since Penelope has borne such a son as yourself in her household.
 224 Come, though, and tell me the following things, and recount them with candor:
@@ -255,9 +231,7 @@
 227 How unrestrained and exceedingly arrogant these men appear here,
 228 feasting throughout the whole house! Any man would be moved to resentment,
 229 seeing these manifold shames, if a sensible man came among them.”
-
 230 Then in reply clear-minded Telemachus spoke and addressed her:
-
 231 “Stranger, because you inquire of me closely and ask me these questions,
 232 once this household was destined for riches and honor abundant,
 233 while that excellent man stayed here among his own kindred and people.
@@ -279,9 +253,7 @@
 249 She neither finally refuses the hateful marriage nor brings it
 250 ever to pass; while they keep on consuming and wasting the household.
 251 Soon they will shatter and tear me to pieces as well as my riches.”
-
 252 Angered at this, then Pallas Athena addressed him directly:
-
 253 “Shame! You are greatly in need of Odysseus, far now and absent,
 254 so he could set his two hands on the shameless and arrogant suitors.
 255 Would that returning Odysseus now stood in front of the doorway,
@@ -335,9 +307,7 @@
 303 Now I shall go to the swift-running ship and descend to the seashore,
 304 back to my comrades, who must be exceedingly troubled by waiting.
 305 All of these things are your charge; give heed to the words I have spoken.”
-
 306 Then in reply clear-minded Telemachus spoke and addressed her:
-
 307 “Stranger, the words you are speaking reveal your affectionate purpose,
 308 just like a father addressing a son; I shall always remember.
 309 Come, though, and stay here awhile, although you are pressed for your journey,
@@ -345,21 +315,17 @@
 311 holding a gift, take your way to the ship with delight in your spirit,
 312 something of great value, beautiful, fit to be kept as your treasure,
 313 given by me, such a gift as beloved guest-friends give to guest-friends.”
-
 314 Then in reply spoke the gray-eyed goddess Athena directly:
-
 315 “Do not detain me now longer, for greatly I long for the roadway.
 316 As for the gift, whatsoever your heart and your spirit would give me,
 317 give it to me when I come once again, to be carried back homeward,
 318 choosing a beautiful gift, and its worthy exchange shall be yours then.”
-
 319 Speaking these words, the gray-eyed Athena departed and vanished,
 320 flying away like a bird through a roof vent; but into his spirit
 321 she had implanted a force and a courage, recalled to his memory
 322 more of his father than ever before. When he noticed the god-work,
 323 wonder and awe filled his spirit; he knew she had been a divinity.
 324 Straightway he went to the suitors again, like a god in his aspect.
-
 325 There the renowned singer sang while the suitors in silence were seated,
 326 listening close; he was singing the grievous Achaean returning
 327 homeward from Troy, the calamity Pallas Athena had laid on them.
@@ -372,7 +338,6 @@
 334 holding her shining veil as a screen for the front of her two cheeks.
 335 One trusted handmaid was standing to either side of the lady.
 336 Weeping, she turned to the godlike singer and spoke to him gently:
-
 337 “Phemius, many enchantments you know for the ears of us mortals,
 338 deeds of immortals and men, which the singers make famous in story.
 339 Sing them another of these as you sit, while the suitors in silence
@@ -381,9 +346,7 @@
 342 since unforgettable sorrow has fallen on me beyond others.
 343 Such is the head that I long for, remembering it without ceasing,
 344 that of the man whose renown fills Hellas and Argos between them.”
-
 345 Then in reply clear-minded Telemachus spoke and addressed her:
-
 346 “Mother of mine, why begrudge the reliable singer his pleasure,
 347 giving delight in the way that his spirit impels? Not the singers
 348 cause this, but Zeus is the cause, who bestows upon bread-eating mortals
@@ -398,17 +361,14 @@
 357 loom and the distaff, and order the maids to be busy about their
 358 work; speech shall be the concern of the men, every man, and among them
 359 me above all, for the power is mine in the halls of the household.”
-
 360 Struck with amazement, she went back again to the rooms of her household,
 361 taking to heart the clear-minded speech of the son she had carried.
 362 Up to the chambers aloft she ascended together with handmaids;
 363 there for Odysseus, husband beloved, she wept until slumber
 364 sweetly was cast on her eyelids by gray-eyed goddess Athena.
-
 365 Meanwhile the suitors were raising a din through the shadowy palace,
 366 every man praying to stretch himself out by the lady in bed there.
 367 Then clear-minded Telemachus started a speech to the suitors:
-
 368 “Suitors who court my own mother with insolence over all measure,
 369 now for the present let feasting delight us, and let there be no loud
 370 uproar, for beautiful is it to hear such a singer performing,
@@ -422,18 +382,14 @@
 378 ravage it still; but I shall appeal to the gods everlasting,
 379 hoping that Zeus may allow retributive deeds to befall you:
 380 then in this house you would die, and not one of you gain compensation.”
-
 381 Thus he addressed them; they all bit their lips in their anger and marveled,
 382 hearing Telemachus speak with such courage and boldness before them.
 383 Then in reply came Antinous, son of Eupeithes, and spoke thus:
-
 384 “Telemachus, gods themselves must be teaching you now to be lofty,
 385 making your speeches with such an audacious and confident spirit.
 386 Never may Cronos' son make you king in the sea-circled island,
 387 Ithaca, even though this is your right by descent from your father.”
-
 388 Then in reply clear-minded Telemachus spoke and addressed him:
-
 389 “Will you take anger, Antinous, hearing the words I shall tell you?
 390 Even this kingship I gladly would take if Zeus freely then gave it.
 391 Do you assert that to be the worst fate that can come among mankind?
@@ -444,9 +400,7 @@
 396 one may take kingship among them, because great Odysseus perished.
 397 I shall remain, though, the lord of our household and all its possessions,
 398 also the lord of the slaves godlike Odysseus won for my keeping.”
-
 399 Eurymachus, son of Polybus, answered the prince in return then:
-
 400 “Telemachus, surely these matters repose on the knees of the godhead:
 401 who of Achaeans shall rule as the king of the sea-circled Ithaca.
 402 May you yourself keep possessions and govern the halls of your household.
@@ -459,9 +413,7 @@
 409 or was some private necessity bringing him here to your household?
 410 How in a moment he sprang and was gone, never waiting for others
 411 to know him better! In no way, indeed, was he base in his features.”
-
 412 Then in reply clear-minded Telemachus spoke and addressed him:
-
 413 “Eurymachus, truly my father's return has vanished forever.
 414 Never again shall I trust any message, wherever arising,
 415 nor any prophecy heed that a seer may reveal to my mother
@@ -469,13 +421,11 @@
 417 This man, however, is one of my father's old guest-friends from Taphos;
 418 Mentes he says he is, son of Anchialus, skilled in battle,
 419 and he is lord of the Taphian people who take joy in oar-work.”
-
 420 Thus spoke Telemachus, knowing within that she was an immortal.
 421 Turning themselves to the dance and the song that awakens desire,
 422 they took delight and continued to wait for the coming of evening.
 423 While they delighted themselves, black evening descended upon them.
 424 Then they departed for sleep, each man to the house that was his own.
-
 425 But to his chamber Telemachus went, overlooking the splendid
 426 court, constructed high up in a place with a view all around it.
 427 There to his bed he retired, with many concerns in his thinking.

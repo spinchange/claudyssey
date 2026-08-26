@@ -1,4 +1,4 @@
-# The Odyssey — Book XXIII
+# The Odyssey — Book 23
 
 *The bed; the test that Penelope wins; the long night held back.*
 

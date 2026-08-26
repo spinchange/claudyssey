@@ -15,7 +15,6 @@
 11 sails and furled them above, moored the ship, and themselves disembarked there.
 12 Young Telemachus left the ship, with Athena proceeding before him.
 13 First the gray-eyed goddess Athena addressed him and gave him instruction:
-
 14 “Young Telemachus, now you have no further need to be bashful,
 15 not in the least; for precisely because of this purpose you sailed here,
 16 seeking your father, to learn where the earth has concealed him and what doom
@@ -23,19 +22,14 @@
 18 Let us discover the counsel concealed in the depths of his bosom.
 19 Ask him yourself, so that he may reveal the infallible true word.
 20 No lie shall come from his mouth, for his mind is exceedingly prudent.”
-
 21 Then in reply spoke the thoughtful and steadfast young Telemachus:
-
 22 “Mentor, how shall I go to the man, and with what words shall I greet him?
 23 Still I am little experienced in the elaborate art of discussion,
 24 and a young man is embarrassed to question a man who is older.”
-
 25 Then the gray-eyed goddess Athena addressed him a second time, saying:
-
 26 “Young Telemachus, some words your own understanding shall show you,
 27 others a god shall suggest; for I do not imagine you entered
 28 life or were nurtured apart from the gods’ everlasting affection.”
-
 29 Thus having spoken, Athena proceeded ahead of him swiftly;
 30 close in the steps of the goddess he followed her onward and swiftly.
 31 Into the place of assembly they came, to the rows of the Pylians.
@@ -50,7 +44,6 @@
 40 Portions of innards he gave them and poured out the wine for their drinking
 41 into a cup made of gold, and he pledged her and spoke in salutation
 42 there to Athena, the daughter of Zeus who possesses the aegis:
-
 43 “Stranger, begin now by praying to lordly Poseidon the sea-god,
 44 since his is the banquet upon which you came when you entered.
 45 Then, when you pour him libation and pray in the customary manner,
@@ -59,12 +52,10 @@
 48 All human beings have need of the gods who are living forever.
 49 Yet he is younger, the same age as I in the order of seasons;
 50 therefore to you do I first give the beautiful cup made of gold here.”
-
 51 Thus he spoke and set in her hand the cup of the honey-sweet vintage.
 52 Joy filled Athena because of the thoughtful and equitable young man,
 53 since in her hand before anyone else's he placed the gold vessel.
 54 Straightway she prayed at considerable length to the lordly Poseidon:
-
 55 “Hear me, Poseidon, the god who encircles and holds the earth firmly;
 56 do not begrudge the fulfillment of these our prayers and intentions.
 57 First upon Nestor and all of his sons now bestow recognition;
@@ -72,7 +63,6 @@
 59 paying them all in return for this glorious hundredfold offering.
 60 Grant that I and Telemachus sail to our home with the purpose
 61 fully accomplished for which in our swift black ship we have come here.”
-
 62 Thus did she pray, and herself was fulfilling the prayer she had offered.
 63 Then in the hands of Telemachus placed she the beautiful wine cup;
 64 just as the goddess had prayed, the dear son of Odysseus prayed then.
@@ -80,19 +70,16 @@
 66 they shared portions and feasted together upon the magnificent banquet.
 67 Then, when desire for food and for drinking was put from their bodies,
 68 Gerenian Nestor the horseman began to address the assembly:
-
 69 “Now is a better occasion to question and ask of the strangers
 70 who they may be, since already the feast has delighted their spirits.
 71 Strangers, who are you? From where have you sailed on the waterway pathways?
 72 Come you for business, or wander without an appointed direction,
 73 even as pirates who rove on the face of the waters and hazard
 74 all their own lives while bringing affliction to people of strange lands?”
-
 75 Then in reply spoke the thoughtful and steadfast young Telemachus,
 76 now full of courage; Athena herself put the strength in his spirit,
 77 so he could ask for a word of his father, so long in his absence,
 78 also that noble renown among mortals might come to himself there:
-
 79 “Nestor, the son of great Neleus, glory renowned of Achaeans,
 80 you ask from where we have come, and I freely shall give you the answer.
 81 We are from Ithaca under the tree-covered mountain of Neion;
@@ -116,9 +103,7 @@
 99 promised a word or an action to you and fulfilled what he promised
 100 there in the country of Troy, where Achaeans endured their afflictions,
 101 call it to mind for me now, and reveal the infallible true word.”
-
 102 Then Gerenian Nestor the horseman replied to him, saying:
-
 103 “Dear child, since you remind me of grief and the hardships we suffered
 104 there in that country, we ungovernable sons of Achaeans—
 105 all we endured as we roved in the ships on the mist-covered sea-way,
@@ -217,9 +202,7 @@
 198 crooked in counsel Aegisthus, who slaughtered his glorious father.
 199 You too, friend—for I see you are handsome and tall in your stature—
 200 keep yourself brave, so that people unborn may commend you hereafter.”
-
 201 Then in reply spoke the thoughtful and steadfast young Telemachus:
-
 202 “Nestor, the son of great Neleus, glory renowned of Achaeans,
 203 surely that son brought terrible vengeance, and all the Achaeans
 204 widely shall carry his fame for the knowledge of people hereafter.
@@ -228,9 +211,7 @@
 207 insolent men who against me devise every reckless aggression!
 208 Yet no such happiness has been spun by the gods for our household,
 209 neither for me nor my father; and now I must bear it regardless.”
-
 210 Then Gerenian Nestor the horseman replied to him, saying:
-
 211 “Dear child, since you yourself have recalled this affair in your speaking,
 212 word comes to me that numerous men who are courting your mother
 213 fill up the halls in despite of your will and are plotting their evil.
@@ -245,15 +226,11 @@
 222 just as Athena the goddess stood plainly beside that Odysseus.
 223 If she should choose to adore you like that and attend you in spirit,
 224 more than one man would entirely lose every thought of the marriage.”
-
 225 Then in reply spoke the thoughtful and steadfast young Telemachus:
-
 226 “Elder, I think no fulfillment shall ever be made of that language.
 227 Far too great is the thing that you say, and amazement has seized me.
 228 Never could I hope it happens, not even if gods should desire it.”
-
 229 Then the gray-eyed goddess Athena addressed him a second time, saying:
-
 230 “Young Telemachus, what kind of word has escaped from your tooth-fence?
 231 Easily godhead, if willing, can bring a man safely from far lands.
 232 I would prefer to endure an abundance of troubles beforehand,
@@ -263,9 +240,7 @@
 236 Yet from the death that is common to all, not even immortals
 237 can shield a man they love when the destined occasion arrives and
 238 ruinous death, laying mortals low, overtakes him and holds him.”
-
 239 Then in reply spoke the thoughtful and steadfast young Telemachus:
-
 240 “Mentor, no longer let us speak of him, notwithstanding our sorrow.
 241 No true return any longer remains for my father; the deathless
 242 gods long ago have devised his destruction and black-colored death-doom.
@@ -279,9 +254,7 @@
 250 crooked in counsel Aegisthus, devise for a man who was better?
 251 Was Menelaus not there in Achaean Argos, but roving
 252 somewhere among other mortals, that this man took heart and then killed him?”
-
 253 Then Gerenian Nestor the horseman replied to him, saying:
-
 254 “I shall reveal to you, child, every part of the truth without error.
 255 You have already imagined yourself how the story would happen,
 256 if Menelaus, the fair-haired son born of Atreus, coming
@@ -357,17 +330,14 @@
 326 into the shining Lacedaemon, home of the fair-haired Menelaus.
 327 Ask him yourself, so that he may reveal the infallible true word.
 328 No lie shall come from his mouth, for his mind is exceedingly prudent.”
-
 329 Thus he spoke, while the sun sank down and the twilight descended.
 330 Then the gray-eyed goddess Athena addressed the assembly among them:
-
 331 “Elder, in all you have said you have spoken with fitting proportion.
 332 Come now, cut out the tongues and prepare the wine in the mixing bowls,
 333 so we may pour to Poseidon and all of the other immortals,
 334 then turn our thought to our sleep, for the hour appointed is on us.
 335 Light has already descended beneath the gloom of the westward;
 336 sitting too long at a feast of the gods is not fitting. Let us go.”
-
 337 Thus spoke the daughter of Zeus, and the people attended her summons.
 338 Heralds poured water to cleanse all the hands of the people assembled;
 339 young men filled up the wine bowls, crowning the mixture with drinking,
@@ -377,7 +347,6 @@
 343 young Telemachus rose with the gray-eyed goddess Athena,
 344 both then intending to go to the hollow-built ship for the nighttime.
 345 Nestor restrained them, however, and caught them with words of insistence:
-
 346 “Zeus and the rest of the gods who are living forever forbid it,
 347 you should depart from my dwelling and go to your swift-running vessel,
 348 leaving as though from a man altogether without cloak and impoverished,
@@ -388,9 +357,7 @@
 353 lie for the night on the deck of a ship; and not afterward either,
 354 while any sons I have fathered remain in the halls of my household,
 355 able to welcome whatever guest-friend may come to my doorway.”
-
 356 Then the gray-eyed goddess Athena addressed him a second time, saying:
-
 357 “Well have you spoken, beloved old friend, and it now is appropriate
 358 young Telemachus follows your word, for that course is far better.
 359 Let him accompany you and then sleep in the halls of your household.
@@ -405,12 +372,10 @@
 368 Since this young man has now come to your house, you must send him hereafter,
 369 riding a chariot, joined by a son of your own; and provide him
 370 horses that run with the lightest of feet and are strongest in labor.”
-
 371 Thus having spoken, the gray-eyed goddess Athena departed,
 372 taking the form of a sea eagle; all who beheld it were startled.
 373 Nestor the old man marveled at what his own eyes had discovered.
 374 Taking Telemachus' hand, he addressed him aloud by his name there:
-
 375 “Dear friend, no fear is in me you shall ever prove coward or worthless,
 376 if as a man still so young you have gods to attend and escort you.
 377 This was no other of all the immortals who dwell on Olympus,
@@ -421,7 +386,6 @@
 382 I in return shall provide you a broad-browed heifer, a yearling,
 383 never subdued, one no man has led underneath the constraining
 384 yoke; I shall offer her, pouring the gold all around on her horn-tips.”
-
 385 Thus did he pray, and the goddess Athena attended his prayer.
 386 Then Gerenian Nestor the horseman conducted the people,
 387 sons and the husbands of daughters, away to his beautiful household.
@@ -455,7 +419,6 @@
 415 sixth of them came Peisistratus, hero, and joined the assembly.
 416 Bringing the godlike young Telemachus, they seated him with them.
 417 Then Gerenian Nestor the horseman began to address the assembly:
-
 418 “Quickly, beloved sons, you must now bring my wish to fulfillment,
 419 so I may render Athena propitious before all immortals,
 420 she who appeared to me openly there at the god’s splendid banquet.
@@ -468,7 +431,6 @@
 427 All of the others remain here together, and tell the slave women
 428 there in the house to prepare through the glorious halls for the banquet,
 429 bringing us seats and the firewood around them and radiant water.”
-
 430 Thus he spoke, and at once every person was busily working.
 431 Up from the plain came the heifer; and out of the swift-running vessel
 432 came the companions who followed the great-hearted young Telemachus.
@@ -514,10 +476,8 @@
 472 pouring the wine for their drinking in beautiful vessels of gold-work.
 473 Then, when desire for food and for drinking was put from their bodies,
 474 Gerenian Nestor the horseman began to address the assembly:
-
 475 “Come, my sons, and the beautiful-maned horses yoke for Telemachus,
 476 leading them under the chariot, so he may make his departure.”
-
 477 Thus he spoke, and the sons gave ear and at once they obeyed him.
 478 Rapidly then they yoked the swift-footed horses under the wagon.
 479 Bread and wine were placed in the car by the woman who managed the household,
