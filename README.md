@@ -151,6 +151,10 @@ What the build does:
 - **Greek.** Polytonic Greek is set in Gentium Plus (SIL OFL), subsetted to the
   used ranges as woff2 (~190 KB) and embedded, so the Greek in the notes renders
   on every device.
+- **Map.** `art/map.svg` (built by `tools/build_map.py` from Natural Earth
+  data; see `art/natural-earth/README.md`) is inlined as its own front-matter
+  chapter, facing Book 1, and appears in the reader's table of contents as
+  "Map".
 
 The Kindle and PDF editions are calibre conversions of the EPUB (the PDF's
 page-count target is A5 at 17pt, matching the print-style layout):
@@ -199,6 +203,11 @@ The default is **6x9in US trade**, black ink. What the build does:
   same size (same rows, same leading; only the numerals differ), so nothing
   moves between the two passes and the numbers stay true. The builder
   re-measures afterwards and warns if anything shifted anyway.
+- **A map**, `art/map.svg`, inlined on the front-matter page facing Book 1.
+  It is unnumbered like the rest of the front matter, but listed in the
+  contents as "Map" with a lower-case roman folio (its actual position among
+  the unnumbered pages), the one entry in the contents that isn't a book or
+  back matter.
 - **Line numbers every fifth line**, hung in the margin. Numbering all
   12,107 is right for a linked digital text and noise on a page.
 - **Endnotes per book**, numbered through each book, each note also giving

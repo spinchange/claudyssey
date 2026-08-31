@@ -269,6 +269,8 @@ p.toc-back > span { padding-top: 1.1em !important; }
 
 /* the back-matter rows (the index) read as furniture, not as books */
 p.toc-back .toc-bk { font-style: normal; }
+/* The front-matter row (Map) sits flush with the book rows: no extra space above. */
+p.toc-front .toc-bk { font-style: normal; }
 
 /* The proem epigraph page. */
 .epigraph-page { padding-top: 2.35in; text-align: center; }

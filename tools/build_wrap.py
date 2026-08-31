@@ -2,10 +2,10 @@
 """Build the paperback case wrap — back cover, spine, and front cover as a
 single flat landscape PDF, to a print-on-demand supplier's spec.
 
-Default geometry is Lulu's spec for the 595-page 6x9 interior:
+Default geometry is Lulu's spec for the 597-page 6x9 interior:
 
-    trim            13.650 x 9.25 in   (346.71 x 234.95 mm)
-    spine            1.400 in          (35.56 mm)
+    trim            13.655 x 9.25 in   (346.84 x 234.95 mm)
+    spine            1.405 in          (35.69 mm)
     panels           6.125 in each     = 6 in trim + 0.125 in bleed
 
 The panels are fixed by the trim; only the spine moves with the page
@@ -24,9 +24,9 @@ upload step's Requirements panel ever disagree.
 
     +---------------------------+-------+---------------------------+
     |        back cover         | spine |       front cover         |
-    |         6.125 in          | 1.400 |        6.125 in           |
+    |         6.125 in          | 1.405 |        6.125 in           |
     +---------------------------+-------+---------------------------+
-    0                        6.125   7.525                     13.650
+    0                        6.125   7.530                     13.655
 
 The artwork is generated rather than hand-placed: the front panel reuses
 the existing cover design, the spine and back are built to match it.
@@ -44,7 +44,7 @@ Print requirements this targets, all verified by tools/check_wrap.py:
     (see expand_patterns()).
 
 Usage:
-    python tools/build_wrap.py                   # the 595-page interior
+    python tools/build_wrap.py                   # the 597-page interior
     python tools/build_wrap.py --pages 604       # spine from the page count
     python tools/build_wrap.py --spine 1.42      # Lulu's figure, if it differs
     python tools/build_wrap.py --no-url          # omit the site URL
@@ -73,7 +73,7 @@ EBOOK_CONVERT = (
 WRAP_H_IN = 9.25
 BLEED_IN = 0.125          # included in the panel and height figures above
 PANEL_IN = 6.125          # 6 in trim + bleed on the outside edge
-PAGES = 595               # print-build/odyssey-print-6x9.pdf, as built
+PAGES = 597               # print-build/odyssey-print-6x9.pdf, as built
 PAGES_PER_INCH = 444      # Lulu's bulk for every paperback stock
 SPINE_ADD_IN = 0.06       # Lulu's fixed allowance on top of the page block
 
@@ -88,8 +88,8 @@ def wrap_width(spine_in: float) -> float:
     return round(2 * PANEL_IN + spine_in, 3)
 
 
-SPINE_IN = spine_for(PAGES)          # 1.400
-WRAP_W_IN = wrap_width(SPINE_IN)     # 13.650
+SPINE_IN = spine_for(PAGES)          # 1.405
+WRAP_W_IN = wrap_width(SPINE_IN)     # 13.655
 
 # The SVG is drawn in user units at 100 units per inch, which keeps every
 # coordinate a readable number and is resolution-independent regardless.
@@ -572,15 +572,31 @@ def build(spine_in: float, with_url: bool, out: Path) -> Path:
     shutil.copy(svg_path, WORK / svg_path.name)
 
     w, h = wrap_width(spine_in), WRAP_H_IN
+    # calibre quantizes the CSS @page size to a 1.2pt grid, always rounding
+    # to the nearest step rather than up — at some page counts that grid
+    # point falls short of the wanted size (see _set_exact_page_size), and
+    # the img filling width/height:100% of that page then falls short too,
+    # leaving a hairline of the ground colour instead of the design at the
+    # trimmed edge. Requesting the page an eighth of an inch oversize (well
+    # over one grid step either way) guarantees the quantized page is never
+    # smaller than the true target in either dimension; the artwork, laid
+    # out to fill that oversize page, overflows it, and the crop below cuts
+    # the excess away from the top-left-anchored true size.
+    OVERSCAN_IN = 0.125
+    ow, oh = w + OVERSCAN_IN, h + OVERSCAN_IN
+    # The image is sized to the TRUE w x h in absolute inches, anchored at
+    # the top-left of the oversize page — not 100% of the oversize page,
+    # which would stretch the artwork to the wrong aspect ratio. The strip
+    # of overscan at the right and bottom is bare page background (outside
+    # the img entirely), cropped away by _set_exact_page_size below.
     (WORK / "wrap.html").write_text(
         "<!DOCTYPE html>\n"
         '<html><head><meta charset="utf-8"/><title>Wrap</title>\n'
         "<style>\n"
-        f"  @page {{ size: {w:.4f}in {h:.4f}in; margin: 0; }}\n"
-        "  html, body { margin:0; padding:0; border:0; width:100%;"
-        " height:100%; overflow:hidden; }\n"
+        f"  @page {{ size: {ow:.4f}in {oh:.4f}in; margin: 0; }}\n"
+        "  html, body { margin:0; padding:0; border:0; }\n"
         "  img { display:block; margin:0; padding:0; border:0;"
-        " width:100%; height:100%; }\n"
+        f" width:{w:.4f}in; height:{h:.4f}in; }}\n"
         "</style></head><body>\n"
         f'<img src="{svg_path.name}" alt=""/>\n'
         "</body></html>\n",
@@ -588,7 +604,7 @@ def build(spine_in: float, with_url: bool, out: Path) -> Path:
 
     cmd = [
         EBOOK_CONVERT, str(WORK / "wrap.html"), str(out),
-        "--custom-size", f"{w:.4f}x{h:.4f}",
+        "--custom-size", f"{ow:.4f}x{oh:.4f}",
         "--unit", "inch",
         "--margin-left", "0", "--margin-right", "0",
         "--margin-top", "0", "--margin-bottom", "0",

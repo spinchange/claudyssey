@@ -332,9 +332,22 @@ def render_book(n: int, text: str) -> str:
     return "\n".join(parts)
 
 
+def roman(n: int) -> str:
+    """Lower-case roman numeral, for the front-matter folios in the contents."""
+    out = ""
+    for value, glyph in ((1000, "m"), (900, "cm"), (500, "d"), (400, "cd"),
+                         (100, "c"), (90, "xc"), (50, "l"), (40, "xl"),
+                         (10, "x"), (9, "ix"), (5, "v"), (4, "iv"), (1, "i")):
+        while n >= value:
+            out += glyph
+            n -= value
+    return out
+
+
 def contents_page(book_nums: list[int], arguments: dict[int, str],
                   folios: dict[int, int] | None,
-                  back: list[tuple[str, int | None]] | None = None) -> str:
+                  back: list[tuple[str, int | None]] | None = None,
+                  front: list[tuple[str, str | None]] | None = None) -> str:
     """The table of contents.
 
     Each book is listed with its argument — the one-line summary that also
@@ -346,6 +359,17 @@ def contents_page(book_nums: list[int], arguments: dict[int, str],
     many pages the contents itself occupies.
     """
     rows: list[str] = []
+    for label, folio in (front or []):
+        # front matter: the folio is a roman numeral (the page's physical
+        # position), since those pages print no arabic folio
+        rows.append(
+            '<p class="toc-line toc-front">'
+            f'<span class="toc-bk">{html.escape(label)}</span>'
+            '<span class="toc-arg"></span>'
+            '<span class="toc-dots"></span>'
+            f'<span class="toc-pg">{folio if folio else ""}</span>'
+            "</p>"
+        )
     for n in book_nums:
         arg = arguments.get(n, "")
         folio = folios.get(n) if folios else None
@@ -447,6 +471,30 @@ def front_matter() -> list[tuple[str, str]]:
         ("02-epigraph.html", epigraph),
         ("03-note.html", note),
     ]
+
+
+MAP_SVG = ROOT / "art" / "map.svg"
+
+
+def map_html() -> str:
+    """The map (tools/build_map.py) as a front-matter page.
+
+    The SVG is inlined rather than linked as an image so that its text is
+    set in the document's embedded Gentium rather than whatever the
+    renderer substitutes for an external image. It is placed at its
+    designed size in points (see below). The page carries no heading and,
+    like the rest of the front matter, no running head or folio.
+    """
+    if not MAP_SVG.exists():
+        return ""
+    svg = MAP_SVG.read_text(encoding="utf-8")
+    svg = re.sub(r"^<\?xml[^>]*>\s*", "", svg)
+    # Placed at its designed size: the width and height the SVG declares,
+    # in points. A percentage width scales it to calibre's text block,
+    # which is wider than the map's design measure, and the map then
+    # overruns the page's bottom edge and is clipped.
+    return ('<div class="map-page" style="page-break-before:always">'
+            + svg + "</div>")
 
 
 CITE_RE = re.compile(r"\b([12]?\d)\.(\d{1,3})(–\d{1,3}|ff)?")
@@ -794,10 +842,12 @@ def build(book_nums: list[int], trim: str, force_recto: bool,
         books[n] = render_book(n, text)
         arguments[n] = parse_book(text)[1]
     idx = index_html(set(book_nums))
+    the_map = map_html()
 
     # Folios for the contents, filled in on the second pass (see the
     # contents-page docstring). None on the first pass.
     toc_folios: dict[int, int] | None = None
+    toc_front: list[tuple[str, str | None]] = [("Map", None)] if the_map else []
     toc_back: list[tuple[str, int | None]] = []
 
     # A blank page that actually holds. Three things are load-bearing:
@@ -818,10 +868,15 @@ def build(book_nums: list[int], trim: str, force_recto: bool,
     def assemble(blank_before: set[int]) -> str:
         parts = list(front)
         parts.append(contents_page(book_nums, arguments, toc_folios,
-                                   toc_back))
+                                   toc_back, toc_front))
         for n in book_nums:
             if n in blank_before:
                 parts.append(BLANK)
+            if n == 1 and the_map:
+                # The map faces the opening of Book 1: it belongs to the
+                # book's opening spread, so a blank the recto pass inserts
+                # for Book 1 goes before the map, never between the two.
+                parts.append(the_map)
             parts.append(books[n])
         if idx:
             parts.append(idx)
@@ -1027,6 +1082,10 @@ def build(book_nums: list[int], trim: str, force_recto: bool,
         idx_page = _index_page(out)
         toc_back = ([("Index of Names and Places", idx_page - n_front)]
                     if idx_page and idx_page - n_front > 0 else [])
+        if the_map:
+            # the map is the page before Book 1's opener, i.e. the last
+            # front-matter page
+            toc_front = [("Map", roman(n_front) if n_front else None)]
         print(f"contents: filling {len(toc_folios)} page number(s)")
         root.write_text(page_html("The Odyssey", assemble(blanks)),
                         encoding="utf-8")

@@ -29,9 +29,9 @@ import sys
 from pathlib import Path
 
 HEIGHT_IN = 9.25
-SPINE_IN = 1.400          # 595 pages: pages/444 + 0.06, Lulu's formula
+SPINE_IN = 1.405          # 597 pages: pages/444 + 0.06, Lulu's formula
 PANEL_IN = 6.125          # 6 in trim + 0.125 in bleed, fixed by the trim
-WIDTH_IN = round(2 * PANEL_IN + SPINE_IN, 3)    # 13.650
+WIDTH_IN = round(2 * PANEL_IN + SPINE_IN, 3)    # 13.655
 
 # A supplier quoting three decimals is working to a thousandth of an inch
 # (0.072 pt). Allow a tenth of a point — tight enough to catch calibre's

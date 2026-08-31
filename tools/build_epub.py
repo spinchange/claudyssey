@@ -116,6 +116,26 @@ def epigraph_page() -> str:
     )
 
 
+MAP_SVG = ROOT / "art" / "map.svg"
+
+
+def map_page() -> str:
+    """The map (tools/build_map.py) as a front-matter chapter, facing Book 1.
+
+    Inlined as raw HTML (the markdown input allows raw_html) rather than
+    linked as an <img>, so its text sets in the embedded Gentium rather
+    than whatever font a reader substitutes for text baked into a raster.
+    """
+    if not MAP_SVG.exists():
+        return ""
+    svg = MAP_SVG.read_text(encoding="utf-8")
+    svg = re.sub(r"^<\?xml[^>]*>\s*", "", svg)
+    return (
+        '# Map {.unnumbered}\n\n'
+        '<div class="map-page">\n\n' + svg + '\n\n</div>\n\n'
+    )
+
+
 def source_page() -> str:
     return (
         "# A Note on the Text {.unnumbered}\n\n"
@@ -219,6 +239,15 @@ def build(book_nums: list[int]) -> Path:
     note = WORK / "01-note.md"
     note.write_text(source_page(), encoding="utf-8")
     inputs.append(note)
+
+    # The map, facing Book 1 (the same convention as the print edition):
+    # last thing before the poem starts, not grouped with the other notes.
+    if 1 in book_nums:
+        map_md = map_page()
+        if map_md:
+            mp = WORK / "01-map.md"
+            mp.write_text(map_md, encoding="utf-8")
+            inputs.append(mp)
 
     for n in book_nums:
         src = SRC / f"book-{n:02d}.md"

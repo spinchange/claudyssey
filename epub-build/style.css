@@ -208,6 +208,9 @@ h1.hidden-title { display: none; }
 }
 .titlepage .tp-small { font-size: 0.6em; opacity: 0.7; }
 
+.map-page { text-align: center; margin: 0.5em 0; }
+.map-page svg { width: 100%; height: auto; }
+
 .epigraph-page { margin-top: 25%; }
 .epigraph {
   text-align: center;
