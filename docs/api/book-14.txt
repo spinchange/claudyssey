@@ -200,7 +200,6 @@
 196  then I could go on easily for a full year
 197  and still not finish out the tale of my heart's cares,
 198  all that I have labored through by the gods' will.[^L193]
-
 199  Out of wide Crete I claim my lineage:[^L199]
 200  a rich man's son. Many other sons besides
 201  were born and bred in his hall, true-born,
@@ -411,7 +410,6 @@
 406  with a clean heart, after that, I could pray to Zeus the son of Cronos![^L402]
 407  But it is supper time. Soon now my companions
 408  should be in, so we can make a savory supper in the hut."
-
 409  So the two of them spoke such things to one another;
 410  and the swine came near, and the men who herd them.
 411  They shut the sows in their pens for the night's sleep,
@@ -460,7 +458,6 @@
 454  But when they had put away desire for food and drink,
 455  Mesaulius took away the bread; and they, filled
 456  full of bread and meat, bestirred themselves for bed.
-
 457  And the night came on, foul, at the moon's dark, and Zeus rained[^L457]
 458  the whole night through, and the wet West Wind blew big without ceasing.
 459  Then Odysseus spoke among them, testing the swineherd —

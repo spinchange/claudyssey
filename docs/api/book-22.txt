@@ -162,7 +162,6 @@
 158  and find out whether it is one of the women doing this,
 159  or Dolius' son Melanthius — he is the one I think it is."
 160  So they spoke to one another of such things.
-
 161  And Melanthius the goatherd went again to the storeroom
 162  to bring out more fine armor. But the noble swineherd marked him,
 163  and quickly said to Odysseus, standing near:
@@ -332,7 +331,6 @@
 327  that lay there — Agelaus had dropped it to the ground
 328  as he was killed — and drove it through the middle of his neck:
 329  and while he was still speaking, his head mixed with the dust.[^L327]
-
 330  But the singer still dodged the black doom — Terpes' son,
 331  Phemius, who sang among the suitors under compulsion.[^L331]
 332  He stood with the clear lyre in his hands

@@ -21,7 +21,6 @@
 17  taking their pleasure; and among them a godlike singer sang
 18  to the lyre, and two tumblers among them,
 19  as he led the song, went spinning through their midst.
-
 20  And the two of them halted at the gateway of the house, themselves
 21  and their horses — the hero Telemachus and Nestor's shining son.
 22  Lord Eteoneus came out and saw them,
@@ -122,7 +121,6 @@
 117  and pondered then in his mind and in his heart
 118  whether to leave it to him to name his father,
 119  or to question him first and test him point by point.
-
 120  While he was turning this over in his mind and in his heart,
 121  out of her fragrant high-roofed chamber came Helen,[^L121]
 122  looking like Artemis of the golden distaff;
@@ -222,7 +220,6 @@
 216  So he spoke, and Asphalion poured water over their hands,
 217  the busy henchman of glorious Menelaus,
 218  and their hands went out to the good things spread before them.
-
 219  Then Helen, daughter of Zeus, thought of one thing more:
 220  into the wine they were drinking she straightway cast a drug[^L220]
 221  that undoes grief and anger and brings forgetfulness of every evil.
@@ -310,7 +307,6 @@
 303  the hero Telemachus and Nestor's shining son;
 304  but Atreus' son slept in the inner room of the high house,
 305  and beside him lay long-robed Helen, shining among women.
-
 306  When Dawn appeared, the early-born, with fingers of rose,
 307  Menelaus of the great war-cry rose up from his bed,
 308  put on his clothes, slung his sharp sword about his shoulder,
@@ -625,13 +621,11 @@
 617  the work of Hephaestus. The hero Phaedimus gave it,[^L617]
 618  king of the Sidonians, when his house sheltered me
 619  on my way home there. This I would send with you."
-
 620  So the two of them spoke such things to one another,
 621  while the feasters came up to the godlike king's house,
 622  driving sheep before them, carrying wine that puts heart in men,[^L622]
 623  and their fair-veiled wives sent bread along with them.
 624  So they labored at the feast in the halls.
-
 625  But the suitors, in front of Odysseus' hall,
 626  were amusing themselves with discus and javelin throws
 627  on the leveled ground, insolent as ever, where they always played.
@@ -682,7 +676,6 @@
 672  so this sailing after his father may cost him grim and dear."
 673  So he spoke, and they all approved it and urged it on.
 674  They rose at once and went into the house of Odysseus.
-
 675  Nor was Penelope long in ignorance
 676  of the schemes the suitors were brewing deep in their hearts:
 677  for the herald Medon told her, who had overheard their plans,
@@ -795,7 +788,6 @@
 784  and high-spirited henchmen carried down their arms.
 785  They moored her well out in the water, and came ashore,
 786  and there they took their supper, and waited for evening to come.
-
 787  But she in her upper room, watchful-minded Penelope,
 788  lay fasting, tasting neither food nor drink,
 789  turning it over: whether her blameless son would escape death,
@@ -804,7 +796,6 @@
 792  in dread, as they draw the treacherous circle round him,
 793  so she was turning when the deep sleep came upon her;
 794  and she sank back and slept, and all her joints went loose.
-
 795  Then the goddess thought of one thing more, gray-eyed Athena.
 796  She made a phantom, fashioned in the likeness of a woman —[^L796]
 797  Iphthime, daughter of great-hearted Icarius,
@@ -852,7 +843,6 @@
 839  into the breath of the winds. And the daughter of Icarius
 840  started up out of sleep, and her heart was warmed:
 841  so vivid a dream had rushed upon her in the dark hour of the night.
-
 842  But the suitors had embarked, and were sailing the watery ways,
 843  turning over in their hearts sheer murder for Telemachus.
 844  There is a rocky island in the middle of the sea,

@@ -156,7 +156,6 @@
 153  and secretly: she could carry the news to the old man."
 154  He spoke, and roused the swineherd, who took his sandals in his hands,
 155  bound them under his feet, and set off for the city. And it did not
-
 156  escape Athena, that Eumaeus the swineherd was gone from the farm:
 157  she came near; and in body she was like a woman
 158  beautiful and tall, and skilled in glorious handwork.[^L158]
@@ -322,7 +321,6 @@
 318  But the men about the farmsteads — I for one would rather
 319  we not test them now. Keep that work for later,
 320  if you truly know some sign from Zeus who bears the aegis."
-
 321  So they spoke to each other of such things.
 322  And meanwhile the well-built ship was putting in to Ithaca,
 323  the ship that carried Telemachus from Pylos with all his companions.

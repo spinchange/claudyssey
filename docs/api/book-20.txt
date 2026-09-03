@@ -202,7 +202,6 @@
 198  and lifting his voice he spoke winged words:
 199  "Your health, father stranger! May happiness be yours[^L199]
 200  in time to come — though now you are held fast in many evils.
-
 201  Father Zeus — no other god is deadlier than you:[^L201]
 202  you have no pity on men, though you begot them
 203  yourself, for tangling them in misery and grinding pains.

@@ -94,11 +94,9 @@
 90  a man who before had suffered pains in plenty, heart-deep,
 91  cutting through wars of men and the grinding waves,
 92  and who now slept without a tremor, all he had suffered forgotten.[^L92]
-
 93  When the brightest of stars was rising, the one that comes
 94  above all others announcing the light of early-born Dawn,
 95  then the seagoing ship was drawing near the island.
-
 96  There is a harbor of Phorcys, the old man of the sea,[^L96]
 97  in the land of Ithaca: two jutting headlands in it,
 98  sheer on the seaward side but sloping down toward harbor,
@@ -364,7 +362,6 @@
 358  and my gentle prayers. And we will give you gifts, as in the old days,
 359  if the daughter of Zeus, the driver of spoils, in her grace
 360  lets me live, and brings my dear son to his manhood."
-
 361  Then the goddess spoke to him again, gray-eyed Athena:
 362  "Take heart: let none of that weigh on your mind.
 363  Rather let us stow the goods in the innermost hollow of the wondrous
@@ -376,7 +373,6 @@
 369  and the well-made clothing the Phaeacians gave him.
 370  He laid them carefully by; and a stone was set at the door
 371  by Pallas Athena, daughter of aegis-bearing Zeus.[^L370]
-
 372  Then the two of them sat down at the trunk of the sacred olive[^L372]
 373  and plotted death for the overweening suitors.
 374  And the goddess began to speak, gray-eyed Athena:

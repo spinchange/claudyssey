@@ -222,7 +222,6 @@
 218  so you may know me for certain and trust it in your hearts:
 219  the scar — the wound the boar dealt me with its white tusk
 220  when I went to Parnassus with the sons of Autolycus."[^L219]
-
 221  So speaking, he drew the rags back from the great scar.
 222  And when the two had seen it, and taken in each detail,
 223  they wept, and threw their arms round thoughtful Odysseus,

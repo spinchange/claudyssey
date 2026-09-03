@@ -205,7 +205,6 @@
 202  There is our sign — I show it to you. What I do not know,
 203  woman, is whether my bed still stands fast, or by now
 204  some man has cut the olive off at the root and moved it."[^L202]
-
 205  So he spoke; and her knees went slack where she sat, and her dear heart,
 206  as she recognized the tokens Odysseus described so surely;[^L205]
 207  and bursting into tears she ran straight to him, and threw

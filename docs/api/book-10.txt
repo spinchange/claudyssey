@@ -57,7 +57,6 @@
 53  I endured, and I stayed. Covering my head
 54  I lay where I was; and the ships were carried by the evil blast of the storm
 55  back to the Aeolian island; and my companions groaned.
-
 56  There we set foot on the mainland and drew water,
 57  and the companions quickly took their meal beside the fast ships.
 58  And when we had tasted food and drink,
@@ -79,7 +78,6 @@
 74  a man the blessed gods detest.
 75  Out! — since you come here hated by the deathless ones.'
 76  So speaking he sent me from his house, groaning heavily.
-
 77  From there we sailed on further, grieved at heart.
 78  And the men's spirit was worn down by the grinding rowing —
 79  our own fault: no sending wind showed any more.
@@ -136,7 +134,6 @@
 130  and they tore up the sea together, in terror of death.
 131  Gladly my ship fled out to open water, away from the beetling
 132  cliffs; but the others were destroyed there, all together.
-
 133  From there we sailed on further, grieved at heart,[^L133]
 134  glad to be out of death, having lost our dear companions.
 135  And we came to the island of Aeaea; and there lived
@@ -207,7 +204,6 @@
 200  and the violence of the great-hearted man-eating Cyclops.
 201  They wept aloud, letting the big tears fall —
 202  but nothing came of all their mourning.[^L202]
-
 203  Then I counted off all my strong-greaved companions
 204  into two bands, and gave each band a leader:
 205  I led the one, and godlike Eurylochus the other.[^L205]
@@ -249,7 +245,6 @@
 241  So they were penned there weeping; and Circe threw them
 242  acorns of oak and ilex, and cornel berries,
 243  the things pigs eat, the wallowers on the ground.
-
 244  But Eurylochus came running back to the fast black ship
 245  to bring the news of the companions and their bitter fate.
 246  And he could not get one word out, for all his straining —
@@ -354,7 +349,6 @@
 345  So I spoke, and she swore it at once, as I demanded.
 346  And when she had sworn, and made an end of the oath,
 347  then I mounted the surpassingly beautiful bed of Circe.[^L347]
-
 348  Meanwhile four handmaids were busy through the halls —
 349  the serving-women who keep her house in order,
 350  daughters of the springs and the groves[^L350]
@@ -407,7 +401,6 @@
 397  They knew me; and each man clung to my hands;
 398  and a passionate weeping came over us all, and the house
 399  rang terribly around us; and the goddess herself was moved to pity.
-
 400  She came close beside me and spoke, shining among goddesses:
 401  'Zeus-born son of Laertes, Odysseus of the many devices —
 402  go now to your fast ship and the shore of the sea.
@@ -457,7 +450,6 @@
 446  So speaking they went up from the ship and the sea;
 447  and Eurylochus was not left behind by the hollow ship —
 448  he followed. For he feared my terrible rebuke.
-
 449  Meanwhile, in her house, Circe had bathed the other companions
 450  with kind care, and rubbed them richly with oil,
 451  and thrown about them fleecy cloaks and tunics,
@@ -577,7 +569,6 @@
 566  So I spoke, and their own hearts broke within them:
 567  they sat down right where they were, and wailed, and tore their hair —
 568  but nothing came of all their mourning.
-
 569  And while we walked to the fast ship and the shore of the sea,
 570  grieving, letting the big tears fall,
 571  Circe meanwhile had gone down, and beside the black ship

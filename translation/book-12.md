@@ -17,7 +17,6 @@
 13  And when the dead man was burned, and the dead man's armor,
 14  we heaped a mound, and dragged a pillar-stone onto it,
 15  and on the very top of the mound we fixed his well-shaped oar.[^L15]
-
 16  So we saw to it all, each thing. And our coming up from Hades
 17  was not lost on Circe: she readied herself and came
 18  quickly, and her handmaids with her carried
@@ -203,7 +202,6 @@
 198  hear the Sirens' voice, or their singing,
 199  quickly my trusted companions took out the wax
 200  I had stopped their ears with, and loosed me from my bonds.
-
 201  But when we had left the island behind, at once
 202  I saw smoke, and a great wave, and heard a booming.
 203  The men were terrified: the oars flew from their hands
@@ -263,7 +261,6 @@
 257  stretching their hands toward me in the terrible struggle.
 258  That was the most pitiful thing my eyes ever looked on[^L258]
 259  of all I suffered searching out the pathways of the sea.
-
 260  Now when we had escaped the rocks, and dread Charybdis
 261  and Scylla, we came quickly then to the god's
 262  blameless island: there were the beautiful broad-browed

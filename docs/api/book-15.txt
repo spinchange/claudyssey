@@ -223,7 +223,6 @@
 219  and let us board ourselves, and be on our road."
 220  So he spoke, and they listened well and obeyed:
 221  and they came aboard at once and took their places at the oarlocks.
-
 222  So he busied himself; and by the stern of the ship he prayed
 223  and sacrificed to Athena. And there came up beside him a man
 224  from a far country, in flight from Argos for killing a man —

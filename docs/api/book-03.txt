@@ -22,17 +22,14 @@
 18  let us see what counsel he keeps hidden in his breast.
 19  Beg him yourself, so that he speaks unerring truth.
 20  He will tell you no lie: he is clear-headed beyond most men."[^L20]
-
 21  Then clear-headed Telemachus answered her:
 22  "Mentor, how am I to go up? How greet him?
 23  I have no practice yet in close-woven speech —
 24  and a young man is shy of questioning his elder."
-
 25  Then the goddess spoke to him again, gray-eyed Athena:
 26  "Telemachus, some of it your own heart will see,[^L26]
 27  and some a god will prompt. For I do not think
 28  you were born and raised without the gods' good will."
-
 29  So speaking, Pallas Athena led the way
 30  swiftly, and he followed in the footsteps of the god.
 31  They came to the gathering-place of the men of Pylos, the rows of seats,
@@ -55,7 +52,6 @@
 48  all men have need of the gods.
 49  But he is the younger, my own age to the year,
 50  and so to you first I give the golden cup."
-
 51  With that he set in her hand the cup of sweet wine;
 52  and Athena rejoiced in the man — clear-headed, just —[^L52]
 53  because to her first he gave the golden cup;
@@ -70,7 +66,6 @@
 62  So she prayed — and she herself was accomplishing it all.[^L62]
 63  Then she gave Telemachus the beautiful two-handled cup,
 64  and the dear son of Odysseus prayed the same.
-
 65  And when they had roasted the outer meats and drawn them off,
 66  they divided the portions and feasted the glorious feast.
 67  But when they had put away desire for food and drink,
@@ -81,7 +76,6 @@
 72  Is it on some business — or do you rove at random,
 73  the way sea-raiders do, who wander
 74  staking their own lives, bearing evil to strangers?"
-
 75  Then clear-headed Telemachus answered him,
 76  emboldened: Athena herself had set courage in his heart,
 77  so that he might ask about his absent father
@@ -109,7 +103,6 @@
 99  promised you word or work and made it good
 100  in the Trojans' country, where you Achaeans suffered your pains,
 101  remember it for me now: tell me the unerring truth."
-
 102  Then Gerenian Nestor the horseman answered him:
 103  "Dear boy — since you bring back the misery we endured
 104  in that country, we headstrong sons of the Achaeans,
@@ -209,7 +202,6 @@
 198  Aegisthus of the crooked counsels, who cut down his famous father.
 199  You too, my friend — and I see how tall and fine you are —[^L199]
 200  be brave, so that men not yet born will speak well of you."
-
 201  Then clear-headed Telemachus answered him:
 202  "Nestor, son of Neleus, great glory of the Achaeans,
 203  yes — that man took his vengeance in full, and the Achaeans
@@ -219,7 +211,6 @@
 207  the insolent men who scheme their reckless outrage against me!
 208  But the gods have spun no such happiness for me —
 209  not for my father, not for me. Now, come what may, I must endure."
-
 210  Then Gerenian Nestor the horseman answered him:
 211  "Dear boy — since you say it yourself and bring it to my mind —
 212  they tell me many suitors for your mother's sake
@@ -235,12 +226,10 @@
 222  as Pallas Athena stood by him, in the open —
 223  if she chose to love you like that, and care for you in her heart,
 224  then more than one of those men would forget about marriage for good."
-
 225  Then clear-headed Telemachus answered him:
 226  "Old sir, I do not think that word will ever be accomplished.
 227  What you say is too great. Awe holds me. I could not
 228  hope for it to happen — not if the gods themselves willed it."
-
 229  Then the goddess spoke to him again, gray-eyed Athena:
 230  "Telemachus, what a word has slipped the fence of your teeth![^L230]
 231  Easily, if he wills it, a god brings a man safe home — even from far away.
@@ -251,7 +240,6 @@
 236  But death — the death common to all — not even the gods
 237  can beat away from a man they love, once the day comes
 238  when the ruinous doom of death that lays men low takes hold."
-
 239  Then clear-headed Telemachus answered her:
 240  "Mentor, let us speak of it no longer, grieved though we are.
 241  For him no homecoming is real any more: long since
@@ -266,7 +254,6 @@
 250  Aegisthus of the crooked counsels — since the man he killed was far the better?
 251  Was Menelaus not in Achaean Argos — was he wandering
 252  somewhere among men, that the other took heart and killed?"
-
 253  Then Gerenian Nestor the horseman answered him:
 254  "Then I will tell you, child, the whole truth of it.
 255  You have guessed yourself how it would have gone,
@@ -343,7 +330,6 @@
 326  to shining Lacedaemon, where fair-haired Menelaus is.
 327  Beg him yourself, so that he speaks unerring truth.
 328  He will tell you no lie: he is clear-headed beyond most men."
-
 329  So he spoke; and the sun went down, and the dusk came on.
 330  And among them spoke the goddess, gray-eyed Athena:
 331  "Old sir, all this you have told rightly, in due measure.
@@ -371,7 +357,6 @@
 353  lie down on a ship's deck-planks — nor after,
 354  while sons of mine are left in the halls
 355  to host whatever guest arrives at my doors."
-
 356  Then the goddess spoke to him again, gray-eyed Athena:
 357  "Well said, dear old friend — and it is fitting
 358  that Telemachus obey you: far better so.
@@ -387,7 +372,6 @@
 368  and no small one. But this man, since he has come to your house,
 369  send on with a chariot and a son of yours; and give him horses,
 370  your lightest runners, your strongest."
-
 371  So speaking, gray-eyed Athena went away
 372  in the likeness of a sea-eagle; and amazement took all who saw,[^L372]
 373  and the old man marveled, when his eyes had seen it.
@@ -403,7 +387,6 @@
 383  unbroken, that no man has ever led under the yoke:
 384  her I will offer to you, with gold poured round her horns."
 385  So he spoke in prayer, and Pallas Athena heard him.
-
 386  Then Gerenian Nestor the horseman led them —
 387  his sons and his daughters' husbands — to his beautiful house.
 388  And when they reached the lord's famous house,
@@ -422,7 +405,6 @@
 401  the one son in his halls still unwed;
 402  and he himself slept in the inner room of the high house,
 403  where the lady his wife made ready his bed and his rest.
-
 404  When Dawn appeared, the early-born, with fingers of rose,
 405  Gerenian Nestor the horseman rose up from his bed,
 406  and came out, and took his seat on the polished stones
@@ -449,7 +431,6 @@
 427  The rest of you stay here together; and tell the slave-women
 428  inside to make ready a feast through the famous house —
 429  seats, and firewood round about, and shining water."
-
 430  So he spoke, and they all fell to bustling. The heifer came
 431  up from the plain; from the fast trim ship came
 432  great-hearted Telemachus' companions; the smith came
@@ -484,14 +465,12 @@
 461  And when the thighs were burned through, and they had tasted the innards,
 462  they carved up the rest and threaded it on spits
 463  and roasted it, holding the sharp spits in their hands.
-
 464  Meanwhile beautiful Polycaste had bathed Telemachus —[^L464]
 465  the youngest daughter of Nestor, Neleus' son.
 466  And when she had bathed him and rubbed him richly with oil,
 467  she threw a beautiful mantle around him, and a tunic,
 468  and he stepped from the bath with the body of an immortal,
 469  and went and sat down beside Nestor, shepherd of the people.
-
 470  And when they had roasted the outer meats and drawn them off,
 471  they sat and feasted; and good men waited on them,
 472  pouring wine into cups of gold.
@@ -513,7 +492,6 @@
 488  and they came to Pherae, to the house of Diocles,
 489  son of Ortilochus, whom Alpheus fathered.
 490  There they slept the night, and he set guest-gifts before them.
-
 491  When Dawn appeared, the early-born, with fingers of rose,
 492  they yoked the horses and mounted the inlaid chariot
 493  and drove out of the gateway and the echoing porch;

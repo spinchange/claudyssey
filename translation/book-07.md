@@ -15,7 +15,6 @@
 11  because he ruled all the Phaeacians, and the people listened to him as to a god.
 12  She had nursed white-armed Nausicaa in the halls,
 13  and now she kindled her fire and made her supper in her room.
-
 14  And then Odysseus rose to go to the city; and Athena,
 15  with kind thought for Odysseus, poured a thick mist around him,[^L15]
 16  so that no great-hearted Phaeacian, crossing his path,
@@ -135,7 +134,6 @@
 130  the other dives under the courtyard threshold and runs
 131  toward the high house, where the townsfolk drew their water.
 132  Such were the shining gifts of the gods in the house of Alcinous.
-
 133  There much-enduring noble Odysseus stood gazing.[^L133]
 134  And when his heart had wondered at it all,
 135  he stepped quickly over the threshold into the house.

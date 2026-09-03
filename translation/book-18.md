@@ -217,7 +217,6 @@
 213  and every man prayed to lie in bed beside her.
 214  But she spoke to Telemachus, her dear son:
 215  "Telemachus, your mind is no longer steady, nor your thought.
-
 216  While you were still a boy, you turned shrewder plans than this;
 217  but now that you are grown, come to the measure of manhood,[^L217]
 218  so that a stranger, looking at your height and beauty,

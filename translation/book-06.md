@@ -49,7 +49,6 @@
 45  spreads cloudless there, and a white radiance runs over it;
 46  in that place the blessed gods take pleasure all their days.
 47  There the gray-eyed one went, when she had counseled the girl.
-
 48  At once Dawn came on her fair throne, and woke
 49  Nausicaa of the lovely robe; and she wondered at her dream
 50  and went through the house to tell her parents,
@@ -87,7 +86,6 @@
 82  and whipped the mules to a run; and there was a clatter of hooves,
 83  and they strained on without slackening, carrying the clothes and her —
 84  not alone: her handmaids went along beside her.
-
 85  And when they came to the beautiful stream of the river,
 86  where the washing-pools never fail — plenty of clear water
 87  welling up through and running over, to clean the dirtiest things —
@@ -113,7 +111,6 @@
 107  for she carries her head and brow above them all
 108  and is known at once, though all of them are beautiful:
 109  so the unwed girl outshone her handmaids.
-
 110  But when she was about to fold the beautiful clothes,
 111  yoke the mules, and turn for home again,
 112  then the goddess thought of one thing more, gray-eyed Athena:
@@ -255,7 +252,6 @@
 248  and set food and drink beside Odysseus.
 249  And he drank and ate, much-enduring noble Odysseus,
 250  ravenously: it was long since he had tasted food.[^L250]
-
 251  But white-armed Nausicaa thought of one thing more:
 252  she folded the clothes and stowed them in the beautiful wagon,
 253  and yoked the strong-hoofed mules, and mounted herself,

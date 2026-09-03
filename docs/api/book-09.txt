@@ -40,7 +40,6 @@
 36  far away in a strange land, cut off from his parents.
 37  But come — let me tell you also my journey home, and all its cares,
 38  which Zeus laid on me on the way from Troy.
-
 39  From Ilium the wind bore me to the Cicones —[^L39]
 40  to Ismarus. There I sacked the city and destroyed the men;
 41  and out of the city we took their wives and much substance
@@ -64,7 +63,6 @@
 59  then the Cicones broke the Achaeans, and mastered them.
 60  Six from each ship, six strong-greaved companions
 61  were killed; the rest of us fled from death and doom.
-
 62  From there we sailed on further, grieved at heart,[^L62]
 63  glad to be out of death, having lost our dear companions.
 64  But my curved ships would not go forward
@@ -85,7 +83,6 @@
 79  And now I would have come unharmed to my own country,
 80  but the wave and the current, as I rounded Malea,[^L80]
 81  and the North Wind beat me off course and drove me wide of Cythera.
-
 82  From there for nine days I was carried by ruinous winds
 83  across the fish-filled sea; and on the tenth we stepped ashore
 84  in the land of the Lotus-eaters, who eat a flower for food.[^L84]
@@ -109,7 +106,6 @@
 102  for fear some other might eat of the lotus and forget his homecoming.
 103  And they came aboard at once and took their places at the oarlocks,
 104  and sitting in order they struck the gray salt water with their oars.
-
 105  From there we sailed on further, grieved at heart.
 106  And we came to the land of the Cyclopes — the overweening,[^L106]
 107  the lawless — who, trusting in the deathless gods,
@@ -121,7 +117,6 @@
 113  but live on the crests of the high mountains
 114  in hollow caves, and each man lays down the law
 115  to his own wives and children — and they care nothing for one another.
-
 116  Now a scrubby island stretches outside the harbor there,[^L116]
 117  neither close in to the Cyclopes' land nor far out,
 118  wooded; and on it goats past counting breed,
@@ -158,7 +153,6 @@
 149  And with the ships beached, we took down all the sails
 150  and stepped out ourselves onto the surf-line of the sea,
 151  and there we dropped asleep, and waited for shining Dawn.
-
 152  When Dawn appeared, the early-born, with fingers of rose,
 153  we walked that island marveling, all through it.
 154  And the nymphs, daughters of aegis-bearing Zeus, started
@@ -200,7 +194,6 @@
 190  For he was built a monstrous wonder — nothing like
 191  a man who eats bread, but like a wooded crag
 192  of the high mountains, standing clear of all the rest.
-
 193  Then I ordered the rest of my trusted companions
 194  to stay there by the ship and guard the ship,
 195  while I picked the twelve best of my companions
@@ -224,7 +217,6 @@
 213  in a sack: for my proud heart had a foreboding, even then,
 214  that a man would come against me clothed in great strength,
 215  a savage, knowing nothing of judgments or of laws.
-
 216  Quickly we came to the cave, and did not find him
 217  within: he was herding his fat flocks in the pasture.
 218  We went into the cave and stared in wonder at everything:
@@ -240,7 +232,6 @@
 228  But I would not listen — it would have been far better —[^L228]
 229  not until I saw him, and whether he would give me guest-gifts.
 230  And his appearing was to be no joy to my companions.
-
 231  We lit a fire there and made an offering, and helped ourselves
 232  to cheeses, and ate, and sat inside waiting for him,
 233  until he came back herding. He carried a huge weight
@@ -317,7 +308,6 @@
 304  for we could never have pushed back with our hands
 305  the massive stone he had set in the high doorway.
 306  So then, groaning, we waited for shining Dawn.
-
 307  When Dawn appeared, the early-born, with fingers of rose,
 308  then he lit the fire, and milked his famous flocks,
 309  all in due order, and set the young under each.
@@ -448,7 +438,6 @@
 434  and lay there; and in that wondrous fleece, with my hands
 435  twisted fast, I hung on, with an enduring heart.
 436  So then, groaning, we waited for shining Dawn.
-
 437  When Dawn appeared, the early-born, with fingers of rose,
 438  then the male flocks poured out toward pasture,
 439  and the unmilked females bleated about the pens
@@ -577,7 +566,6 @@
 562  to board in their turn and loose the stern-cables.
 563  And they came aboard at once and took their places at the oarlocks,
 564  and sitting in order they struck the gray salt water with their oars.
-
 565  From there we sailed on further, grieved at heart,[^L565]
 566  glad to be out of death, having lost our dear companions.
 

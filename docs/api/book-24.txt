@@ -192,7 +192,6 @@
 188  for the friends in each man's house do not yet know —
 189  the ones who would wash the black gore from our wounds
 190  and lay us out with wailing: for that is the portion of the dead."
-
 191  Then the soul of Atreus' son answered him:
 192  "Blessed son of Laertes, Odysseus of the many devices —[^L192]
 193  truly you won a wife of great excellence!
@@ -383,7 +382,6 @@
 378  citadel on the mainland cape, lording it over the Cephallenians —
 379  such a man, in armor, I had stood beside you yesterday
 380  in our own house, and beaten at the suitor-men:
-
 381  then I would have unstrung the knees of many of them
 382  there in the halls — and the heart in you would have been glad!"
 383  So they spoke to one another of such things.

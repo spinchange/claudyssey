@@ -205,7 +205,6 @@
 201  stand even on shore — some hard god had raised it.
 202  On the thirteenth the wind dropped, and they put out to sea."
 203  He made the many lies he told seem like the truth.[^L203]
-
 204  And as she listened her tears ran, and her flesh melted —[^L204]
 205  as snow melts away on the high crests of the mountains,
 206  snow the West Wind piled and the East Wind thaws,
@@ -408,7 +407,6 @@
 403  "Autolycus — find the name yourself, to give
 404  your own child's child. He is a child of many prayers."
 405  Then Autolycus answered her and said:
-
 406  "Son-in-law and daughter, give him the name I say.
 407  Since I have come to this place at odds with many —[^L407]
 408  with men and with women across the nourishing earth —

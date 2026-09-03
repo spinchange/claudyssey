@@ -2,7 +2,7 @@
 """Build the paperback case wrap — back cover, spine, and front cover as a
 single flat landscape PDF, to a print-on-demand supplier's spec.
 
-Default geometry is Lulu's spec for the 597-page 6x9 interior:
+Default geometry is Lulu's spec for the 595-page 6x9 interior:
 
     trim            13.655 x 9.25 in   (346.84 x 234.95 mm)
     spine            1.405 in          (35.69 mm)
@@ -44,7 +44,7 @@ Print requirements this targets, all verified by tools/check_wrap.py:
     (see expand_patterns()).
 
 Usage:
-    python tools/build_wrap.py                   # the 597-page interior
+    python tools/build_wrap.py                   # the 595-page interior
     python tools/build_wrap.py --pages 604       # spine from the page count
     python tools/build_wrap.py --spine 1.42      # Lulu's figure, if it differs
     python tools/build_wrap.py --no-url          # omit the site URL
@@ -73,7 +73,7 @@ EBOOK_CONVERT = (
 WRAP_H_IN = 9.25
 BLEED_IN = 0.125          # included in the panel and height figures above
 PANEL_IN = 6.125          # 6 in trim + bleed on the outside edge
-PAGES = 597               # print-build/odyssey-print-6x9.pdf, as built
+PAGES = 595               # print-build/odyssey-print-6x9.pdf, as built
 PAGES_PER_INCH = 444      # Lulu's bulk for every paperback stock
 SPINE_ADD_IN = 0.06       # Lulu's fixed allowance on top of the page block
 
@@ -88,7 +88,7 @@ def wrap_width(spine_in: float) -> float:
     return round(2 * PANEL_IN + spine_in, 3)
 
 
-SPINE_IN = spine_for(PAGES)          # 1.405
+SPINE_IN = spine_for(PAGES)          # 1.400
 WRAP_W_IN = wrap_width(SPINE_IN)     # 13.655
 
 # The SVG is drawn in user units at 100 units per inch, which keeps every

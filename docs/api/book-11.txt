@@ -14,7 +14,6 @@
 10  we sat, and the wind and the steersman held her on course.
 11  All day long her sail was stretched as she crossed the water;
 12  and the sun went down, and all the ways grew dark.[^L12]
-
 13  She came to the limits of deep-flowing Ocean.
 14  There is the land and city of the Cimmerian men,[^L14]
 15  shrouded in mist and cloud: never does the shining
@@ -25,7 +24,6 @@
 20  Coming there we beached the ship, and took out the sheep,
 21  and walked along the stream of Ocean
 22  until we came to the place that Circe had appointed.
-
 23  There Perimedes and Eurylochus held the victims,[^L23]
 24  and I drew the sharp sword from beside my thigh
 25  and dug a pit about a cubit's measure this way and that,
@@ -54,7 +52,6 @@
 48  and I myself, drawing the sharp sword from beside my thigh,
 49  sat there, and would not let the strengthless heads of the dead
 50  come near the blood before I had questioned Tiresias.
-
 51  First came the soul of my companion Elpenor,[^L51]
 52  for he was not yet buried under the wide-wayed earth:
 53  we had left his body behind in Circe's hall,
@@ -88,14 +85,12 @@
 81  So the two of us sat trading grim words,
 82  I on one side, holding my sword over the blood,
 83  and across from me the phantom of my companion, talking on.
-
 84  Then came the soul of my dead mother,[^L84]
 85  Anticleia, daughter of great-hearted Autolycus,
 86  whom I had left alive when I went to holy Ilium.
 87  I wept to see her, and my heart pitied her;
 88  but even so, for all my thick grief, I would not let her
 89  come near the blood before I had questioned Tiresias.
-
 90  Then came the soul of Theban Tiresias,
 91  holding a golden scepter; and he knew me, and spoke:[^L91]
 92  'Zeus-born son of Laertes, Odysseus of the many devices —
@@ -231,7 +226,6 @@
 222  and the soul flits away like a dream, and hovers.
 223  But press on toward the light, as fast as you can. And mark
 224  all these things — to tell them to your wife hereafter.'[^L224]
-
 225  So the two of us traded words. And then the women
 226  came — for queenly Persephone sent them on —[^L226]
 227  all who had been the wives and daughters of the great.
@@ -242,7 +236,6 @@
 232  I would not let them drink the dark blood all together.
 233  So they came up one by one, in file, and each declared
 234  her lineage; and I questioned them all.
-
 235  There the first I saw was Tyro, born of a noble father,[^L235]
 236  who said she was the child of blameless Salmoneus,
 237  and called herself the wife of Cretheus, Aeolus' son.
@@ -268,7 +261,6 @@
 257  rich in flocks, and Neleus in sandy Pylos.
 258  And her other sons this queen among women bore to Cretheus:
 259  Aeson, and Pheres, and Amythaon the chariot-fighter.
-
 260  After her I saw Antiope, Asopus' daughter,
 261  who could boast she had slept in the very arms of Zeus,
 262  and she bore two sons, Amphion and Zethus,
@@ -342,7 +334,6 @@
 330  the divine night would waste away first. No — it is the hour
 331  for sleep, whether I go down to the fast ship and the crew
 332  or stay here. My sending rests with the gods, and with you."
-
 333  So he spoke; and they were all hushed in silence,[^L333]
 334  held fast under the spell, through the shadowy halls.
 335  And white-armed Arete began to speak among them:
@@ -395,7 +386,6 @@
 382  the sorrows of my companions, who perished afterward —
 383  who slipped out of the Trojans' battle-cry and its groaning
 384  only to die on the homeward way, by an evil woman's will.[^L384]
-
 385  Now when holy Persephone had scattered
 386  the women's souls this way and that,
 387  there came the soul of Agamemnon, Atreus' son,
@@ -476,7 +466,6 @@
 462  So he spoke, and I answered him and said:
 463  'Son of Atreus, why ask me this? I know nothing —
 464  whether he lives or is dead. It is evil to speak words empty as wind.'[^L464]
-
 465  So the two of us stood trading grim words,
 466  grieving, letting the big tears fall.
 467  And there came the soul of Achilles, Peleus' son,
@@ -553,7 +542,6 @@
 538  So I spoke; and the soul of swift-footed Aeacides
 539  went away with long strides across the meadow of asphodel,[^L538]
 540  rejoicing that I had said his son was preeminent.
-
 541  And the other souls of the dead who are gone
 542  stood grieving, and each asked after what was dear to it.
 543  Alone of them all, the soul of Ajax, Telamon's son,
@@ -581,7 +569,6 @@
 565  There, even so, for all his anger, he might yet have spoken to me,
 566  or I to him. But the heart in my breast
 567  wished to see the souls of the other dead.
-
 568  There I saw Minos, the shining son of Zeus,[^L568]
 569  holding a golden scepter, delivering law among the dead —
 570  he seated, and around him the dead pleading their cases before the lord,

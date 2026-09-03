@@ -193,7 +193,6 @@
 189  devise for my own self, if such need came on me.
 190  My mind is honest through and through, and the heart
 191  in my breast is not made of iron. It knows pity."
-
 192  So speaking she led the way, shining among goddesses,
 193  swiftly, and he followed in the footsteps of the god.
 194  They came to the hollow cave, the goddess and the man,[^L194]
@@ -230,7 +229,6 @@
 225  So he spoke; and the sun went down, and the dusk came on;
 226  and the two of them went into the inner hollow of the cave
 227  and took their joy of love, and stayed side by side.[^L225]
-
 228  When Dawn appeared, the early-born, with fingers of rose,
 229  straightway Odysseus put on a cloak and tunic,
 230  and she, the nymph, put on a great silver-shining mantle,
@@ -254,7 +252,6 @@
 248  and drove her together with pegs and joinery.
 249  As wide as a man lays out the round of the hull of a broad
 250  cargo ship — a man who knows his craft —
-
 251  so wide Odysseus built his raft.
 252  He set up half-decks, fitting them to close-set ribs,
 253  and finished with long gunwale planks.
@@ -286,7 +283,6 @@
 279  and on the eighteenth appeared the shadowy mountains
 280  of the Phaeacians' land, where it lay nearest him:
 281  it looked like a shield laid on the misted sea.[^L281]
-
 282  But the strong earth-shaker, coming back from the Ethiopians,[^L282]
 283  saw him far off, from the mountains of the Solymi: he showed
 284  to his eye, sailing the sea. And the god's heart grew the angrier,
@@ -338,7 +334,6 @@
 330  so the winds carried her over the open water, here and there:
 331  now the South Wind would toss her to the North to carry,
 332  now again the East would yield her to the West to chase.
-
 333  But the daughter of Cadmus saw him — Ino of the beautiful ankles,[^L333]
 334  the White Goddess, who once was mortal, with a mortal voice,
 335  and now in the salt depths has her share of honor from the gods.
@@ -371,7 +366,6 @@
 362  so long I stay aboard and endure my sufferings where I am;
 363  but the moment the wave shakes the raft to pieces,
 364  I swim. There is no better plan to see."
-
 365  While he was turning this over in his mind and in his heart,
 366  Poseidon the earth-shaker heaved up a great wave,
 367  terrible and grim, arching over him, and drove it down.
@@ -389,7 +383,6 @@
 379  But even so I do not think you will make light of your trouble."
 380  So speaking he lashed his horses of the beautiful manes
 381  and came to Aegae, where his famous house is.
-
 382  But Athena, daughter of Zeus, thought of other things.
 383  She bound up the courses of all the other winds
 384  and commanded every one to rest and fall asleep,

@@ -205,7 +205,6 @@
 201  behind, guarding the farm. And he led his master toward the city
 202  in the likeness of a beggar, wretched and old,
 203  leaning on a stick, with miserable clothing on his body.
-
 204  But when, making their way down the rugged road,
 205  they were near the town, and came to the fountain,
 206  well-built, fair-flowing, where the people of the town drew water —
@@ -413,7 +412,6 @@
 408  this house would keep him at arm's length three full months."
 409  So he spoke, and snatched up the footstool from under the table and showed it —
 410  the stool where he propped his sleek feet while he feasted.
-
 411  But all the others gave, and they filled the pouch
 412  with bread and meat. And soon Odysseus was to go
 413  back to the threshold, to taste the Achaeans' free bounty;

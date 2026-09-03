@@ -63,7 +63,6 @@
 59  For them Alcinous slaughtered twelve sheep,
 60  eight white-tusked hogs, and two shambling oxen;
 61  these they flayed and dressed, and made the lovely feast ready.
-
 62  And the herald came near, leading the trusted singer,
 63  whom the Muse loved beyond other men, and gave him good and evil both:[^L63]
 64  she took away his eyes, and gave him sweet song.
@@ -85,7 +84,6 @@
 80  at holy Pytho, when he crossed the stone threshold
 81  to consult the god: then the beginning of woe was rolling down
 82  on Trojans and Danaans alike, through the counsels of great Zeus.
-
 83  This the famous singer sang. But Odysseus[^L83]
 84  took his great purple cloak in his heavy hands
 85  and drew it down over his head, and hid his handsome face:
@@ -202,7 +200,6 @@
 196  groping — for it is not mixed in with the crowd of them
 197  but far in front. Take heart, at least for this contest:
 198  no Phaeacian will reach this, let alone throw beyond it."
-
 199  So he spoke; and much-enduring noble Odysseus was glad,
 200  rejoicing to find one true friend in the field.
 201  And then with a lighter heart he spoke among the Phaeacians:
@@ -270,7 +267,6 @@
 263  boys in their first youth, skilled in the dance,
 264  and they beat the shining floor with their feet. And Odysseus
 265  gazed at the flickerings of their feet, and marveled in his heart.[^L265]
-
 266  And the singer, striking the lyre, struck up a beautiful song[^L266]
 267  of the love of Ares and Aphrodite of the lovely crown:
 268  how first they lay together in the house of Hephaestus,
@@ -372,11 +368,9 @@
 364  There the Graces bathed her and rubbed her with oil,[^L364]
 365  the immortal oil that blooms on the gods who are forever,
 366  and dressed her in lovely clothing, a wonder to see.
-
 367  This the famous singer sang; and Odysseus
 368  took delight in his heart as he listened, and so did the others,[^L367]
 369  the Phaeacians of the long oars, men famed for ships.
-
 370  Then Alcinous told Halius and Laodamas
 371  to dance alone, since no one could rival them.
 372  And when they had taken in their hands the beautiful ball,
@@ -428,7 +422,6 @@
 418  The lordly heralds carried them to the house of Alcinous,
 419  and the sons of blameless Alcinous received them
 420  and set the beautiful gifts before their honored mother.
-
 421  And the sacred strength of Alcinous led the way,
 422  and they came and sat down on the high seats.
 423  And then the strength of Alcinous said to Arete:
@@ -529,7 +522,6 @@
 518  of Deiphobus, with godlike Menelaus beside him;
 519  and there, he sang, he dared the grimmest fight of all —
 520  and conquered, in the end, through great-hearted Athena.
-
 521  This the famous singer sang. And Odysseus
 522  melted: the tears from under his eyelids wet his cheeks.
 523  As a woman weeps, fallen on the body of her dear husband[^L523]
